@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-09:30",
+    "subject": "Chemistry",
+    "grade": "Grade 12",
+    "classroom": "Science Lab",
+    "studentCount": 28
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "09:45-11:15",
+    "subject": "Science",
+    "grade": "Grade 10",
+    "classroom": "Science Lab",
+    "studentCount": 32
+  },
+  {
+    "id": 3,
+    "teacherId": 3,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-09:30",
+    "subject": "English Literature",
+    "grade": "Grade 11",
+    "classroom": "Room 201",
+    "studentCount": 30
+  },
+  {
+    "id": 4,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "11:30-13:00",
+    "subject": "Life Skills",
+    "grade": "Grade 12",
+    "classroom": "Empowerment Center",
+    "studentCount": 28
+  }
+]

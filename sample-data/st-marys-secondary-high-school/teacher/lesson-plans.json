@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Religious Education",
+    "grade": "Grade 12",
+    "topic": "Christian Ethics in Modern Society",
+    "date": "2024-01-22",
+    "duration": 90,
+    "objectives": [
+      "Students will understand Christian ethical principles",
+      "Students will apply biblical teachings to contemporary issues",
+      "Students will develop critical thinking about moral decisions"
+    ],
+    "activities": [
+      "Scripture reading and reflection",
+      "Group discussion on ethical dilemmas",
+      "Case study analysis",
+      "Essay writing on faith and society"
+    ],
+    "resources": ["Bible", "Religious Education textbook", "Case studies"],
+    "assessment": "Essay on Christian ethics",
+    "homework": "Read selected scripture passages and prepare reflection",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "subject": "Biology",
+    "grade": "Grade 12",
+    "topic": "Photosynthesis and Plant Physiology",
+    "date": "2024-01-23",
+    "duration": 90,
+    "objectives": [
+      "Students will understand the process of photosynthesis",
+      "Students will identify factors affecting photosynthesis",
+      "Students will conduct practical experiments"
+    ],
+    "activities": [
+      "Theory presentation on photosynthesis",
+      "Laboratory practical experiment",
+      "Data collection and analysis",
+      "Report writing"
+    ],
+    "resources": ["Biology textbook", "Lab equipment", "Plant specimens"],
+    "assessment": "Practical report and quiz",
+    "homework": "Complete practical report",
+    "status": "In Progress"
+  }
+]

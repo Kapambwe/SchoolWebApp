@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Dr. Charity Siame",
+    "studentId": 1,
+    "studentName": "Kelvin Mwansa",
+    "date": "2024-02-20",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Academic Progress Review",
+    "status": "Scheduled",
+    "location": "School of Natural Sciences",
+    "agenda": "Discuss Kelvin's final year project and research opportunities",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "teacherId": 2,
+    "teacherName": "Prof. Naison Ngoma",
+    "studentId": 2,
+    "studentName": "Mwila Chanda",
+    "date": "2024-01-30",
+    "time": "15:00",
+    "duration": 25,
+    "type": "Career Guidance",
+    "status": "Completed",
+    "location": "School of Mines",
+    "agenda": "Discuss industry attachment opportunities",
+    "notes": "Mwila shows excellent potential. Recommended for mining company internship."
+  }
+]

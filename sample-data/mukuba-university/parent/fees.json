@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Bwalya Chishimba",
+    "feeType": "Tuition",
+    "amount": 10000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Waived",
+    "term": "Semester 1 2024",
+    "description": "Year 3 Bachelor of Education tuition - Government bursary",
+    "paidDate": "2024-01-15",
+    "paymentMethod": "Bursary"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Natasha Mwanza",
+    "feeType": "Tuition",
+    "amount": 11000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Paid",
+    "term": "Semester 1 2024",
+    "description": "Year 2 BBA tuition",
+    "paidDate": "2024-01-28",
+    "paymentMethod": "Bank Transfer"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "tenantId": "great-north-road-academy",
+  "schoolName": "Great North Road Academy",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "Secondary",
+  "establishedYear": 1998,
+  "studentCapacity": 1200,
+  "currentEnrollment": 980,
+  "grades": ["Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12"],
+  "address": {
+    "street": "Great North Road",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10102",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211987654",
+    "email": "info@gnracademy.edu.zm",
+    "website": "www.gnracademy.edu.zm"
+  },
+  "motto": "Excellence Through Knowledge",
+  "vision": "To be a leading secondary school in Zambia, producing well-rounded students prepared for higher education and leadership.",
+  "mission": "To provide quality education that develops critical thinking, character, and competence in our students.",
+  "accreditation": ["Ministry of Education Zambia", "Cambridge International"],
+  "facilities": [
+    "Science Laboratories",
+    "Computer Lab",
+    "Library",
+    "Sports Complex",
+    "Auditorium",
+    "Cafeteria",
+    "Boarding Facilities"
+  ]
+}

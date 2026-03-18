@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Dr. Elizabeth Mwamba",
+    "senderType": "Lecturer",
+    "subject": "Moot Court Competition Success",
+    "message": "Dear Mrs. Kasonde, Mwila's team won the inter-university moot court competition. His legal research and advocacy skills are outstanding.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "High",
+    "studentId": 1,
+    "studentName": "Mwila Kasonde"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "senderId": 2,
+    "senderName": "Prof. David Simwanza",
+    "senderType": "Professor",
+    "subject": "Internship Placement",
+    "message": "Hello Mrs. Phiri, Natasha has been selected for a prestigious internship at a leading multinational company. This is an excellent opportunity for her career development.",
+    "date": "2024-01-28",
+    "isRead": true,
+    "priority": "High",
+    "studentId": 2,
+    "studentName": "Natasha Phiri"
+  }
+]

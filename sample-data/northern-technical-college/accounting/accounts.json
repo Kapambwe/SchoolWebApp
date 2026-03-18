@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "accountCode": "1100",
+    "accountName": "Cash and Bank",
+    "accountType": "Asset",
+    "category": "CashAndBank",
+    "currentBalance": 3200000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "College's main cash account"
+  },
+  {
+    "id": 2,
+    "accountCode": "1200",
+    "accountName": "Tuition Fees Receivable",
+    "accountType": "Asset",
+    "category": "AccountsReceivable",
+    "currentBalance": 850000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "Outstanding tuition fees from students"
+  },
+  {
+    "id": 3,
+    "accountCode": "4100",
+    "accountName": "Tuition Fee Revenue",
+    "accountType": "Revenue",
+    "category": "TuitionFees",
+    "currentBalance": 12500000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Revenue from student tuition fees"
+  },
+  {
+    "id": 4,
+    "accountCode": "4300",
+    "accountName": "Government Grants",
+    "accountType": "Revenue",
+    "category": "Grants",
+    "currentBalance": 2800000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Government grants for technical education"
+  },
+  {
+    "id": 5,
+    "accountCode": "5100",
+    "accountName": "Lecturer Salaries",
+    "accountType": "Expense",
+    "category": "Salaries",
+    "currentBalance": 3500000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Monthly lecturer salaries and benefits"
+  }
+]

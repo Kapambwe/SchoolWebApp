@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-08:45",
+    "subject": "Mathematics",
+    "grade": "Grade 7",
+    "classroom": "Room 7A",
+    "studentCount": 35
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:45-09:30",
+    "subject": "Science",
+    "grade": "Grade 6",
+    "classroom": "Science Lab",
+    "studentCount": 32
+  },
+  {
+    "id": 3,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "10:00-10:45",
+    "subject": "Mathematics",
+    "grade": "Grade 6",
+    "classroom": "Room 6B",
+    "studentCount": 30
+  },
+  {
+    "id": 4,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-08:45",
+    "subject": "English",
+    "grade": "Grade 5",
+    "classroom": "Room 5A",
+    "studentCount": 28
+  },
+  {
+    "id": 5,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:45-09:30",
+    "subject": "Social Studies",
+    "grade": "Grade 5",
+    "classroom": "Room 5A",
+    "studentCount": 28
+  },
+  {
+    "id": 6,
+    "teacherId": 1,
+    "dayOfWeek": "Tuesday",
+    "timeSlot": "08:00-08:45",
+    "subject": "Mathematics",
+    "grade": "Grade 7",
+    "classroom": "Room 7A",
+    "studentCount": 35
+  },
+  {
+    "id": 7,
+    "teacherId": 2,
+    "dayOfWeek": "Tuesday",
+    "timeSlot": "08:00-08:45",
+    "subject": "English",
+    "grade": "Grade 4",
+    "classroom": "Room 4A",
+    "studentCount": 25
+  }
+]

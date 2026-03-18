@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Number Operations and Algebra",
+    "subject": "Mathematics",
+    "grade": "Grade 7"
+  },
+  {
+    "id": 2,
+    "name": "Reading Comprehension and Writing",
+    "subject": "English Language",
+    "grade": "Grade 6"
+  },
+  {
+    "id": 3,
+    "name": "Living Things and Their Environment",
+    "subject": "Integrated Science",
+    "grade": "Grade 7"
+  },
+  {
+    "id": 4,
+    "name": "Zambia's History and Geography",
+    "subject": "Social Studies",
+    "grade": "Grade 8"
+  },
+  {
+    "id": 5,
+    "name": "Geometry and Measurement",
+    "subject": "Mathematics",
+    "grade": "Grade 5"
+  },
+  {
+    "id": 6,
+    "name": "Creative Writing and Expression",
+    "subject": "English Language",
+    "grade": "Grade 8"
+  }
+]

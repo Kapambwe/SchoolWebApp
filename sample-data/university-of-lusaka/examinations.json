@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "examName": "Semester 1 Examination - Constitutional Law",
+    "subject": "Constitutional Law",
+    "grade": "Year 3",
+    "date": "2024-05-20",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Main Examination Hall",
+    "invigilator": "Dr. Elizabeth Mwamba",
+    "status": "Scheduled",
+    "instructions": "Open book examination. Bring statute book."
+  },
+  {
+    "id": 2,
+    "examName": "Semester 1 Examination - Strategic Management",
+    "subject": "Strategic Management",
+    "grade": "Year 2",
+    "date": "2024-05-22",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Business Campus Hall",
+    "invigilator": "Prof. David Simwanza",
+    "status": "Scheduled",
+    "instructions": "Case study analysis examination"
+  }
+]

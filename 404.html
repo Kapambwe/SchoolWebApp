@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+        // Redirect all 404 routes back to index.html, preserving the original path.
+        // Works for both GitHub Pages (/SchoolWebApp prefix) and other static hosts.
+        var base = window.location.pathname.includes('/SchoolWebApp') ? '/SchoolWebApp' : '';
+        var path = window.location.pathname.replace(base, '');
+        var qs = location.search;
+        var hash = location.hash;
+        var redirectTo = base + '/index.html';
+        if (path && path !== '/index.html') {
+            redirectTo += '?path=' + encodeURIComponent(path);
+            if (qs) redirectTo += '&' + qs.slice(1);
+        } else if (qs) {
+            redirectTo += qs;
+        }
+        redirectTo += hash;
+        window.location.replace(redirectTo);
+    </script>
+</head>
+<body>
+</body>
+</html>

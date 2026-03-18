@@ -1,0 +1,26 @@
+{
+  "tenantId": "nairobi-international-school",
+  "schoolName": "Nairobi International School",
+  "country": "Kenya",
+  "currency": "KES",
+  "currencySymbol": "KSh",
+  "language": "en",
+  "timeZone": "Africa/Nairobi",
+  "schoolType": "International",
+  "establishedYear": 1976,
+  "studentCapacity": 1200,
+  "currentEnrollment": 980,
+  "grades": ["Grade 1", "Grade 2", "Grade 3", "Grade 4", "Grade 5", "Grade 6", "Grade 7", "Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12"],
+  "address": {
+    "street": "Peponi Road",
+    "city": "Nairobi",
+    "county": "Nairobi County",
+    "postalCode": "00100",
+    "country": "Kenya"
+  },
+  "contact": {
+    "phone": "+254202345678",
+    "email": "info@nairobiinternational.ac.ke",
+    "website": "www.nairobiinternational.ac.ke"
+  }
+}

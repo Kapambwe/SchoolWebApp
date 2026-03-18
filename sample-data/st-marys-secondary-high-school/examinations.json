@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "examName": "Grade 12 Mock Examination - Religious Education",
+    "subject": "Religious Education",
+    "grade": "Grade 12",
+    "date": "2024-03-18",
+    "startTime": "08:00",
+    "duration": 120,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Mock Exam",
+    "venue": "Main Hall",
+    "invigilator": "Francis Zulu",
+    "status": "Scheduled",
+    "instructions": "Bring Bible and writing materials"
+  },
+  {
+    "id": 2,
+    "examName": "Grade 12 Mock Examination - Biology",
+    "subject": "Biology",
+    "grade": "Grade 12",
+    "date": "2024-03-20",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 150,
+    "passingMarks": 75,
+    "examType": "Mock Exam",
+    "venue": "Main Hall",
+    "invigilator": "Agnes Mwape",
+    "status": "Scheduled",
+    "instructions": "Bring calculator and biology data booklet"
+  },
+  {
+    "id": 3,
+    "examName": "Term 1 Test - Mathematics",
+    "subject": "Mathematics",
+    "grade": "Grade 11",
+    "date": "2024-03-12",
+    "startTime": "09:00",
+    "duration": 90,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Term Test",
+    "venue": "Room 301",
+    "invigilator": "Mathematics Teacher",
+    "status": "Scheduled",
+    "instructions": "Bring calculator and mathematical instruments"
+  }
+]

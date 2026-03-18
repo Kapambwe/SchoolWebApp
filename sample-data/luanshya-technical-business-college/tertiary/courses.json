@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "EI101",
+    "CourseName": "Electrical Installation Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering the basic principles of electrical installation, including safety practices, tools, and fundamental circuit theory applicable in residential and industrial settings.",
+    "Department": "Electrical Installation",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Demonstrate safe use of electrical tools and equipment in accordance with Zambia electrical standards.",
+      "Identify and explain the components of a basic electrical circuit.",
+      "Apply fundamental wiring techniques to complete simple installation tasks."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "EI102",
+    "CourseName": "Wiring Regulations and Standards",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "This course introduces students to national and international wiring regulations and standards, focusing on compliance, inspection, and testing of electrical installations.",
+    "Department": "Electrical Installation",
+    "Prerequisites": ["EI101"],
+    "LearningOutcomes": [
+      "Interpret and apply relevant Zambian and IEE wiring regulations in electrical installations.",
+      "Conduct inspection and testing procedures on completed electrical installations.",
+      "Prepare accurate documentation and compliance records for electrical work."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "WF101",
+    "CourseName": "Welding Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course providing students with foundational knowledge and practical skills in welding, including arc welding, safety protocols, and basic metallurgy.",
+    "Department": "Welding & Fabrication",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Apply appropriate personal protective equipment and safety procedures in a welding environment.",
+      "Perform basic shielded metal arc welding (SMAW) joints to acceptable quality standards.",
+      "Identify common welding defects and describe methods for their prevention and correction."
+    ],
+    "MaxEnrollment": 35,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "WF102",
+    "CourseName": "Advanced Welding Techniques",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Building on foundational welding skills, this course covers advanced welding processes including MIG, TIG, and gas welding, as well as metal fabrication and structural welding applications.",
+    "Department": "Welding & Fabrication",
+    "Prerequisites": ["WF101"],
+    "LearningOutcomes": [
+      "Execute MIG and TIG welding techniques to industry-acceptable quality standards.",
+      "Fabricate structural components using appropriate welding processes and materials.",
+      "Interpret engineering drawings and welding symbols to produce accurate fabricated assemblies."
+    ],
+    "MaxEnrollment": 30,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "BS101",
+    "CourseName": "Business Communication Skills",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "This course develops students' written and oral communication skills in a business context, covering professional writing, presentations, and interpersonal communication for the workplace.",
+    "Department": "Business Studies",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Compose clear and professional business letters, emails, and reports.",
+      "Deliver effective oral presentations to both technical and non-technical audiences.",
+      "Demonstrate appropriate interpersonal communication skills in professional workplace settings."
+    ],
+    "MaxEnrollment": 60,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "BS201",
+    "CourseName": "Entrepreneurship for Technicians",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 1,
+    "Description": "This elective course equips technical students with entrepreneurial skills to start and manage small businesses in their trade, covering business planning, financial literacy, and market analysis.",
+    "Department": "Business Studies",
+    "Prerequisites": ["BS101"],
+    "LearningOutcomes": [
+      "Develop a comprehensive business plan for a small technical enterprise.",
+      "Apply basic financial management principles including budgeting, costing, and pricing.",
+      "Identify market opportunities and design strategies for business growth in the Zambian context."
+    ],
+    "MaxEnrollment": 50,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "IT101",
+    "CourseName": "Computer Applications",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering fundamental computer literacy and the use of office productivity applications, internet tools, and basic data management relevant to technical and business environments.",
+    "Department": "Information Technology",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Use word processing, spreadsheet, and presentation software to produce professional documents.",
+      "Navigate the internet and digital communication tools safely and effectively.",
+      "Organise and manage digital files and data using standard operating system tools."
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "IT201",
+    "CourseName": "Technical Support and Networking",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "This course introduces students to computer hardware troubleshooting, operating system support, and fundamental networking concepts including LAN setup, IP addressing, and network troubleshooting.",
+    "Department": "Information Technology",
+    "Prerequisites": ["IT101"],
+    "LearningOutcomes": [
+      "Diagnose and resolve common hardware and software faults in desktop computer systems.",
+      "Configure and manage a basic local area network (LAN) using switches and routers.",
+      "Apply structured troubleshooting methodologies to resolve network connectivity issues."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

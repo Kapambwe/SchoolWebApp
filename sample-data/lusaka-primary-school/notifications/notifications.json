@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to Lusaka Primary School System",
+    "message": "Your account has been successfully created. Please complete your profile to get started.",
+    "createdAt": "2024-12-16T10:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Payment Received",
+    "message": "Your payment of ZK 500.00 has been successfully processed.",
+    "createdAt": "2024-12-15T14:30:00Z",
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "type": "Warning",
+    "title": "Assignment Due Soon",
+    "message": "Math assignment is due in 2 days. Please submit before the deadline.",
+    "createdAt": "2024-12-14T09:15:00Z",
+    "isRead": true
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "tenantId": "copperbelt-university",
+  "schoolName": "Copperbelt University",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "University",
+  "establishedYear": 1987,
+  "studentCapacity": 12000,
+  "currentEnrollment": 10500,
+  "address": {
+    "street": "Jambo Drive",
+    "city": "Kitwe",
+    "province": "Copperbelt Province",
+    "postalCode": "20104",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260212123456",
+    "email": "info@cbu.ac.zm",
+    "website": "www.cbu.ac.zm"
+  },
+  "motto": "Service and Progress",
+  "vision": "To be a leading university in Africa, renowned for excellence in teaching, research and innovation.",
+  "mission": "To provide quality university education and conduct research that contributes to sustainable development.",
+  "schools": [
+    "School of Business",
+    "School of Engineering",
+    "School of Mathematics and Natural Sciences",
+    "School of Medicine",
+    "School of Built Environment",
+    "School of Mines and Mineral Sciences",
+    "School of Graduate Studies"
+  ],
+  "programs": [
+    "Bachelor of Engineering (Various Specializations)",
+    "Bachelor of Medicine and Bachelor of Surgery (MBChB)",
+    "Bachelor of Science in Mining Engineering",
+    "Bachelor of Architecture",
+    "Master of Business Administration (MBA)",
+    "PhD Programs in Various Fields"
+  ],
+  "facilities": [
+    "Modern Lecture Theaters",
+    "Engineering Laboratories",
+    "Medical School and Teaching Hospital",
+    "Mining Simulation Center",
+    "Central Library",
+    "Research Centers",
+    "Student Hostels",
+    "Sports Complex",
+    "Conference Center"
+  ],
+  "accreditation": ["Higher Education Authority (HEA)", "Engineering Institution of Zambia (EIZ)"],
+  "rankings": "Top 3 Universities in Zambia"
+}

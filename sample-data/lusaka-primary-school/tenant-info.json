@@ -1,0 +1,26 @@
+{
+  "tenantId": "lusaka-primary-school",
+  "schoolName": "Lusaka Primary School",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "Primary",
+  "establishedYear": 1985,
+  "studentCapacity": 800,
+  "currentEnrollment": 650,
+  "grades": ["Grade 1", "Grade 2", "Grade 3", "Grade 4", "Grade 5", "Grade 6", "Grade 7"],
+  "address": {
+    "street": "Independence Avenue",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10101",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211234567",
+    "email": "info@lusakaprimary.edu.zm",
+    "website": "www.lusakaprimary.edu.zm"
+  }
+}

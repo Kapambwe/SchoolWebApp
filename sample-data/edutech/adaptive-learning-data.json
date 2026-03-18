@@ -1,0 +1,170 @@
+{
+  "studentProfiles": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "studentName": "John Doe",
+      "primaryLearningStyle": 0,
+      "learningPace": 1.2,
+      "strengthSubjects": ["Mathematics", "Science"],
+      "weakSubjects": ["Literature"],
+      "lastUpdated": "2026-02-11T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "primaryLearningStyle": 3,
+      "learningPace": 1.5,
+      "strengthSubjects": ["Literature", "History", "Mathematics"],
+      "weakSubjects": [],
+      "lastUpdated": "2026-02-11T10:00:00Z"
+    }
+  ],
+  "learningPaths": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "subject": "Mathematics",
+      "goal": "Master Algebra and Pre-Calculus",
+      "startDate": "2026-02-01T00:00:00Z",
+      "targetCompletionDate": "2026-04-30T00:00:00Z",
+      "progressPercentage": 45.0,
+      "status": 1,
+      "milestones": [
+        {
+          "id": 1,
+          "title": "Linear Equations",
+          "description": "Master solving linear equations",
+          "orderIndex": 1,
+          "skills": ["Linear Equations", "Graphing"],
+          "requiredMasteryLevel": 80.0,
+          "isCompleted": true,
+          "completedDate": "2026-02-15T00:00:00Z"
+        },
+        {
+          "id": 2,
+          "title": "Quadratic Equations",
+          "description": "Understand and solve quadratic equations",
+          "orderIndex": 2,
+          "skills": ["Quadratic Equations", "Factoring"],
+          "requiredMasteryLevel": 80.0,
+          "isCompleted": false,
+          "completedDate": null
+        }
+      ]
+    }
+  ],
+  "recommendedContent": [
+    {
+      "contentId": 101,
+      "title": "Interactive Algebra Tutorial",
+      "type": 2,
+      "difficulty": 1,
+      "suitableFor": [0, 2],
+      "recommendationScore": 92.0,
+      "recommendationReason": "Matches your visual learning style and current skill level",
+      "estimatedMinutes": 25,
+      "skillsCovered": ["Linear Equations", "Graphing"],
+      "isCompleted": false
+    },
+    {
+      "contentId": 102,
+      "title": "Algebra Practice Problems",
+      "type": 3,
+      "difficulty": 1,
+      "suitableFor": [0, 3, 4],
+      "recommendationScore": 88.0,
+      "recommendationReason": "Reinforces concepts from your recent lessons",
+      "estimatedMinutes": 15,
+      "skillsCovered": ["Linear Equations"],
+      "isCompleted": true
+    }
+  ],
+  "adaptiveAssessments": [
+    {
+      "id": 1,
+      "title": "Mathematics Placement Test",
+      "subject": "Mathematics",
+      "skillsAssessed": ["Algebra", "Geometry", "Basic Calculus"],
+      "startingDifficulty": 2,
+      "minQuestions": 5,
+      "maxQuestions": 20,
+      "masteryThreshold": 80.0,
+      "isActive": true
+    }
+  ],
+  "interventions": [
+    {
+      "id": 1,
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "type": 0,
+      "title": "Remedial Math Support",
+      "description": "Student showing difficulties with basic algebra concepts",
+      "priority": 2,
+      "suggestedActions": ["Schedule one-on-one tutoring", "Provide additional practice materials", "Review foundational concepts"],
+      "recommendedResourceIds": [101, 102, 103],
+      "assignedToTeacherId": "1",
+      "createdAt": "2026-02-10T09:00:00Z",
+      "isImplemented": false
+    },
+    {
+      "id": 2,
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "type": 1,
+      "title": "Advanced Mathematics Enrichment",
+      "description": "Student excelling and ready for advanced material",
+      "priority": 1,
+      "suggestedActions": ["Provide advanced problem sets", "Consider competition math preparation"],
+      "recommendedResourceIds": [201, 202],
+      "assignedToTeacherId": "1",
+      "createdAt": "2026-02-09T10:00:00Z",
+      "isImplemented": true,
+      "implementedAt": "2026-02-10T14:00:00Z"
+    }
+  ],
+  "reviewSchedules": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "skillName": "Linear Equations",
+      "lastReviewed": "2026-02-09T00:00:00Z",
+      "nextReviewDate": "2026-02-16T00:00:00Z",
+      "reviewInterval": 7,
+      "retentionEstimate": 85.0,
+      "reviewCount": 3
+    },
+    {
+      "id": 2,
+      "studentId": 1,
+      "skillName": "Basic Calculus",
+      "lastReviewed": "2026-02-05T00:00:00Z",
+      "nextReviewDate": "2026-02-12T00:00:00Z",
+      "reviewInterval": 7,
+      "retentionEstimate": 72.0,
+      "reviewCount": 2
+    }
+  ],
+  "masteryObjectives": [
+    {
+      "id": 1,
+      "title": "Algebra Fundamentals",
+      "subject": "Mathematics",
+      "description": "Demonstrate proficiency in basic algebraic concepts",
+      "successCriteria": ["Solve linear equations", "Graph linear functions", "Simplify algebraic expressions"],
+      "masteryThreshold": 80.0,
+      "level": 1
+    },
+    {
+      "id": 2,
+      "title": "Quadratic Equations Mastery",
+      "subject": "Mathematics",
+      "description": "Solve and analyze quadratic equations",
+      "successCriteria": ["Factor quadratic expressions", "Use quadratic formula", "Graph parabolas", "Solve real-world problems"],
+      "masteryThreshold": 85.0,
+      "level": 2
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 500,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Individual desks", "Air conditioning", "CCTV", "Sound system"],
+    "usageSchedule": "Examinations, Graduations, Conferences"
+  },
+  {
+    "id": 2,
+    "facilityName": "Engineering Laboratory Complex",
+    "facilityType": "Laboratory",
+    "capacity": 150,
+    "location": "Engineering Block",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-15",
+    "nextMaintenance": "2024-07-15",
+    "features": ["Testing equipment", "CAD workstations", "Workshop tools", "Safety equipment"],
+    "usageSchedule": "Engineering practicals and projects"
+  },
+  {
+    "id": 3,
+    "facilityName": "Computer Laboratory",
+    "facilityType": "Computer Lab",
+    "capacity": 80,
+    "location": "IT Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-20",
+    "nextMaintenance": "2024-06-20",
+    "features": ["80 computers", "High-speed internet", "Servers", "Projectors"],
+    "usageSchedule": "IT classes, Programming, Database labs"
+  },
+  {
+    "id": 4,
+    "facilityName": "Library and Resource Center",
+    "facilityType": "Library",
+    "capacity": 200,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2023-11-15",
+    "nextMaintenance": "2024-05-15",
+    "features": ["20,000 books", "E-library", "Study rooms", "Research databases"],
+    "usageSchedule": "Reading, Research, Study sessions"
+  }
+]

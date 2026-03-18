@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "unilus-link-001",
+    "TenantId": "university-of-lusaka",
+    "ProgramId": "unilus-prog-001",
+    "UserId": "user-unilus-001",
+    "UserName": "Dr. Grace Mwape",
+    "UserEmail": "grace.mwape@alumni.unilus.ac.zm",
+    "ReferralCode": "UNILUS-ALUMNI-GM2024",
+    "ReferralUrl": "https://unilus.ac.zm/apply?ref=UNILUS-ALUMNI-GM2024",
+    "IsActive": true,
+    "ClickCount": 105,
+    "ConversionCount": 15,
+    "TotalRewardsEarned": 5250.00,
+    "CreatedDate": "2024-01-10T00:00:00Z",
+    "LastUsedDate": "2024-02-13T00:00:00Z"
+  }
+]

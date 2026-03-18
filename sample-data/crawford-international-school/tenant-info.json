@@ -1,0 +1,36 @@
+{
+  "tenantId": "crawford-international-school",
+  "displayName": "Crawford International School",
+  "shortName": "Crawford",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Sandton",
+  "address": "57 Rivonia Road, Sandton, Johannesburg, 2196",
+  "phone": "+27 11 555 6789",
+  "email": "info@crawford.co.za",
+  "website": "https://www.crawford.co.za",
+  "institutionType": "International",
+  "currency": "ZAR",
+  "timezone": "Africa/Johannesburg",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/crawford-logo.png",
+  "primaryColor": "#003D7A",
+  "secondaryColor": "#E31837",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

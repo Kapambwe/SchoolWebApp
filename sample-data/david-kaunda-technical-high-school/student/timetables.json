@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "dayOfWeek": "Monday",
+    "startTime": "08:00:00",
+    "endTime": "10:00:00",
+    "subject": "Electrical Theory",
+    "teacher": "Mr. Moses Kabwe",
+    "room": "Workshop A",
+    "studentId": 1,
+    "grade": "Year 3",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 2,
+    "dayOfWeek": "Monday",
+    "startTime": "10:15:00",
+    "endTime": "13:00:00",
+    "subject": "Electrical Installation Practical",
+    "teacher": "Mr. Moses Kabwe",
+    "room": "Electrical Workshop",
+    "studentId": 1,
+    "grade": "Year 3",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 3,
+    "dayOfWeek": "Monday",
+    "startTime": "14:00:00",
+    "endTime": "16:00:00",
+    "subject": "Entrepreneurship",
+    "teacher": "Mr. Emmanuel Mwansa",
+    "room": "Room 101",
+    "studentId": 1,
+    "grade": "Year 3",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  }
+]

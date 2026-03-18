@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 800,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Individual desks", "Ventilation", "CCTV"],
+    "usageSchedule": "Examinations, Graduations"
+  },
+  {
+    "id": 2,
+    "facilityName": "School of Education",
+    "facilityType": "Academic Building",
+    "capacity": 600,
+    "location": "North Campus",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-05",
+    "nextMaintenance": "2024-07-05",
+    "features": ["Lecture halls", "Seminar rooms", "Teaching practice labs"],
+    "usageSchedule": "Education programs"
+  },
+  {
+    "id": 3,
+    "facilityName": "University Library",
+    "facilityType": "Library",
+    "capacity": 400,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-10",
+    "nextMaintenance": "2024-06-10",
+    "features": ["80,000 books", "E-library", "Study areas"],
+    "usageSchedule": "Reading, Research"
+  }
+]

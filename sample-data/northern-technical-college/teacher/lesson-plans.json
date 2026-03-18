@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Structural Analysis",
+    "grade": "Year 2",
+    "topic": "Beam Analysis and Design",
+    "date": "2024-01-22",
+    "duration": 120,
+    "objectives": [
+      "Students will analyze beam structures under various loads",
+      "Students will calculate bending moments and shear forces",
+      "Students will design appropriate beam sections"
+    ],
+    "activities": [
+      "Lecture on beam theory",
+      "Worked examples",
+      "Computer-aided analysis",
+      "Design project work"
+    ],
+    "resources": ["Engineering textbook", "Structural analysis software", "Design codes"],
+    "assessment": "Design project and calculations",
+    "homework": "Complete beam design assignment",
+    "status": "In Progress"
+  }
+]

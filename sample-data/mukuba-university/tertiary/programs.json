@@ -1,0 +1,141 @@
+[
+  {
+    "Id": 1,
+    "Code": "BED-EDU",
+    "ProgramCode": "BED-EDU",
+    "Name": "BEd Education",
+    "ProgramName": "BEd Education",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 14000.00,
+    "Department": "Education",
+    "Faculty": "Faculty of Education",
+    "IsAccredited": true,
+    "AccreditationBody": "Teaching Council of Zambia",
+    "Courses": [
+      {
+        "CourseId": 1,
+        "CourseCode": "ED101",
+        "CourseName": "Education Psychology",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 2,
+        "CourseCode": "ED201",
+        "CourseName": "Curriculum Development",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 3,
+        "CourseCode": "ED301",
+        "CourseName": "Teaching Methods and Pedagogy",
+        "Year": 3,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 4,
+        "CourseCode": "BA101",
+        "CourseName": "Business Communication",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "BSC-NS",
+    "ProgramCode": "BSC-NS",
+    "Name": "BSc Natural Sciences",
+    "ProgramName": "BSc Natural Sciences",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 15000.00,
+    "Department": "Natural Sciences",
+    "Faculty": "Faculty of Science",
+    "IsAccredited": true,
+    "AccreditationBody": "Higher Education Authority Zambia",
+    "Courses": [
+      {
+        "CourseId": 7,
+        "CourseCode": "NS101",
+        "CourseName": "Introduction to Biology",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 8,
+        "CourseCode": "NS201",
+        "CourseName": "Chemistry for Natural Scientists",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 9,
+        "CourseCode": "NS301",
+        "CourseName": "Environmental Science",
+        "Year": 3,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 1,
+        "CourseCode": "ED101",
+        "CourseName": "Education Psychology",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "DIP-BA",
+    "ProgramCode": "DIP-BA",
+    "Name": "Diploma in Business Administration",
+    "ProgramName": "Diploma in Business Administration",
+    "Type": 1,
+    "DurationYears": 3,
+    "TotalCreditHours": 360,
+    "TuitionFee": 11000.00,
+    "Department": "Business Administration",
+    "Faculty": "Faculty of Business",
+    "IsAccredited": true,
+    "AccreditationBody": "Zambia Qualifications Authority",
+    "Courses": [
+      {
+        "CourseId": 4,
+        "CourseCode": "BA101",
+        "CourseName": "Business Communication",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 5,
+        "CourseCode": "BA201",
+        "CourseName": "Principles of Accounting",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 6,
+        "CourseCode": "BA301",
+        "CourseName": "Entrepreneurship and Innovation",
+        "Year": 3,
+        "Semester": 1,
+        "IsRequired": true
+      }
+    ]
+  }
+]

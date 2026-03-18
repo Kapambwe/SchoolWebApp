@@ -1,0 +1,74 @@
+[
+  {
+    "notificationId": "notif001",
+    "title": "School Reopening - Term 1, 2024",
+    "message": "Welcome back! School reopens on Monday, January 8th, 2024. All students should report by 7:30 AM for assembly.",
+    "type": "General",
+    "priority": "High",
+    "targetAudience": "All",
+    "dateCreated": "2024-01-05T08:00:00Z",
+    "expiryDate": "2024-01-08T23:59:59Z",
+    "isActive": true,
+    "createdBy": "Principal's Office"
+  },
+  {
+    "notificationId": "notif002",
+    "title": "Grade 12 Mock Examinations",
+    "message": "Grade 12 mock examinations will commence on February 5th, 2024. Students should collect their examination timetables from the office.",
+    "type": "Academic",
+    "priority": "High",
+    "targetAudience": "Grade 12",
+    "dateCreated": "2024-01-20T10:00:00Z",
+    "expiryDate": "2024-02-05T23:59:59Z",
+    "isActive": true,
+    "createdBy": "Academic Office"
+  },
+  {
+    "notificationId": "notif003",
+    "title": "Inter-House Sports Competition",
+    "message": "The annual inter-house sports competition will be held on March 15th, 2024. All students are encouraged to participate in various sporting activities.",
+    "type": "Sports",
+    "priority": "Normal",
+    "targetAudience": "All",
+    "dateCreated": "2024-01-25T14:30:00Z",
+    "expiryDate": "2024-03-15T23:59:59Z",
+    "isActive": true,
+    "createdBy": "Sports Department"
+  },
+  {
+    "notificationId": "notif004",
+    "title": "School Fees Payment Reminder",
+    "message": "This is a reminder that Term 1 school fees are due by January 31st, 2024. Please make payments at the accounts office or through mobile money.",
+    "type": "Financial",
+    "priority": "High",
+    "targetAudience": "Parents",
+    "dateCreated": "2024-01-28T09:00:00Z",
+    "expiryDate": "2024-01-31T23:59:59Z",
+    "isActive": true,
+    "createdBy": "Accounts Office"
+  },
+  {
+    "notificationId": "notif005",
+    "title": "Science Fair 2024",
+    "message": "Students interested in participating in the annual science fair should submit their project proposals by February 20th, 2024.",
+    "type": "Academic",
+    "priority": "Normal",
+    "targetAudience": "All",
+    "dateCreated": "2024-01-30T11:15:00Z",
+    "expiryDate": "2024-02-20T23:59:59Z",
+    "isActive": true,
+    "createdBy": "Science Department"
+  },
+  {
+    "notificationId": "notif006",
+    "title": "Parent-Teacher Conference",
+    "message": "The quarterly parent-teacher conference is scheduled for February 10th, 2024, from 9:00 AM to 4:00 PM. Please book your appointment slots.",
+    "type": "Administrative",
+    "priority": "High",
+    "targetAudience": "Parents",
+    "dateCreated": "2024-02-01T08:30:00Z",
+    "expiryDate": "2024-02-10T23:59:59Z",
+    "isActive": true,
+    "createdBy": "Administration"
+  }
+]

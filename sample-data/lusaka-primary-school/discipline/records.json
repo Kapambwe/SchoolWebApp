@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "studentId": 3,
+    "incident": "Disruptive behaviour in class",
+    "date": "2025-01-20T00:00:00Z",
+    "action": "Verbal warning issued"
+  },
+  {
+    "id": 2,
+    "studentId": 4,
+    "incident": "Late arrival three consecutive days",
+    "date": "2025-02-03T00:00:00Z",
+    "action": "Parent called for meeting"
+  },
+  {
+    "id": 3,
+    "studentId": 2,
+    "incident": "Incomplete homework submission",
+    "date": "2025-02-12T00:00:00Z",
+    "action": "Detention assigned"
+  },
+  {
+    "id": 4,
+    "studentId": 1,
+    "incident": "Uniform violation",
+    "date": "2025-02-18T00:00:00Z",
+    "action": "Written warning"
+  }
+]

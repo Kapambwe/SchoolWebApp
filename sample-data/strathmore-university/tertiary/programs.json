@@ -1,0 +1,190 @@
+[
+  {
+    "Id": 1,
+    "Code": "BBA",
+    "ProgramCode": "BBA",
+    "Name": "BBA Business Administration",
+    "ProgramName": "BBA Business Administration",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 380000.00,
+    "Department": "Business",
+    "Faculty": "Strathmore Business School",
+    "IsAccredited": true,
+    "AccreditationBody": "Kenya National Qualifications Authority",
+    "Courses": [
+      {
+        "CourseId": 1,
+        "CourseCode": "BUS101",
+        "CourseName": "Business Economics",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 2,
+        "CourseCode": "BUS201",
+        "CourseName": "Financial Management",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 3,
+        "CourseCode": "BUS301",
+        "CourseName": "International Business",
+        "Year": 3,
+        "Semester": 1,
+        "IsRequired": false
+      },
+      {
+        "CourseId": 4,
+        "CourseCode": "IT101",
+        "CourseName": "Introduction to Information Systems",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "BSC-IT",
+    "ProgramCode": "BSC-IT",
+    "Name": "BSc Information Technology",
+    "ProgramName": "BSc Information Technology",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 420000.00,
+    "Department": "Information Technology",
+    "Faculty": "@iLabAfrica - School of Computing",
+    "IsAccredited": true,
+    "AccreditationBody": "Kenya National Qualifications Authority",
+    "Courses": [
+      {
+        "CourseId": 4,
+        "CourseCode": "IT101",
+        "CourseName": "Introduction to Information Systems",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 5,
+        "CourseCode": "IT201",
+        "CourseName": "Database Management Systems",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 6,
+        "CourseCode": "IT301",
+        "CourseName": "Software Engineering",
+        "Year": 3,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 7,
+        "CourseCode": "IT401",
+        "CourseName": "Cybersecurity Fundamentals",
+        "Year": 4,
+        "Semester": 1,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "LLB",
+    "ProgramCode": "LLB",
+    "Name": "LLB Law",
+    "ProgramName": "LLB Law",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 400000.00,
+    "Department": "Law",
+    "Faculty": "Strathmore Law School",
+    "IsAccredited": true,
+    "AccreditationBody": "Council of Legal Education Kenya",
+    "Courses": [
+      {
+        "CourseId": 8,
+        "CourseCode": "LAW101",
+        "CourseName": "Introduction to Law",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 9,
+        "CourseCode": "LAW201",
+        "CourseName": "Contract Law",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 10,
+        "CourseCode": "LAW301",
+        "CourseName": "Commercial Law",
+        "Year": 3,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 1,
+        "CourseCode": "BUS101",
+        "CourseName": "Business Economics",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 4,
+    "Code": "MSC-FIN",
+    "ProgramCode": "MSC-FIN",
+    "Name": "MSc Finance",
+    "ProgramName": "MSc Finance",
+    "Type": 3,
+    "DurationYears": 2,
+    "TotalCreditHours": 240,
+    "TuitionFee": 650000.00,
+    "Department": "Business",
+    "Faculty": "Strathmore Business School",
+    "IsAccredited": true,
+    "AccreditationBody": "Kenya National Qualifications Authority",
+    "Courses": [
+      {
+        "CourseId": 2,
+        "CourseCode": "BUS201",
+        "CourseName": "Financial Management",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 3,
+        "CourseCode": "BUS301",
+        "CourseName": "International Business",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      },
+      {
+        "CourseId": 5,
+        "CourseCode": "IT201",
+        "CourseName": "Database Management Systems",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  }
+]

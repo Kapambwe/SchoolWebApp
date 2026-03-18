@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "examName": "Semester 1 Examination - Artificial Intelligence",
+    "subject": "Artificial Intelligence",
+    "grade": "Year 3",
+    "date": "2024-05-20",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Main Examination Hall",
+    "invigilator": "Dr. Charity Siame",
+    "status": "Scheduled",
+    "instructions": "Bring laptop for practical component"
+  },
+  {
+    "id": 2,
+    "examName": "Semester 1 Examination - Mine Design",
+    "subject": "Mine Design",
+    "grade": "Year 2",
+    "date": "2024-05-22",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Engineering Block",
+    "invigilator": "Prof. Naison Ngoma",
+    "status": "Scheduled",
+    "instructions": "Bring calculator and design instruments"
+  }
+]

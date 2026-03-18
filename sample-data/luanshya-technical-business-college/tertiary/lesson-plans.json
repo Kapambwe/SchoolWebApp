@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "EI101",
+    "CourseName": "Electrical Installation Fundamentals",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Electrical Safety and Tools",
+    "LearningOutcomes": "Students will identify electrical hazards, apply safety precautions, and correctly use common electrical installation tools.",
+    "LectureTopics": [
+      "Overview of electrical hazards and risk assessment",
+      "Personal protective equipment (PPE) for electricians",
+      "Introduction to common hand and power tools used in electrical installation",
+      "Zambian electrical safety regulations and standards overview"
+    ],
+    "Materials": [
+      {
+        "Title": "Electrical Safety and PPE Slides",
+        "Type": 0,
+        "Url": "/materials/ei101/week1-safety-slides.pptx"
+      },
+      {
+        "Title": "Tool Identification Reference Notes",
+        "Type": 1,
+        "Url": "/materials/ei101/week1-tools-notes.pdf"
+      },
+      {
+        "Title": "Zambia Electrical Safety Regulations Handbook",
+        "Type": 4,
+        "Url": "/materials/ei101/zambia-electrical-safety-handbook.pdf"
+      }
+    ],
+    "AssessmentMethods": "Practical tool identification quiz and safety checklist completion",
+    "Status": 5,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-10T10:00:00Z",
+    "LecturerId": 701,
+    "FeedbackComments": "Well-structured introduction. Ensure students handle all tools during the practical session.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-10T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "EI101",
+    "CourseName": "Electrical Installation Fundamentals",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Basic Wiring Circuits",
+    "LearningOutcomes": "Students will understand and construct simple series and parallel circuits, interpreting basic wiring diagrams.",
+    "LectureTopics": [
+      "Series and parallel circuit theory",
+      "Reading and interpreting basic wiring diagrams",
+      "Practical wiring of a single-phase circuit",
+      "Testing and verifying circuit continuity using a multimeter"
+    ],
+    "Materials": [
+      {
+        "Title": "Basic Circuit Theory Slides",
+        "Type": 0,
+        "Url": "/materials/ei101/week2-circuits-slides.pptx"
+      },
+      {
+        "Title": "Wiring Diagram Exercises Worksheet",
+        "Type": 3,
+        "Url": "/materials/ei101/week2-wiring-diagrams-assignment.pdf"
+      },
+      {
+        "Title": "Circuit Wiring Practical Demonstration Video",
+        "Type": 2,
+        "Url": "/materials/ei101/week2-circuit-demo.mp4"
+      }
+    ],
+    "AssessmentMethods": "Practical wiring exercise graded on accuracy and safety compliance",
+    "Status": 5,
+    "SubmittedDate": "2025-01-16T09:00:00Z",
+    "ApprovedDate": "2025-01-17T10:00:00Z",
+    "LecturerId": 701,
+    "FeedbackComments": "Good progression from Week 1. Allocate extra time for students struggling with multimeter use.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-17T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 3,
+    "CourseCode": "WF101",
+    "CourseName": "Welding Fundamentals",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Welding Safety and Equipment Overview",
+    "LearningOutcomes": "Students will demonstrate proper welding safety practices and identify the main components of arc welding equipment.",
+    "LectureTopics": [
+      "Welding hazards: fumes, arc flash, fire, and electric shock",
+      "Personal protective equipment for welding",
+      "Components of a SMAW (arc welding) setup",
+      "Workshop housekeeping and fire prevention"
+    ],
+    "Materials": [
+      {
+        "Title": "Welding Safety Overview Slides",
+        "Type": 0,
+        "Url": "/materials/wf101/week1-safety-slides.pptx"
+      },
+      {
+        "Title": "Welding Equipment Identification Notes",
+        "Type": 1,
+        "Url": "/materials/wf101/week1-equipment-notes.pdf"
+      },
+      {
+        "Title": "Arc Welding Safety Video",
+        "Type": 2,
+        "Url": "/materials/wf101/week1-safety-video.mp4"
+      }
+    ],
+    "AssessmentMethods": "Safety quiz and equipment identification practical assessment",
+    "Status": 2,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 702,
+    "FeedbackComments": "Comprehensive safety coverage. Consider adding a fire drill scenario.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 5,
+    "CourseCode": "BS101",
+    "CourseName": "Business Communication Skills",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Business Communication",
+    "LearningOutcomes": "Students will explain the communication process, identify barriers to effective communication, and apply basic principles of professional workplace communication.",
+    "LectureTopics": [
+      "The communication process: sender, message, channel, receiver",
+      "Verbal and non-verbal communication in the workplace",
+      "Barriers to effective communication and strategies to overcome them",
+      "Introduction to professional writing: emails and memos"
+    ],
+    "Materials": [
+      {
+        "Title": "Business Communication Principles Slides",
+        "Type": 0,
+        "Url": "/materials/bs101/week1-communication-slides.pptx"
+      },
+      {
+        "Title": "Professional Email Writing Guide",
+        "Type": 1,
+        "Url": "/materials/bs101/week1-email-guide.pdf"
+      },
+      {
+        "Title": "Communication Skills in the Workplace Reference",
+        "Type": 4,
+        "Url": "/materials/bs101/communication-skills-reference.pdf"
+      }
+    ],
+    "AssessmentMethods": "In-class participation and short reflective writing exercise on communication barriers",
+    "Status": 2,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 703,
+    "FeedbackComments": "Well-planned introduction. Ensure the writing exercise reflects real workplace scenarios.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 7,
+    "CourseCode": "IT101",
+    "CourseName": "Computer Applications",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Computer Hardware",
+    "LearningOutcomes": "Students will identify the main hardware components of a desktop computer, describe their functions, and perform basic assembly and disassembly procedures.",
+    "LectureTopics": [
+      "Overview of computer history and types of computers",
+      "Internal hardware components: CPU, RAM, motherboard, storage devices",
+      "External peripherals: input and output devices",
+      "Practical: identifying and labelling computer components"
+    ],
+    "Materials": [
+      {
+        "Title": "Computer Hardware Components Slides",
+        "Type": 0,
+        "Url": "/materials/it101/week1-hardware-slides.pptx"
+      },
+      {
+        "Title": "Computer Components Identification Worksheet",
+        "Type": 3,
+        "Url": "/materials/it101/week1-hardware-worksheet.pdf"
+      }
+    ],
+    "AssessmentMethods": "Practical component identification exercise and short written quiz",
+    "Status": 1,
+    "SubmittedDate": "2025-01-13T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 704,
+    "FeedbackComments": "Awaiting departmental review before approval.",
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "LastUpdated": "2025-01-13T09:00:00Z"
+  }
+]

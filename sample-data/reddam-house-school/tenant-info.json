@@ -1,0 +1,36 @@
+{
+  "tenantId": "reddam-house-school",
+  "displayName": "Reddam House School",
+  "shortName": "Reddam",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Johannesburg",
+  "address": "1 Reddam Avenue, Bryanston, Johannesburg, 2021",
+  "phone": "+27 11 555 3456",
+  "email": "info@reddamhouse.co.za",
+  "website": "https://www.reddamhouse.co.za",
+  "institutionType": "Private",
+  "currency": "ZAR",
+  "timezone": "Africa/Johannesburg",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/reddam-logo.png",
+  "primaryColor": "#8B0000",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

@@ -1,0 +1,144 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "ME101",
+    "CourseName": "Mining Engineering Principles",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Mining Engineering",
+    "LearningOutcomes": "Students will understand the scope of mining engineering, types of mining operations, and career pathways in the mining industry.",
+    "LectureTopics": [
+      "Overview of mining industry",
+      "Types of mines: surface and underground",
+      "Career pathways in mining engineering",
+      "Safety culture in mining"
+    ],
+    "Materials": [
+      { "Title": "Introduction to Mining Engineering Slides", "Type": 0, "Url": "/materials/me101/week1-slides.pdf" },
+      { "Title": "Course Notes Week 1", "Type": 1, "Url": "/materials/me101/week1-notes.pdf" }
+    ],
+    "AssessmentMethods": "Class participation and short quiz at end of lecture",
+    "Status": 5,
+    "SubmittedDate": "2025-01-08T09:00:00Z",
+    "ApprovedDate": "2025-01-09T10:00:00Z",
+    "LecturerId": 101,
+    "FeedbackComments": "Well structured introduction. Students engaged well.",
+    "CreatedDate": "2025-01-06T08:00:00Z",
+    "LastUpdated": "2025-01-09T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "ME101",
+    "CourseName": "Mining Engineering Principles",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Surface Mining Methods",
+    "LearningOutcomes": "Students will identify and compare open-cast, strip mining and quarrying methods and evaluate their suitability for different ore bodies.",
+    "LectureTopics": [
+      "Open-cast mining operations",
+      "Strip mining and reclamation",
+      "Quarrying techniques",
+      "Equipment used in surface mining"
+    ],
+    "Materials": [
+      { "Title": "Surface Mining Methods Slides", "Type": 0, "Url": "/materials/me101/week2-slides.pdf" },
+      { "Title": "Surface Mining Video Tour", "Type": 2, "Url": "/materials/me101/week2-video.mp4" }
+    ],
+    "AssessmentMethods": "Group discussion and observation report",
+    "Status": 5,
+    "SubmittedDate": "2025-01-15T09:00:00Z",
+    "ApprovedDate": "2025-01-16T10:00:00Z",
+    "LecturerId": 101,
+    "FeedbackComments": "Video material very effective. Consider adding Kansanshi mine case study.",
+    "CreatedDate": "2025-01-13T08:00:00Z",
+    "LastUpdated": "2025-01-16T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 8,
+    "CourseCode": "CS201",
+    "CourseName": "Data Structures and Algorithms",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Data Structures",
+    "LearningOutcomes": "Students will differentiate between various data structures, understand time and space complexity, and implement basic arrays and linked lists.",
+    "LectureTopics": [
+      "What are data structures?",
+      "Arrays and memory allocation",
+      "Introduction to linked lists",
+      "Big-O notation basics"
+    ],
+    "Materials": [
+      { "Title": "Data Structures Overview Slides", "Type": 0, "Url": "/materials/cs201/week1-slides.pdf" },
+      { "Title": "Week 1 Lecture Notes", "Type": 1, "Url": "/materials/cs201/week1-notes.pdf" },
+      { "Title": "Algorithm Visualizer Reference", "Type": 4, "Url": "https://visualgo.net" }
+    ],
+    "AssessmentMethods": "In-class coding exercise",
+    "Status": 2,
+    "SubmittedDate": "2025-01-08T09:00:00Z",
+    "ApprovedDate": "2025-01-09T10:00:00Z",
+    "LecturerId": 102,
+    "FeedbackComments": "Approved. Include practical coding exercises.",
+    "CreatedDate": "2025-01-06T08:00:00Z",
+    "LastUpdated": "2025-01-09T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 6,
+    "CourseCode": "EE301",
+    "CourseName": "Power Systems",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Power Systems",
+    "LearningOutcomes": "Students will describe the structure of electrical power systems, identify key components, and explain power generation methods used in Zambia.",
+    "LectureTopics": [
+      "Power system structure overview",
+      "Generation, transmission and distribution",
+      "ZESCO grid overview",
+      "Power system components and ratings"
+    ],
+    "Materials": [
+      { "Title": "Power Systems Introduction Slides", "Type": 0, "Url": "/materials/ee301/week1-slides.pdf" },
+      { "Title": "ZESCO Grid Reference Document", "Type": 4, "Url": "/materials/ee301/zesco-reference.pdf" }
+    ],
+    "AssessmentMethods": "Short written response on power generation in Zambia",
+    "Status": 2,
+    "SubmittedDate": "2025-01-08T09:00:00Z",
+    "ApprovedDate": "2025-01-09T11:00:00Z",
+    "LecturerId": 103,
+    "FeedbackComments": "Good local context. Approved.",
+    "CreatedDate": "2025-01-06T08:00:00Z",
+    "LastUpdated": "2025-01-09T11:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 9,
+    "CourseCode": "CS401",
+    "CourseName": "Machine Learning",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Machine Learning",
+    "LearningOutcomes": "Students will explain the machine learning paradigm, differentiate between supervised and unsupervised learning, and identify applications in mining and engineering.",
+    "LectureTopics": [
+      "What is machine learning?",
+      "Supervised vs unsupervised learning",
+      "ML applications in mining industry",
+      "Python ML ecosystem overview"
+    ],
+    "Materials": [
+      { "Title": "Machine Learning Introduction Slides", "Type": 0, "Url": "/materials/cs401/week1-slides.pdf" },
+      { "Title": "Scikit-learn Documentation Reference", "Type": 4, "Url": "https://scikit-learn.org/stable/" },
+      { "Title": "ML in Mining Industry Video", "Type": 2, "Url": "/materials/cs401/week1-video.mp4" }
+    ],
+    "AssessmentMethods": "Discussion: identify one ML use case in a Zambian mining company",
+    "Status": 1,
+    "SubmittedDate": "2025-01-08T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 102,
+    "FeedbackComments": "",
+    "CreatedDate": "2025-01-06T08:00:00Z",
+    "LastUpdated": "2025-01-08T09:00:00Z"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "tenantId": "peterhouse-school-zimbabwe",
+  "displayName": "Peterhouse School Zimbabwe",
+  "shortName": "Peterhouse",
+  "country": "Zimbabwe",
+  "countryCode": "ZW",
+  "city": "Marondera",
+  "address": "Peterhouse Road, Marondera, Zimbabwe",
+  "phone": "+263 79 555 1234",
+  "email": "info@peterhouse.co.zw",
+  "website": "https://www.peterhouse.co.zw",
+  "institutionType": "Private",
+  "currency": "USD",
+  "timezone": "Africa/Harare",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/peterhouse-logo.png",
+  "primaryColor": "#003366",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": true,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

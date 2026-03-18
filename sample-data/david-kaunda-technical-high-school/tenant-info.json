@@ -1,0 +1,43 @@
+{
+  "tenantId": "david-kaunda-technical-high-school",
+  "schoolName": "David Kaunda Technical High School",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "Trade School",
+  "establishedYear": 1982,
+  "studentCapacity": 900,
+  "currentEnrollment": 780,
+  "grades": ["Grade 10", "Grade 11", "Grade 12"],
+  "address": {
+    "street": "Kabwe Road",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10105",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211678901",
+    "email": "info@dkths.edu.zm",
+    "website": "www.dkths.edu.zm"
+  },
+  "motto": "Skills for Life",
+  "vision": "To be a leading technical education institution producing skilled artisans.",
+  "mission": "To provide quality technical education that prepares students for the world of work.",
+  "programs": [
+    "Carpentry and Joinery",
+    "Electrical Installation",
+    "Plumbing",
+    "Welding and Fabrication",
+    "Motor Vehicle Mechanics",
+    "Building Construction"
+  ],
+  "facilities": [
+    "Workshops",
+    "Computer Lab",
+    "Library",
+    "Sports Complex"
+  ]
+}

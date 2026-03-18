@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "accountCode": "1100",
+    "accountName": "Cash and Bank",
+    "accountType": "Asset",
+    "category": "CashAndBank",
+    "currentBalance": 8500000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "University's main cash account"
+  },
+  {
+    "id": 2,
+    "accountCode": "1200",
+    "accountName": "Tuition Fees Receivable",
+    "accountType": "Asset",
+    "category": "AccountsReceivable",
+    "currentBalance": 2800000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "Outstanding tuition fees from students"
+  },
+  {
+    "id": 3,
+    "accountCode": "4100",
+    "accountName": "Tuition Fee Revenue",
+    "accountType": "Revenue",
+    "category": "TuitionFees",
+    "currentBalance": 45000000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Revenue from student tuition fees"
+  },
+  {
+    "id": 4,
+    "accountCode": "4200",
+    "accountName": "Research Grants",
+    "accountType": "Revenue",
+    "category": "Grants",
+    "currentBalance": 8500000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Research grants and funding"
+  },
+  {
+    "id": 5,
+    "accountCode": "5100",
+    "accountName": "Academic Staff Salaries",
+    "accountType": "Expense",
+    "category": "Salaries",
+    "currentBalance": 12000000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Monthly academic staff salaries"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Term 1 Examinations 2024",
+    "examType": "Continuous Assessment",
+    "startDate": "2024-03-18",
+    "endDate": "2024-03-22",
+    "grades": ["Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12"],
+    "subjects": [
+      {
+        "name": "Mathematics",
+        "date": "2024-03-18",
+        "time": "08:00",
+        "duration": 180,
+        "venue": "Main Hall"
+      },
+      {
+        "name": "English Language",
+        "date": "2024-03-19",
+        "time": "08:00",
+        "duration": 150,
+        "venue": "Classrooms A1-A5"
+      },
+      {
+        "name": "Sciences",
+        "date": "2024-03-20",
+        "time": "08:00",
+        "duration": 180,
+        "venue": "Science Block"
+      },
+      {
+        "name": "Social Studies",
+        "date": "2024-03-21",
+        "time": "08:00",
+        "duration": 120,
+        "venue": "Classrooms B1-B5"
+      }
+    ],
+    "status": "Completed",
+    "totalStudents": 980,
+    "averageScore": 78.5
+  },
+  {
+    "id": 2,
+    "name": "Cambridge IGCSE Mock Examinations",
+    "examType": "External Mock",
+    "startDate": "2024-05-06",
+    "endDate": "2024-05-17",
+    "grades": ["Grade 11", "Grade 12"],
+    "subjects": [
+      {
+        "name": "Mathematics (0580)",
+        "date": "2024-05-06",
+        "time": "09:00",
+        "duration": 210,
+        "venue": "Main Hall"
+      },
+      {
+        "name": "English Language (0500)",
+        "date": "2024-05-08",
+        "time": "09:00",
+        "duration": 180,
+        "venue": "Main Hall"
+      },
+      {
+        "name": "Chemistry (0620)",
+        "date": "2024-05-10",
+        "time": "09:00",
+        "duration": 195,
+        "venue": "Science Lab 1"
+      },
+      {
+        "name": "Biology (0610)",
+        "date": "2024-05-13",
+        "time": "09:00",
+        "duration": 195,
+        "venue": "Science Lab 2"
+      },
+      {
+        "name": "Physics (0625)",
+        "date": "2024-05-15",
+        "time": "09:00",
+        "duration": 195,
+        "venue": "Science Lab 3"
+      }
+    ],
+    "status": "Upcoming",
+    "totalStudents": 420,
+    "averageScore": null
+  },
+  {
+    "id": 3,
+    "name": "Grade 12 Final Examinations",
+    "examType": "Final Assessment",
+    "startDate": "2024-10-14",
+    "endDate": "2024-10-25",
+    "grades": ["Grade 12"],
+    "subjects": [
+      {
+        "name": "Mathematics",
+        "date": "2024-10-14",
+        "time": "08:00",
+        "duration": 180,
+        "venue": "Main Hall"
+      },
+      {
+        "name": "English Language",
+        "date": "2024-10-16",
+        "time": "08:00",
+        "duration": 150,
+        "venue": "Main Hall"
+      },
+      {
+        "name": "Chemistry",
+        "date": "2024-10-18",
+        "time": "08:00",
+        "duration": 180,
+        "venue": "Science Lab 1"
+      },
+      {
+        "name": "Biology",
+        "date": "2024-10-21",
+        "time": "08:00",
+        "duration": 180,
+        "venue": "Science Lab 2"
+      },
+      {
+        "name": "Physics",
+        "date": "2024-10-23",
+        "time": "08:00",
+        "duration": 180,
+        "venue": "Science Lab 3"
+      },
+      {
+        "name": "History",
+        "date": "2024-10-25",
+        "time": "08:00",
+        "duration": 150,
+        "venue": "Classroom C1"
+      }
+    ],
+    "status": "Scheduled",
+    "totalStudents": 185,
+    "averageScore": null
+  }
+]

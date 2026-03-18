@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "EL101",
+    "CourseName": "Electronic Principles",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "This course introduces students to the fundamental principles of electronics, including Ohm's Law, circuit analysis, semiconductor devices, and basic electronic measurements used in the industry.",
+    "Department": "Electronics",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Apply Ohm's Law and Kirchhoff's laws to analyse DC and AC circuits.",
+      "Identify and describe the characteristics of common electronic components including resistors, capacitors, diodes, and transistors.",
+      "Use a multimeter and oscilloscope to measure and interpret electrical quantities in electronic circuits."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "EL102",
+    "CourseName": "Electronic Circuit Assembly",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Students develop practical skills in assembling, soldering, and testing electronic circuits from schematics, including PCB construction and fault-finding techniques.",
+    "Department": "Electronics",
+    "Prerequisites": ["EL101"],
+    "LearningOutcomes": [
+      "Assemble electronic circuits from schematic diagrams to a professional standard.",
+      "Apply correct soldering techniques for through-hole and surface mount components.",
+      "Test and fault-find assembled circuits using systematic diagnostic procedures."
+    ],
+    "MaxEnrollment": 35,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "CP101",
+    "CourseName": "Carpentry and Joinery Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering the properties of timber, the safe use of hand and power woodworking tools, and the production of basic joints used in carpentry and joinery.",
+    "Department": "Carpentry",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Identify different timber species and describe their properties and suitability for various applications.",
+      "Safely operate hand and power woodworking tools to produce accurate timber components.",
+      "Construct common carpentry joints to acceptable trade standards."
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "CP102",
+    "CourseName": "Furniture Making and Finishing",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 1,
+    "Description": "This elective course builds on carpentry fundamentals to teach students the design, construction, and finishing of wooden furniture items, with a focus on quality and marketability.",
+    "Department": "Carpentry",
+    "Prerequisites": ["CP101"],
+    "LearningOutcomes": [
+      "Design and construct a basic furniture item to customer specifications.",
+      "Apply surface preparation and wood finishing techniques including staining, varnishing, and painting.",
+      "Evaluate furniture for quality and identify areas for improvement."
+    ],
+    "MaxEnrollment": 35,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "AU101",
+    "CourseName": "Automotive Technology Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering the operating principles of motor vehicle systems, workshop safety, and routine vehicle maintenance procedures applicable to common vehicle types in Zambia.",
+    "Department": "Automotive",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Explain the operating principles of the main automotive systems: engine, transmission, steering, braking, and electrical.",
+      "Perform routine vehicle maintenance tasks safely and in accordance with manufacturer specifications.",
+      "Apply workshop safety rules and demonstrate proper use of automotive tools and equipment."
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "AU102",
+    "CourseName": "Engine Overhaul and Maintenance",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "This course covers engine disassembly, inspection, measurement, reconditioning, and reassembly procedures for petrol and diesel engines, with emphasis on precision measurement and quality.",
+    "Department": "Automotive",
+    "Prerequisites": ["AU101"],
+    "LearningOutcomes": [
+      "Disassemble and reassemble a petrol or diesel engine following correct procedures.",
+      "Measure engine components using precision instruments and compare results to manufacturer specifications.",
+      "Identify worn or defective engine components and recommend appropriate remedial action."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "ICT101",
+    "CourseName": "Computer Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "This course provides a foundation in computer hardware, operating systems, productivity software, and internet use, equipping students with essential digital skills for technical and professional environments.",
+    "Department": "ICT",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Identify and describe the function of major computer hardware components and peripheral devices.",
+      "Use operating system features to manage files, settings, and applications effectively.",
+      "Create documents, spreadsheets, and presentations using standard office productivity software."
+    ],
+    "MaxEnrollment": 50,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "ICT102",
+    "CourseName": "Computer Networking Basics",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Students are introduced to data networking concepts including the OSI model, IP addressing, LAN configuration, and network troubleshooting, providing a foundation for further study in IT.",
+    "Department": "ICT",
+    "Prerequisites": ["ICT101"],
+    "LearningOutcomes": [
+      "Explain the OSI and TCP/IP network models and describe the function of each layer.",
+      "Configure a basic local area network including IP addressing, switches, and wireless access points.",
+      "Troubleshoot common network connectivity problems using appropriate diagnostic tools."
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

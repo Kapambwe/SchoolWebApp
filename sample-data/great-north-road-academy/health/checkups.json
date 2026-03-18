@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "date": "2025-01-15T00:00:00Z",
+    "checkupType": "Annual Medical Screening",
+    "results": "Height 172cm, Weight 65kg, Blood pressure normal, Vision 6/6",
+    "recommendations": "Maintain current fitness level"
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "date": "2025-01-16T00:00:00Z",
+    "checkupType": "Annual Medical Screening",
+    "results": "Height 165cm, Weight 58kg, Mild anaemia detected",
+    "recommendations": "Iron supplement prescribed, dietary advice given"
+  },
+  {
+    "id": 3,
+    "studentId": 3,
+    "date": "2025-01-17T00:00:00Z",
+    "checkupType": "Annual Medical Screening",
+    "results": "Height 178cm, Weight 72kg, All vitals normal",
+    "recommendations": "Continue regular exercise, limit screen time"
+  },
+  {
+    "id": 4,
+    "studentId": 4,
+    "date": "2025-01-18T00:00:00Z",
+    "checkupType": "Dental Checkup",
+    "results": "Teeth in good condition, minor plaque build-up",
+    "recommendations": "Improved brushing technique demonstrated"
+  }
+]

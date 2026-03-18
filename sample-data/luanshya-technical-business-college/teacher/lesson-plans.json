@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Power Systems",
+    "grade": "Year 2",
+    "topic": "Power Distribution Systems",
+    "date": "2024-01-22",
+    "duration": 120,
+    "objectives": [
+      "Students will understand power distribution principles",
+      "Students will design distribution systems",
+      "Students will calculate power losses"
+    ],
+    "activities": [
+      "Lecture on distribution systems",
+      "Design exercises",
+      "Computer simulations",
+      "Project work"
+    ],
+    "resources": ["Engineering textbook", "Simulation software", "Design standards"],
+    "assessment": "Design project",
+    "homework": "Complete distribution system design",
+    "status": "In Progress"
+  }
+]

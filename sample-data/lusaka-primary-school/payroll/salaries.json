@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "employeeId": 1,
+    "position": "Senior Mathematics Teacher",
+    "basicSalary": 12000.00,
+    "housingAllowance": 1500.00,
+    "transportAllowance": 1000.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "employeeId": 2,
+    "position": "English Language Teacher",
+    "basicSalary": 11500.00,
+    "housingAllowance": 1200.00,
+    "transportAllowance": 800.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "employeeId": 3,
+    "position": "Science Teacher",
+    "basicSalary": 11000.00,
+    "housingAllowance": 1200.00,
+    "transportAllowance": 800.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "employeeId": 4,
+    "position": "Social Studies Teacher",
+    "basicSalary": 10500.00,
+    "housingAllowance": 1000.00,
+    "transportAllowance": 800.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  }
+]

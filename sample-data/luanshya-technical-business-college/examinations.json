@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "examName": "Semester 1 Examination - Power Systems",
+    "subject": "Power Systems",
+    "grade": "Year 2",
+    "date": "2024-05-15",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Main Examination Hall",
+    "invigilator": "Mrs. Beatrice Chola",
+    "status": "Scheduled",
+    "instructions": "Bring calculator and engineering data book"
+  }
+]

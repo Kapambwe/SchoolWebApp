@@ -1,0 +1,233 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "BUS101",
+    "CourseName": "Business Economics",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Business Economics",
+    "LearningOutcomes": "Students will be able to define economics, distinguish between microeconomics and macroeconomics, explain the concepts of scarcity and opportunity cost, and describe Kenya's key economic sectors.",
+    "LectureTopics": [
+      "What is Economics? Microeconomics vs Macroeconomics",
+      "Scarcity, choice, and opportunity cost in the Kenyan economy",
+      "The circular flow of income in a modern open economy",
+      "Overview of Kenya's economic structure: agriculture, services, and the digital economy"
+    ],
+    "Materials": [
+      {
+        "Title": "Introduction to Business Economics - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.strathmore.edu/bus101/week1-slides.pdf"
+      },
+      {
+        "Title": "Kenya Economic Survey 2024 - Reference Reading",
+        "Type": 4,
+        "Url": "https://lms.strathmore.edu/bus101/kenya-economic-survey-2024.pdf"
+      }
+    ],
+    "AssessmentMethods": "In-class discussion, reflective journal entry, weekly quiz",
+    "Status": 5,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 401,
+    "FeedbackComments": "Well-structured introduction with excellent use of local Kenyan economic data. Students engaged well with the discussion on the digital economy.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "BUS101",
+    "CourseName": "Business Economics",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Supply and Demand Analysis",
+    "LearningOutcomes": "Students will be able to analyse supply and demand curves, determine market equilibrium, calculate price elasticity, and apply these concepts to real Kenyan market scenarios.",
+    "LectureTopics": [
+      "The law of demand: factors affecting consumer behaviour in Kenya",
+      "The law of supply: production costs, market incentives, and supply shifters",
+      "Market equilibrium and price determination mechanisms",
+      "Price elasticity of demand and supply with Kenyan market examples"
+    ],
+    "Materials": [
+      {
+        "Title": "Supply and Demand Analysis - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.strathmore.edu/bus101/week2-slides.pdf"
+      },
+      {
+        "Title": "Supply and Demand: Lecture Notes and Worked Examples",
+        "Type": 1,
+        "Url": "https://lms.strathmore.edu/bus101/week2-notes.pdf"
+      }
+    ],
+    "AssessmentMethods": "Problem-solving exercises, group case study analysis on Nairobi market dynamics",
+    "Status": 5,
+    "SubmittedDate": "2025-01-17T09:00:00Z",
+    "ApprovedDate": "2025-01-18T11:00:00Z",
+    "LecturerId": 401,
+    "FeedbackComments": "Excellent use of local market examples. The case study on Nairobi food prices was particularly effective in contextualising demand theory.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-18T11:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 5,
+    "CourseCode": "IT201",
+    "CourseName": "Database Management Systems",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Database Systems and ER Modelling",
+    "LearningOutcomes": "Students will be able to explain the purpose of a DBMS, identify the components of a database system, create an ER diagram for a given scenario, and apply cardinality and participation notation correctly.",
+    "LectureTopics": [
+      "Evolution of data management: from file systems to relational database systems",
+      "Advantages of DBMS over file-based systems and the three-schema architecture",
+      "Entity-Relationship modelling: entities, attributes, and relationship types",
+      "Drawing ER diagrams: cardinality, participation constraints, and weak entities"
+    ],
+    "Materials": [
+      {
+        "Title": "Introduction to Database Systems - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.strathmore.edu/it201/week1-slides.pdf"
+      },
+      {
+        "Title": "ER Modelling: Notes and Worked Examples",
+        "Type": 1,
+        "Url": "https://lms.strathmore.edu/it201/week1-notes.pdf"
+      },
+      {
+        "Title": "Lab Exercise: Design an ER Diagram for a Student Registration System",
+        "Type": 3,
+        "Url": "https://lms.strathmore.edu/it201/week1-lab-exercise.pdf"
+      }
+    ],
+    "AssessmentMethods": "Lab exercise: ER diagram design, short quiz on DBMS concepts and terminology",
+    "Status": 2,
+    "SubmittedDate": "2025-01-12T09:00:00Z",
+    "ApprovedDate": "2025-01-13T14:00:00Z",
+    "LecturerId": 402,
+    "FeedbackComments": "Well-organised introduction to database systems. The ER diagram lab exercise is practical and directly relevant to the course project.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-13T14:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 8,
+    "CourseCode": "LAW101",
+    "CourseName": "Introduction to Law",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Sources of Law in Kenya",
+    "LearningOutcomes": "Students will be able to identify and explain the primary sources of law in Kenya, describe the hierarchy of courts, explain the doctrine of precedent, and analyse the role of the Constitution as the supreme law of Kenya.",
+    "LectureTopics": [
+      "Overview of the Kenyan legal system and its historical development",
+      "The Constitution of Kenya 2010 as the supreme law: key provisions and principles",
+      "Legislation, delegated legislation, and the legislative process in Kenya",
+      "Case law, customary law, and the role of international law in Kenya's legal framework"
+    ],
+    "Materials": [
+      {
+        "Title": "Sources of Law in Kenya - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.strathmore.edu/law101/week1-slides.pdf"
+      },
+      {
+        "Title": "The Constitution of Kenya 2010 - Selected Provisions",
+        "Type": 4,
+        "Url": "https://lms.strathmore.edu/law101/constitution-2010-excerpts.pdf"
+      }
+    ],
+    "AssessmentMethods": "Case law reading and discussion, take-home reflection on constitutional rights and the Bill of Rights",
+    "Status": 2,
+    "SubmittedDate": "2025-01-12T09:00:00Z",
+    "ApprovedDate": "2025-01-14T10:00:00Z",
+    "LecturerId": 403,
+    "FeedbackComments": "Excellent grounding in Kenyan law. The use of the 2010 Constitution as a central reference point is well-judged for first-year students.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-14T10:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 6,
+    "CourseCode": "IT301",
+    "CourseName": "Software Engineering",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Software Development Life Cycle",
+    "LearningOutcomes": "Students will be able to describe the phases of the SDLC, compare waterfall and agile methodologies, explain Scrum roles and ceremonies, and evaluate the suitability of different SDLC models for given project scenarios.",
+    "LectureTopics": [
+      "Introduction to software engineering: principles, importance, and career landscape in Kenya",
+      "Phases of the Software Development Life Cycle (SDLC): from requirements to maintenance",
+      "Waterfall vs Agile methodologies: comparison, advantages, and trade-offs",
+      "Introduction to Scrum: roles, sprints, ceremonies, and artefacts in Agile development"
+    ],
+    "Materials": [
+      {
+        "Title": "Software Development Life Cycle - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.strathmore.edu/it301/week1-slides.pdf"
+      },
+      {
+        "Title": "SDLC Methodologies Reference Guide",
+        "Type": 4,
+        "Url": "https://lms.strathmore.edu/it301/week1-sdlc-guide.pdf"
+      },
+      {
+        "Title": "Assignment: Agile vs Waterfall - Select a Methodology for a Given Project",
+        "Type": 3,
+        "Url": "https://lms.strathmore.edu/it301/week1-assignment.pdf"
+      }
+    ],
+    "AssessmentMethods": "Group discussion on SDLC methodology selection, individual reflection essay on agile in Kenyan software firms",
+    "Status": 1,
+    "SubmittedDate": "2025-01-15T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 402,
+    "FeedbackComments": "Submitted for review. Good introduction to SDLC with relevant industry examples from Kenyan tech firms.",
+    "CreatedDate": "2025-01-13T08:00:00Z",
+    "LastUpdated": "2025-01-15T09:00:00Z"
+  },
+  {
+    "Id": 6,
+    "CourseId": 9,
+    "CourseCode": "LAW201",
+    "CourseName": "Contract Law",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Formation of Contracts",
+    "LearningOutcomes": "Students will be able to identify the essential elements of a valid contract, apply offer and acceptance rules to hypothetical scenarios, explain the doctrine of consideration, and assess capacity to contract under Kenyan law.",
+    "LectureTopics": [
+      "Essential elements of a valid contract under Kenyan law: overview",
+      "Offer and acceptance: rules, communication, and their application in modern e-commerce",
+      "Consideration: definition, types, rules, and the doctrine of privity of contract",
+      "Capacity to contract and intention to create legal relations in Kenya"
+    ],
+    "Materials": [
+      {
+        "Title": "Formation of Contracts - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.strathmore.edu/law201/week1-slides.pdf"
+      },
+      {
+        "Title": "Law of Contract in Kenya - Chapter Notes",
+        "Type": 1,
+        "Url": "https://lms.strathmore.edu/law201/week1-notes.pdf"
+      },
+      {
+        "Title": "Contract Law Case Studies: Leading Kenyan and Commonwealth Precedents",
+        "Type": 4,
+        "Url": "https://lms.strathmore.edu/law201/week1-case-studies.pdf"
+      }
+    ],
+    "AssessmentMethods": "Hypothetical contract problem exercise, small-group case law analysis and discussion",
+    "Status": 1,
+    "SubmittedDate": "2025-01-15T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 403,
+    "FeedbackComments": "Submitted for review. The Kenyan case studies effectively illustrate contract formation in the local commercial context.",
+    "CreatedDate": "2025-01-13T08:00:00Z",
+    "LastUpdated": "2025-01-15T09:00:00Z"
+  }
+]

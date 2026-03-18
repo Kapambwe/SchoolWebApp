@@ -1,0 +1,85 @@
+[
+  {
+    "Id": 1,
+    "Code": "MBCHB",
+    "ProgramCode": "MBCHB",
+    "Name": "MBChB Medicine and Surgery",
+    "ProgramName": "Bachelor of Medicine and Bachelor of Surgery",
+    "Type": 2,
+    "DurationYears": 5,
+    "TotalCreditHours": 600,
+    "TuitionFee": 5500.00,
+    "Department": "Medicine",
+    "Faculty": "College of Health Sciences",
+    "IsAccredited": true,
+    "AccreditationBody": "Medical Council of Zimbabwe",
+    "Courses": [
+      { "CourseId": 1, "CourseCode": "MED101", "CourseName": "Introduction to Medicine and Healthcare", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 2, "CourseCode": "MED201", "CourseName": "Human Anatomy", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 3, "CourseCode": "MED301", "CourseName": "Pathology", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 4, "CourseCode": "BCH101", "CourseName": "Introduction to Biochemistry", "Year": 1, "Semester": 2, "IsRequired": true }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "BSC-BCH",
+    "ProgramCode": "BSC-BCH",
+    "Name": "BSc Biochemistry",
+    "ProgramName": "Bachelor of Science in Biochemistry",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 2800.00,
+    "Department": "Biochemistry",
+    "Faculty": "Faculty of Science",
+    "IsAccredited": true,
+    "AccreditationBody": "Zimbabwe Council for Higher Education",
+    "Courses": [
+      { "CourseId": 4, "CourseCode": "BCH101", "CourseName": "Introduction to Biochemistry", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 5, "CourseCode": "BCH201", "CourseName": "Molecular Biology", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 6, "CourseCode": "BCH301", "CourseName": "Biochemical Techniques", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 10, "CourseCode": "PHY101", "CourseName": "General Physics", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "BA-HIST",
+    "ProgramCode": "BA-HIST",
+    "Name": "BA History",
+    "ProgramName": "Bachelor of Arts in History",
+    "Type": 2,
+    "DurationYears": 3,
+    "TotalCreditHours": 360,
+    "TuitionFee": 2200.00,
+    "Department": "Humanities",
+    "Faculty": "Faculty of Arts",
+    "IsAccredited": true,
+    "AccreditationBody": "Zimbabwe Council for Higher Education",
+    "Courses": [
+      { "CourseId": 7, "CourseCode": "HIS101", "CourseName": "Introduction to African History", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 8, "CourseCode": "HIS201", "CourseName": "Zimbabwe: Colonial and Post-Colonial History", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 9, "CourseCode": "HIS301", "CourseName": "Oral Traditions and Historical Research Methods", "Year": 3, "Semester": 1, "IsRequired": false },
+      { "CourseId": 1, "CourseCode": "MED101", "CourseName": "Introduction to Medicine and Healthcare", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 4,
+    "Code": "BSC-PHY",
+    "ProgramCode": "BSC-PHY",
+    "Name": "BSc Physics",
+    "ProgramName": "Bachelor of Science in Physics",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 2600.00,
+    "Department": "Physics",
+    "Faculty": "Faculty of Science",
+    "IsAccredited": true,
+    "AccreditationBody": "Zimbabwe Council for Higher Education",
+    "Courses": [
+      { "CourseId": 10, "CourseCode": "PHY101", "CourseName": "General Physics", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 4, "CourseCode": "BCH101", "CourseName": "Introduction to Biochemistry", "Year": 1, "Semester": 2, "IsRequired": false },
+      { "CourseId": 1, "CourseCode": "MED101", "CourseName": "Introduction to Medicine and Healthcare", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  }
+]

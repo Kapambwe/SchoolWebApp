@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "ltbc-prog-001",
+    "TenantId": "luanshya-technical-business-college",
+    "Name": "Alumni Referral Program",
+    "Description": "Earn rewards for referring new students to LTBC",
+    "Type": "Alumni",
+    "IsActive": true,
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 180.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 10,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 32,
+    "TotalConversions": 13,
+    "TotalRewardsPaid": 2340.00,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-01T00:00:00Z"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 2,
+    "senderName": "Margaret Chilufya",
+    "senderType": "Teacher",
+    "subject": "Leadership Workshop Selection",
+    "message": "Dear Mrs. Chanda, I'm pleased to inform you that Mercy has been selected to attend the national girls leadership workshop in Lusaka next month.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "High",
+    "studentId": 1,
+    "studentName": "Mercy Chanda"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "senderId": 3,
+    "senderName": "Esther Zulu",
+    "senderType": "Teacher",
+    "subject": "Writing Competition",
+    "message": "Hello Mrs. Mwila, Thandiwe's essay has been selected for the inter-school writing competition. She has great potential as a writer.",
+    "date": "2024-01-28",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 2,
+    "studentName": "Thandiwe Mwila"
+  }
+]

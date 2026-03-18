@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "dayOfWeek": "Monday",
+    "startTime": "08:00:00",
+    "endTime": "10:00:00",
+    "subject": "Financial Accounting",
+    "teacher": "Mr. Daniel Phiri",
+    "room": "Lecture Hall A",
+    "studentId": 1,
+    "grade": "Year 2",
+    "term": "Semester 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  }
+]

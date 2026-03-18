@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Prof. Catherine Banda",
+    "senderType": "Lecturer",
+    "subject": "Excellent Performance",
+    "message": "Dear Mr. Chisanga, Victor scored 85% in the Structural Analysis exam. His understanding of engineering principles is outstanding.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Victor Chisanga"
+  }
+]

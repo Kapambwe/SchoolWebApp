@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 2,
+    "teacherName": "Margaret Chilufya",
+    "studentId": 1,
+    "studentName": "Mercy Chanda",
+    "date": "2024-02-16",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Career Guidance",
+    "status": "Scheduled",
+    "location": "Empowerment Center",
+    "agenda": "Discuss university applications and career options in STEM fields",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "teacherId": 3,
+    "teacherName": "Esther Zulu",
+    "studentId": 2,
+    "studentName": "Thandiwe Mwila",
+    "date": "2024-01-29",
+    "time": "15:00",
+    "duration": 25,
+    "type": "Academic Progress Review",
+    "status": "Completed",
+    "location": "English Department",
+    "agenda": "Review Thandiwe's literature performance",
+    "notes": "Thandiwe shows excellent writing skills. Encouraged to participate in writing competitions."
+  }
+]

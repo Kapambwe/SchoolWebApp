@@ -1,0 +1,211 @@
+{
+  "contentItems": [
+    {
+      "id": 1,
+      "title": "Introduction to Algebra",
+      "description": "Learn the fundamentals of algebraic expressions and equations",
+      "type": 0,
+      "subject": "Mathematics",
+      "topics": ["Algebra", "Linear Equations"],
+      "level": 1,
+      "gradeLevels": ["Grade 9", "Grade 10"],
+      "thumbnailUrl": "/images/content/algebra-intro.jpg",
+      "contentUrl": "/content/videos/algebra-intro.mp4",
+      "fileSizeBytes": 52428800,
+      "fileFormat": "mp4",
+      "durationMinutes": 25,
+      "author": "Mr. Smith",
+      "createdDate": "2026-01-15T00:00:00Z",
+      "lastModified": "2026-02-01T00:00:00Z",
+      "tags": ["algebra", "basics", "equations"],
+      "suitableForLearningStyles": [0, 1],
+      "license": 6,
+      "isPublished": true,
+      "rating": 4.5,
+      "ratingCount": 45,
+      "viewCount": 245,
+      "downloadCount": 82
+    },
+    {
+      "id": 2,
+      "title": "Physics: Newton's Laws of Motion",
+      "description": "Interactive simulation exploring Newton's three laws",
+      "type": 7,
+      "subject": "Science",
+      "topics": ["Physics", "Motion", "Forces"],
+      "level": 2,
+      "gradeLevels": ["Grade 11", "Grade 12"],
+      "thumbnailUrl": "/images/content/newton-laws.jpg",
+      "contentUrl": "/content/simulations/newton-laws",
+      "fileSizeBytes": 15728640,
+      "fileFormat": "html5",
+      "durationMinutes": 30,
+      "author": "Dr. Johnson",
+      "createdDate": "2026-01-20T00:00:00Z",
+      "lastModified": "2026-02-05T00:00:00Z",
+      "tags": ["physics", "simulation", "motion"],
+      "suitableForLearningStyles": [2],
+      "license": 1,
+      "isPublished": true,
+      "rating": 4.8,
+      "ratingCount": 67,
+      "viewCount": 312,
+      "downloadCount": 0
+    },
+    {
+      "id": 3,
+      "title": "Shakespeare's Macbeth: Analysis",
+      "description": "Comprehensive study guide for Macbeth",
+      "type": 1,
+      "subject": "Literature",
+      "topics": ["Shakespeare", "Drama", "Analysis"],
+      "level": 2,
+      "gradeLevels": ["Grade 11", "Grade 12"],
+      "thumbnailUrl": "/images/content/macbeth.jpg",
+      "contentUrl": "/content/documents/macbeth-guide.pdf",
+      "fileSizeBytes": 2097152,
+      "fileFormat": "pdf",
+      "durationMinutes": 45,
+      "author": "Ms. Brown",
+      "createdDate": "2026-01-10T00:00:00Z",
+      "lastModified": "2026-01-25T00:00:00Z",
+      "tags": ["literature", "shakespeare", "drama"],
+      "suitableForLearningStyles": [3],
+      "license": 1,
+      "isPublished": true,
+      "rating": 4.2,
+      "ratingCount": 28,
+      "viewCount": 156,
+      "downloadCount": 94
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "name": "Algebra Essentials",
+      "description": "Complete algebra course for beginners",
+      "subject": "Mathematics",
+      "coverImageUrl": "/images/collections/algebra.jpg",
+      "contentItemIds": [1, 4, 5, 6],
+      "createdByTeacherId": 1,
+      "createdByTeacherName": "Mr. Smith",
+      "createdDate": "2026-01-20T00:00:00Z",
+      "isPublic": true,
+      "itemCount": 4,
+      "tags": ["algebra", "mathematics", "beginner"],
+      "averageRating": 4.4
+    },
+    {
+      "id": 2,
+      "name": "Physics Fundamentals",
+      "description": "Core physics concepts with interactive simulations",
+      "subject": "Science",
+      "coverImageUrl": "/images/collections/physics.jpg",
+      "contentItemIds": [2, 7, 8],
+      "createdByTeacherId": 2,
+      "createdByTeacherName": "Dr. Johnson",
+      "createdDate": "2026-01-25T00:00:00Z",
+      "isPublic": true,
+      "itemCount": 3,
+      "tags": ["physics", "science", "simulation"],
+      "averageRating": 4.7
+    }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "name": "Math Mastery Path",
+      "description": "Sequential learning path for mathematics",
+      "items": [
+        {
+          "contentId": 1,
+          "contentTitle": "Introduction to Algebra",
+          "orderIndex": 1,
+          "isRequired": true,
+          "notes": "Start here for algebra foundations"
+        },
+        {
+          "contentId": 4,
+          "contentTitle": "Solving Linear Equations",
+          "orderIndex": 2,
+          "isRequired": true,
+          "notes": null
+        }
+      ],
+      "createdByTeacherId": 1,
+      "createdDate": "2026-02-01T00:00:00Z",
+      "isPublic": true,
+      "totalDurationMinutes": 90,
+      "subject": "Mathematics"
+    }
+  ],
+  "assignments": [
+    {
+      "id": 1,
+      "contentId": 1,
+      "contentTitle": "Introduction to Algebra",
+      "assignedByTeacherId": 1,
+      "assignedByTeacherName": "Mr. Smith",
+      "studentIds": [1, 2, 3, 4, 5],
+      "classId": "Math-101",
+      "assignedDate": "2026-02-01T00:00:00Z",
+      "dueDate": "2026-02-15T23:59:59Z",
+      "isRequired": true,
+      "minimumScore": 70.0,
+      "instructions": "Watch the video and complete the practice exercises",
+      "completedCount": 3,
+      "totalAssigned": 5
+    }
+  ],
+  "contentAnalytics": [
+    {
+      "contentId": 1,
+      "contentTitle": "Introduction to Algebra",
+      "totalViews": 245,
+      "uniqueViewers": 178,
+      "averageCompletionRate": 87.5,
+      "averageTimeSpent": 22.3,
+      "averagePerformanceScore": 78.5,
+      "studentSatisfaction": 4.5,
+      "totalInteractions": 1234,
+      "lastAccessed": "2026-02-11T16:30:00Z"
+    },
+    {
+      "contentId": 2,
+      "contentTitle": "Physics: Newton's Laws of Motion",
+      "totalViews": 312,
+      "uniqueViewers": 245,
+      "averageCompletionRate": 92.0,
+      "averageTimeSpent": 28.5,
+      "averagePerformanceScore": 85.2,
+      "studentSatisfaction": 4.8,
+      "totalInteractions": 2156,
+      "lastAccessed": "2026-02-11T17:00:00Z"
+    }
+  ],
+  "interactiveElements": [
+    {
+      "id": 1,
+      "contentId": 2,
+      "type": 5,
+      "title": "Forces Simulation",
+      "configuration": {
+        "allowReset": true,
+        "showHints": true,
+        "difficulty": "medium"
+      },
+      "pointsValue": 10
+    },
+    {
+      "id": 2,
+      "contentId": 1,
+      "type": 3,
+      "title": "Algebraic Terms Matching",
+      "configuration": {
+        "terms": ["Variable", "Coefficient", "Constant", "Expression"],
+        "shuffle": true
+      },
+      "pointsValue": 5
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Woodlands Route",
+    "startLocation": "Woodlands Extension",
+    "endLocation": "Great North Road Academy",
+    "departureTime": "06:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Kabulonga Route",
+    "startLocation": "Kabulonga Shopping Centre",
+    "endLocation": "Great North Road Academy",
+    "departureTime": "06:45:00"
+  },
+  {
+    "id": 3,
+    "name": "Roma Route",
+    "startLocation": "Roma Roundabout",
+    "endLocation": "Great North Road Academy",
+    "departureTime": "06:50:00"
+  },
+  {
+    "id": 4,
+    "name": "Ibex Hill Route",
+    "startLocation": "Ibex Hill Shopping Mall",
+    "endLocation": "Great North Road Academy",
+    "departureTime": "07:00:00"
+  }
+]

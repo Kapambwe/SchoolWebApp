@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Mercy Chanda",
+    "feeType": "Tuition",
+    "amount": 2800.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Waived",
+    "term": "Term 1 2024",
+    "description": "Grade 12 tuition fees - Government bursary",
+    "paidDate": "2024-01-15",
+    "paymentMethod": "Bursary"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Thandiwe Mwila",
+    "feeType": "Tuition",
+    "amount": 2600.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Paid",
+    "term": "Term 1 2024",
+    "description": "Grade 11 tuition fees",
+    "paidDate": "2024-01-25",
+    "paymentMethod": "Mobile Money"
+  },
+  {
+    "id": 3,
+    "parentId": 3,
+    "studentId": 3,
+    "studentName": "Chipo Banda",
+    "feeType": "Tuition",
+    "amount": 2400.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Partially Paid",
+    "term": "Term 1 2024",
+    "description": "Grade 10 tuition fees",
+    "paidAmount": 1200.00,
+    "paidDate": "2024-01-20",
+    "paymentMethod": "Bank Transfer"
+  }
+]

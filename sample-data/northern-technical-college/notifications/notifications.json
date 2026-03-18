@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to NTC Portal",
+    "message": "Welcome to Northern Technical College online portal. Excellence in technical education.",
+    "createdAt": "2024-12-16T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Semester Results Published",
+    "message": "Your semester examination results are now available. Check your academic portal.",
+    "createdAt": "2024-12-15T11:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "type": "Warning",
+    "title": "Assignment Submission Reminder",
+    "message": "Your Engineering Mathematics assignment is due in 2 days. Submit on time.",
+    "createdAt": "2024-12-14T10:00:00Z",
+    "isRead": true
+  }
+]

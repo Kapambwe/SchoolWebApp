@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "accountCode": "1100",
+    "accountName": "Cash and Bank",
+    "accountType": "Asset",
+    "category": "CashAndBank",
+    "currentBalance": 1850000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "School's main cash account"
+  },
+  {
+    "id": 2,
+    "accountCode": "1200",
+    "accountName": "School Fees Receivable",
+    "accountType": "Asset",
+    "category": "AccountsReceivable",
+    "currentBalance": 420000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "Outstanding school fees from students"
+  },
+  {
+    "id": 3,
+    "accountCode": "4100",
+    "accountName": "Tuition Fee Revenue",
+    "accountType": "Revenue",
+    "category": "TuitionFees",
+    "currentBalance": 6800000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Revenue from student tuition fees"
+  },
+  {
+    "id": 4,
+    "accountCode": "4300",
+    "accountName": "Church Donations",
+    "accountType": "Revenue",
+    "category": "Donations",
+    "currentBalance": 850000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Donations from church and benefactors"
+  },
+  {
+    "id": 5,
+    "accountCode": "5100",
+    "accountName": "Staff Salaries",
+    "accountType": "Expense",
+    "category": "Salaries",
+    "currentBalance": 1450000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Monthly staff salaries and benefits"
+  },
+  {
+    "id": 6,
+    "accountCode": "5300",
+    "accountName": "Bursary and Scholarships",
+    "accountType": "Expense",
+    "category": "StudentAid",
+    "currentBalance": 380000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Student bursaries and scholarships"
+  },
+  {
+    "id": 7,
+    "accountCode": "5200",
+    "accountName": "Utilities and Maintenance",
+    "accountType": "Expense",
+    "category": "Operations",
+    "currentBalance": 280000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "Electricity, water, and facility maintenance"
+  }
+]

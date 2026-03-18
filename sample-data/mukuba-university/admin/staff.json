@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "MU-PROF-001",
+    "firstName": "Mwape",
+    "lastName": "Sichilima",
+    "email": "mwape.sichilima@mu.ac.zm",
+    "phoneNumber": "+260966345001",
+    "employmentDate": "2012-03-01",
+    "qualification": "PhD Education",
+    "subjectSpecialization": "Education",
+    "subjectsAssigned": ["Educational Psychology", "Curriculum Development", "Research Methods"],
+    "gradesAssigned": ["Year 2", "Year 3", "Year 4", "Masters"],
+    "workloadHours": 16,
+    "teachingHours": 12,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.8,
+    "createdDate": "2012-03-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "MU-PROF-002",
+    "firstName": "Heneri",
+    "lastName": "Shawa",
+    "email": "heneri.shawa@mu.ac.zm",
+    "phoneNumber": "+260966345002",
+    "employmentDate": "2010-08-15",
+    "qualification": "PhD Business Administration",
+    "subjectSpecialization": "Business Management",
+    "subjectsAssigned": ["Strategic Management", "Organizational Behavior", "Leadership"],
+    "gradesAssigned": ["Year 2", "Year 3", "Year 4"],
+    "workloadHours": 18,
+    "teachingHours": 14,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.9,
+    "createdDate": "2010-08-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

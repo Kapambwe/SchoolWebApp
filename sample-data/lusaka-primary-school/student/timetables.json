@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "dayOfWeek": "Monday",
+    "startTime": "08:00:00",
+    "endTime": "09:00:00",
+    "subject": "Mathematics",
+    "teacher": "Mr. Mutale Mwansa",
+    "room": "Room 101",
+    "studentId": 1,
+    "grade": "Grade 7",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 2,
+    "dayOfWeek": "Monday",
+    "startTime": "09:00:00",
+    "endTime": "10:00:00",
+    "subject": "Science",
+    "teacher": "Ms. Chola Mbewe",
+    "room": "Lab 1",
+    "studentId": 1,
+    "grade": "Grade 7",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 3,
+    "dayOfWeek": "Monday",
+    "startTime": "10:30:00",
+    "endTime": "11:30:00",
+    "subject": "English",
+    "teacher": "Mrs. Brown",
+    "room": "Room 202",
+    "studentId": 1,
+    "grade": "Grade 7",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  }
+]

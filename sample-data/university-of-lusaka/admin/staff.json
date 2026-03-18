@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "UNILUS-PROF-001",
+    "firstName": "Elizabeth",
+    "lastName": "Mwamba",
+    "email": "elizabeth.mwamba@unilus.ac.zm",
+    "phoneNumber": "+260955345001",
+    "employmentDate": "2011-03-01",
+    "qualification": "PhD Law",
+    "subjectSpecialization": "Law",
+    "subjectsAssigned": ["Constitutional Law", "Human Rights Law", "Legal Research"],
+    "gradesAssigned": ["Year 2", "Year 3", "Year 4", "Masters"],
+    "workloadHours": 16,
+    "teachingHours": 12,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.9,
+    "createdDate": "2011-03-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "UNILUS-PROF-002",
+    "firstName": "David",
+    "lastName": "Simwanza",
+    "email": "david.simwanza@unilus.ac.zm",
+    "phoneNumber": "+260955345002",
+    "employmentDate": "2009-08-15",
+    "qualification": "PhD Business Administration",
+    "subjectSpecialization": "Business Management",
+    "subjectsAssigned": ["Strategic Management", "International Business", "Corporate Governance"],
+    "gradesAssigned": ["Year 2", "Year 3", "Year 4", "MBA"],
+    "workloadHours": 18,
+    "teachingHours": 14,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.8,
+    "createdDate": "2009-08-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

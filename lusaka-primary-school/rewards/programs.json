@@ -1,0 +1,45 @@
+[
+  {
+    "id": "rwd-prog-001",
+    "tenantId": "lusaka-primary-school",
+    "name": "Student Achievement Rewards",
+    "description": "Points awarded for academic achievement and school participation",
+    "type": "Points",
+    "isActive": true,
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": null,
+    "rewardRates": {
+      "ExamTopScore": 500,
+      "PerfectAttendance": 200,
+      "Referral": 100
+    },
+    "minimumRedemptionAmount": 500,
+    "maxRewardsPerUser": 5000,
+    "currency": "POINTS",
+    "totalRewardsIssued": 12500,
+    "totalRewardsRedeemed": 3200,
+    "activeParticipants": 45,
+    "createdDate": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "rwd-prog-002",
+    "tenantId": "lusaka-primary-school",
+    "name": "Parent Loyalty Programme",
+    "description": "ZMW cashback for parents who pay fees early and refer new families",
+    "type": "Cash",
+    "isActive": true,
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": null,
+    "rewardRates": {
+      "EarlyPayment": 200,
+      "Referral": 500
+    },
+    "minimumRedemptionAmount": 200,
+    "maxRewardsPerUser": 5000,
+    "currency": "ZMW",
+    "totalRewardsIssued": 8000,
+    "totalRewardsRedeemed": 2500,
+    "activeParticipants": 28,
+    "createdDate": "2025-01-01T00:00:00Z"
+  }
+]

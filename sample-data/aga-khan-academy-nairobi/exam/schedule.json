@@ -1,0 +1,6 @@
+[
+  {"id":1,"examId":1,"date":"2025-04-07T08:00:00Z","startTime":"08:00:00","endTime":"10:00:00","room":"Hall A","invigilator":"Senior Staff"},
+  {"id":2,"examId":2,"date":"2025-04-08T08:00:00Z","startTime":"08:00:00","endTime":"10:30:00","room":"Hall B","invigilator":"Senior Staff"},
+  {"id":3,"examId":3,"date":"2025-04-09T08:00:00Z","startTime":"09:00:00","endTime":"11:00:00","room":"Hall A","invigilator":"Senior Staff"},
+  {"id":4,"examId":4,"date":"2025-04-10T08:00:00Z","startTime":"08:00:00","endTime":"09:30:00","room":"Lab 1","invigilator":"Senior Staff"}
+]

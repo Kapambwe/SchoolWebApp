@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Alumni Homecoming 2025",
+    "date": "2025-06-14T09:00:00Z",
+    "location": "Lusaka Primary School Main Hall"
+  },
+  {
+    "id": 2,
+    "name": "Career Day Mentorship Session",
+    "date": "2025-03-22T08:00:00Z",
+    "location": "School Assembly Ground"
+  },
+  {
+    "id": 3,
+    "name": "Alumni Fundraising Dinner",
+    "date": "2025-09-05T18:00:00Z",
+    "location": "Taj Pamodzi Hotel, Lusaka"
+  },
+  {
+    "id": 4,
+    "name": "Sports Day Alumni Match",
+    "date": "2025-05-10T10:00:00Z",
+    "location": "School Sports Field"
+  }
+]

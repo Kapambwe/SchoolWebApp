@@ -1,0 +1,46 @@
+[
+  {
+    "id": "gnra-rwd-001",
+    "tenantId": "great-north-road-academy",
+    "name": "Academic Excellence Rewards",
+    "description": "Points for academic achievement, leadership, and school contribution",
+    "type": "Points",
+    "isActive": true,
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": null,
+    "rewardRates": {
+      "ExamTopScore": 1000,
+      "PerfectAttendance": 300,
+      "Referral": 200
+    },
+    "minimumRedemptionAmount": 500,
+    "maxRewardsPerUser": 10000,
+    "currency": "POINTS",
+    "totalRewardsIssued": 22000,
+    "totalRewardsRedeemed": 7500,
+    "activeParticipants": 62,
+    "createdDate": "2025-01-01T00:00:00Z"
+  },
+  {
+    "id": "gnra-rwd-002",
+    "tenantId": "great-north-road-academy",
+    "name": "Parent Loyalty Rewards",
+    "description": "Fee discounts and merchandise for parents who actively support the school",
+    "type": "Discount",
+    "isActive": true,
+    "startDate": "2025-01-01T00:00:00Z",
+    "endDate": null,
+    "rewardRates": {
+      "EarlyPayment": 500,
+      "Referral": 1000,
+      "VolunteerHours": 100
+    },
+    "minimumRedemptionAmount": 500,
+    "maxRewardsPerUser": 5000,
+    "currency": "ZMW",
+    "totalRewardsIssued": 15000,
+    "totalRewardsRedeemed": 4500,
+    "activeParticipants": 35,
+    "createdDate": "2025-01-01T00:00:00Z"
+  }
+]

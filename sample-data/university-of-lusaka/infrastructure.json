@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 900,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Individual desks", "Air conditioning", "CCTV", "Sound system"],
+    "usageSchedule": "Examinations, Graduations, Conferences"
+  },
+  {
+    "id": 2,
+    "facilityName": "School of Law",
+    "facilityType": "Academic Building",
+    "capacity": 500,
+    "location": "Law Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-15",
+    "nextMaintenance": "2024-07-15",
+    "features": ["Moot court", "Law library", "Lecture halls", "Faculty offices"],
+    "usageSchedule": "Law programs, Moot court sessions"
+  },
+  {
+    "id": 3,
+    "facilityName": "School of Business",
+    "facilityType": "Academic Building",
+    "capacity": 700,
+    "location": "Business Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-12",
+    "nextMaintenance": "2024-07-12",
+    "features": ["Computer labs", "Business simulation center", "Lecture theatres"],
+    "usageSchedule": "Business programs, Executive education"
+  },
+  {
+    "id": 4,
+    "facilityName": "University Library",
+    "facilityType": "Library",
+    "capacity": 600,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2023-12-10",
+    "nextMaintenance": "2024-06-10",
+    "features": ["120,000 books", "E-library", "Research databases", "Study rooms", "24/7 access"],
+    "usageSchedule": "Reading, Research, Study sessions"
+  },
+  {
+    "id": 5,
+    "facilityName": "Innovation and Entrepreneurship Hub",
+    "facilityType": "Innovation Center",
+    "capacity": 150,
+    "location": "Innovation Park",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-20",
+    "nextMaintenance": "2024-07-20",
+    "features": ["Co-working spaces", "Startup incubator", "Mentorship programs", "Funding support"],
+    "usageSchedule": "Entrepreneurship programs, Startup support"
+  }
+]

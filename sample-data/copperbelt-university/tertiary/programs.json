@@ -1,0 +1,85 @@
+[
+  {
+    "Id": 1,
+    "Code": "BENG-ME",
+    "ProgramCode": "BENG-ME",
+    "Name": "Bachelor of Engineering in Mining Engineering",
+    "ProgramName": "Bachelor of Engineering in Mining Engineering",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 18500.00,
+    "Department": "Mining Engineering",
+    "Faculty": "Faculty of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "Engineering Institution of Zambia",
+    "Courses": [
+      { "CourseId": 1, "CourseCode": "ME101", "CourseName": "Mining Engineering Principles", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 2, "CourseCode": "ME201", "CourseName": "Rock Mechanics", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 3, "CourseCode": "ME301", "CourseName": "Mine Ventilation", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 4, "CourseCode": "EE101", "CourseName": "Circuit Analysis", "Year": 1, "Semester": 2, "IsRequired": true }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "BENG-EE",
+    "ProgramCode": "BENG-EE",
+    "Name": "Bachelor of Engineering in Electrical Engineering",
+    "ProgramName": "Bachelor of Engineering in Electrical Engineering",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 18500.00,
+    "Department": "Electrical Engineering",
+    "Faculty": "Faculty of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "Engineering Institution of Zambia",
+    "Courses": [
+      { "CourseId": 4, "CourseCode": "EE101", "CourseName": "Circuit Analysis", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 5, "CourseCode": "EE201", "CourseName": "Electronic Devices and Circuits", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 6, "CourseCode": "EE301", "CourseName": "Power Systems", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 7, "CourseCode": "CS101", "CourseName": "Introduction to Programming", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "BSC-CS",
+    "ProgramCode": "BSC-CS",
+    "Name": "Bachelor of Science in Computer Science",
+    "ProgramName": "Bachelor of Science in Computer Science",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 16500.00,
+    "Department": "Computer Science",
+    "Faculty": "Faculty of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "Engineering Institution of Zambia",
+    "Courses": [
+      { "CourseId": 7, "CourseCode": "CS101", "CourseName": "Introduction to Programming", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 8, "CourseCode": "CS201", "CourseName": "Data Structures and Algorithms", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 9, "CourseCode": "CS401", "CourseName": "Machine Learning", "Year": 4, "Semester": 1, "IsRequired": false },
+      { "CourseId": 4, "CourseCode": "EE101", "CourseName": "Circuit Analysis", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 4,
+    "Code": "MSC-ME",
+    "ProgramCode": "MSC-ME",
+    "Name": "Master of Science in Mining Engineering",
+    "ProgramName": "Master of Science in Mining Engineering",
+    "Type": 3,
+    "DurationYears": 2,
+    "TotalCreditHours": 240,
+    "TuitionFee": 24000.00,
+    "Department": "Mining Engineering",
+    "Faculty": "Faculty of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "Engineering Institution of Zambia",
+    "Courses": [
+      { "CourseId": 3, "CourseCode": "ME301", "CourseName": "Mine Ventilation", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 9, "CourseCode": "CS401", "CourseName": "Machine Learning", "Year": 1, "Semester": 2, "IsRequired": false },
+      { "CourseId": 2, "CourseCode": "ME201", "CourseName": "Rock Mechanics", "Year": 1, "Semester": 1, "IsRequired": true }
+    ]
+  }
+]

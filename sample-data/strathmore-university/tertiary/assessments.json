@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "Title": "BUS101 Quiz 1 - Economic Principles",
+    "Type": 0,
+    "AssessmentType": "Quiz",
+    "TotalMarks": 20.0,
+    "WeightPercentage": 10.0,
+    "DueDate": "2025-02-14T10:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 2,
+    "CourseId": 5,
+    "Title": "IT201 Mid-Term Test",
+    "Type": 2,
+    "AssessmentType": "Test",
+    "TotalMarks": 50.0,
+    "WeightPercentage": 25.0,
+    "DueDate": "2025-03-28T09:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 3,
+    "CourseId": 8,
+    "Title": "LAW101 Assignment - Case Analysis",
+    "Type": 1,
+    "AssessmentType": "Assignment",
+    "TotalMarks": 40.0,
+    "WeightPercentage": 20.0,
+    "DueDate": "2025-03-21T23:59:00Z",
+    "Status": 2,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 4,
+    "CourseId": 6,
+    "Title": "IT301 Final Examination",
+    "Type": 4,
+    "AssessmentType": "Final",
+    "TotalMarks": 100.0,
+    "WeightPercentage": 50.0,
+    "DueDate": "2025-06-13T09:00:00Z",
+    "Status": 0,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  }
+]

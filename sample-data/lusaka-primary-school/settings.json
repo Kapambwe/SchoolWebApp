@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "key": "school.name",
+    "value": "Lusaka Primary School",
+    "description": "Official name of the school"
+  },
+  {
+    "id": 2,
+    "key": "school.timezone",
+    "value": "Africa/Lusaka",
+    "description": "Default timezone for the school"
+  },
+  {
+    "id": 3,
+    "key": "school.currency",
+    "value": "ZMW",
+    "description": "Default currency for financial transactions"
+  },
+  {
+    "id": 4,
+    "key": "school.term.current",
+    "value": "Term 1 2025",
+    "description": "Current academic term"
+  },
+  {
+    "id": 5,
+    "key": "school.year.current",
+    "value": "2025",
+    "description": "Current academic year"
+  },
+  {
+    "id": 6,
+    "key": "notifications.email.enabled",
+    "value": "true",
+    "description": "Whether email notifications are enabled"
+  },
+  {
+    "id": 7,
+    "key": "notifications.sms.enabled",
+    "value": "true",
+    "description": "Whether SMS notifications are enabled"
+  }
+]

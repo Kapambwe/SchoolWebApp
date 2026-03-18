@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Mr. Daniel Phiri",
+    "studentId": 1,
+    "studentName": "Angela Mwanza",
+    "date": "2024-02-18",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Academic Progress Review",
+    "status": "Scheduled",
+    "location": "Accounting Department",
+    "agenda": "Discuss Angela's progress in accounting and CPA preparation",
+    "notes": ""
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "tenantId": "university-of-zimbabwe",
+  "displayName": "University of Zimbabwe",
+  "shortName": "UZ",
+  "country": "Zimbabwe",
+  "countryCode": "ZW",
+  "city": "Harare",
+  "address": "Mount Pleasant, Harare, Zimbabwe",
+  "phone": "+263 24 303 211",
+  "email": "info@uz.ac.zw",
+  "website": "https://www.uz.ac.zw",
+  "institutionType": "University",
+  "currency": "USD",
+  "timezone": "Africa/Harare",
+  "academicYearStart": "08-01",
+  "academicYearEnd": "06-30",
+  "logo": "/images/schools/uz-logo.png",
+  "primaryColor": "#006838",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": true,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": false,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": false,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

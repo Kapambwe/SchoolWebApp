@@ -1,0 +1,85 @@
+[
+  {
+    "Id": 1,
+    "Code": "BENG-CE",
+    "ProgramCode": "BENG-CE",
+    "Name": "Bachelor of Engineering in Computer Engineering",
+    "ProgramName": "Bachelor of Engineering in Computer Engineering",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 850000.00,
+    "Department": "Computer Engineering",
+    "Faculty": "College of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "Council for the Regulation of Engineering in Nigeria (COREN)",
+    "Courses": [
+      { "CourseId": 1, "CourseCode": "CE101", "CourseName": "Introduction to Computer Engineering", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 2, "CourseCode": "CE201", "CourseName": "Digital Logic Design", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 3, "CourseCode": "CE301", "CourseName": "Computer Architecture", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 7, "CourseCode": "BA101", "CourseName": "Principles of Management", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "BENG-CHE",
+    "ProgramCode": "BENG-CHE",
+    "Name": "Bachelor of Engineering in Chemical Engineering",
+    "ProgramName": "Bachelor of Engineering in Chemical Engineering",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 850000.00,
+    "Department": "Chemical Engineering",
+    "Faculty": "College of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "Council for the Regulation of Engineering in Nigeria (COREN)",
+    "Courses": [
+      { "CourseId": 4, "CourseCode": "CHE101", "CourseName": "Chemical Engineering Fundamentals", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 5, "CourseCode": "CHE201", "CourseName": "Thermodynamics", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 6, "CourseCode": "CHE301", "CourseName": "Reaction Engineering", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 1, "CourseCode": "CE101", "CourseName": "Introduction to Computer Engineering", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "BSC-BA",
+    "ProgramCode": "BSC-BA",
+    "Name": "Bachelor of Science in Business Administration",
+    "ProgramName": "Bachelor of Science in Business Administration",
+    "Type": 2,
+    "DurationYears": 3,
+    "TotalCreditHours": 360,
+    "TuitionFee": 750000.00,
+    "Department": "Business Administration",
+    "Faculty": "College of Business and Social Sciences",
+    "IsAccredited": true,
+    "AccreditationBody": "National Universities Commission Nigeria",
+    "Courses": [
+      { "CourseId": 7, "CourseCode": "BA101", "CourseName": "Principles of Management", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 8, "CourseCode": "BA201", "CourseName": "Marketing Management", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 9, "CourseCode": "BA301", "CourseName": "Strategic Management", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 4, "CourseCode": "CHE101", "CourseName": "Chemical Engineering Fundamentals", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 4,
+    "Code": "MSC-IT",
+    "ProgramCode": "MSC-IT",
+    "Name": "Master of Science in Information Technology",
+    "ProgramName": "Master of Science in Information Technology",
+    "Type": 3,
+    "DurationYears": 2,
+    "TotalCreditHours": 240,
+    "TuitionFee": 1200000.00,
+    "Department": "Computer Engineering",
+    "Faculty": "College of Engineering",
+    "IsAccredited": true,
+    "AccreditationBody": "National Universities Commission Nigeria",
+    "Courses": [
+      { "CourseId": 3, "CourseCode": "CE301", "CourseName": "Computer Architecture", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 2, "CourseCode": "CE201", "CourseName": "Digital Logic Design", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 9, "CourseCode": "BA301", "CourseName": "Strategic Management", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "tenantId": "strathmore-university",
+  "displayName": "Strathmore University",
+  "shortName": "Strathmore",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "city": "Nairobi",
+  "address": "Ole Sangale Road, Madaraka, Nairobi",
+  "phone": "+254 20 606 155",
+  "email": "info@strathmore.edu",
+  "website": "https://www.strathmore.edu",
+  "institutionType": "University",
+  "currency": "KES",
+  "timezone": "Africa/Nairobi",
+  "academicYearStart": "09-01",
+  "academicYearEnd": "06-30",
+  "logo": "/images/schools/strathmore-logo.png",
+  "primaryColor": "#003366",
+  "secondaryColor": "#CC0000",
+  "features": {
+    "hasHostel": true,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": false,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": false,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

@@ -1,0 +1,6 @@
+[
+  {"id":1,"name":"Global Education Fund","organization":"GEF International","contactEmail":"grants@gef.org"},
+  {"id":2,"name":"African Development Bank","organization":"AfDB","contactEmail":"edu@afdb.org"},
+  {"id":3,"name":"USAID Education Program","organization":"USAID","contactEmail":"edu@usaid.gov"},
+  {"id":4,"name":"British Council Education","organization":"British Council","contactEmail":"grants@britishcouncil.org"}
+]

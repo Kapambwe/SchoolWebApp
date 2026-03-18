@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "unilus-prog-001",
+    "TenantId": "university-of-lusaka",
+    "Name": "Alumni Referral Program",
+    "Description": "Earn rewards for referring new students to University of Lusaka",
+    "Type": "Alumni",
+    "IsActive": true,
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 350.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 15,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 95,
+    "TotalConversions": 38,
+    "TotalRewardsPaid": 13300.00,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-01T00:00:00Z"
+  }
+]

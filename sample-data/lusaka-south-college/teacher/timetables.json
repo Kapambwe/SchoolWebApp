@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Financial Accounting",
+    "grade": "Year 2",
+    "classroom": "Lecture Hall A",
+    "studentCount": 45
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "NTC-LEC-001",
+    "firstName": "Catherine",
+    "lastName": "Banda",
+    "email": "catherine.banda@ntc.edu.zm",
+    "phoneNumber": "+260933345001",
+    "employmentDate": "2016-03-01",
+    "qualification": "MSc. Civil Engineering",
+    "subjectSpecialization": "Civil Engineering",
+    "subjectsAssigned": ["Structural Analysis", "Construction Technology", "Engineering Mathematics"],
+    "gradesAssigned": ["Year 1", "Year 2", "Year 3"],
+    "workloadHours": 20,
+    "teachingHours": 16,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.7,
+    "createdDate": "2016-03-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "NTC-LEC-002",
+    "firstName": "Andrew",
+    "lastName": "Mwale",
+    "email": "andrew.mwale@ntc.edu.zm",
+    "phoneNumber": "+260933345002",
+    "employmentDate": "2014-08-15",
+    "qualification": "PhD Computer Science",
+    "subjectSpecialization": "Information Technology",
+    "subjectsAssigned": ["Programming", "Database Systems", "Network Administration"],
+    "gradesAssigned": ["Year 1", "Year 2", "Year 3"],
+    "workloadHours": 18,
+    "teachingHours": 15,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.8,
+    "createdDate": "2014-08-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

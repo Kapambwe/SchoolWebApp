@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "action": "UserLogin",
+    "user": "admin@gnracademy.edu.zm",
+    "date": "2025-02-24T07:00:00Z",
+    "details": "Admin user logged in successfully",
+    "userId": "gnra-admin-001"
+  },
+  {
+    "id": 2,
+    "action": "StudentAdmission",
+    "user": "registrar@gnracademy.edu.zm",
+    "date": "2025-02-24T09:15:00Z",
+    "details": "New student Wamunyima Lungu admitted to Grade 9",
+    "userId": "gnra-registrar-001"
+  },
+  {
+    "id": 3,
+    "action": "ExamCreated",
+    "user": "exams@gnracademy.edu.zm",
+    "date": "2025-02-24T11:00:00Z",
+    "details": "Grade 12 Physics Mock Exam scheduled for 24 March 2025",
+    "userId": "gnra-exams-001"
+  },
+  {
+    "id": 4,
+    "action": "FeePayment",
+    "user": "accounts@gnracademy.edu.zm",
+    "date": "2025-02-25T09:30:00Z",
+    "details": "Tuition fee payment of ZMW 12000 received for student ID 2",
+    "userId": "gnra-accounts-001"
+  },
+  {
+    "id": 5,
+    "action": "ReportGenerated",
+    "user": "admin@gnracademy.edu.zm",
+    "date": "2025-02-25T14:00:00Z",
+    "details": "Term 1 attendance report generated for all grades",
+    "userId": "gnra-admin-001"
+  },
+  {
+    "id": 6,
+    "action": "UserLogout",
+    "user": "admin@gnracademy.edu.zm",
+    "date": "2025-02-25T17:30:00Z",
+    "details": "Admin user logged out",
+    "userId": "gnra-admin-001"
+  }
+]

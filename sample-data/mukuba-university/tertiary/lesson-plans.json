@@ -1,0 +1,192 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "ED101",
+    "CourseName": "Education Psychology",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Foundations of Educational Psychology",
+    "LearningOutcomes": "Students will be able to define educational psychology, identify major theoretical frameworks, and explain the relevance of psychological principles to teaching practice in Zambia.",
+    "LectureTopics": [
+      "Overview of Educational Psychology as a discipline",
+      "Key theoretical perspectives: Behaviourism, Cognitivism, and Constructivism",
+      "The role of psychology in understanding the learner",
+      "Introduction to the Zambian educational context and learner diversity"
+    ],
+    "Materials": [
+      {
+        "Title": "Educational Psychology Foundations - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.mukuba.ac.zm/ed101/week1-slides.pdf"
+      },
+      {
+        "Title": "Woolfolk: Educational Psychology - Chapters 1-2",
+        "Type": 4,
+        "Url": "https://lms.mukuba.ac.zm/ed101/woolfolk-ch1-2.pdf"
+      }
+    ],
+    "AssessmentMethods": "In-class discussion participation, weekly reflection journal entry",
+    "Status": 5,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 301,
+    "FeedbackComments": "Excellent foundation lesson. Well structured with good contextualisation to the Zambian classroom.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "ED101",
+    "CourseName": "Education Psychology",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Cognitive Development Theories - Piaget and Vygotsky",
+    "LearningOutcomes": "Students will be able to describe Piaget's stages of cognitive development, explain Vygotsky's Zone of Proximal Development, and apply both theories to design age-appropriate instructional activities.",
+    "LectureTopics": [
+      "Piaget's four stages of cognitive development",
+      "Vygotsky's sociocultural theory and the Zone of Proximal Development",
+      "Comparing Piagetian and Vygotskian perspectives in classroom practice",
+      "Application of cognitive development theories in Zambian primary and secondary schools"
+    ],
+    "Materials": [
+      {
+        "Title": "Cognitive Development Theories - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.mukuba.ac.zm/ed101/week2-slides.pdf"
+      },
+      {
+        "Title": "Piaget and Vygotsky: Key Concepts Video Lecture",
+        "Type": 2,
+        "Url": "https://lms.mukuba.ac.zm/ed101/week2-video.mp4"
+      }
+    ],
+    "AssessmentMethods": "Group discussion, case study analysis of classroom scenarios",
+    "Status": 5,
+    "SubmittedDate": "2025-01-17T09:00:00Z",
+    "ApprovedDate": "2025-01-18T10:00:00Z",
+    "LecturerId": 301,
+    "FeedbackComments": "Good coverage of both theorists. Consider adding more local examples from Zambian classroom contexts.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-18T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 5,
+    "CourseCode": "BA201",
+    "CourseName": "Principles of Accounting",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Financial Accounting",
+    "LearningOutcomes": "Students will be able to explain the purpose of accounting, state the accounting equation, identify types of business transactions, and record basic journal entries using double-entry bookkeeping.",
+    "LectureTopics": [
+      "Overview of accounting as a business language and its role in decision-making",
+      "The accounting equation: Assets = Liabilities + Equity",
+      "Types of business transactions and source documents",
+      "Introduction to the double-entry bookkeeping system"
+    ],
+    "Materials": [
+      {
+        "Title": "Introduction to Financial Accounting - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.mukuba.ac.zm/ba201/week1-slides.pdf"
+      },
+      {
+        "Title": "Accounting Principles Lecture Notes",
+        "Type": 1,
+        "Url": "https://lms.mukuba.ac.zm/ba201/week1-notes.pdf"
+      },
+      {
+        "Title": "Practice Exercises: Journal Entries",
+        "Type": 3,
+        "Url": "https://lms.mukuba.ac.zm/ba201/week1-exercises.pdf"
+      }
+    ],
+    "AssessmentMethods": "Class exercises, homework journal entries, short quiz on the accounting equation",
+    "Status": 2,
+    "SubmittedDate": "2025-01-12T09:00:00Z",
+    "ApprovedDate": "2025-01-13T11:00:00Z",
+    "LecturerId": 302,
+    "FeedbackComments": "Clear introduction to accounting fundamentals. Practical exercises are well-designed and appropriate for the level.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-13T11:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 7,
+    "CourseCode": "NS101",
+    "CourseName": "Introduction to Biology",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Cell Biology and Microscopy",
+    "LearningOutcomes": "Students will be able to describe cell theory, distinguish between prokaryotic and eukaryotic cells, identify major organelles and their functions, and demonstrate proper use of a light microscope.",
+    "LectureTopics": [
+      "Cell theory and the history of cell biology",
+      "Structure and function of prokaryotic and eukaryotic cells",
+      "Cell organelles and their roles in cellular metabolism",
+      "Introduction to light microscopy: principles and laboratory techniques"
+    ],
+    "Materials": [
+      {
+        "Title": "Cell Biology and Microscopy - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.mukuba.ac.zm/ns101/week1-slides.pdf"
+      },
+      {
+        "Title": "Laboratory Guide: Using the Light Microscope",
+        "Type": 1,
+        "Url": "https://lms.mukuba.ac.zm/ns101/week1-lab-guide.pdf"
+      }
+    ],
+    "AssessmentMethods": "Laboratory practical report, in-class quiz on cell organelles and their functions",
+    "Status": 2,
+    "SubmittedDate": "2025-01-12T09:00:00Z",
+    "ApprovedDate": "2025-01-14T10:00:00Z",
+    "LecturerId": 303,
+    "FeedbackComments": "Well-structured introduction to cell biology. Laboratory component is practical and well-prepared for first-year students.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-14T10:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 9,
+    "CourseCode": "NS301",
+    "CourseName": "Environmental Science",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Environmental Degradation in the Copperbelt Region",
+    "LearningOutcomes": "Students will be able to identify major sources of environmental degradation in the Copperbelt, assess the impact of mining on local ecosystems, and propose community-level responses to environmental pollution.",
+    "LectureTopics": [
+      "Overview of environmental science and ecological systems",
+      "Mining activities and their environmental impact in the Copperbelt Province",
+      "Air, water, and soil pollution from copper smelting operations in Kitwe and Ndola",
+      "Community health implications of environmental degradation and pathways to remediation"
+    ],
+    "Materials": [
+      {
+        "Title": "Environmental Degradation in the Copperbelt - Lecture Slides",
+        "Type": 0,
+        "Url": "https://lms.mukuba.ac.zm/ns301/week1-slides.pdf"
+      },
+      {
+        "Title": "Copperbelt Environmental Pollution: Case Studies",
+        "Type": 4,
+        "Url": "https://lms.mukuba.ac.zm/ns301/week1-case-studies.pdf"
+      },
+      {
+        "Title": "Field Study Assignment: Local Environmental Assessment",
+        "Type": 3,
+        "Url": "https://lms.mukuba.ac.zm/ns301/week1-field-assignment.pdf"
+      }
+    ],
+    "AssessmentMethods": "Field observation report, group presentation on local environmental issues",
+    "Status": 1,
+    "SubmittedDate": "2025-01-15T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 303,
+    "FeedbackComments": "Submitted for review. Highly relevant topic for the Copperbelt region with strong community engagement component.",
+    "CreatedDate": "2025-01-13T08:00:00Z",
+    "LastUpdated": "2025-01-15T09:00:00Z"
+  }
+]

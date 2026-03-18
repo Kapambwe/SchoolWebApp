@@ -1,0 +1,53 @@
+[
+  {
+    "id": "bal-001",
+    "tenantId": "lusaka-primary-school",
+    "userId": "alumni-001",
+    "userType": "Alumni",
+    "programId": "rwd-prog-001",
+    "totalEarned": 1500.00,
+    "totalRedeemed": 500.00,
+    "pendingRewards": 200.00,
+    "availableBalance": 1000.00,
+    "totalReferrals": 3,
+    "totalConversions": 2,
+    "conversionRate": 0.67,
+    "lastEarnedDate": "2025-02-10T00:00:00Z",
+    "lastRedeemedDate": "2025-01-20T00:00:00Z",
+    "createdDate": "2024-01-05T00:00:00Z"
+  },
+  {
+    "id": "bal-002",
+    "tenantId": "lusaka-primary-school",
+    "userId": "parent-001",
+    "userType": "Parent",
+    "programId": "rwd-prog-002",
+    "totalEarned": 900.00,
+    "totalRedeemed": 200.00,
+    "pendingRewards": 0.00,
+    "availableBalance": 700.00,
+    "totalReferrals": 1,
+    "totalConversions": 1,
+    "conversionRate": 1.0,
+    "lastEarnedDate": "2025-01-15T00:00:00Z",
+    "lastRedeemedDate": "2025-01-25T00:00:00Z",
+    "createdDate": "2024-02-05T00:00:00Z"
+  },
+  {
+    "id": "bal-003",
+    "tenantId": "lusaka-primary-school",
+    "userId": "alumni-002",
+    "userType": "Alumni",
+    "programId": "rwd-prog-001",
+    "totalEarned": 800.00,
+    "totalRedeemed": 0.00,
+    "pendingRewards": 100.00,
+    "availableBalance": 800.00,
+    "totalReferrals": 2,
+    "totalConversions": 1,
+    "conversionRate": 0.50,
+    "lastEarnedDate": "2025-02-05T00:00:00Z",
+    "lastRedeemedDate": "2024-01-01T00:00:00Z",
+    "createdDate": "2024-01-10T00:00:00Z"
+  }
+]

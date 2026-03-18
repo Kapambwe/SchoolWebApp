@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "eventId": 1,
+    "studentId": 2,
+    "attended": true
+  },
+  {
+    "id": 2,
+    "eventId": 1,
+    "studentId": 3,
+    "attended": true
+  },
+  {
+    "id": 3,
+    "eventId": 3,
+    "studentId": 2,
+    "attended": true
+  },
+  {
+    "id": 4,
+    "eventId": 3,
+    "studentId": 3,
+    "attended": true
+  },
+  {
+    "id": 5,
+    "eventId": 4,
+    "studentId": 1,
+    "attended": true
+  },
+  {
+    "id": 6,
+    "eventId": 4,
+    "studentId": 4,
+    "attended": false
+  }
+]

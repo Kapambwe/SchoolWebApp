@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "teacherId": 2,
+    "teacherName": "Mr. James Tembo",
+    "subject": "Mathematics",
+    "academicYear": "2024",
+    "term": "Term 1",
+    "schedule": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "grade": "Grade 11A",
+            "room": "Math Lab 1",
+            "topic": "Algebra"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "grade": "Grade 12B",
+            "room": "Classroom A3",
+            "topic": "Calculus"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "grade": "Grade 10C",
+            "room": "Classroom A1",
+            "topic": "Geometry"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "grade": "Grade 11B",
+            "room": "Math Lab 1",
+            "topic": "Trigonometry"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "grade": "Grade 12A",
+            "room": "Classroom A3",
+            "topic": "Statistics"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "grade": "Grade 10A",
+            "room": "Classroom A1",
+            "topic": "Algebra"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "grade": "Grade 11A",
+            "room": "Math Lab 1",
+            "topic": "Functions"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "grade": "Grade 12B",
+            "room": "Classroom A3",
+            "topic": "Probability"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "grade": "Grade 11B",
+            "room": "Math Lab 1",
+            "topic": "Sequences"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "grade": "Grade 10C",
+            "room": "Classroom A1",
+            "topic": "Mensuration"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "grade": "Grade 12A",
+            "room": "Classroom A3",
+            "topic": "Integration"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "grade": "Grade 10A",
+            "room": "Classroom A1",
+            "topic": "Coordinate Geometry"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "grade": "Grade 11A",
+            "room": "Math Lab 1",
+            "topic": "Matrices"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "teacherId": 3,
+    "teacherName": "Mrs. Susan Chipeta",
+    "subject": "Chemistry",
+    "academicYear": "2024",
+    "term": "Term 1",
+    "schedule": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "grade": "Grade 11A",
+            "room": "Chemistry Lab",
+            "topic": "Organic Chemistry"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "grade": "Grade 12A",
+            "room": "Chemistry Lab",
+            "topic": "Physical Chemistry"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "grade": "Grade 12B",
+            "room": "Chemistry Lab",
+            "topic": "Analytical Chemistry"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "grade": "Grade 11B",
+            "room": "Chemistry Lab",
+            "topic": "Inorganic Chemistry"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "grade": "Grade 11A",
+            "room": "Chemistry Lab",
+            "topic": "Laboratory Practical"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "grade": "Grade 12A",
+            "room": "Chemistry Lab",
+            "topic": "Laboratory Practical"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "grade": "Grade 12B",
+            "room": "Chemistry Lab",
+            "topic": "Chemical Bonding"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "grade": "Grade 11B",
+            "room": "Chemistry Lab",
+            "topic": "Acids and Bases"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "periods": [
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "grade": "Grade 11A",
+            "room": "Chemistry Lab",
+            "topic": "Electrochemistry"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "grade": "Grade 12A",
+            "room": "Chemistry Lab",
+            "topic": "Thermodynamics"
+          }
+        ]
+      }
+    ]
+  }
+]

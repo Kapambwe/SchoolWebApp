@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "routeId": 1,
+    "vehicleId": 1,
+    "pickupLocation": "Plot 88, Woodlands",
+    "dropoffLocation": "Great North Road Academy",
+    "pickupTime": "06:35:00"
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "routeId": 2,
+    "vehicleId": 2,
+    "pickupLocation": "Plot 12, Kabulonga",
+    "dropoffLocation": "Great North Road Academy",
+    "pickupTime": "06:48:00"
+  },
+  {
+    "id": 3,
+    "studentId": 3,
+    "routeId": 3,
+    "vehicleId": 3,
+    "pickupLocation": "Plot 45, Roma",
+    "dropoffLocation": "Great North Road Academy",
+    "pickupTime": "06:55:00"
+  },
+  {
+    "id": 4,
+    "studentId": 5,
+    "routeId": 4,
+    "vehicleId": 4,
+    "pickupLocation": "Plot 67, Ibex Hill",
+    "dropoffLocation": "Great North Road Academy",
+    "pickupTime": "07:05:00"
+  }
+]

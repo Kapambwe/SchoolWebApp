@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Grace Tembo",
+    "studentId": 1,
+    "studentName": "Chanda Mulenga",
+    "date": "2024-02-20",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Academic Progress Review",
+    "status": "Scheduled",
+    "location": "Mathematics Department Office",
+    "agenda": "Discuss Chanda's Grade 12 preparation and university application strategy",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "teacherId": 3,
+    "teacherName": "Patricia Zulu",
+    "studentId": 2,
+    "studentName": "Natasha Banda",
+    "date": "2024-01-28",
+    "time": "15:00",
+    "duration": 25,
+    "type": "Parent-Teacher Conference",
+    "status": "Completed",
+    "location": "English Department",
+    "agenda": "Review Natasha's English Literature performance",
+    "notes": "Natasha shows excellent analytical skills in literature. Recommended for advanced placement."
+  },
+  {
+    "id": 3,
+    "parentId": 3,
+    "teacherId": 2,
+    "teacherName": "Moses Mwanza",
+    "studentId": 3,
+    "studentName": "Mwape Chisanga",
+    "date": "2024-02-15",
+    "time": "13:30",
+    "duration": 30,
+    "type": "Subject Selection Guidance",
+    "status": "Scheduled",
+    "location": "Science Laboratory",
+    "agenda": "Discuss science stream subject choices for Grade 11",
+    "notes": ""
+  }
+]

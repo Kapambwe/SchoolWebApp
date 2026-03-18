@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "facilityName": "School Chapel",
+    "facilityType": "Chapel",
+    "capacity": 400,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Altar", "Pews", "Sound system", "Organ", "Stained glass windows"],
+    "usageSchedule": "Daily mass, Chapel services, Religious ceremonies"
+  },
+  {
+    "id": 2,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 350,
+    "location": "Academic Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-15",
+    "nextMaintenance": "2024-06-15",
+    "features": ["Individual desks", "Ventilation", "CCTV"],
+    "usageSchedule": "Examinations, Assemblies"
+  },
+  {
+    "id": 3,
+    "facilityName": "Science Laboratory",
+    "facilityType": "Laboratory",
+    "capacity": 40,
+    "location": "Science Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-05",
+    "nextMaintenance": "2024-07-05",
+    "features": ["Lab benches", "Chemical storage", "Safety equipment", "Microscopes"],
+    "usageSchedule": "Biology, Chemistry, Physics practicals"
+  },
+  {
+    "id": 4,
+    "facilityName": "Library and Resource Center",
+    "facilityType": "Library",
+    "capacity": 100,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2023-11-20",
+    "nextMaintenance": "2024-05-20",
+    "features": ["10,000 books", "Religious texts collection", "Study areas", "Computer terminals"],
+    "usageSchedule": "Reading, Research, Study sessions"
+  },
+  {
+    "id": 5,
+    "facilityName": "Sports Field",
+    "facilityType": "Sports Facility",
+    "capacity": 300,
+    "location": "Outdoor Area",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-09-15",
+    "nextMaintenance": "2024-03-15",
+    "features": ["Netball courts", "Volleyball court", "Running track"],
+    "usageSchedule": "Physical Education, Sports events"
+  }
+]

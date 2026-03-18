@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "dayOfWeek": "Monday",
+    "startTime": "08:00:00",
+    "endTime": "10:00:00",
+    "subject": "Artificial Intelligence",
+    "teacher": "Dr. Charity Siame",
+    "room": "Computer Lab 3",
+    "studentId": 1,
+    "grade": "Year 3",
+    "term": "Semester 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 2,
+    "dayOfWeek": "Monday",
+    "startTime": "10:15:00",
+    "endTime": "12:15:00",
+    "subject": "Data Science",
+    "teacher": "Dr. Charity Siame",
+    "room": "Lecture Theatre 1",
+    "studentId": 1,
+    "grade": "Year 3",
+    "term": "Semester 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  }
+]

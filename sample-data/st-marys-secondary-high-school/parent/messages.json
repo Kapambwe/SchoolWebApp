@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Francis Zulu",
+    "senderType": "Teacher",
+    "subject": "Natasha's Leadership Role",
+    "message": "Dear Mr. Sakala, I'm pleased to inform you that Natasha has been selected as the head of the Christian Union. She demonstrates excellent leadership and spiritual maturity.",
+    "date": "2024-01-28",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Natasha Sakala"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "senderId": 3,
+    "senderName": "Sister Mary Mwape",
+    "senderType": "Admin",
+    "subject": "Scholarship Renewal Confirmation",
+    "message": "Dear Mrs. Phiri, We are delighted to inform you that Mercy's church scholarship has been renewed for the next academic year based on her excellent performance.",
+    "date": "2024-02-01",
+    "isRead": false,
+    "priority": "High",
+    "studentId": 2,
+    "studentName": "Mercy Phiri"
+  }
+]

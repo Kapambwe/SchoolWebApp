@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Chemistry Lab Report - Acids and Bases",
+    "subject": "Chemistry",
+    "description": "Complete practical report on acid-base titration experiment",
+    "dueDate": "2024-12-20T23:59:59Z",
+    "maxScore": 60,
+    "status": "InProgress",
+    "studentId": 1,
+    "teacherId": 1,
+    "grade": "Grade 12",
+    "assignedDate": "2024-12-13T00:00:00Z",
+    "weightPercentage": 15,
+    "createdDate": "2024-12-13T00:00:00Z",
+    "createdBy": "Ruth Mwila"
+  },
+  {
+    "id": 2,
+    "title": "English Literature Essay",
+    "subject": "English Literature",
+    "description": "Analyze the role of women in African literature",
+    "dueDate": "2024-12-24T23:59:59Z",
+    "maxScore": 100,
+    "status": "NotStarted",
+    "studentId": 2,
+    "teacherId": 3,
+    "grade": "Grade 11",
+    "assignedDate": "2024-12-15T00:00:00Z",
+    "createdDate": "2024-12-15T00:00:00Z",
+    "createdBy": "Esther Zulu",
+    "allowLateSubmission": true,
+    "latePenaltyPercentage": 10
+  },
+  {
+    "id": 3,
+    "title": "Life Skills Project",
+    "subject": "Life Skills",
+    "description": "Create a presentation on women leadership in Zambia",
+    "dueDate": "2024-12-22T23:59:59Z",
+    "maxScore": 50,
+    "status": "NotStarted",
+    "studentId": 3,
+    "teacherId": 2,
+    "grade": "Grade 10",
+    "assignedDate": "2024-12-14T00:00:00Z",
+    "createdDate": "2024-12-14T00:00:00Z",
+    "createdBy": "Margaret Chilufya"
+  }
+]

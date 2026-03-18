@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 300,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-08",
+    "nextMaintenance": "2024-07-08",
+    "features": ["Individual desks", "Ventilation", "CCTV"],
+    "usageSchedule": "Examinations, Assemblies, Events"
+  },
+  {
+    "id": 2,
+    "facilityName": "Science Laboratory",
+    "facilityType": "Laboratory",
+    "capacity": 40,
+    "location": "Science Block",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-12",
+    "nextMaintenance": "2024-07-12",
+    "features": ["Lab benches", "Chemical storage", "Safety equipment", "Modern apparatus"],
+    "usageSchedule": "Chemistry, Biology, Physics practicals"
+  },
+  {
+    "id": 3,
+    "facilityName": "Girls Empowerment Center",
+    "facilityType": "Resource Center",
+    "capacity": 60,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2023-12-15",
+    "nextMaintenance": "2024-06-15",
+    "features": ["Mentorship rooms", "Library", "Computer terminals", "Meeting spaces"],
+    "usageSchedule": "Mentorship programs, Life skills sessions, Study groups"
+  },
+  {
+    "id": 4,
+    "facilityName": "Library",
+    "facilityType": "Library",
+    "capacity": 100,
+    "location": "Academic Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-11-10",
+    "nextMaintenance": "2024-05-10",
+    "features": ["8,000 books", "Study areas", "Computer access", "Reference section"],
+    "usageSchedule": "Reading, Research, Study sessions"
+  },
+  {
+    "id": 5,
+    "facilityName": "Sports Complex",
+    "facilityType": "Sports Facility",
+    "capacity": 250,
+    "location": "Sports Ground",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-10-20",
+    "nextMaintenance": "2024-04-20",
+    "features": ["Netball courts", "Volleyball court", "Basketball court", "Running track"],
+    "usageSchedule": "Physical Education, Sports events, Inter-school competitions"
+  }
+]

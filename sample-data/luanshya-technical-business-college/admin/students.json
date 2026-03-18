@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "admissionNumber": "LTBC2024001",
+    "firstName": "Isaac",
+    "lastName": "Mulenga",
+    "dateOfBirth": "2004-06-20",
+    "gender": "Male",
+    "grade": "Year 2",
+    "stream": "Diploma in Electrical Engineering",
+    "admissionDate": "2023-01-10",
+    "status": "Admitted",
+    "parentGuardianName": "Mary Mulenga",
+    "parentGuardianPhone": "+260911234001",
+    "sponsorshipType": "Self",
+    "nationality": "Zambia",
+    "createdDate": "2023-01-10T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "admissionNumber": "LTBC2024002",
+    "firstName": "Chipo",
+    "lastName": "Chola",
+    "dateOfBirth": "2005-03-15",
+    "gender": "Female",
+    "grade": "Year 1",
+    "stream": "Diploma in Business Administration",
+    "admissionDate": "2024-01-08",
+    "status": "Admitted",
+    "parentGuardianName": "Peter Chola",
+    "parentGuardianPhone": "+260911234002",
+    "sponsorshipType": "Bursary",
+    "nationality": "Zambia",
+    "createdDate": "2024-01-08T00:00:00Z",
+    "createdBy": "System"
+  }
+]

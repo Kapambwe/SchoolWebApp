@@ -1,0 +1,29 @@
+[
+  {
+    "id": "conv-001",
+    "tenantId": "lusaka-primary-school",
+    "linkId": "link-001",
+    "sessionId": "sess-a1b2c3",
+    "conversionValue": 4500.00,
+    "conversionType": "Enrollment",
+    "conversionDate": "2025-01-15T10:00:00Z"
+  },
+  {
+    "id": "conv-002",
+    "tenantId": "lusaka-primary-school",
+    "linkId": "link-002",
+    "sessionId": "sess-d4e5f6",
+    "conversionValue": 4500.00,
+    "conversionType": "Enrollment",
+    "conversionDate": "2025-01-20T09:00:00Z"
+  },
+  {
+    "id": "conv-003",
+    "tenantId": "lusaka-primary-school",
+    "linkId": "link-003",
+    "sessionId": "sess-g7h8i9",
+    "conversionValue": 4500.00,
+    "conversionType": "Registration",
+    "conversionDate": "2025-01-25T14:00:00Z"
+  }
+]

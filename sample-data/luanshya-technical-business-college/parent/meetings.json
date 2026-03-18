@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Mrs. Beatrice Chola",
+    "studentId": 1,
+    "studentName": "Isaac Mulenga",
+    "date": "2024-02-18",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Academic Progress Review",
+    "status": "Scheduled",
+    "location": "Engineering Department",
+    "agenda": "Discuss Isaac's progress in power systems",
+    "notes": ""
+  }
+]

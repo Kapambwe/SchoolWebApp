@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "number": "INV-GNRA-2025-001",
+    "date": "2025-01-06T00:00:00Z",
+    "amount": 45000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "number": "INV-GNRA-2025-002",
+    "date": "2025-01-22T00:00:00Z",
+    "amount": 28000.00,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "number": "INV-GNRA-2025-003",
+    "date": "2025-02-10T00:00:00Z",
+    "amount": 65000.00,
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "number": "INV-GNRA-2025-004",
+    "date": "2025-02-20T00:00:00Z",
+    "amount": 17500.00,
+    "status": "Overdue"
+  },
+  {
+    "id": 5,
+    "number": "INV-GNRA-2025-005",
+    "date": "2025-03-02T00:00:00Z",
+    "amount": 38000.00,
+    "status": "Pending"
+  }
+]

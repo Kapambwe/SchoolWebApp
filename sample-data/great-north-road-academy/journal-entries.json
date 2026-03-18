@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "2025-01-08T00:00:00Z",
+    "description": "Tuition fees received for Term 1 2025",
+    "amount": 480000.00
+  },
+  {
+    "id": 2,
+    "date": "2025-01-31T00:00:00Z",
+    "description": "Monthly staff salaries disbursement",
+    "amount": 226000.00
+  },
+  {
+    "id": 3,
+    "date": "2025-02-05T00:00:00Z",
+    "description": "Laboratory supplies purchased",
+    "amount": 28000.00
+  },
+  {
+    "id": 4,
+    "date": "2025-02-15T00:00:00Z",
+    "description": "IT equipment maintenance fee",
+    "amount": 14500.00
+  },
+  {
+    "id": 5,
+    "date": "2025-02-28T00:00:00Z",
+    "description": "Sports uniform and equipment procurement",
+    "amount": 22000.00
+  }
+]

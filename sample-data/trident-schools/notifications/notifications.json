@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to Trident Schools Portal",
+    "message": "Your account has been successfully created. Explore the portal to access your academic information.",
+    "createdAt": "2024-12-16T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Grade 12 Mock Exam Results Published",
+    "message": "Your Grade 12 mock examination results are now available. Check your performance report.",
+    "createdAt": "2024-12-15T10:30:00Z",
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "type": "Warning",
+    "title": "Physics Assignment Due Tomorrow",
+    "message": "Reminder: Your Physics practical report is due tomorrow at 4:00 PM. Submit on time to avoid penalties.",
+    "createdAt": "2024-12-14T15:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": 4,
+    "type": "Error",
+    "title": "Outstanding Fees Notice",
+    "message": "Your account has outstanding fees of ZK 1,200. Please clear your balance to avoid suspension.",
+    "createdAt": "2024-12-13T09:00:00Z",
+    "isRead": false
+  }
+]

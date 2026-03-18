@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "accountCode": "1100",
+    "accountName": "Cash and Bank",
+    "accountType": "Asset",
+    "category": "CashAndBank",
+    "currentBalance": 1450000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "School's main cash account"
+  },
+  {
+    "id": 2,
+    "accountCode": "1200",
+    "accountName": "Training Fees Receivable",
+    "accountType": "Asset",
+    "category": "AccountsReceivable",
+    "currentBalance": 320000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "Outstanding training fees from students"
+  },
+  {
+    "id": 3,
+    "accountCode": "1400",
+    "accountName": "Workshop Equipment",
+    "accountType": "Asset",
+    "category": "FixedAssets",
+    "currentBalance": 2800000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Workshop tools and equipment"
+  },
+  {
+    "id": 4,
+    "accountCode": "4100",
+    "accountName": "Training Fee Revenue",
+    "accountType": "Revenue",
+    "category": "TuitionFees",
+    "currentBalance": 4200000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Revenue from student training fees"
+  },
+  {
+    "id": 5,
+    "accountCode": "4300",
+    "accountName": "TEVETA Grants",
+    "accountType": "Revenue",
+    "category": "Grants",
+    "currentBalance": 1500000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "TEVETA training grants"
+  },
+  {
+    "id": 6,
+    "accountCode": "5100",
+    "accountName": "Instructor Salaries",
+    "accountType": "Expense",
+    "category": "Salaries",
+    "currentBalance": 980000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Monthly instructor salaries"
+  },
+  {
+    "id": 7,
+    "accountCode": "5400",
+    "accountName": "Workshop Materials",
+    "accountType": "Expense",
+    "category": "Materials",
+    "currentBalance": 450000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Workshop consumables and materials"
+  }
+]

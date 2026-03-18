@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Constitutional Law",
+    "grade": "Year 3",
+    "topic": "Separation of Powers in Zambian Constitution",
+    "date": "2024-01-22",
+    "duration": 120,
+    "objectives": [
+      "Students will understand the principle of separation of powers",
+      "Students will analyze the Zambian constitutional framework",
+      "Students will apply constitutional principles to case law"
+    ],
+    "activities": [
+      "Lecture on separation of powers",
+      "Case law analysis",
+      "Moot court simulation",
+      "Group discussions"
+    ],
+    "resources": ["Zambian Constitution", "Case law reports", "Legal textbooks"],
+    "assessment": "Moot court performance and legal memorandum",
+    "homework": "Research recent constitutional cases",
+    "status": "In Progress"
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "subject": "Strategic Management",
+    "grade": "Year 2",
+    "topic": "Competitive Strategy and Market Analysis",
+    "date": "2024-01-23",
+    "duration": 120,
+    "objectives": [
+      "Students will understand competitive strategy frameworks",
+      "Students will conduct market analysis",
+      "Students will develop strategic recommendations"
+    ],
+    "activities": [
+      "Lecture on Porter's Five Forces",
+      "Case study analysis",
+      "Group strategy presentations",
+      "Business simulation"
+    ],
+    "resources": ["Strategic management textbook", "Case studies", "Business simulation software"],
+    "assessment": "Strategic analysis report and presentation",
+    "homework": "Complete industry analysis",
+    "status": "Planned"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Mwelwa",
+    "lastName": "Chipoya",
+    "graduationYear": 2018,
+    "currentOccupation": "Electrical Engineer at ZESCO"
+  },
+  {
+    "id": 2,
+    "firstName": "Siwali",
+    "lastName": "Hamutele",
+    "graduationYear": 2019,
+    "currentOccupation": "Doctor, UTH Lusaka"
+  },
+  {
+    "id": 3,
+    "firstName": "Chibuye",
+    "lastName": "Musonda",
+    "graduationYear": 2020,
+    "currentOccupation": "Lawyer, Ellis & Co. Advocates"
+  },
+  {
+    "id": 4,
+    "firstName": "Mpundu",
+    "lastName": "Kayumba",
+    "graduationYear": 2021,
+    "currentOccupation": "Data Scientist at MTN Zambia"
+  },
+  {
+    "id": 5,
+    "firstName": "Taonga",
+    "lastName": "Muteba",
+    "graduationYear": 2022,
+    "currentOccupation": "MBA Student, Copperbelt University"
+  }
+]

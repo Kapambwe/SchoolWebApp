@@ -1,0 +1,50 @@
+[
+  {
+    "id": "link-001",
+    "tenantId": "lusaka-primary-school",
+    "programId": "prog-001",
+    "userId": "alumni-001",
+    "userType": "Alumni",
+    "uniqueCode": "ALM001LP",
+    "url": "https://lusakaprimary.edu.zm/register?ref=ALM001LP",
+    "isActive": true,
+    "createdDate": "2024-01-05T00:00:00Z",
+    "expiryDate": null,
+    "totalClicks": 45,
+    "totalConversions": 3,
+    "totalRevenueGenerated": 4500.00,
+    "lastClickDate": "2024-01-28T14:30:00Z"
+  },
+  {
+    "id": "link-002",
+    "tenantId": "lusaka-primary-school",
+    "programId": "prog-001",
+    "userId": "alumni-002",
+    "userType": "Alumni",
+    "uniqueCode": "ALM002LP",
+    "url": "https://lusakaprimary.edu.zm/register?ref=ALM002LP",
+    "isActive": true,
+    "createdDate": "2024-01-10T00:00:00Z",
+    "expiryDate": null,
+    "totalClicks": 32,
+    "totalConversions": 2,
+    "totalRevenueGenerated": 3000.00,
+    "lastClickDate": "2024-01-25T10:15:00Z"
+  },
+  {
+    "id": "link-003",
+    "tenantId": "lusaka-primary-school",
+    "programId": "prog-002",
+    "userId": "parent-001",
+    "userType": "Parent",
+    "uniqueCode": "PAR001LP",
+    "url": "https://lusakaprimary.edu.zm/register?ref=PAR001LP",
+    "isActive": true,
+    "createdDate": "2024-02-05T00:00:00Z",
+    "expiryDate": null,
+    "totalClicks": 28,
+    "totalConversions": 2,
+    "totalRevenueGenerated": 3000.00,
+    "lastClickDate": "2024-02-20T16:45:00Z"
+  }
+]

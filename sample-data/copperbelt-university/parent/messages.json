@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Dr. Charity Siame",
+    "senderType": "Lecturer",
+    "subject": "Outstanding Research Work",
+    "message": "Dear Mrs. Mwansa, Kelvin's research on machine learning applications has been selected for presentation at the national ICT conference.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "High",
+    "studentId": 1,
+    "studentName": "Kelvin Mwansa"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "senderId": 2,
+    "senderName": "Prof. Naison Ngoma",
+    "senderType": "Professor",
+    "subject": "Industry Attachment Placement",
+    "message": "Hello Mrs. Chanda, Mwila has been placed at Konkola Copper Mines for her industry attachment. This is an excellent opportunity.",
+    "date": "2024-01-28",
+    "isRead": true,
+    "priority": "High",
+    "studentId": 2,
+    "studentName": "Mwila Chanda"
+  }
+]

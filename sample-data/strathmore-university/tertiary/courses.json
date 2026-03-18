@@ -1,0 +1,212 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "BUS101",
+    "CourseName": "Business Economics",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course examining economic principles as they apply to business decision-making. Topics include microeconomic fundamentals, market structures, the macroeconomic environment, and Kenya's economic landscape within the East African Community.",
+    "Department": "Business",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Explain core microeconomic and macroeconomic principles and their relevance to business",
+      "Analyse supply and demand dynamics and their effect on pricing and market equilibrium",
+      "Evaluate Kenya's economic environment and its implications for business strategy"
+    ],
+    "MaxEnrollment": 120,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "BUS201",
+    "CourseName": "Financial Management",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A comprehensive course in corporate financial management covering capital budgeting, working capital management, financing decisions, and financial risk. Students apply financial theory to case studies drawn from Kenyan and East African businesses.",
+    "Department": "Business",
+    "Prerequisites": ["BUS101"],
+    "LearningOutcomes": [
+      "Apply capital budgeting techniques including NPV and IRR to evaluate investment decisions",
+      "Analyse working capital management strategies and their impact on business liquidity",
+      "Assess financing options and their implications for a firm's capital structure"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "BUS301",
+    "CourseName": "International Business",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 1,
+    "Description": "An elective course exploring the dynamics of conducting business across international borders. Topics include globalisation, trade theory, foreign market entry strategies, cross-cultural management, and the role of African regional blocs such as the EAC and AfCFTA.",
+    "Department": "Business",
+    "Prerequisites": ["BUS201"],
+    "LearningOutcomes": [
+      "Evaluate international market entry strategies and their suitability for African enterprises",
+      "Analyse the impact of globalisation, trade agreements, and regional integration on business",
+      "Develop cross-cultural business communication and management strategies"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "IT101",
+    "CourseName": "Introduction to Information Systems",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "A foundational course introducing students to the role of information systems in organisations. Topics include IS concepts, hardware and software fundamentals, networking basics, data management, and the digital transformation landscape in Kenya.",
+    "Department": "Information Technology",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the components and types of information systems used in modern organisations",
+      "Explain fundamental concepts of computer hardware, software, and networking",
+      "Analyse the role of information systems in supporting organisational decision-making"
+    ],
+    "MaxEnrollment": 110,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "IT201",
+    "CourseName": "Database Management Systems",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A comprehensive study of database concepts, design, and management. Topics include the relational model, Entity-Relationship modelling, SQL, normalisation, transaction management, and database administration. Students gain hands-on experience with industry-standard DBMS tools.",
+    "Department": "Information Technology",
+    "Prerequisites": ["IT101"],
+    "LearningOutcomes": [
+      "Design a normalised relational database using Entity-Relationship modelling techniques",
+      "Write complex SQL queries for data retrieval, manipulation, and administration",
+      "Explain transaction management, concurrency control, and database security principles"
+    ],
+    "MaxEnrollment": 90,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "IT301",
+    "CourseName": "Software Engineering",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "An in-depth course covering the principles and practices of software engineering, from requirements analysis to deployment and maintenance. Students engage with SDLC models, agile methodologies, software testing, and project management using industry tools.",
+    "Department": "Information Technology",
+    "Prerequisites": ["IT201"],
+    "LearningOutcomes": [
+      "Apply software development life cycle models and agile methodologies to engineering projects",
+      "Produce software requirements specifications, design documents, and test plans",
+      "Manage a team-based software development project from inception to delivery"
+    ],
+    "MaxEnrollment": 75,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "IT401",
+    "CourseName": "Cybersecurity Fundamentals",
+    "Credits": 3,
+    "Level": 3,
+    "Type": 1,
+    "Description": "An elective course introducing the principles and practices of cybersecurity. Topics include threat landscapes, cryptography, network security, ethical hacking, incident response, and Kenya's cybersecurity regulatory framework under the Computer Misuse and Cybercrimes Act.",
+    "Department": "Information Technology",
+    "Prerequisites": ["IT301"],
+    "LearningOutcomes": [
+      "Identify common cybersecurity threats and vulnerabilities in organisational IT environments",
+      "Apply cryptographic techniques and network security controls to protect information assets",
+      "Analyse Kenya's legal and regulatory framework governing cybersecurity and data protection"
+    ],
+    "MaxEnrollment": 60,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "LAW101",
+    "CourseName": "Introduction to Law",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "A foundational course introducing the nature, sources, and systems of law with a focus on the Kenyan legal framework. Topics include the Constitution of Kenya 2010, the hierarchy of courts, the legislative process, and the doctrine of precedent.",
+    "Department": "Law",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Identify and explain the primary sources of law in Kenya including constitutional, statutory, and case law",
+      "Describe the structure of the Kenyan judiciary and the doctrine of precedent",
+      "Apply basic legal reasoning to analyse simple legal problems in the Kenyan context"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 9,
+    "CourseCode": "LAW201",
+    "CourseName": "Contract Law",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A detailed examination of the law of contract in Kenya. Topics include formation of contracts, terms, vitiating factors, discharge, breach, and remedies. Students analyse leading Kenyan and Commonwealth case law to develop legal reasoning and problem-solving skills.",
+    "Department": "Law",
+    "Prerequisites": ["LAW101"],
+    "LearningOutcomes": [
+      "Explain the essential elements required for the formation of a valid contract under Kenyan law",
+      "Identify and apply vitiating factors such as misrepresentation, duress, and undue influence",
+      "Advise on remedies available for breach of contract in the Kenyan legal system"
+    ],
+    "MaxEnrollment": 85,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 10,
+    "CourseCode": "LAW301",
+    "CourseName": "Commercial Law",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "An advanced course examining the legal framework governing commercial transactions in Kenya. Topics include sale of goods, agency, consumer protection, intellectual property, company law fundamentals, and emerging issues in e-commerce under Kenyan legislation.",
+    "Department": "Law",
+    "Prerequisites": ["LAW201"],
+    "LearningOutcomes": [
+      "Apply the Sale of Goods Act and consumer protection legislation to commercial disputes",
+      "Analyse the legal framework governing agency relationships and company formation in Kenya",
+      "Evaluate the legal implications of e-commerce and digital contracts under Kenyan law"
+    ],
+    "MaxEnrollment": 75,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

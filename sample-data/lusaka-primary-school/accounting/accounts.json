@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "accountCode": "1100",
+    "accountName": "Cash and Bank",
+    "accountType": "Asset",
+    "category": "CashAndBank",
+    "currentBalance": 850000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "School's main cash account"
+  },
+  {
+    "id": 2,
+    "accountCode": "1200",
+    "accountName": "School Fees Receivable",
+    "accountType": "Asset",
+    "category": "AccountsReceivable",
+    "currentBalance": 180000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "Outstanding school fees from students"
+  },
+  {
+    "id": 3,
+    "accountCode": "4100",
+    "accountName": "School Fees Revenue",
+    "accountType": "Revenue",
+    "category": "TuitionFees",
+    "currentBalance": 2500000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Revenue from student fees"
+  },
+  {
+    "id": 4,
+    "accountCode": "5100",
+    "accountName": "Teacher Salaries",
+    "accountType": "Expense",
+    "category": "Salaries",
+    "currentBalance": 420000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Monthly teacher salaries"
+  }
+]

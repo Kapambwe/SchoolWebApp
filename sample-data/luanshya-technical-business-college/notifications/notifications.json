@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to LTBC Portal",
+    "message": "Welcome to Luanshya Technical and Business College. Excellence in technical and business education.",
+    "createdAt": "2024-12-16T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Semester Results Published",
+    "message": "Your semester examination results are now available.",
+    "createdAt": "2024-12-15T10:00:00Z",
+    "isRead": true
+  }
+]

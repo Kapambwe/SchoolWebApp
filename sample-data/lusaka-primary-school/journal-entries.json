@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "2025-01-10T00:00:00Z",
+    "description": "School fees received from Term 1 students",
+    "amount": 125000.00
+  },
+  {
+    "id": 2,
+    "date": "2025-01-15T00:00:00Z",
+    "description": "Monthly teacher salaries paid",
+    "amount": 140000.00
+  },
+  {
+    "id": 3,
+    "date": "2025-01-20T00:00:00Z",
+    "description": "Electricity and water utility bills",
+    "amount": 12500.00
+  },
+  {
+    "id": 4,
+    "date": "2025-02-01T00:00:00Z",
+    "description": "Sports equipment purchase",
+    "amount": 8000.00
+  },
+  {
+    "id": 5,
+    "date": "2025-02-10T00:00:00Z",
+    "description": "Library book acquisition",
+    "amount": 15000.00
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Term 1 Mathematics Exam",
+    "subject": "Mathematics",
+    "date": "2025-04-01T08:00:00Z",
+    "duration": "02:00:00",
+    "maxMarks": 100,
+    "grade": "Grade 7"
+  },
+  {
+    "id": 2,
+    "name": "Term 1 English Language Exam",
+    "subject": "English Language",
+    "date": "2025-04-02T08:00:00Z",
+    "duration": "02:30:00",
+    "maxMarks": 100,
+    "grade": "Grade 7"
+  },
+  {
+    "id": 3,
+    "name": "Term 1 Integrated Science Exam",
+    "subject": "Integrated Science",
+    "date": "2025-04-03T08:00:00Z",
+    "duration": "02:00:00",
+    "maxMarks": 100,
+    "grade": "Grade 6"
+  },
+  {
+    "id": 4,
+    "name": "Term 1 Social Studies Exam",
+    "subject": "Social Studies",
+    "date": "2025-04-04T08:00:00Z",
+    "duration": "01:30:00",
+    "maxMarks": 80,
+    "grade": "Grade 8"
+  },
+  {
+    "id": 5,
+    "name": "Mid-Year Mathematics Assessment",
+    "subject": "Mathematics",
+    "date": "2025-07-10T08:00:00Z",
+    "duration": "01:30:00",
+    "maxMarks": 60,
+    "grade": "Grade 5"
+  }
+]

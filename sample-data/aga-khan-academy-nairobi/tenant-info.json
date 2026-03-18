@@ -1,0 +1,36 @@
+{
+  "tenantId": "aga-khan-academy-nairobi",
+  "displayName": "Aga Khan Academy Nairobi",
+  "shortName": "AKA Nairobi",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "city": "Nairobi",
+  "address": "Mbagathi Ridge, Nairobi",
+  "phone": "+254 20 366 5000",
+  "email": "info@agakhanacademy.ac.ke",
+  "website": "https://www.agakhanacademy.ac.ke",
+  "institutionType": "International",
+  "currency": "KES",
+  "timezone": "Africa/Nairobi",
+  "academicYearStart": "08-15",
+  "academicYearEnd": "06-15",
+  "logo": "/images/schools/agakhan-logo.png",
+  "primaryColor": "#006838",
+  "secondaryColor": "#C8102E",
+  "features": {
+    "hasHostel": true,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

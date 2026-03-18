@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "ltbc-link-001",
+    "TenantId": "luanshya-technical-business-college",
+    "ProgramId": "ltbc-prog-001",
+    "UserId": "user-ltbc-001",
+    "UserName": "Joseph Mwanza",
+    "UserEmail": "joseph.mwanza@alumni.ltbc.edu.zm",
+    "ReferralCode": "LTBC-ALUMNI-JM2024",
+    "ReferralUrl": "https://ltbc.edu.zm/apply?ref=LTBC-ALUMNI-JM2024",
+    "IsActive": true,
+    "ClickCount": 38,
+    "ConversionCount": 5,
+    "TotalRewardsEarned": 900.00,
+    "CreatedDate": "2024-01-10T00:00:00Z",
+    "LastUsedDate": "2024-02-09T00:00:00Z"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "examName": "Semester 1 Examination - Educational Psychology",
+    "subject": "Educational Psychology",
+    "grade": "Year 3",
+    "date": "2024-05-20",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Main Examination Hall",
+    "invigilator": "Dr. Mwape Sichilima",
+    "status": "Scheduled",
+    "instructions": "Answer all questions"
+  }
+]

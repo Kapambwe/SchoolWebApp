@@ -1,0 +1,22 @@
+[
+  {
+    "format": "dd/MM/yyyy",
+    "example": "24/02/2025"
+  },
+  {
+    "format": "MM/dd/yyyy",
+    "example": "02/24/2025"
+  },
+  {
+    "format": "yyyy-MM-dd",
+    "example": "2025-02-24"
+  },
+  {
+    "format": "dd MMM yyyy",
+    "example": "24 Feb 2025"
+  },
+  {
+    "format": "d MMMM yyyy",
+    "example": "24 February 2025"
+  }
+]

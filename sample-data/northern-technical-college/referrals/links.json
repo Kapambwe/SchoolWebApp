@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "ntc-link-001",
+    "TenantId": "northern-technical-college",
+    "ProgramId": "ntc-prog-001",
+    "UserId": "user-ntc-001",
+    "UserName": "David Mwape",
+    "UserEmail": "david.mwape@alumni.ntc.edu.zm",
+    "ReferralCode": "NTC-ALUMNI-DM2024",
+    "ReferralUrl": "https://ntc.edu.zm/apply?ref=NTC-ALUMNI-DM2024",
+    "IsActive": true,
+    "ClickCount": 45,
+    "ConversionCount": 6,
+    "TotalRewardsEarned": 1200.00,
+    "CreatedDate": "2024-01-10T00:00:00Z",
+    "LastUsedDate": "2024-02-09T00:00:00Z"
+  }
+]

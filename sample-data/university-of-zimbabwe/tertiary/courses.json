@@ -1,0 +1,212 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "MED101",
+    "CourseName": "Introduction to Medicine and Healthcare",
+    "Credits": 4,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course providing students with a broad understanding of medicine, healthcare delivery, and the Zimbabwean health system. Topics include the history of medicine, healthcare ethics, patient-centred care, and an overview of the major disease burdens in Zimbabwe.",
+    "Department": "Medicine",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the structure and function of Zimbabwe's national health system and key healthcare institutions",
+      "Explain fundamental medical ethics principles including informed consent, beneficence, and patient rights",
+      "Identify major disease burdens in Zimbabwe and the approaches used to address them"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "MED201",
+    "CourseName": "Human Anatomy",
+    "Credits": 5,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A comprehensive study of human gross and microscopic anatomy covering all major organ systems. Students engage in dissection-based learning and develop spatial understanding of anatomical structures relevant to clinical medicine.",
+    "Department": "Medicine",
+    "Prerequisites": ["MED101"],
+    "LearningOutcomes": [
+      "Identify and describe the gross anatomical structures of all major organ systems",
+      "Explain the histological composition of tissues and organs using microscopy",
+      "Relate anatomical knowledge to clinical presentations and medical procedures"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "MED301",
+    "CourseName": "Pathology",
+    "Credits": 5,
+    "Level": 2,
+    "Type": 0,
+    "Description": "A study of the mechanisms and manifestations of disease at the cellular and organ level. Students examine pathological processes including inflammation, neoplasia, and organ-specific diseases relevant to the Zimbabwean clinical context.",
+    "Department": "Medicine",
+    "Prerequisites": ["MED201"],
+    "LearningOutcomes": [
+      "Explain the cellular and molecular mechanisms underlying common pathological processes",
+      "Analyse pathological specimens and interpret their clinical significance",
+      "Apply knowledge of disease pathogenesis to understand clinical presentations and treatment approaches"
+    ],
+    "MaxEnrollment": 65,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "BCH101",
+    "CourseName": "Introduction to Biochemistry",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introduction to the chemical basis of life, including the structure and function of biomolecules such as carbohydrates, lipids, proteins, and nucleic acids. Students develop a foundational understanding of metabolic pathways and enzyme kinetics.",
+    "Department": "Biochemistry",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the structure and biological function of major classes of biomolecules",
+      "Explain key metabolic pathways including glycolysis, the citric acid cycle, and oxidative phosphorylation",
+      "Apply enzyme kinetics principles to understand enzymatic regulation and inhibition"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "BCH201",
+    "CourseName": "Molecular Biology",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "An examination of the molecular mechanisms underlying cellular processes, including DNA replication, transcription, translation, and gene regulation. Students explore recombinant DNA technology and its applications in medicine and research.",
+    "Department": "Biochemistry",
+    "Prerequisites": ["BCH101"],
+    "LearningOutcomes": [
+      "Explain the mechanisms of DNA replication, transcription, and translation at the molecular level",
+      "Describe gene regulatory mechanisms and their roles in cell differentiation and disease",
+      "Apply recombinant DNA and molecular cloning techniques to research and diagnostic contexts"
+    ],
+    "MaxEnrollment": 85,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "BCH301",
+    "CourseName": "Biochemical Techniques",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "A laboratory-focused course covering advanced biochemical analytical techniques including chromatography, electrophoresis, spectroscopy, and immunoassays. Students develop practical skills required for biochemical research and clinical laboratory work.",
+    "Department": "Biochemistry",
+    "Prerequisites": ["BCH201"],
+    "LearningOutcomes": [
+      "Perform and interpret results from core biochemical laboratory techniques including gel electrophoresis and HPLC",
+      "Select appropriate analytical methods for specific biochemical research questions",
+      "Apply quality control principles and data analysis methods to laboratory experiments"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "HIS101",
+    "CourseName": "Introduction to African History",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "A broad survey of African history from ancient civilisations to the era of colonisation, examining pre-colonial states, societies, and cultures across the continent. The course challenges Eurocentric historical narratives and foregrounds African agency and scholarship.",
+    "Department": "Humanities",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe major pre-colonial African civilisations and their political, economic, and cultural achievements",
+      "Analyse the causes and consequences of the transatlantic slave trade and European colonisation of Africa",
+      "Apply African-centred historiographical perspectives to critically evaluate historical sources"
+    ],
+    "MaxEnrollment": 120,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "HIS201",
+    "CourseName": "Zimbabwe: Colonial and Post-Colonial History",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "An in-depth study of Zimbabwe's history from British colonial rule through the liberation struggle to independence and post-independence developments. Topics include the Rhodesian era, UDI, Chimurenga, and nation-building after 1980.",
+    "Department": "Humanities",
+    "Prerequisites": ["HIS101"],
+    "LearningOutcomes": [
+      "Trace the key events of Zimbabwe's colonial history from the 1890s to UDI and independence",
+      "Analyse the causes, course, and consequences of the Zimbabwe liberation struggle",
+      "Evaluate the political, economic, and social challenges of post-independence nation-building in Zimbabwe"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 9,
+    "CourseCode": "HIS301",
+    "CourseName": "Oral Traditions and Historical Research Methods",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 1,
+    "Description": "An exploration of oral traditions as historical sources in African contexts, alongside training in qualitative and quantitative historical research methods. Students conduct original primary research using archives, oral interviews, and digital humanities tools.",
+    "Department": "Humanities",
+    "Prerequisites": ["HIS201"],
+    "LearningOutcomes": [
+      "Evaluate the methodological strengths and limitations of oral traditions as historical evidence",
+      "Design and conduct primary research projects using archival and oral history methods",
+      "Critically analyse and present historical research findings in academic writing"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 10,
+    "CourseCode": "PHY101",
+    "CourseName": "General Physics",
+    "Credits": 4,
+    "Level": 0,
+    "Type": 0,
+    "Description": "A foundational course in classical and modern physics covering mechanics, thermodynamics, waves, and electromagnetism. Students develop quantitative problem-solving skills and conduct laboratory experiments that reinforce theoretical concepts.",
+    "Department": "Physics",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Apply Newton's laws and principles of kinematics to solve problems in mechanics",
+      "Explain the laws of thermodynamics and their applications in physical and engineering systems",
+      "Describe the behaviour of electromagnetic waves and the principles of electromagnetism"
+    ],
+    "MaxEnrollment": 110,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

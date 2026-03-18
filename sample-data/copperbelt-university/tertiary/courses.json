@@ -1,0 +1,191 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "ME101",
+    "CourseName": "Mining Engineering Principles",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Introduction to mining engineering fundamentals including surface and underground mining methods, mine planning, and environmental considerations.",
+    "Department": "Mining Engineering",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Understand basic mining methods",
+      "Apply safety principles in mining operations",
+      "Analyse environmental impact of mining activities"
+    ],
+    "MaxEnrollment": 60,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "ME201",
+    "CourseName": "Rock Mechanics",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Study of mechanical behaviour of rock and rock masses, stress analysis, and applications in mining and tunnelling.",
+    "Department": "Mining Engineering",
+    "Prerequisites": ["ME101"],
+    "LearningOutcomes": [
+      "Analyse rock stress and strain",
+      "Apply rock mechanics principles to mine design",
+      "Evaluate slope stability"
+    ],
+    "MaxEnrollment": 50,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "ME301",
+    "CourseName": "Mine Ventilation",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "Principles of mine ventilation systems, airflow control, dust management, and regulatory compliance.",
+    "Department": "Mining Engineering",
+    "Prerequisites": ["ME201"],
+    "LearningOutcomes": [
+      "Design ventilation systems for underground mines",
+      "Apply airflow measurement techniques",
+      "Ensure regulatory compliance"
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "EE101",
+    "CourseName": "Circuit Analysis",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Fundamentals of electric circuits including DC and AC analysis, network theorems, and circuit simulation.",
+    "Department": "Electrical Engineering",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Analyse DC and AC circuits",
+      "Apply Kirchhoff laws and network theorems",
+      "Use circuit simulation software"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "EE201",
+    "CourseName": "Electronic Devices and Circuits",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Study of semiconductor devices, diodes, transistors, operational amplifiers and their circuit applications.",
+    "Department": "Electrical Engineering",
+    "Prerequisites": ["EE101"],
+    "LearningOutcomes": [
+      "Explain operation of semiconductor devices",
+      "Design basic amplifier circuits",
+      "Analyse operational amplifier circuits"
+    ],
+    "MaxEnrollment": 60,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "EE301",
+    "CourseName": "Power Systems",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "Analysis and design of electrical power systems including generation, transmission, distribution, and load management.",
+    "Department": "Electrical Engineering",
+    "Prerequisites": ["EE201"],
+    "LearningOutcomes": [
+      "Analyse power system components",
+      "Perform load flow analysis",
+      "Design power distribution networks"
+    ],
+    "MaxEnrollment": 55,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "CS101",
+    "CourseName": "Introduction to Programming",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Fundamentals of programming using Python, covering algorithms, data types, control structures, and functions.",
+    "Department": "Computer Science",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Write basic programs in Python",
+      "Apply algorithmic thinking to problem-solving",
+      "Implement functions and modules"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "CS201",
+    "CourseName": "Data Structures and Algorithms",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Study of fundamental data structures including arrays, linked lists, trees, graphs, and algorithm design and analysis.",
+    "Department": "Computer Science",
+    "Prerequisites": ["CS101"],
+    "LearningOutcomes": [
+      "Implement common data structures",
+      "Analyse algorithm complexity",
+      "Apply appropriate data structures to problem-solving"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 9,
+    "CourseCode": "CS401",
+    "CourseName": "Machine Learning",
+    "Credits": 3,
+    "Level": 3,
+    "Type": 1,
+    "Description": "Introduction to machine learning algorithms including supervised and unsupervised learning, neural networks, and applications in mining and engineering.",
+    "Department": "Computer Science",
+    "Prerequisites": ["CS201"],
+    "LearningOutcomes": [
+      "Implement supervised learning algorithms",
+      "Apply unsupervised clustering techniques",
+      "Evaluate model performance"
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "tenantId": "yes-technology-school",
+  "displayName": "YES Technology School",
+  "shortName": "YES Tech",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Cape Town",
+  "address": "45 Innovation Drive, Century City, Cape Town, 7441",
+  "phone": "+27 21 555 7890",
+  "email": "info@yestech.co.za",
+  "website": "https://www.yestech.co.za",
+  "institutionType": "Technology",
+  "currency": "ZAR",
+  "timezone": "Africa/Johannesburg",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/yestech-logo.png",
+  "primaryColor": "#00A651",
+  "secondaryColor": "#0066CC",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": false,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

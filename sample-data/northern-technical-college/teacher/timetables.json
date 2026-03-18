@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Structural Analysis",
+    "grade": "Year 2",
+    "classroom": "Engineering Lab 1",
+    "studentCount": 35
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "10:15-12:15",
+    "subject": "Database Systems",
+    "grade": "Year 1",
+    "classroom": "Computer Lab 2",
+    "studentCount": 40
+  }
+]

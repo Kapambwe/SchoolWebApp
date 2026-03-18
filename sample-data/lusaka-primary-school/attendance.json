@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "className": "Grade 7 North",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Beatrice Mumba"
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "className": "Grade 6 East",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Kasongo Chisenga"
+  },
+  {
+    "id": 3,
+    "studentId": 3,
+    "className": "Grade 8 North",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Absent",
+    "reason": "Sick",
+    "markedBy": "Mulenga Zulu"
+  },
+  {
+    "id": 4,
+    "studentId": 4,
+    "className": "Grade 5 West",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Late",
+    "reason": "Transport delay",
+    "markedBy": "Chipo Tembo"
+  },
+  {
+    "id": 5,
+    "studentId": 5,
+    "className": "Grade 7 North",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Beatrice Mumba"
+  },
+  {
+    "id": 6,
+    "studentId": 1,
+    "className": "Grade 7 North",
+    "date": "2025-02-25T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Beatrice Mumba"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "action": "UserLogin",
+    "user": "admin@school.com",
+    "date": "2025-02-24T07:15:00Z",
+    "details": "Admin user logged in successfully",
+    "userId": "admin-001"
+  },
+  {
+    "id": 2,
+    "action": "StudentAdmission",
+    "user": "registrar@school.com",
+    "date": "2025-02-24T09:30:00Z",
+    "details": "New student Mwila Lungu admitted to Grade 5",
+    "userId": "registrar-001"
+  },
+  {
+    "id": 3,
+    "action": "FeePayment",
+    "user": "accounts@school.com",
+    "date": "2025-02-24T10:45:00Z",
+    "details": "School fee payment of ZMW 4500 received for student ID 1",
+    "userId": "accounts-001"
+  },
+  {
+    "id": 4,
+    "action": "ReportGenerated",
+    "user": "admin@school.com",
+    "date": "2025-02-25T08:00:00Z",
+    "details": "Monthly attendance report generated for February 2025",
+    "userId": "admin-001"
+  },
+  {
+    "id": 5,
+    "action": "StaffUpdated",
+    "user": "hr@school.com",
+    "date": "2025-02-25T11:20:00Z",
+    "details": "Staff record updated for Beatrice Mumba",
+    "userId": "hr-001"
+  },
+  {
+    "id": 6,
+    "action": "UserLogout",
+    "user": "admin@school.com",
+    "date": "2025-02-25T17:00:00Z",
+    "details": "Admin user logged out",
+    "userId": "admin-001"
+  }
+]

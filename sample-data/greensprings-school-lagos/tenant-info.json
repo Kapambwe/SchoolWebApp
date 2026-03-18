@@ -1,0 +1,36 @@
+{
+  "tenantId": "greensprings-school-lagos",
+  "displayName": "Greensprings School Lagos",
+  "shortName": "Greensprings",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Lagos",
+  "address": "3 Ogunsiji Close, off Allen Avenue, Ikeja, Lagos",
+  "phone": "+234 1 497 5757",
+  "email": "info@greensprings.edu.ng",
+  "website": "https://www.greensprings.edu.ng",
+  "institutionType": "Private",
+  "currency": "NGN",
+  "timezone": "Africa/Lagos",
+  "academicYearStart": "09-01",
+  "academicYearEnd": "07-15",
+  "logo": "/images/schools/greensprings-logo.png",
+  "primaryColor": "#228B22",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

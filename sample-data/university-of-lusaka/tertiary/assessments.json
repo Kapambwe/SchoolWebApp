@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "Title": "LAW101 Quiz 1 - Sources of Law",
+    "Type": 0,
+    "AssessmentType": "Quiz",
+    "TotalMarks": 20.0,
+    "WeightPercentage": 10.0,
+    "DueDate": "2025-02-21T10:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 2,
+    "CourseId": 5,
+    "Title": "BUS201 Mid-Term Examination",
+    "Type": 3,
+    "AssessmentType": "MidTerm",
+    "TotalMarks": 50.0,
+    "WeightPercentage": 25.0,
+    "DueDate": "2025-03-28T09:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 3,
+    "CourseId": 7,
+    "Title": "HS101 Assignment - Healthcare Systems in Zambia",
+    "Type": 1,
+    "AssessmentType": "Assignment",
+    "TotalMarks": 40.0,
+    "WeightPercentage": 20.0,
+    "DueDate": "2025-03-14T23:59:00Z",
+    "Status": 2,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 4,
+    "CourseId": 3,
+    "Title": "LAW301 Final Examination",
+    "Type": 4,
+    "AssessmentType": "Final",
+    "TotalMarks": 100.0,
+    "WeightPercentage": 50.0,
+    "DueDate": "2025-06-13T09:00:00Z",
+    "Status": 0,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "bookId": 2,
+    "studentId": 1,
+    "loanDate": "2025-02-10T00:00:00Z",
+    "returnDate": null
+  },
+  {
+    "id": 2,
+    "bookId": 5,
+    "studentId": 3,
+    "loanDate": "2025-01-25T00:00:00Z",
+    "returnDate": null
+  },
+  {
+    "id": 3,
+    "bookId": 1,
+    "studentId": 2,
+    "loanDate": "2025-01-15T00:00:00Z",
+    "returnDate": "2025-01-29T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "bookId": 3,
+    "studentId": 4,
+    "loanDate": "2025-02-05T00:00:00Z",
+    "returnDate": "2025-02-19T00:00:00Z"
+  }
+]

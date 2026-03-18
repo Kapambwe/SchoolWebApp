@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "dkth-link-001",
+    "TenantId": "david-kaunda-technical-high-school",
+    "ProgramId": "dkth-prog-001",
+    "UserId": "user-dkth-001",
+    "UserName": "John Phiri",
+    "UserEmail": "john.phiri@alumni.dkths.edu.zm",
+    "ReferralCode": "DKTH-ALUMNI-JP2024",
+    "ReferralUrl": "https://dkths.edu.zm/apply?ref=DKTH-ALUMNI-JP2024",
+    "IsActive": true,
+    "ClickCount": 30,
+    "ConversionCount": 4,
+    "TotalRewardsEarned": 400.00,
+    "CreatedDate": "2024-01-15T00:00:00Z",
+    "LastUsedDate": "2024-02-08T00:00:00Z"
+  },
+  {
+    "Id": "dkth-link-002",
+    "TenantId": "david-kaunda-technical-high-school",
+    "ProgramId": "dkth-prog-002",
+    "UserId": "user-dkth-002",
+    "UserName": "Zambia Electrical Services",
+    "UserEmail": "info@zes.co.zm",
+    "ReferralCode": "DKTH-PARTNER-ZES2024",
+    "ReferralUrl": "https://dkths.edu.zm/apply?ref=DKTH-PARTNER-ZES2024",
+    "IsActive": true,
+    "ClickCount": 18,
+    "ConversionCount": 3,
+    "TotalRewardsEarned": 600.00,
+    "CreatedDate": "2024-02-01T00:00:00Z",
+    "LastUsedDate": "2024-02-11T00:00:00Z"
+  }
+]

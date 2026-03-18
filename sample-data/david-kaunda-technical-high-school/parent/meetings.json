@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Moses Kabwe",
+    "studentId": 1,
+    "studentName": "Brian Mutale",
+    "date": "2024-02-20",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Trade Test Preparation",
+    "status": "Scheduled",
+    "location": "Electrical Workshop",
+    "agenda": "Discuss Brian's preparation for TEVETA Trade Test and industry attachment",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "teacherId": 2,
+    "teacherName": "David Phiri",
+    "studentId": 2,
+    "studentName": "Moses Banda",
+    "date": "2024-01-30",
+    "time": "15:00",
+    "duration": 25,
+    "type": "Progress Review",
+    "status": "Completed",
+    "location": "Carpentry Workshop",
+    "agenda": "Review Moses's practical skills development",
+    "notes": "Moses shows excellent craftsmanship. Recommended for advanced projects."
+  }
+]

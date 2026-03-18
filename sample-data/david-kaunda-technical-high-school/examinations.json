@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "examName": "TEVETA Trade Test - Electrical Installation Grade 2",
+    "subject": "Electrical Installation",
+    "grade": "Year 3",
+    "date": "2024-04-15",
+    "startTime": "08:00",
+    "duration": 480,
+    "totalMarks": 200,
+    "passingMarks": 120,
+    "examType": "Trade Test",
+    "venue": "Electrical Workshop",
+    "invigilator": "Moses Kabwe",
+    "status": "Scheduled",
+    "instructions": "Bring all required tools and safety gear. Practical and theory components."
+  },
+  {
+    "id": 2,
+    "examName": "TEVETA Trade Test - Carpentry Grade 3",
+    "subject": "Carpentry and Joinery",
+    "grade": "Year 2",
+    "date": "2024-04-18",
+    "startTime": "08:00",
+    "duration": 420,
+    "totalMarks": 180,
+    "passingMarks": 108,
+    "examType": "Trade Test",
+    "venue": "Carpentry Workshop",
+    "invigilator": "David Phiri",
+    "status": "Scheduled",
+    "instructions": "Bring personal tools. Materials will be provided."
+  },
+  {
+    "id": 3,
+    "examName": "Term 1 Practical Assessment - Welding",
+    "subject": "Welding and Fabrication",
+    "grade": "Year 1",
+    "date": "2024-03-20",
+    "startTime": "08:00",
+    "duration": 240,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Practical Assessment",
+    "venue": "Welding Workshop",
+    "invigilator": "Workshop Supervisor",
+    "status": "Scheduled",
+    "instructions": "Safety gear mandatory. Welding practical test."
+  }
+]

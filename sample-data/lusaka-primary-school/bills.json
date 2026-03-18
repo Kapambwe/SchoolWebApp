@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "number": "BILL-2025-001",
+    "date": "2025-01-08T00:00:00Z",
+    "amount": 12500.00,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "number": "BILL-2025-002",
+    "date": "2025-01-15T00:00:00Z",
+    "amount": 7800.00,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "number": "BILL-2025-003",
+    "date": "2025-02-08T00:00:00Z",
+    "amount": 13200.00,
+    "status": "Pending"
+  },
+  {
+    "id": 4,
+    "number": "BILL-2025-004",
+    "date": "2025-02-20T00:00:00Z",
+    "amount": 5500.00,
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "number": "BILL-2025-005",
+    "date": "2025-03-05T00:00:00Z",
+    "amount": 9000.00,
+    "status": "Pending"
+  }
+]

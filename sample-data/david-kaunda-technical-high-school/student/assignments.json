@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "title": "Electrical Installation Project",
+    "subject": "Electrical Installation",
+    "description": "Complete a domestic wiring installation project with proper safety measures",
+    "dueDate": "2024-12-28T23:59:59Z",
+    "maxScore": 100,
+    "status": "InProgress",
+    "studentId": 1,
+    "teacherId": 1,
+    "grade": "Year 3",
+    "assignedDate": "2024-12-10T00:00:00Z",
+    "weightPercentage": 30,
+    "createdDate": "2024-12-10T00:00:00Z",
+    "createdBy": "Moses Kabwe"
+  },
+  {
+    "id": 2,
+    "title": "Carpentry Practical - Furniture Making",
+    "subject": "Carpentry and Joinery",
+    "description": "Design and construct a wooden chair using proper joinery techniques",
+    "dueDate": "2024-12-25T23:59:59Z",
+    "maxScore": 100,
+    "status": "NotStarted",
+    "studentId": 2,
+    "teacherId": 2,
+    "grade": "Year 2",
+    "assignedDate": "2024-12-12T00:00:00Z",
+    "weightPercentage": 35,
+    "createdDate": "2024-12-12T00:00:00Z",
+    "createdBy": "David Phiri"
+  },
+  {
+    "id": 3,
+    "title": "Plumbing System Design",
+    "subject": "Plumbing",
+    "description": "Design a complete plumbing system for a residential building",
+    "dueDate": "2024-12-24T23:59:59Z",
+    "maxScore": 80,
+    "status": "NotStarted",
+    "studentId": 3,
+    "teacherId": 1,
+    "grade": "Year 2",
+    "assignedDate": "2024-12-14T00:00:00Z",
+    "createdDate": "2024-12-14T00:00:00Z",
+    "createdBy": "Workshop Instructor"
+  }
+]

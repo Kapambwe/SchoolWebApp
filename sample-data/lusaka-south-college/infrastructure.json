@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 400,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Individual desks", "Air conditioning", "CCTV"],
+    "usageSchedule": "Examinations, Graduations"
+  },
+  {
+    "id": 2,
+    "facilityName": "Computer Laboratory",
+    "facilityType": "Computer Lab",
+    "capacity": 60,
+    "location": "IT Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-15",
+    "nextMaintenance": "2024-06-15",
+    "features": ["60 computers", "Accounting software", "Internet"],
+    "usageSchedule": "Computer classes, Accounting practicals"
+  },
+  {
+    "id": 3,
+    "facilityName": "Library",
+    "facilityType": "Library",
+    "capacity": 150,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-11-10",
+    "nextMaintenance": "2024-05-10",
+    "features": ["15,000 books", "Study areas", "E-library"],
+    "usageSchedule": "Reading, Research"
+  }
+]

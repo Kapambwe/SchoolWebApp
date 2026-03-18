@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Electrical Installation",
+    "grade": "Year 3",
+    "topic": "Domestic Wiring Systems",
+    "date": "2024-01-22",
+    "duration": 180,
+    "objectives": [
+      "Students will understand domestic wiring regulations",
+      "Students will install a complete domestic circuit",
+      "Students will apply proper safety procedures"
+    ],
+    "activities": [
+      "Theory on wiring regulations",
+      "Demonstration of proper installation techniques",
+      "Hands-on practical installation",
+      "Safety inspection and testing"
+    ],
+    "resources": ["Wiring cables", "Circuit breakers", "Sockets and switches", "Testing equipment", "Safety gear"],
+    "assessment": "Practical installation project and safety compliance",
+    "homework": "Study wiring diagrams and regulations",
+    "status": "In Progress"
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "subject": "Carpentry and Joinery",
+    "grade": "Year 2",
+    "topic": "Furniture Construction - Chair Making",
+    "date": "2024-01-23",
+    "duration": 240,
+    "objectives": [
+      "Students will design a functional chair",
+      "Students will apply proper joinery techniques",
+      "Students will finish the product professionally"
+    ],
+    "activities": [
+      "Design and planning",
+      "Wood selection and preparation",
+      "Cutting and joinery work",
+      "Assembly and finishing"
+    ],
+    "resources": ["Wood materials", "Hand tools", "Power tools", "Finishing materials", "Safety equipment"],
+    "assessment": "Completed chair project with quality assessment",
+    "homework": "Prepare design drawings for next project",
+    "status": "Planned"
+  }
+]

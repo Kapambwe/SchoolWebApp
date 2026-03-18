@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "firstName": "Bwalya",
+    "lastName": "Mutale",
+    "graduationYear": 2018,
+    "currentOccupation": "Software Engineer at Airtel Zambia"
+  },
+  {
+    "id": 2,
+    "firstName": "Nchimunya",
+    "lastName": "Sikazwe",
+    "graduationYear": 2019,
+    "currentOccupation": "Medical Student, UNZA"
+  },
+  {
+    "id": 3,
+    "firstName": "Luyando",
+    "lastName": "Mwanza",
+    "graduationYear": 2020,
+    "currentOccupation": "Accountant at ZESCO"
+  },
+  {
+    "id": 4,
+    "firstName": "Thandeka",
+    "lastName": "Phiri",
+    "graduationYear": 2021,
+    "currentOccupation": "Law Student, UNZA"
+  },
+  {
+    "id": 5,
+    "firstName": "Chipego",
+    "lastName": "Banda",
+    "graduationYear": 2022,
+    "currentOccupation": "Teacher Trainee, NISTCOL"
+  }
+]

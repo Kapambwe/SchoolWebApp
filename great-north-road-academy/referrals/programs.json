@@ -1,0 +1,42 @@
+[
+  {
+    "id": "gnra-prog-001",
+    "tenantId": "great-north-road-academy",
+    "name": "Alumni Referral Programme",
+    "description": "Earn cash rewards for referring students to Great North Road Academy",
+    "type": "Alumni",
+    "isActive": true,
+    "startDate": "2024-01-01T00:00:00Z",
+    "endDate": null,
+    "rewardType": "Cash",
+    "rewardAmount": 75.00,
+    "rewardCurrency": "ZMW",
+    "maxRewardsPerUser": 10,
+    "minimumOrderValue": 0,
+    "totalReferrals": 18,
+    "totalConversions": 7,
+    "totalRewardsPaid": 525.00,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "lastModifiedDate": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "gnra-prog-002",
+    "tenantId": "great-north-road-academy",
+    "name": "Parent Ambassador Programme",
+    "description": "Receive tuition fee credits for referring new families to GNRA",
+    "type": "Parent",
+    "isActive": true,
+    "startDate": "2024-03-01T00:00:00Z",
+    "endDate": null,
+    "rewardType": "Discount",
+    "rewardAmount": 500.00,
+    "rewardCurrency": "ZMW",
+    "maxRewardsPerUser": 3,
+    "minimumOrderValue": 1000.00,
+    "totalReferrals": 9,
+    "totalConversions": 4,
+    "totalRewardsPaid": 2000.00,
+    "createdDate": "2024-03-01T00:00:00Z",
+    "lastModifiedDate": "2024-03-10T00:00:00Z"
+  }
+]

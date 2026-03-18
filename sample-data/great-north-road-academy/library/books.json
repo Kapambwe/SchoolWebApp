@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Physics for Cambridge O Level",
+    "author": "Tom Duncan",
+    "isbn": "978-1-107-61499-0",
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "title": "Biology: A Course for O Level",
+    "author": "D.G. Mackean",
+    "isbn": "978-0-7195-7407-3",
+    "isAvailable": false
+  },
+  {
+    "id": 3,
+    "title": "Things Fall Apart",
+    "author": "Chinua Achebe",
+    "isbn": "978-0-385-47454-2",
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "title": "The River and the Source",
+    "author": "Margaret Ogola",
+    "isbn": "978-9966-46-202-7",
+    "isAvailable": false
+  },
+  {
+    "id": 5,
+    "title": "Advanced Level Chemistry Zambia",
+    "author": "ZAMS Publishers",
+    "isbn": "978-9982-26-100-0",
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "title": "Africa Since Independence",
+    "author": "Paul Nugent",
+    "isbn": "978-1-4039-4883-8",
+    "isAvailable": true
+  }
+]

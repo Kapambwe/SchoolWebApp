@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Mr. Daniel Phiri",
+    "senderType": "Lecturer",
+    "subject": "Excellent Performance",
+    "message": "Dear Mrs. Mwanza, Angela scored 88% in Financial Accounting. She's on track for professional certification.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Angela Mwanza"
+  }
+]

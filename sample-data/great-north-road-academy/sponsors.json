@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "First Quantum Minerals CSR",
+    "organization": "First Quantum Minerals Ltd",
+    "contactEmail": "csr@fqm.com"
+  },
+  {
+    "id": 2,
+    "name": "Barclays Zambia Education Fund",
+    "organization": "Barclays Bank Zambia",
+    "contactEmail": "education@barclays.co.zm"
+  },
+  {
+    "id": 3,
+    "name": "Stanbic Zambia Scholarship",
+    "organization": "Stanbic Bank Zambia",
+    "contactEmail": "scholarships@stanbic.co.zm"
+  },
+  {
+    "id": 4,
+    "name": "Atlas Mara Education Initiative",
+    "organization": "Atlas Mara Zambia",
+    "contactEmail": "education@atlasmara.co.zm"
+  }
+]

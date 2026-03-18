@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Brian Mutale",
+    "feeType": "Training Fees",
+    "amount": 2200.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Waived",
+    "term": "Term 1 2024",
+    "description": "Year 3 Electrical Installation training fees - TEVETA sponsorship",
+    "paidDate": "2024-01-15",
+    "paymentMethod": "Sponsorship"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Moses Banda",
+    "feeType": "Training Fees",
+    "amount": 2000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Paid",
+    "term": "Term 1 2024",
+    "description": "Year 2 Carpentry training fees",
+    "paidDate": "2024-01-28",
+    "paymentMethod": "Mobile Money"
+  },
+  {
+    "id": 3,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Moses Banda",
+    "feeType": "Workshop Materials",
+    "amount": 350.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-15",
+    "status": "Outstanding",
+    "term": "Term 1 2024",
+    "description": "Wood and materials for practical projects"
+  }
+]

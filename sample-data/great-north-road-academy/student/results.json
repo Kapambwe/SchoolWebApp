@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "studentId": 3,
+    "examId": 1,
+    "score": 74.0,
+    "grade": "B"
+  },
+  {
+    "id": 2,
+    "studentId": 3,
+    "examId": 4,
+    "score": 82.0,
+    "grade": "A"
+  },
+  {
+    "id": 3,
+    "studentId": 2,
+    "examId": 2,
+    "score": 88.0,
+    "grade": "A"
+  },
+  {
+    "id": 4,
+    "studentId": 1,
+    "examId": 3,
+    "score": 65.0,
+    "grade": "C"
+  },
+  {
+    "id": 5,
+    "studentId": 4,
+    "examId": 3,
+    "score": 57.0,
+    "grade": "D"
+  },
+  {
+    "id": 6,
+    "studentId": 5,
+    "examId": 2,
+    "score": 79.0,
+    "grade": "B"
+  }
+]

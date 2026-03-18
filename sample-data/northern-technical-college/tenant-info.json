@@ -1,0 +1,45 @@
+{
+  "tenantId": "northern-technical-college",
+  "schoolName": "Northern Technical College",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "College",
+  "establishedYear": 1995,
+  "studentCapacity": 2000,
+  "currentEnrollment": 1650,
+  "address": {
+    "street": "Lumumba Road",
+    "city": "Ndola",
+    "province": "Copperbelt Province",
+    "postalCode": "20102",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260212789012",
+    "email": "info@ntc.edu.zm",
+    "website": "www.ntc.edu.zm"
+  },
+  "motto": "Technical Excellence for Development",
+  "vision": "To be a premier technical college in Zambia and the region.",
+  "mission": "To provide quality technical and vocational education that meets industry needs.",
+  "programs": [
+    "Diploma in Civil Engineering",
+    "Diploma in Electrical Engineering",
+    "Diploma in Mechanical Engineering",
+    "Certificate in Information Technology",
+    "Diploma in Business Studies",
+    "Certificate in Hospitality Management"
+  ],
+  "facilities": [
+    "Engineering Workshops",
+    "Computer Labs",
+    "Library",
+    "Cafeteria",
+    "Sports Complex",
+    "Student Hostels"
+  ],
+  "accreditation": ["Technical Education, Vocational and Entrepreneurship Training Authority (TEVETA)"]
+}

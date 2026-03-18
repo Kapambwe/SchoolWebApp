@@ -1,0 +1,171 @@
+{
+  "dashboards": [
+    {
+      "id": 1,
+      "schoolName": "Sample School",
+      "generatedAt": "2026-02-11T18:00:00Z",
+      "summary": {
+        "totalStudents": 850,
+        "activeStudents": 812,
+        "averageEngagement": 78.5,
+        "averageMastery": 72.3,
+        "averageGrowthRate": 5.2,
+        "studentsOnTrack": 720,
+        "studentsAtRisk": 92
+      }
+    }
+  ],
+  "engagementMetrics": [
+    {
+      "studentId": 1,
+      "studentName": "John Doe",
+      "grade": "Grade 10",
+      "averageTimeOnTask": 45.5,
+      "resourcesAccessed": 124,
+      "assignmentsCompleted": 18,
+      "completionRate": 90.0,
+      "forumParticipation": 12,
+      "collaborationScore": 85,
+      "engagementLevel": 3,
+      "lastActive": "2026-02-11T15:30:00Z"
+    },
+    {
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "grade": "Grade 10",
+      "averageTimeOnTask": 52.3,
+      "resourcesAccessed": 156,
+      "assignmentsCompleted": 20,
+      "completionRate": 100.0,
+      "forumParticipation": 24,
+      "collaborationScore": 92,
+      "engagementLevel": 4,
+      "lastActive": "2026-02-11T17:00:00Z"
+    },
+    {
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "grade": "Grade 10",
+      "averageTimeOnTask": 28.2,
+      "resourcesAccessed": 68,
+      "assignmentsCompleted": 12,
+      "completionRate": 60.0,
+      "forumParticipation": 3,
+      "collaborationScore": 45,
+      "engagementLevel": 1,
+      "lastActive": "2026-02-09T14:00:00Z"
+    }
+  ],
+  "learningOutcomes": [
+    {
+      "studentId": 1,
+      "studentName": "John Doe",
+      "subject": "Mathematics",
+      "masteryLevel": 75.0,
+      "growthRate": 12.5,
+      "predictedFinalScore": 82.0,
+      "masteredSkills": ["Algebra", "Basic Calculus"],
+      "struggleAreas": ["Advanced Geometry"],
+      "assessedAt": "2026-02-11T10:00:00Z"
+    },
+    {
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "subject": "Mathematics",
+      "masteryLevel": 92.0,
+      "growthRate": 8.5,
+      "predictedFinalScore": 95.0,
+      "masteredSkills": ["Algebra", "Geometry", "Calculus", "Statistics"],
+      "struggleAreas": [],
+      "assessedAt": "2026-02-11T10:00:00Z"
+    }
+  ],
+  "contentEffectiveness": [
+    {
+      "contentId": 1,
+      "contentTitle": "Introduction to Algebra",
+      "contentType": 0,
+      "subject": "Mathematics",
+      "timesAccessed": 245,
+      "averageCompletionRate": 87.5,
+      "averageTimeSpent": 32.5,
+      "studentSatisfactionScore": 4.3,
+      "learningEffectivenessScore": 82.0,
+      "preTestAverage": 65.0,
+      "postTestAverage": 82.0,
+      "learningGain": 17.0
+    },
+    {
+      "contentId": 2,
+      "contentTitle": "Physics: Motion and Forces",
+      "contentType": 0,
+      "subject": "Science",
+      "timesAccessed": 198,
+      "averageCompletionRate": 75.0,
+      "averageTimeSpent": 45.0,
+      "studentSatisfactionScore": 3.8,
+      "learningEffectivenessScore": 78.0,
+      "preTestAverage": 60.0,
+      "postTestAverage": 78.0,
+      "learningGain": 18.0
+    }
+  ],
+  "teacherEffectiveness": [
+    {
+      "teacherId": 1,
+      "teacherName": "Mr. Smith",
+      "subject": "Mathematics",
+      "studentGrowthPercentile": 78.5,
+      "classAverageImprovement": 15.2,
+      "studentEngagementScore": 82.0,
+      "contentQualityScore": 88.0,
+      "responseTimeliness": 4.5,
+      "studentsFeedback": 45,
+      "feedbackSatisfaction": 4.5,
+      "strengthAreas": ["Clear explanations", "Engaging presentations", "Timely feedback"],
+      "improvementAreas": ["More hands-on activities"]
+    }
+  ],
+  "insights": [
+    {
+      "id": 1,
+      "title": "Low engagement detected in Grade 10 Math",
+      "description": "15 students showing declining engagement in mathematics over the past 2 weeks",
+      "type": 1,
+      "priority": 2,
+      "actionableSteps": "Consider implementing more interactive content and peer learning sessions",
+      "affectedStudentIds": [3, 5, 8, 12, 15],
+      "generatedAt": "2026-02-11T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "High performance in Science class",
+      "description": "Science class showing 25% improvement in average scores this term",
+      "type": 4,
+      "priority": 0,
+      "actionableSteps": "Share teaching methods with other science teachers",
+      "affectedStudentIds": [],
+      "generatedAt": "2026-02-10T14:00:00Z"
+    }
+  ],
+  "alerts": [
+    {
+      "id": 1,
+      "message": "Mike Johnson has not accessed any learning materials in 3 days",
+      "severity": 1,
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "createdAt": "2026-02-11T09:00:00Z",
+      "isRead": false
+    },
+    {
+      "id": 2,
+      "message": "Grade 9 Math quiz completion rate below 60%",
+      "severity": 2,
+      "studentId": null,
+      "studentName": null,
+      "createdAt": "2026-02-11T10:30:00Z",
+      "isRead": false
+    }
+  ]
+}

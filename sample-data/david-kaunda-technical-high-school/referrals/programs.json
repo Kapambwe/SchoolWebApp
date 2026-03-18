@@ -1,0 +1,42 @@
+[
+  {
+    "Id": "dkth-prog-001",
+    "TenantId": "david-kaunda-technical-high-school",
+    "Name": "Alumni Referral Program",
+    "Description": "Earn rewards for referring new students to DKTHS",
+    "Type": "Alumni",
+    "IsActive": true,
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 100.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 8,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 25,
+    "TotalConversions": 10,
+    "TotalRewardsPaid": 1000.00,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-01T00:00:00Z"
+  },
+  {
+    "Id": "dkth-prog-002",
+    "TenantId": "david-kaunda-technical-high-school",
+    "Name": "Industry Partner Referral",
+    "Description": "Industry partners earn rewards for referring apprentices",
+    "Type": "Partner",
+    "IsActive": true,
+    "StartDate": "2024-02-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 200.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 15,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 15,
+    "TotalConversions": 7,
+    "TotalRewardsPaid": 1400.00,
+    "CreatedDate": "2024-02-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-10T00:00:00Z"
+  }
+]

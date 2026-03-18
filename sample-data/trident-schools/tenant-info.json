@@ -1,0 +1,29 @@
+{
+  "tenantId": "trident-schools",
+  "schoolName": "Trident Schools",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "Secondary",
+  "establishedYear": 2005,
+  "studentCapacity": 1500,
+  "currentEnrollment": 1280,
+  "grades": ["Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12"],
+  "address": {
+    "street": "Leopards Hill Road",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10103",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211345678",
+    "email": "info@tridentschools.edu.zm",
+    "website": "www.tridentschools.edu.zm"
+  },
+  "motto": "Excellence in Education",
+  "vision": "To be a leading educational institution providing world-class education in Zambia.",
+  "mission": "To nurture young minds through quality education, character development, and holistic growth."
+}

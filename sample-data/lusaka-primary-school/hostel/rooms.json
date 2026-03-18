@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "roomNumber": "A101",
+    "block": "Block A (Girls)",
+    "capacity": 4,
+    "currentOccupancy": 4,
+    "status": "Full",
+    "monthlyFee": 1200.00
+  },
+  {
+    "id": 2,
+    "roomNumber": "A102",
+    "block": "Block A (Girls)",
+    "capacity": 4,
+    "currentOccupancy": 3,
+    "status": "Available",
+    "monthlyFee": 1200.00
+  },
+  {
+    "id": 3,
+    "roomNumber": "B101",
+    "block": "Block B (Boys)",
+    "capacity": 4,
+    "currentOccupancy": 4,
+    "status": "Full",
+    "monthlyFee": 1200.00
+  },
+  {
+    "id": 4,
+    "roomNumber": "B102",
+    "block": "Block B (Boys)",
+    "capacity": 4,
+    "currentOccupancy": 2,
+    "status": "Available",
+    "monthlyFee": 1200.00
+  },
+  {
+    "id": 5,
+    "roomNumber": "A201",
+    "block": "Block A (Girls)",
+    "capacity": 2,
+    "currentOccupancy": 0,
+    "status": "Maintenance",
+    "monthlyFee": 1800.00
+  }
+]

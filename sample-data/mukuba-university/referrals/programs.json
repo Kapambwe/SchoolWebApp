@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "mu-prog-001",
+    "TenantId": "mukuba-university",
+    "Name": "Alumni Referral Program",
+    "Description": "Earn rewards for referring new students to Mukuba University",
+    "Type": "Alumni",
+    "IsActive": true,
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 250.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 12,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 65,
+    "TotalConversions": 25,
+    "TotalRewardsPaid": 6250.00,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-01T00:00:00Z"
+  }
+]

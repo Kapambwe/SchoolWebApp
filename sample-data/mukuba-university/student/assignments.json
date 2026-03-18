@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Educational Research Project",
+    "subject": "Research Methods",
+    "description": "Conduct educational research on teaching methods in Zambian schools",
+    "dueDate": "2024-12-30T23:59:59Z",
+    "maxScore": 100,
+    "status": "InProgress",
+    "studentId": 1,
+    "teacherId": 1,
+    "grade": "Year 3",
+    "assignedDate": "2024-11-01T00:00:00Z",
+    "weightPercentage": 40,
+    "createdDate": "2024-11-01T00:00:00Z",
+    "createdBy": "Dr. Mwape Sichilima"
+  }
+]

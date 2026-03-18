@@ -1,0 +1,65 @@
+[
+  {
+    "Id": 1,
+    "Code": "LLB",
+    "ProgramCode": "LLB",
+    "Name": "LLB Law",
+    "ProgramName": "Bachelor of Laws",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 22000.00,
+    "Department": "Law",
+    "Faculty": "Faculty of Law",
+    "IsAccredited": true,
+    "AccreditationBody": "Law Association of Zambia",
+    "Courses": [
+      { "CourseId": 1, "CourseCode": "LAW101", "CourseName": "Introduction to Legal Studies", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 2, "CourseCode": "LAW201", "CourseName": "Constitutional Law", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 3, "CourseCode": "LAW301", "CourseName": "Commercial and Company Law", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 4, "CourseCode": "BUS101", "CourseName": "Principles of Economics", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "BBA",
+    "ProgramCode": "BBA",
+    "Name": "BBA Business Administration",
+    "ProgramName": "Bachelor of Business Administration",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 19500.00,
+    "Department": "Business Administration",
+    "Faculty": "Faculty of Business",
+    "IsAccredited": true,
+    "AccreditationBody": "Zambia Qualifications Authority",
+    "Courses": [
+      { "CourseId": 4, "CourseCode": "BUS101", "CourseName": "Principles of Economics", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 5, "CourseCode": "BUS201", "CourseName": "Financial Accounting", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 6, "CourseCode": "BUS301", "CourseName": "Organisational Behaviour", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 1, "CourseCode": "LAW101", "CourseName": "Introduction to Legal Studies", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "BSC-HS",
+    "ProgramCode": "BSC-HS",
+    "Name": "BSc Health Sciences",
+    "ProgramName": "Bachelor of Science in Health Sciences",
+    "Type": 2,
+    "DurationYears": 4,
+    "TotalCreditHours": 480,
+    "TuitionFee": 21000.00,
+    "Department": "Health Sciences",
+    "Faculty": "Faculty of Health Sciences",
+    "IsAccredited": true,
+    "AccreditationBody": "Health Professions Council of Zambia",
+    "Courses": [
+      { "CourseId": 7, "CourseCode": "HS101", "CourseName": "Introduction to Health Sciences", "Year": 1, "Semester": 1, "IsRequired": true },
+      { "CourseId": 8, "CourseCode": "HS201", "CourseName": "Anatomy and Physiology", "Year": 2, "Semester": 1, "IsRequired": true },
+      { "CourseId": 9, "CourseCode": "HS301", "CourseName": "Public Health and Epidemiology", "Year": 3, "Semester": 1, "IsRequired": true },
+      { "CourseId": 4, "CourseCode": "BUS101", "CourseName": "Principles of Economics", "Year": 1, "Semester": 2, "IsRequired": false }
+    ]
+  }
+]

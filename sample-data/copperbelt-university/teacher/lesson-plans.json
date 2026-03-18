@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Artificial Intelligence",
+    "grade": "Year 3",
+    "topic": "Deep Learning and Neural Networks",
+    "date": "2024-01-22",
+    "duration": 120,
+    "objectives": [
+      "Students will understand neural network architectures",
+      "Students will implement deep learning models",
+      "Students will apply deep learning to real-world problems"
+    ],
+    "activities": [
+      "Lecture on neural networks",
+      "Hands-on coding session",
+      "Research paper discussion",
+      "Project work"
+    ],
+    "resources": ["AI textbook", "Python libraries", "Research papers", "GPU computing resources"],
+    "assessment": "Research project and implementation",
+    "homework": "Implement a convolutional neural network",
+    "status": "In Progress"
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "subject": "Mine Design",
+    "grade": "Year 2",
+    "topic": "Underground Mine Ventilation Systems",
+    "date": "2024-01-23",
+    "duration": 120,
+    "objectives": [
+      "Students will design ventilation systems",
+      "Students will calculate airflow requirements",
+      "Students will ensure mining safety standards"
+    ],
+    "activities": [
+      "Lecture on ventilation principles",
+      "Design calculations",
+      "Computer-aided design",
+      "Safety analysis"
+    ],
+    "resources": ["Mining engineering textbook", "Design software", "Safety standards"],
+    "assessment": "Ventilation system design project",
+    "homework": "Complete airflow calculations",
+    "status": "Planned"
+  }
+]

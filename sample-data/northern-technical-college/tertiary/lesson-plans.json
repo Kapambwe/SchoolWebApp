@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "CV101",
+    "CourseName": "Construction Materials and Methods",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Building Materials: Properties and Selection",
+    "LearningOutcomes": "Students will identify common construction materials, describe their key properties, and justify material selection for given building applications.",
+    "LectureTopics": [
+      "Classification of construction materials: natural and manufactured",
+      "Properties of concrete, cement, aggregates, and water",
+      "Timber types and grading for construction use",
+      "Bricks, blocks, and masonry materials used in Zambian construction"
+    ],
+    "Materials": [
+      {
+        "Title": "Construction Materials Overview Slides",
+        "Type": 0,
+        "Url": "/materials/cv101/week1-materials-slides.pptx"
+      },
+      {
+        "Title": "Material Properties Reference Notes",
+        "Type": 1,
+        "Url": "/materials/cv101/week1-material-properties.pdf"
+      },
+      {
+        "Title": "NTC Construction Materials Sample Reference",
+        "Type": 4,
+        "Url": "/materials/cv101/ntc-construction-reference.pdf"
+      }
+    ],
+    "AssessmentMethods": "Written quiz on material properties and a practical material identification exercise",
+    "Status": 5,
+    "SubmittedDate": "2025-01-11T09:00:00Z",
+    "ApprovedDate": "2025-01-13T10:00:00Z",
+    "LecturerId": 801,
+    "FeedbackComments": "Excellent coverage of local materials. Include samples from Northern Province suppliers where possible.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-13T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 4,
+    "CourseCode": "MV101",
+    "CourseName": "Motor Vehicle Technology",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Motor Vehicle Systems",
+    "LearningOutcomes": "Students will describe the main systems of a motor vehicle, explain how they interact, and apply basic workshop safety procedures.",
+    "LectureTopics": [
+      "Overview of motor vehicle systems: engine, transmission, brakes, steering, and electrical",
+      "Workshop safety rules and personal protective equipment",
+      "Introduction to hand tools and workshop equipment",
+      "Vehicle identification: VIN, engine codes, and service history"
+    ],
+    "Materials": [
+      {
+        "Title": "Motor Vehicle Systems Overview Slides",
+        "Type": 0,
+        "Url": "/materials/mv101/week1-systems-slides.pptx"
+      },
+      {
+        "Title": "Workshop Safety Handbook",
+        "Type": 1,
+        "Url": "/materials/mv101/week1-workshop-safety.pdf"
+      },
+      {
+        "Title": "Motor Vehicle Systems Introduction Video",
+        "Type": 2,
+        "Url": "/materials/mv101/week1-systems-intro.mp4"
+      }
+    ],
+    "AssessmentMethods": "Practical workshop safety demonstration and short written quiz on vehicle systems",
+    "Status": 5,
+    "SubmittedDate": "2025-01-11T09:00:00Z",
+    "ApprovedDate": "2025-01-13T10:00:00Z",
+    "LecturerId": 802,
+    "FeedbackComments": "Good introduction. Emphasise safety demonstration before allowing students on the workshop floor.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-13T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 6,
+    "CourseCode": "AG101",
+    "CourseName": "Agricultural Engineering Fundamentals",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Overview of Agricultural Engineering in Zambia",
+    "LearningOutcomes": "Students will explain the scope of agricultural engineering, describe its importance to Zambian food security, and identify key challenges facing the sector in Northern Province.",
+    "LectureTopics": [
+      "Definition and scope of agricultural engineering",
+      "Role of agricultural engineering in Zambia's agricultural sector",
+      "Challenges and opportunities for agricultural engineering in Northern Province",
+      "Overview of course structure and career pathways"
+    ],
+    "Materials": [
+      {
+        "Title": "Agricultural Engineering in Zambia Slides",
+        "Type": 0,
+        "Url": "/materials/ag101/week1-intro-slides.pptx"
+      },
+      {
+        "Title": "Zambia Agriculture Sector Overview Notes",
+        "Type": 1,
+        "Url": "/materials/ag101/week1-zambia-agriculture.pdf"
+      },
+      {
+        "Title": "FAO Zambia Agricultural Engineering Reference",
+        "Type": 4,
+        "Url": "/materials/ag101/fao-zambia-agri-eng.pdf"
+      }
+    ],
+    "AssessmentMethods": "Class discussion participation and short reflective essay on agricultural engineering in the local community",
+    "Status": 2,
+    "SubmittedDate": "2025-01-13T09:00:00Z",
+    "ApprovedDate": "2025-01-15T10:00:00Z",
+    "LecturerId": 803,
+    "FeedbackComments": "Very relevant local context. Consider inviting a ZNFU representative for a guest talk.",
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "LastUpdated": "2025-01-15T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 2,
+    "CourseCode": "CV102",
+    "CourseName": "Building Drawing and Estimation",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Reading Construction Drawings",
+    "LearningOutcomes": "Students will interpret architectural drawings, identify standard drawing conventions and symbols, and relate drawing information to construction activities.",
+    "LectureTopics": [
+      "Types of construction drawings: architectural, structural, and services",
+      "Drawing conventions: scales, dimensions, and notation",
+      "Standard symbols used in building drawings",
+      "Practical: reading and extracting information from a set of house plans"
+    ],
+    "Materials": [
+      {
+        "Title": "Construction Drawing Conventions Slides",
+        "Type": 0,
+        "Url": "/materials/cv102/week1-drawings-slides.pptx"
+      },
+      {
+        "Title": "Sample House Plan Set",
+        "Type": 1,
+        "Url": "/materials/cv102/week1-sample-house-plans.pdf"
+      },
+      {
+        "Title": "Drawing Reading Practical Exercise",
+        "Type": 3,
+        "Url": "/materials/cv102/week1-drawing-exercise.pdf"
+      }
+    ],
+    "AssessmentMethods": "Practical drawing interpretation exercise and written questions on drawing conventions",
+    "Status": 2,
+    "SubmittedDate": "2025-01-13T09:00:00Z",
+    "ApprovedDate": "2025-01-15T10:00:00Z",
+    "LecturerId": 801,
+    "FeedbackComments": "Well-prepared. Ensure students have access to drawing instruments before the session.",
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "LastUpdated": "2025-01-15T10:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 5,
+    "CourseCode": "MV201",
+    "CourseName": "Engine Diagnostics and Repair",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Engine Fault Diagnosis Procedures",
+    "LearningOutcomes": "Students will apply a structured diagnostic approach to identify engine faults, use basic diagnostic tools, and interpret fault codes from OBD systems.",
+    "LectureTopics": [
+      "Structured fault diagnosis methodology: symptom, check, test, repair",
+      "Introduction to OBD-II systems and fault code interpretation",
+      "Using a scan tool for reading live engine data",
+      "Practical: performing a basic engine health check on a workshop vehicle"
+    ],
+    "Materials": [
+      {
+        "Title": "Engine Fault Diagnosis Procedures Slides",
+        "Type": 0,
+        "Url": "/materials/mv201/week1-diagnosis-slides.pptx"
+      },
+      {
+        "Title": "OBD-II Fault Code Reference Guide",
+        "Type": 4,
+        "Url": "/materials/mv201/week1-obd-reference.pdf"
+      }
+    ],
+    "AssessmentMethods": "Practical engine health check report and short written test on diagnostic procedures",
+    "Status": 1,
+    "SubmittedDate": "2025-01-16T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 802,
+    "FeedbackComments": "Pending review by Head of Department.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-16T09:00:00Z"
+  }
+]

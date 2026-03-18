@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 1000,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Individual desks", "Air conditioning", "CCTV", "Sound system"],
+    "usageSchedule": "Examinations, Graduations, Conferences"
+  },
+  {
+    "id": 2,
+    "facilityName": "School of Natural Sciences Complex",
+    "facilityType": "Academic Building",
+    "capacity": 800,
+    "location": "North Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-15",
+    "nextMaintenance": "2024-07-15",
+    "features": ["Computer labs", "Research labs", "Lecture theatres", "Faculty offices"],
+    "usageSchedule": "Computer Science, Mathematics, Physics programs"
+  },
+  {
+    "id": 3,
+    "facilityName": "School of Mines",
+    "facilityType": "Academic Building",
+    "capacity": 600,
+    "location": "Engineering Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-12",
+    "nextMaintenance": "2024-07-12",
+    "features": ["Mining labs", "Geology labs", "Design studios", "Safety training center"],
+    "usageSchedule": "Mining Engineering, Geology, Mineral Processing programs"
+  },
+  {
+    "id": 4,
+    "facilityName": "University Library",
+    "facilityType": "Library",
+    "capacity": 500,
+    "location": "Central Campus",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2023-12-10",
+    "nextMaintenance": "2024-06-10",
+    "features": ["100,000 books", "E-library", "Research databases", "Study rooms", "24/7 access"],
+    "usageSchedule": "Reading, Research, Study sessions"
+  },
+  {
+    "id": 5,
+    "facilityName": "Research and Innovation Center",
+    "facilityType": "Research Facility",
+    "capacity": 200,
+    "location": "Research Park",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-20",
+    "nextMaintenance": "2024-07-20",
+    "features": ["Research labs", "Innovation hub", "Collaboration spaces", "Advanced equipment"],
+    "usageSchedule": "Research projects, Innovation programs, Industry partnerships"
+  }
+]

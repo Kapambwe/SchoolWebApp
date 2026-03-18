@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 400,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-05",
+    "nextMaintenance": "2024-07-05",
+    "features": ["Individual desks", "Air conditioning", "CCTV surveillance", "Sound system"],
+    "usageSchedule": "Examinations, Assemblies, Major Events"
+  },
+  {
+    "id": 2,
+    "facilityName": "Science Laboratory Complex",
+    "facilityType": "Laboratory",
+    "capacity": 120,
+    "location": "Science Block",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-15",
+    "nextMaintenance": "2024-07-15",
+    "features": ["3 fully equipped labs", "Chemical storage", "Safety equipment", "Modern apparatus"],
+    "usageSchedule": "Physics, Chemistry, Biology practicals"
+  },
+  {
+    "id": 3,
+    "facilityName": "Computer Laboratory",
+    "facilityType": "Computer Lab",
+    "capacity": 45,
+    "location": "ICT Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-10",
+    "nextMaintenance": "2024-06-10",
+    "features": ["45 computers", "High-speed internet", "Projector", "Air conditioning", "Printing facilities"],
+    "usageSchedule": "ICT classes, Research, Digital learning"
+  },
+  {
+    "id": 4,
+    "facilityName": "School Library",
+    "facilityType": "Library",
+    "capacity": 150,
+    "location": "Academic Block A",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-11-20",
+    "nextMaintenance": "2024-05-20",
+    "features": ["15,000 books", "Digital resources", "Study rooms", "Reference section", "E-library access"],
+    "usageSchedule": "Reading, Research, Study sessions"
+  },
+  {
+    "id": 5,
+    "facilityName": "Sports Complex",
+    "facilityType": "Sports Facility",
+    "capacity": 500,
+    "location": "Sports Ground",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-10-15",
+    "nextMaintenance": "2024-04-15",
+    "features": ["Football pitch", "Basketball courts", "Volleyball courts", "Running track", "Changing rooms"],
+    "usageSchedule": "Physical Education, Sports events, Inter-school competitions"
+  },
+  {
+    "id": 6,
+    "facilityName": "Auditorium",
+    "facilityType": "Auditorium",
+    "capacity": 600,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-20",
+    "nextMaintenance": "2024-07-20",
+    "features": ["Stage", "Sound system", "Lighting", "Projector", "Seating for 600"],
+    "usageSchedule": "School productions, Graduations, Guest lectures"
+  }
+]

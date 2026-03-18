@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "EL101",
+    "CourseName": "Electronic Principles",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Electronics and Safety",
+    "LearningOutcomes": "Students will describe the scope of electronics, apply lab safety rules, and identify common electronic components and test equipment.",
+    "LectureTopics": [
+      "Overview of electronics: applications and career opportunities",
+      "Laboratory safety rules and handling of electronic equipment",
+      "Introduction to common electronic components: resistors, capacitors, diodes, and transistors",
+      "Using a digital multimeter: measuring voltage, current, and resistance"
+    ],
+    "Materials": [
+      {
+        "Title": "Introduction to Electronics Slides",
+        "Type": 0,
+        "Url": "/materials/el101/week1-intro-slides.pptx"
+      },
+      {
+        "Title": "Electronics Lab Safety Notes",
+        "Type": 1,
+        "Url": "/materials/el101/week1-lab-safety.pdf"
+      },
+      {
+        "Title": "Component Identification Reference Chart",
+        "Type": 4,
+        "Url": "/materials/el101/week1-component-chart.pdf"
+      }
+    ],
+    "AssessmentMethods": "Component identification practical and safety rules written quiz",
+    "Status": 5,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-10T10:00:00Z",
+    "LecturerId": 901,
+    "FeedbackComments": "Thorough introduction. Ensure all students complete the safety induction form before lab entry.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-10T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 3,
+    "CourseCode": "CP101",
+    "CourseName": "Carpentry and Joinery Fundamentals",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Wood and Timber Products",
+    "LearningOutcomes": "Students will classify timber types, describe their properties, and select appropriate timber for given carpentry applications.",
+    "LectureTopics": [
+      "Classification of timber: hardwood vs softwood species",
+      "Timber defects: knots, warping, splits, and their effect on structural performance",
+      "Timber processing and seasoning methods",
+      "Common timber products used in Zambian carpentry and furniture industry"
+    ],
+    "Materials": [
+      {
+        "Title": "Timber Classification and Properties Slides",
+        "Type": 0,
+        "Url": "/materials/cp101/week1-timber-slides.pptx"
+      },
+      {
+        "Title": "Timber Species Reference Notes",
+        "Type": 1,
+        "Url": "/materials/cp101/week1-timber-species.pdf"
+      },
+      {
+        "Title": "Timber Identification Practical Exercise",
+        "Type": 3,
+        "Url": "/materials/cp101/week1-timber-exercise.pdf"
+      }
+    ],
+    "AssessmentMethods": "Practical timber sample identification and short written test on timber properties",
+    "Status": 5,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-10T10:00:00Z",
+    "LecturerId": 902,
+    "FeedbackComments": "Good use of local timber samples. Consider bringing in samples from Ndola timber yards.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-10T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 5,
+    "CourseCode": "AU101",
+    "CourseName": "Automotive Technology Fundamentals",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Motor Vehicle Safety and Workshop Practice",
+    "LearningOutcomes": "Students will apply automotive workshop safety rules, identify PPE requirements, and demonstrate safe use of basic automotive hand tools.",
+    "LectureTopics": [
+      "Automotive workshop hazards: chemical, mechanical, and fire risks",
+      "Personal protective equipment (PPE) in the automotive workshop",
+      "Safe use and storage of hand tools and workshop equipment",
+      "Vehicle lifting and support procedures using jacks and stands"
+    ],
+    "Materials": [
+      {
+        "Title": "Automotive Workshop Safety Slides",
+        "Type": 0,
+        "Url": "/materials/au101/week1-safety-slides.pptx"
+      },
+      {
+        "Title": "Workshop Safety and PPE Handbook",
+        "Type": 1,
+        "Url": "/materials/au101/week1-safety-handbook.pdf"
+      },
+      {
+        "Title": "Safe Vehicle Lifting Procedure Video",
+        "Type": 2,
+        "Url": "/materials/au101/week1-vehicle-lifting.mp4"
+      }
+    ],
+    "AssessmentMethods": "Practical safety demonstration and tool identification exercise",
+    "Status": 2,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 903,
+    "FeedbackComments": "Safety content is comprehensive. Include a practical vehicle lifting demonstration on a workshop vehicle.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 7,
+    "CourseCode": "ICT101",
+    "CourseName": "Computer Fundamentals",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Computer Hardware Components",
+    "LearningOutcomes": "Students will identify internal and external computer hardware components, describe their functions, and perform a basic computer assembly task.",
+    "LectureTopics": [
+      "Types of computers: desktop, laptop, server, and embedded systems",
+      "Internal components: CPU, RAM, motherboard, power supply, and storage",
+      "External peripherals: input devices (keyboard, mouse) and output devices (monitor, printer)",
+      "Practical: safe computer disassembly and reassembly"
+    ],
+    "Materials": [
+      {
+        "Title": "Computer Hardware Fundamentals Slides",
+        "Type": 0,
+        "Url": "/materials/ict101/week1-hardware-slides.pptx"
+      },
+      {
+        "Title": "Computer Components Identification Worksheet",
+        "Type": 3,
+        "Url": "/materials/ict101/week1-components-worksheet.pdf"
+      },
+      {
+        "Title": "PC Assembly and Disassembly Reference Notes",
+        "Type": 1,
+        "Url": "/materials/ict101/week1-assembly-notes.pdf"
+      }
+    ],
+    "AssessmentMethods": "Hardware identification quiz and practical PC assembly assessment",
+    "Status": 2,
+    "SubmittedDate": "2025-01-09T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 904,
+    "FeedbackComments": "Well-structured. Ensure sufficient computers are available for the practical session.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 2,
+    "CourseCode": "EL102",
+    "CourseName": "Electronic Circuit Assembly",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Reading Circuit Diagrams and Schematics",
+    "LearningOutcomes": "Students will interpret electronic schematic diagrams, identify components from circuit symbols, and plan the assembly of a given circuit from a schematic.",
+    "LectureTopics": [
+      "Standard electronic circuit symbols and their physical component counterparts",
+      "Reading and interpreting schematic diagrams",
+      "Introduction to PCB layouts and their relationship to schematics",
+      "Practical: tracing a circuit diagram and identifying components on a sample PCB"
+    ],
+    "Materials": [
+      {
+        "Title": "Reading Circuit Schematics Slides",
+        "Type": 0,
+        "Url": "/materials/el102/week1-schematics-slides.pptx"
+      },
+      {
+        "Title": "Circuit Symbol Reference Chart",
+        "Type": 4,
+        "Url": "/materials/el102/week1-circuit-symbols.pdf"
+      }
+    ],
+    "AssessmentMethods": "Schematic reading practical exercise and component identification from circuit diagrams",
+    "Status": 1,
+    "SubmittedDate": "2025-01-13T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 901,
+    "FeedbackComments": "Submitted for departmental review.",
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "LastUpdated": "2025-01-13T09:00:00Z"
+  }
+]

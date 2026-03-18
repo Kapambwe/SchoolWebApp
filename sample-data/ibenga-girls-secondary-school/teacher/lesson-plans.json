@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Chemistry",
+    "grade": "Grade 12",
+    "topic": "Acid-Base Titration",
+    "date": "2024-01-23",
+    "duration": 90,
+    "objectives": [
+      "Students will understand the principles of acid-base titration",
+      "Students will perform titration experiments accurately",
+      "Students will calculate concentrations from titration data"
+    ],
+    "activities": [
+      "Theory presentation on titration",
+      "Demonstration of proper technique",
+      "Laboratory practical experiment",
+      "Data analysis and calculations"
+    ],
+    "resources": ["Chemistry textbook", "Burettes", "Pipettes", "Indicators", "Solutions"],
+    "assessment": "Practical report and calculations",
+    "homework": "Complete titration calculations worksheet",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "subject": "Life Skills",
+    "grade": "Grade 10",
+    "topic": "Women Leadership and Empowerment",
+    "date": "2024-01-24",
+    "duration": 60,
+    "objectives": [
+      "Students will identify qualities of effective women leaders",
+      "Students will understand challenges faced by women in leadership",
+      "Students will develop personal leadership skills"
+    ],
+    "activities": [
+      "Discussion on Zambian women leaders",
+      "Group presentations on role models",
+      "Leadership skills workshop",
+      "Personal action plan development"
+    ],
+    "resources": ["Case studies", "Video presentations", "Leadership materials"],
+    "assessment": "Group presentation and personal action plan",
+    "homework": "Research a Zambian woman leader",
+    "status": "In Progress"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Power Systems Design Project",
+    "subject": "Power Systems",
+    "description": "Design a power distribution system for an industrial facility",
+    "dueDate": "2024-12-28T23:59:59Z",
+    "maxScore": 100,
+    "status": "InProgress",
+    "studentId": 1,
+    "teacherId": 1,
+    "grade": "Year 2",
+    "assignedDate": "2024-12-10T00:00:00Z",
+    "weightPercentage": 30,
+    "createdDate": "2024-12-10T00:00:00Z",
+    "createdBy": "Mrs. Beatrice Chola"
+  }
+]

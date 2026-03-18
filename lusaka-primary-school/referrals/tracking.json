@@ -1,0 +1,41 @@
+[
+  {
+    "id": "track-001",
+    "tenantId": "lusaka-primary-school",
+    "linkId": "link-001",
+    "sessionId": "sess-a1b2c3",
+    "ipAddress": "197.188.1.100",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "referrerUrl": "https://facebook.com",
+    "clickDate": "2025-01-10T09:15:00Z",
+    "country": "Zambia",
+    "city": "Lusaka",
+    "region": "Lusaka Province"
+  },
+  {
+    "id": "track-002",
+    "tenantId": "lusaka-primary-school",
+    "linkId": "link-002",
+    "sessionId": "sess-d4e5f6",
+    "ipAddress": "197.188.2.50",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X)",
+    "referrerUrl": "https://whatsapp.com",
+    "clickDate": "2025-01-12T14:30:00Z",
+    "country": "Zambia",
+    "city": "Lusaka",
+    "region": "Lusaka Province"
+  },
+  {
+    "id": "track-003",
+    "tenantId": "lusaka-primary-school",
+    "linkId": "link-003",
+    "sessionId": "sess-g7h8i9",
+    "ipAddress": "197.188.3.75",
+    "userAgent": "Mozilla/5.0 (Android 11; Mobile; rv:91.0)",
+    "referrerUrl": "",
+    "clickDate": "2025-01-18T11:00:00Z",
+    "country": "Zambia",
+    "city": "Lusaka",
+    "region": "Lusaka Province"
+  }
+]

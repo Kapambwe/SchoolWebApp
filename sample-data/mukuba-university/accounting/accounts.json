@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "accountCode": "1100",
+    "accountName": "Cash and Bank",
+    "accountType": "Asset",
+    "category": "CashAndBank",
+    "currentBalance": 7200000.00,
+    "currency": "ZMW",
+    "level": 2,
+    "isActive": true,
+    "description": "University's main cash account"
+  },
+  {
+    "id": 2,
+    "accountCode": "4100",
+    "accountName": "Tuition Fee Revenue",
+    "accountType": "Revenue",
+    "category": "TuitionFees",
+    "currentBalance": 38000000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Revenue from student tuition fees"
+  },
+  {
+    "id": 3,
+    "accountCode": "5100",
+    "accountName": "Academic Staff Salaries",
+    "accountType": "Expense",
+    "category": "Salaries",
+    "currentBalance": 10000000.00,
+    "currency": "ZMW",
+    "level": 1,
+    "isActive": true,
+    "description": "Monthly academic staff salaries"
+  }
+]

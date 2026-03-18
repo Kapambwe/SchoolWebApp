@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "dayOfWeek": "Monday",
+    "startTime": "07:45:00",
+    "endTime": "08:15:00",
+    "subject": "Chapel Service",
+    "teacher": "Sister Mary Mwape",
+    "room": "School Chapel",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 2,
+    "dayOfWeek": "Monday",
+    "startTime": "08:30:00",
+    "endTime": "10:00:00",
+    "subject": "Biology",
+    "teacher": "Mrs. Agnes Mwape",
+    "room": "Science Lab",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 3,
+    "dayOfWeek": "Monday",
+    "startTime": "10:15:00",
+    "endTime": "11:45:00",
+    "subject": "Religious Education",
+    "teacher": "Mr. Francis Zulu",
+    "room": "Room 201",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  }
+]

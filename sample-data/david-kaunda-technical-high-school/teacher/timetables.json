@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Electrical Theory",
+    "grade": "Year 3",
+    "classroom": "Workshop A",
+    "studentCount": 18
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "10:15-13:00",
+    "subject": "Electrical Installation Practical",
+    "grade": "Year 3",
+    "classroom": "Electrical Workshop",
+    "studentCount": 18
+  },
+  {
+    "id": 3,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-12:00",
+    "subject": "Carpentry Practical",
+    "grade": "Year 2",
+    "classroom": "Carpentry Workshop",
+    "studentCount": 20
+  },
+  {
+    "id": 4,
+    "teacherId": 3,
+    "dayOfWeek": "Monday",
+    "timeSlot": "14:00-16:00",
+    "subject": "Entrepreneurship",
+    "grade": "Year 3",
+    "classroom": "Room 101",
+    "studentCount": 25
+  }
+]

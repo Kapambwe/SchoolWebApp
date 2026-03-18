@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Dr. Elizabeth Mwamba",
+    "studentId": 1,
+    "studentName": "Mwila Kasonde",
+    "date": "2024-02-20",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Academic Progress Review",
+    "status": "Scheduled",
+    "location": "School of Law",
+    "agenda": "Discuss Mwila's moot court performance and career prospects in law",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "teacherId": 2,
+    "teacherName": "Prof. David Simwanza",
+    "studentId": 2,
+    "studentName": "Natasha Phiri",
+    "date": "2024-01-30",
+    "time": "15:00",
+    "duration": 25,
+    "type": "Career Guidance",
+    "status": "Completed",
+    "location": "School of Business",
+    "agenda": "Discuss internship opportunities and MBA prospects",
+    "notes": "Natasha shows excellent potential. Recommended for corporate internship."
+  }
+]

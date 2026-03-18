@@ -1,0 +1,30 @@
+{
+  "tenantId": "st-marys-secondary-high-school",
+  "schoolName": "St. Mary's Secondary High School",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "Secondary",
+  "establishedYear": 1965,
+  "studentCapacity": 800,
+  "currentEnrollment": 720,
+  "grades": ["Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12"],
+  "address": {
+    "street": "Cathedral Hill",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10104",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211456789",
+    "email": "info@stmarys.edu.zm",
+    "website": "www.stmarys.edu.zm"
+  },
+  "motto": "Faith, Knowledge, Service",
+  "vision": "To provide Catholic education that develops the whole person.",
+  "mission": "To educate young people in the Catholic tradition, fostering academic excellence and moral values.",
+  "accreditation": ["Ministry of Education Zambia", "Catholic Education Board"]
+}

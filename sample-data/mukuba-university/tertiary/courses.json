@@ -1,0 +1,191 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "ED101",
+    "CourseName": "Education Psychology",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introduction to the psychological principles underlying education, exploring how students learn, develop, and are motivated in educational settings. Emphasis is placed on applying theory to classroom practice within the Zambian context.",
+    "Department": "Education",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Explain key psychological theories and their application in educational settings",
+      "Analyse factors that influence student motivation and learning behaviour",
+      "Apply psychological principles to design effective teaching strategies"
+    ],
+    "MaxEnrollment": 90,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "ED201",
+    "CourseName": "Curriculum Development",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A comprehensive study of curriculum theory and design, examining models for developing, implementing, and evaluating educational curricula at various levels. Students explore national curriculum frameworks and contextualise them for Zambian schools.",
+    "Department": "Education",
+    "Prerequisites": ["ED101"],
+    "LearningOutcomes": [
+      "Design curriculum frameworks aligned with national educational standards",
+      "Evaluate existing curricula using recognised assessment models",
+      "Develop learning objectives and assessment criteria for diverse learner groups"
+    ],
+    "MaxEnrollment": 75,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "ED301",
+    "CourseName": "Teaching Methods and Pedagogy",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "An advanced exploration of instructional strategies and pedagogical approaches, equipping student teachers with diverse methods to facilitate effective learning in varied classroom environments. Includes microteaching and reflective practice components.",
+    "Department": "Education",
+    "Prerequisites": ["ED201"],
+    "LearningOutcomes": [
+      "Apply a range of evidence-based teaching methods appropriate to different learning contexts",
+      "Develop lesson plans that accommodate diverse learning styles and abilities",
+      "Critically evaluate pedagogical approaches and reflect on personal teaching practice"
+    ],
+    "MaxEnrollment": 65,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "BA101",
+    "CourseName": "Business Communication",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering essential communication skills in business contexts, including written, oral, and digital communication for professional and organisational settings. Students develop competencies required in the modern Zambian business environment.",
+    "Department": "Business Administration",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Produce clear and professional written business documents including reports and correspondence",
+      "Demonstrate effective oral communication skills in presentations and meetings",
+      "Apply appropriate communication strategies across different business contexts and audiences"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "BA201",
+    "CourseName": "Principles of Accounting",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A foundational course in financial and management accounting, covering the recording, classification, and analysis of financial transactions for business decision-making. Topics include the accounting cycle, ledgers, trial balance, and preparation of basic financial statements.",
+    "Department": "Business Administration",
+    "Prerequisites": ["BA101"],
+    "LearningOutcomes": [
+      "Record and classify financial transactions using double-entry bookkeeping",
+      "Prepare basic financial statements including income statements and balance sheets",
+      "Interpret financial data to support business planning and management decisions"
+    ],
+    "MaxEnrollment": 85,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "BA301",
+    "CourseName": "Entrepreneurship and Innovation",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 1,
+    "Description": "An elective course exploring entrepreneurial thinking and innovation management, guiding students through the process of identifying business opportunities and developing viable ventures. Special emphasis is placed on the challenges and opportunities facing SMEs in Zambia.",
+    "Department": "Business Administration",
+    "Prerequisites": ["BA201"],
+    "LearningOutcomes": [
+      "Identify and evaluate entrepreneurial opportunities in local and regional markets",
+      "Develop a comprehensive business plan incorporating innovation strategies",
+      "Analyse the challenges and opportunities facing small and medium enterprises in Zambia"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "NS101",
+    "CourseName": "Introduction to Biology",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "A foundational course in biological sciences covering cell biology, genetics, ecology, and the diversity of life, with an emphasis on local ecosystems and biodiversity in Zambia. Laboratory sessions introduce students to standard biological techniques.",
+    "Department": "Natural Sciences",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the fundamental principles of cell biology, genetics, and evolution",
+      "Identify major taxonomic groups of organisms and their ecological roles in Zambian ecosystems",
+      "Conduct basic biological laboratory techniques including microscopy and specimen preparation"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "NS201",
+    "CourseName": "Chemistry for Natural Scientists",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "An intermediate chemistry course covering organic and inorganic chemistry principles, chemical reactions, stoichiometry, and laboratory techniques relevant to natural science disciplines. Students gain practical skills in chemical analysis and safety.",
+    "Department": "Natural Sciences",
+    "Prerequisites": ["NS101"],
+    "LearningOutcomes": [
+      "Explain fundamental concepts of organic and inorganic chemistry including atomic structure and bonding",
+      "Perform quantitative chemical analysis using standard laboratory methods",
+      "Apply chemical principles to interpret natural phenomena and environmental processes"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 9,
+    "CourseCode": "NS301",
+    "CourseName": "Environmental Science",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 1,
+    "Description": "An elective course examining environmental systems, human impacts on natural ecosystems, and sustainable development strategies. Strong focus on environmental challenges unique to the Copperbelt region, including mining pollution, land degradation, and water quality issues.",
+    "Department": "Natural Sciences",
+    "Prerequisites": ["NS201"],
+    "LearningOutcomes": [
+      "Analyse the interactions between human activities and natural environmental systems",
+      "Assess the environmental impact of mining and industrial activities in the Copperbelt region",
+      "Propose evidence-based solutions for environmental conservation and sustainable resource management"
+    ],
+    "MaxEnrollment": 60,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "Id": 1,
+    "Code": "CERT-CON",
+    "ProgramCode": "CERT-CON",
+    "Name": "Certificate in Construction",
+    "ProgramName": "Certificate in Construction",
+    "Type": 0,
+    "DurationYears": 1,
+    "TotalCreditHours": 60,
+    "TuitionFee": 5000.00,
+    "Department": "Civil & Construction",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 1,
+        "CourseCode": "CV101",
+        "CourseName": "Construction Materials and Methods",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 2,
+        "CourseCode": "CV102",
+        "CourseName": "Building Drawing and Estimation",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": true
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "DIP-MV",
+    "ProgramCode": "DIP-MV",
+    "Name": "Diploma in Motor Vehicle Technology",
+    "ProgramName": "Diploma in Motor Vehicle Technology",
+    "Type": 1,
+    "DurationYears": 2,
+    "TotalCreditHours": 120,
+    "TuitionFee": 8500.00,
+    "Department": "Motor Vehicle",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 4,
+        "CourseCode": "MV101",
+        "CourseName": "Motor Vehicle Technology",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 5,
+        "CourseCode": "MV201",
+        "CourseName": "Engine Diagnostics and Repair",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "CERT-AG",
+    "ProgramCode": "CERT-AG",
+    "Name": "Certificate in Agricultural Engineering",
+    "ProgramName": "Certificate in Agricultural Engineering",
+    "Type": 0,
+    "DurationYears": 1,
+    "TotalCreditHours": 60,
+    "TuitionFee": 4500.00,
+    "Department": "Agricultural Engineering",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 6,
+        "CourseCode": "AG101",
+        "CourseName": "Agricultural Engineering Fundamentals",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 7,
+        "CourseCode": "AG102",
+        "CourseName": "Farm Machinery and Equipment",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": true
+      }
+    ]
+  }
+]

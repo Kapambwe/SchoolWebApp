@@ -1,0 +1,191 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "CE101",
+    "CourseName": "Introduction to Computer Engineering",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Foundational concepts of computer engineering covering digital systems, computer organisation, logic gates, and the role of computer engineers in technology-driven industries.",
+    "Department": "Computer Engineering",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the fundamental components of a computer system",
+      "Explain the relationship between hardware and software in computing",
+      "Identify career pathways and professional ethics in computer engineering"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "CE201",
+    "CourseName": "Digital Logic Design",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Study of Boolean algebra, combinational and sequential logic circuits, flip-flops, registers, counters, and the design of digital systems using hardware description languages.",
+    "Department": "Computer Engineering",
+    "Prerequisites": ["CE101"],
+    "LearningOutcomes": [
+      "Apply Boolean algebra to simplify logic expressions",
+      "Design combinational and sequential digital circuits",
+      "Implement digital systems using hardware description languages"
+    ],
+    "MaxEnrollment": 70,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "CE301",
+    "CourseName": "Computer Architecture",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "Comprehensive study of computer organisation and architecture including CPU design, instruction set architecture, memory hierarchy, pipelining, and input/output systems.",
+    "Department": "Computer Engineering",
+    "Prerequisites": ["CE201"],
+    "LearningOutcomes": [
+      "Explain the structure and operation of modern CPU architectures",
+      "Analyse memory hierarchy and cache performance",
+      "Design and evaluate pipelined processor implementations"
+    ],
+    "MaxEnrollment": 60,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "CHE101",
+    "CourseName": "Chemical Engineering Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Introduction to chemical engineering principles including material and energy balances, unit operations, process flow diagrams, and the role of chemical engineers in industry and sustainable development.",
+    "Department": "Chemical Engineering",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Apply material and energy balance principles to chemical processes",
+      "Interpret process flow diagrams for chemical plants",
+      "Identify the role of chemical engineering in industrial and environmental contexts"
+    ],
+    "MaxEnrollment": 75,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "CHE201",
+    "CourseName": "Thermodynamics",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Study of thermodynamic laws, thermodynamic properties of pure substances and mixtures, phase equilibria, chemical reaction equilibrium, and applications to chemical engineering processes.",
+    "Department": "Chemical Engineering",
+    "Prerequisites": ["CHE101"],
+    "LearningOutcomes": [
+      "Apply the first and second laws of thermodynamics to engineering systems",
+      "Analyse phase equilibria and thermodynamic property changes in processes",
+      "Solve chemical reaction equilibrium problems using thermodynamic principles"
+    ],
+    "MaxEnrollment": 65,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "CHE301",
+    "CourseName": "Reaction Engineering",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "Principles of chemical reaction kinetics and reactor design including batch, CSTR and plug flow reactors, residence time distribution, non-ideal reactors, and catalytic reaction systems.",
+    "Department": "Chemical Engineering",
+    "Prerequisites": ["CHE201"],
+    "LearningOutcomes": [
+      "Determine reaction kinetics from experimental data",
+      "Design and size ideal batch, CSTR and plug flow reactors",
+      "Analyse non-ideal reactor behaviour using residence time distribution methods"
+    ],
+    "MaxEnrollment": 55,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "BA101",
+    "CourseName": "Principles of Management",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Introduction to management theories and practice covering planning, organising, leading and controlling, organisational structures, and ethical leadership principles relevant to the Nigerian business environment.",
+    "Department": "Business Administration",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Explain classical and contemporary management theories and their applications",
+      "Apply the four functions of management to organisational scenarios",
+      "Demonstrate ethical and value-driven leadership principles in business contexts"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "BA201",
+    "CourseName": "Marketing Management",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 0,
+    "Description": "Study of marketing concepts and strategy including market analysis, consumer behaviour, product development, pricing, promotion, distribution, and digital marketing with focus on the African market context.",
+    "Department": "Business Administration",
+    "Prerequisites": ["BA101"],
+    "LearningOutcomes": [
+      "Conduct market analysis and identify target segments in African markets",
+      "Develop a comprehensive marketing mix strategy for a product or service",
+      "Evaluate the impact of digital marketing tools on contemporary business growth"
+    ],
+    "MaxEnrollment": 90,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 9,
+    "CourseCode": "BA301",
+    "CourseName": "Strategic Management",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 1,
+    "Description": "Advanced study of strategic management processes including environmental scanning, strategy formulation, competitive analysis, strategy implementation, and evaluation with case studies from Nigerian and global organisations.",
+    "Department": "Business Administration",
+    "Prerequisites": ["BA201"],
+    "LearningOutcomes": [
+      "Conduct strategic environmental analysis using SWOT, PESTLE and Porter's Five Forces",
+      "Formulate competitive business strategies for organisational growth",
+      "Evaluate strategy implementation and performance measurement frameworks"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

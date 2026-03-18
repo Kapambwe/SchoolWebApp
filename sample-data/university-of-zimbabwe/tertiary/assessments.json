@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "Title": "MED101 Quiz 1 - Healthcare Systems Overview",
+    "Type": 0,
+    "AssessmentType": "Quiz",
+    "TotalMarks": 20.0,
+    "WeightPercentage": 10.0,
+    "DueDate": "2025-02-14T10:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 2,
+    "CourseId": 5,
+    "Title": "BCH201 Mid-Term Examination",
+    "Type": 3,
+    "AssessmentType": "MidTerm",
+    "TotalMarks": 50.0,
+    "WeightPercentage": 25.0,
+    "DueDate": "2025-03-28T09:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 3,
+    "CourseId": 7,
+    "Title": "HIS101 Essay Assignment - Pre-colonial Africa",
+    "Type": 1,
+    "AssessmentType": "Assignment",
+    "TotalMarks": 40.0,
+    "WeightPercentage": 20.0,
+    "DueDate": "2025-03-21T23:59:00Z",
+    "Status": 2,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 4,
+    "CourseId": 3,
+    "Title": "MED301 Final Examination",
+    "Type": 4,
+    "AssessmentType": "Final",
+    "TotalMarks": 100.0,
+    "WeightPercentage": 50.0,
+    "DueDate": "2025-06-20T09:00:00Z",
+    "Status": 0,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "StudentScores": []
+  }
+]

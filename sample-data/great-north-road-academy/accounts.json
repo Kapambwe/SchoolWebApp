@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cash and Bank",
+    "accountType": "Asset",
+    "currentBalance": 1250000.00
+  },
+  {
+    "id": 2,
+    "name": "Tuition Fees Receivable",
+    "accountType": "Asset",
+    "currentBalance": 320000.00
+  },
+  {
+    "id": 3,
+    "name": "Tuition Fees Revenue",
+    "accountType": "Revenue",
+    "currentBalance": 4800000.00
+  },
+  {
+    "id": 4,
+    "name": "Staff Salaries Expense",
+    "accountType": "Expense",
+    "currentBalance": 680000.00
+  },
+  {
+    "id": 5,
+    "name": "Infrastructure Maintenance",
+    "accountType": "Expense",
+    "currentBalance": 95000.00
+  },
+  {
+    "id": 6,
+    "name": "Accounts Payable",
+    "accountType": "Liability",
+    "currentBalance": 120000.00
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "Title": "ME101 Quiz 1 - Mining Methods",
+    "Type": 0,
+    "AssessmentType": "Quiz",
+    "TotalMarks": 20.0,
+    "WeightPercentage": 10.0,
+    "DueDate": "2025-02-14T10:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 2,
+    "CourseId": 8,
+    "Title": "CS201 Mid-Term Examination",
+    "Type": 3,
+    "AssessmentType": "MidTerm Examination",
+    "TotalMarks": 50.0,
+    "WeightPercentage": 25.0,
+    "DueDate": "2025-03-28T09:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 3,
+    "CourseId": 6,
+    "Title": "EE301 Assignment 1 - Load Flow Analysis",
+    "Type": 1,
+    "AssessmentType": "Assignment",
+    "TotalMarks": 30.0,
+    "WeightPercentage": 15.0,
+    "DueDate": "2025-03-07T23:59:00Z",
+    "Status": 2,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 4,
+    "CourseId": 3,
+    "Title": "ME301 Final Examination",
+    "Type": 4,
+    "AssessmentType": "Final Examination",
+    "TotalMarks": 100.0,
+    "WeightPercentage": 50.0,
+    "DueDate": "2025-06-13T09:00:00Z",
+    "Status": 0,
+    "CreatedDate": "2025-01-20T08:00:00Z",
+    "StudentScores": []
+  }
+]

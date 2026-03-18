@@ -1,0 +1,35 @@
+[
+  {
+    "currencyCode": "ZMW",
+    "currencyName": "Zambian Kwacha",
+    "currencySymbol": "ZK",
+    "isDefault": true,
+    "exchangeRate": 1.0,
+    "decimalPlaces": 2,
+    "thousandsSeparator": ",",
+    "decimalSeparator": ".",
+    "symbolPosition": "before"
+  },
+  {
+    "currencyCode": "USD",
+    "currencyName": "US Dollar",
+    "currencySymbol": "$",
+    "isDefault": false,
+    "exchangeRate": 0.038,
+    "decimalPlaces": 2,
+    "thousandsSeparator": ",",
+    "decimalSeparator": ".",
+    "symbolPosition": "before"
+  },
+  {
+    "currencyCode": "GBP",
+    "currencyName": "British Pound",
+    "currencySymbol": "£",
+    "isDefault": false,
+    "exchangeRate": 0.031,
+    "decimalPlaces": 2,
+    "thousandsSeparator": ",",
+    "decimalSeparator": ".",
+    "symbolPosition": "before"
+  }
+]

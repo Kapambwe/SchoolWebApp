@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Financial Accounting",
+    "grade": "Year 2",
+    "topic": "Financial Statement Analysis",
+    "date": "2024-01-22",
+    "duration": 120,
+    "objectives": [
+      "Students will analyze financial statements",
+      "Students will calculate financial ratios",
+      "Students will interpret financial performance"
+    ],
+    "activities": [
+      "Lecture on ratio analysis",
+      "Case study analysis",
+      "Group discussions",
+      "Practical exercises"
+    ],
+    "resources": ["Accounting textbook", "Financial statements", "Calculator"],
+    "assessment": "Financial analysis report",
+    "homework": "Complete ratio analysis assignment",
+    "status": "In Progress"
+  }
+]

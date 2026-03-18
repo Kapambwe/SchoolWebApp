@@ -1,0 +1,61 @@
+{
+  "tenantId": "mukuba-university",
+  "schoolName": "Mukuba University",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "University",
+  "establishedYear": 2013,
+  "studentCapacity": 8000,
+  "currentEnrollment": 6800,
+  "address": {
+    "street": "Riverside Campus",
+    "city": "Kitwe",
+    "province": "Copperbelt Province",
+    "postalCode": "20105",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260212234567",
+    "email": "info@mu.ac.zm",
+    "website": "www.mu.ac.zm"
+  },
+  "motto": "Lighting the Path to Knowledge",
+  "vision": "To be a leading university in providing quality education, research and innovation.",
+  "mission": "To provide accessible, quality higher education that transforms lives and contributes to national development.",
+  "schools": [
+    "School of Business and Economics",
+    "School of Engineering and Technology",
+    "School of Natural Resources",
+    "School of Education",
+    "School of Health Sciences",
+    "School of Humanities and Social Sciences"
+  ],
+  "programs": [
+    "Bachelor of Commerce",
+    "Bachelor of Science in Information Technology",
+    "Bachelor of Education",
+    "Bachelor of Science in Environmental Health",
+    "Bachelor of Arts in Development Studies",
+    "Master of Business Administration (MBA)",
+    "Master of Science in Project Management"
+  ],
+  "facilities": [
+    "Modern Lecture Halls",
+    "Computer Labs",
+    "Science Laboratories",
+    "Library and Learning Resource Center",
+    "Student Hostels",
+    "Sports Facilities",
+    "Cafeteria",
+    "Innovation Hub"
+  ],
+  "accreditation": ["Higher Education Authority (HEA)", "ZAQA"],
+  "specialFeatures": [
+    "Focus on Mining and Natural Resources",
+    "Strong Industry Partnerships",
+    "Modern Campus Infrastructure"
+  ]
+}

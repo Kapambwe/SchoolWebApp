@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Annual Sports Day",
+    "date": "2025-05-10T08:00:00Z",
+    "location": "School Sports Field",
+    "description": "Annual inter-house sports competition with track and field events"
+  },
+  {
+    "id": 2,
+    "name": "End of Term 1 Prize Giving",
+    "date": "2025-04-04T10:00:00Z",
+    "location": "School Main Hall",
+    "description": "Prize giving ceremony for academic and co-curricular achievement"
+  },
+  {
+    "id": 3,
+    "name": "Parents Day",
+    "date": "2025-03-15T09:00:00Z",
+    "location": "School Grounds",
+    "description": "Open day for parents to meet teachers and view student progress"
+  },
+  {
+    "id": 4,
+    "name": "Science Fair",
+    "date": "2025-06-20T09:00:00Z",
+    "location": "School Assembly Ground",
+    "description": "Annual student science project exhibition"
+  },
+  {
+    "id": 5,
+    "name": "Cultural Day",
+    "date": "2025-07-04T09:00:00Z",
+    "location": "School Main Hall",
+    "description": "Celebration of Zambia's diverse cultural heritage"
+  }
+]

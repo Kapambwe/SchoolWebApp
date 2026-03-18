@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Constitutional Law Research Paper",
+    "subject": "Constitutional Law",
+    "description": "Research and analyze a recent constitutional law case in Zambia",
+    "dueDate": "2024-12-30T23:59:59Z",
+    "maxScore": 100,
+    "status": "InProgress",
+    "studentId": 1,
+    "teacherId": 1,
+    "grade": "Year 3",
+    "assignedDate": "2024-11-01T00:00:00Z",
+    "weightPercentage": 40,
+    "createdDate": "2024-11-01T00:00:00Z",
+    "createdBy": "Dr. Elizabeth Mwamba"
+  },
+  {
+    "id": 2,
+    "title": "Strategic Management Case Study",
+    "subject": "Strategic Management",
+    "description": "Analyze the strategic management practices of a Zambian multinational company",
+    "dueDate": "2024-12-28T23:59:59Z",
+    "maxScore": 100,
+    "status": "InProgress",
+    "studentId": 2,
+    "teacherId": 2,
+    "grade": "Year 2",
+    "assignedDate": "2024-12-01T00:00:00Z",
+    "weightPercentage": 35,
+    "createdDate": "2024-12-01T00:00:00Z",
+    "createdBy": "Prof. David Simwanza"
+  }
+]

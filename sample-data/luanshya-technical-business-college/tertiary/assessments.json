@@ -1,0 +1,41 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "Title": "EI101 Practical Test - Basic Wiring",
+    "Type": 2,
+    "AssessmentType": "Test",
+    "TotalMarks": 50.0,
+    "WeightPercentage": 30.0,
+    "DueDate": "2025-03-07T09:00:00Z",
+    "Status": 3,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 2,
+    "CourseId": 5,
+    "Title": "BS101 Assignment - Business Letter Writing",
+    "Type": 1,
+    "AssessmentType": "Assignment",
+    "TotalMarks": 30.0,
+    "WeightPercentage": 20.0,
+    "DueDate": "2025-03-21T23:59:00Z",
+    "Status": 2,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  },
+  {
+    "Id": 3,
+    "CourseId": 7,
+    "Title": "IT101 Final Practical Examination",
+    "Type": 4,
+    "AssessmentType": "Final",
+    "TotalMarks": 100.0,
+    "WeightPercentage": 50.0,
+    "DueDate": "2025-06-13T09:00:00Z",
+    "Status": 0,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "StudentScores": []
+  }
+]

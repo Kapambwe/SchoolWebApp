@@ -1,0 +1,42 @@
+[
+  {
+    "languageCode": "en",
+    "languageName": "English",
+    "nativeName": "English",
+    "isDefault": true,
+    "isActive": true,
+    "direction": "ltr"
+  },
+  {
+    "languageCode": "ny",
+    "languageName": "Chichewa",
+    "nativeName": "Chichewa",
+    "isDefault": false,
+    "isActive": true,
+    "direction": "ltr"
+  },
+  {
+    "languageCode": "bem",
+    "languageName": "Bemba",
+    "nativeName": "Ichibemba",
+    "isDefault": false,
+    "isActive": true,
+    "direction": "ltr"
+  },
+  {
+    "languageCode": "loz",
+    "languageName": "Lozi",
+    "nativeName": "Silozi",
+    "isDefault": false,
+    "isActive": true,
+    "direction": "ltr"
+  },
+  {
+    "languageCode": "ton",
+    "languageName": "Tonga",
+    "nativeName": "Chitonga",
+    "isDefault": false,
+    "isActive": true,
+    "direction": "ltr"
+  }
+]

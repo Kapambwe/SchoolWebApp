@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "TCH-ZM-001",
+    "firstName": "Mutale",
+    "lastName": "Mwansa",
+    "email": "mutale.mwansa@lusaka.school.zm",
+    "phoneNumber": "+260971000002",
+    "employmentDate": "2018-03-01",
+    "qualification": "PGDE in Mathematics",
+    "subjectSpecialization": "Mathematics",
+    "subjectsAssigned": ["Mathematics", "Further Maths"],
+    "gradesAssigned": ["Grade 6", "Grade 7"],
+    "workloadHours": 25,
+    "teachingHours": 20,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.3,
+    "createdDate": "2018-03-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "TCH-ZM-002",
+    "firstName": "Chola",
+    "lastName": "Mbewe",
+    "email": "chola.mbewe@lusaka.school.zm",
+    "phoneNumber": "+260971000004",
+    "employmentDate": "2020-06-15",
+    "qualification": "BSc. Education",
+    "subjectSpecialization": "Science",
+    "subjectsAssigned": ["Science"],
+    "gradesAssigned": ["Grade 6", "Grade 7"],
+    "workloadHours": 22,
+    "teachingHours": 18,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.0,
+    "createdDate": "2020-06-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

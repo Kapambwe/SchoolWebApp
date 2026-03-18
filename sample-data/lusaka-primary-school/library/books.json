@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Mathematics for Grade 7 Zambia",
+    "author": "Ministry of Education Zambia",
+    "isbn": "978-9982-24-001-1",
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "title": "English Alive Grade 6",
+    "author": "Longman Zambia",
+    "isbn": "978-9982-24-002-8",
+    "isAvailable": false
+  },
+  {
+    "id": 3,
+    "title": "Integrated Science Primary Course",
+    "author": "Oxford University Press",
+    "isbn": "978-0-19-831402-2",
+    "isAvailable": true
+  },
+  {
+    "id": 4,
+    "title": "The Zambezi River and Its People",
+    "author": "Kafue Publishers",
+    "isbn": "978-9982-25-010-3",
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "title": "Tales from Zambia",
+    "author": "Nchimunya Sikazwe",
+    "isbn": "978-9982-25-015-8",
+    "isAvailable": false
+  },
+  {
+    "id": 6,
+    "title": "Social Studies for Primary Schools",
+    "author": "Macmillan Zambia",
+    "isbn": "978-9982-24-020-2",
+    "isAvailable": true
+  }
+]

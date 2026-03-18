@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "firstName": "Chanda",
+    "lastName": "Mwanza",
+    "email": "chanda.mwanza@gnracademy.edu.zm",
+    "dateOfBirth": "2007-03-15",
+    "grade": "Grade 11",
+    "studentId": "GNR2023001",
+    "status": "Active",
+    "enrollmentDate": "2023-01-15",
+    "parentId": 1,
+    "address": {
+      "street": "Kabulonga Road",
+      "city": "Lusaka",
+      "province": "Lusaka Province",
+      "country": "Zambia"
+    },
+    "emergencyContact": {
+      "name": "Mary Mwanza",
+      "relationship": "Mother",
+      "phone": "+260977123456"
+    },
+    "subjects": ["Mathematics", "Physics", "Chemistry", "English", "Geography"],
+    "gpa": 3.8,
+    "attendance": 95.5
+  },
+  {
+    "id": 2,
+    "firstName": "Mutale",
+    "lastName": "Banda",
+    "email": "mutale.banda@gnracademy.edu.zm",
+    "dateOfBirth": "2006-08-22",
+    "grade": "Grade 12",
+    "studentId": "GNR2022045",
+    "status": "Active",
+    "enrollmentDate": "2022-01-10",
+    "parentId": 2,
+    "address": {
+      "street": "Roma Township",
+      "city": "Lusaka",
+      "province": "Lusaka Province",
+      "country": "Zambia"
+    },
+    "emergencyContact": {
+      "name": "Joseph Banda",
+      "relationship": "Father",
+      "phone": "+260966789012"
+    },
+    "subjects": ["Biology", "Chemistry", "Mathematics", "English", "History"],
+    "gpa": 3.9,
+    "attendance": 98.2
+  },
+  {
+    "id": 3,
+    "firstName": "Temba",
+    "lastName": "Phiri",
+    "email": "temba.phiri@gnracademy.edu.zm",
+    "dateOfBirth": "2008-01-10",
+    "grade": "Grade 10",
+    "studentId": "GNR2024078",
+    "status": "Active",
+    "enrollmentDate": "2024-01-08",
+    "parentId": 3,
+    "address": {
+      "street": "Chelston Area",
+      "city": "Lusaka",
+      "province": "Lusaka Province",
+      "country": "Zambia"
+    },
+    "emergencyContact": {
+      "name": "Grace Phiri",
+      "relationship": "Mother",
+      "phone": "+260955345678"
+    },
+    "subjects": ["Mathematics", "Science", "English", "Geography", "Civic Education"],
+    "gpa": 3.6,
+    "attendance": 92.8
+  },
+  {
+    "id": 4,
+    "firstName": "Nalani",
+    "lastName": "Sakala",
+    "email": "nalani.sakala@gnracademy.edu.zm",
+    "dateOfBirth": "2007-11-05",
+    "grade": "Grade 11",
+    "studentId": "GNR2023089",
+    "status": "Active",
+    "enrollmentDate": "2023-01-15",
+    "parentId": 4,
+    "address": {
+      "street": "Woodlands Extension",
+      "city": "Lusaka",
+      "province": "Lusaka Province",
+      "country": "Zambia"
+    },
+    "emergencyContact": {
+      "name": "Peter Sakala",
+      "relationship": "Father",
+      "phone": "+260977456789"
+    },
+    "subjects": ["Literature", "History", "Geography", "English", "Art"],
+    "gpa": 3.7,
+    "attendance": 94.1
+  },
+  {
+    "id": 5,
+    "firstName": "Kabwe",
+    "lastName": "Zulu",
+    "email": "kabwe.zulu@gnracademy.edu.zm",
+    "dateOfBirth": "2009-04-18",
+    "grade": "Grade 9",
+    "studentId": "GNR2024156",
+    "status": "Active",
+    "enrollmentDate": "2024-01-08",
+    "parentId": 5,
+    "address": {
+      "street": "Matero Township",
+      "city": "Lusaka",
+      "province": "Lusaka Province",
+      "country": "Zambia"
+    },
+    "emergencyContact": {
+      "name": "Ruth Zulu",
+      "relationship": "Mother",
+      "phone": "+260966234567"
+    },
+    "subjects": ["Mathematics", "Science", "English", "Social Studies", "Physical Education"],
+    "gpa": 3.4,
+    "attendance": 89.7
+  }
+]

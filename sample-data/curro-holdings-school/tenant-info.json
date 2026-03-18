@@ -1,0 +1,36 @@
+{
+  "tenantId": "curro-holdings-school",
+  "displayName": "Curro Holdings School",
+  "shortName": "Curro",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Pretoria",
+  "address": "88 Waterkloof Road, Waterkloof, Pretoria, 0181",
+  "phone": "+27 12 555 4321",
+  "email": "info@curro.co.za",
+  "website": "https://www.curro.co.za",
+  "institutionType": "Private",
+  "currency": "ZAR",
+  "timezone": "Africa/Johannesburg",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/curro-logo.png",
+  "primaryColor": "#FF6600",
+  "secondaryColor": "#003366",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

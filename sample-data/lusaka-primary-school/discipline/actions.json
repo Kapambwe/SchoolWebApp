@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Verbal Warning",
+    "description": "First-level informal warning given by the class teacher"
+  },
+  {
+    "id": 2,
+    "name": "Written Warning",
+    "description": "Formal written warning recorded in the student file"
+  },
+  {
+    "id": 3,
+    "name": "Detention",
+    "description": "Student remains after school for a supervised period"
+  },
+  {
+    "id": 4,
+    "name": "Parent Meeting",
+    "description": "Parent or guardian called in for a meeting with administration"
+  },
+  {
+    "id": 5,
+    "name": "Suspension",
+    "description": "Temporary removal from school for serious misconduct"
+  }
+]

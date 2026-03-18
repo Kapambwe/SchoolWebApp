@@ -1,0 +1,176 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "MED101",
+    "CourseName": "Introduction to Medicine and Healthcare",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Medicine and the Zimbabwean Health System",
+    "LearningOutcomes": "Students will understand the organisation of Zimbabwe's health system, identify key institutions and policy frameworks, and recognise the major health challenges facing the country.",
+    "LectureTopics": [
+      "The history of medicine and healthcare from ancient civilisations to modern practice",
+      "Structure of Zimbabwe's Ministry of Health and Child Care and service delivery levels",
+      "Major disease burdens in Zimbabwe: HIV/AIDS, malaria, tuberculosis, and non-communicable diseases",
+      "The role of the University of Zimbabwe College of Health Sciences in training healthcare professionals"
+    ],
+    "Materials": [
+      { "Title": "Introduction to Medicine and the Zimbabwean Health System - Lecture Slides", "Type": 0, "Url": "/materials/med101/week1/slides.pdf" },
+      { "Title": "Zimbabwe National Health Strategy 2021-2025 - Reference", "Type": 4, "Url": "/materials/med101/week1/zim-health-strategy.pdf" },
+      { "Title": "Introduction to Global Health - Video Overview", "Type": 2, "Url": "/materials/med101/week1/global-health-overview.mp4" }
+    ],
+    "AssessmentMethods": "Group discussion on health challenges in Zimbabwe and a short reflective writing exercise",
+    "Status": 5,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 601,
+    "FeedbackComments": "Excellent introduction to the Zimbabwean health context. The use of current epidemiological data was highly effective.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "MED101",
+    "CourseName": "Introduction to Medicine and Healthcare",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Medical Ethics and Patient Rights",
+    "LearningOutcomes": "Students will apply the four principles of biomedical ethics to clinical scenarios, explain Zimbabwe's legal framework for patient rights, and demonstrate ethical reasoning in healthcare decision-making.",
+    "LectureTopics": [
+      "The four principles of biomedical ethics: autonomy, beneficence, non-maleficence, and justice",
+      "Informed consent: legal and ethical requirements under Zimbabwean law",
+      "Patient confidentiality, privacy rights, and the duty of care",
+      "Ethical dilemmas in clinical practice: resource allocation in low-income settings"
+    ],
+    "Materials": [
+      { "Title": "Medical Ethics and Patient Rights - Lecture Slides", "Type": 0, "Url": "/materials/med101/week2/slides.pdf" },
+      { "Title": "Medical and Dental Practitioners Act Chapter 27:08 - Reference", "Type": 4, "Url": "/materials/med101/week2/mdp-act-ch2708.pdf" },
+      { "Title": "Ethical Decision-Making in Clinical Practice - Notes", "Type": 1, "Url": "/materials/med101/week2/ethics-notes.pdf" }
+    ],
+    "AssessmentMethods": "Case-based ethical analysis exercise and class debate on resource allocation scenarios",
+    "Status": 5,
+    "SubmittedDate": "2025-01-17T09:00:00Z",
+    "ApprovedDate": "2025-01-18T10:00:00Z",
+    "LecturerId": 601,
+    "FeedbackComments": "Strong case-based approach to ethics. Students engaged thoughtfully with the resource allocation scenarios.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-18T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 5,
+    "CourseCode": "BCH201",
+    "CourseName": "Molecular Biology",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "DNA Structure and Replication",
+    "LearningOutcomes": "Students will describe the double-helix structure of DNA, explain the semi-conservative model of DNA replication, and identify the key enzymes involved in the replication process.",
+    "LectureTopics": [
+      "The double-helix model: Watson-Crick base pairing and the antiparallel structure of DNA",
+      "The semi-conservative model of DNA replication: evidence from the Meselson-Stahl experiment",
+      "Key enzymes in DNA replication: helicase, primase, DNA polymerase, and ligase",
+      "Replication fidelity, proofreading mechanisms, and common replication errors"
+    ],
+    "Materials": [
+      { "Title": "DNA Structure and Replication - Lecture Slides", "Type": 0, "Url": "/materials/bch201/week1/slides.pdf" },
+      { "Title": "Molecular Biology of the Cell - Chapter 5 Reference", "Type": 4, "Url": "/materials/bch201/week1/alberts-ch5-ref.pdf" },
+      { "Title": "DNA Replication Animation - Video", "Type": 2, "Url": "/materials/bch201/week1/dna-replication-animation.mp4" }
+    ],
+    "AssessmentMethods": "Diagram labelling exercise on DNA structure and short quiz on replication enzyme functions",
+    "Status": 2,
+    "SubmittedDate": "2025-01-13T09:00:00Z",
+    "ApprovedDate": "2025-01-14T11:00:00Z",
+    "LecturerId": 602,
+    "FeedbackComments": "Well-structured lecture with excellent visual aids. The animation resource will greatly aid student understanding.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-14T11:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 7,
+    "CourseCode": "HIS101",
+    "CourseName": "Introduction to African History",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Pre-Colonial Kingdoms of Southern Africa",
+    "LearningOutcomes": "Students will identify and describe major pre-colonial kingdoms of southern Africa, analyse their political and economic structures, and evaluate their historical legacies.",
+    "LectureTopics": [
+      "The Kingdom of Zimbabwe: Great Zimbabwe, stone architecture, and the Rozvi state",
+      "The Mutapa Empire: trade, gold, and interaction with the Swahili coast",
+      "The Ndebele Kingdom: origins, military organisation, and state formation",
+      "Pre-colonial social organisation, trade networks, and cultural achievements in southern Africa"
+    ],
+    "Materials": [
+      { "Title": "Pre-Colonial Kingdoms of Southern Africa - Lecture Slides", "Type": 0, "Url": "/materials/his101/week1/slides.pdf" },
+      { "Title": "The African Past: Readings in African History - Reference", "Type": 4, "Url": "/materials/his101/week1/african-past-readings.pdf" },
+      { "Title": "Great Zimbabwe: Archaeological Evidence - Video Documentary", "Type": 2, "Url": "/materials/his101/week1/great-zimbabwe-documentary.mp4" }
+    ],
+    "AssessmentMethods": "Map exercise identifying major southern African kingdoms and short essay on the historical significance of Great Zimbabwe",
+    "Status": 2,
+    "SubmittedDate": "2025-01-13T10:00:00Z",
+    "ApprovedDate": "2025-01-14T12:00:00Z",
+    "LecturerId": 603,
+    "FeedbackComments": "Excellent contextualisation of pre-colonial history. The inclusion of Great Zimbabwe as a local example is very effective.",
+    "CreatedDate": "2025-01-10T09:00:00Z",
+    "LastUpdated": "2025-01-14T12:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 3,
+    "CourseCode": "MED301",
+    "CourseName": "Pathology",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Pathological Processes",
+    "LearningOutcomes": "Students will define pathology and its subdisciplines, explain the cellular responses to injury and stress, and describe the basic mechanisms of acute and chronic inflammation.",
+    "LectureTopics": [
+      "Overview of pathology: general, systemic, clinical, and forensic pathology",
+      "Cellular adaptations to stress: hypertrophy, hyperplasia, atrophy, and metaplasia",
+      "Cell injury and cell death: necrosis versus apoptosis",
+      "The inflammatory response: vascular changes, cellular events, and mediators of acute inflammation"
+    ],
+    "Materials": [
+      { "Title": "Introduction to Pathological Processes - Lecture Slides", "Type": 0, "Url": "/materials/med301/week1/slides.pdf" },
+      { "Title": "Robbins & Cotran Pathologic Basis of Disease - Chapter 1 Reference", "Type": 4, "Url": "/materials/med301/week1/robbins-ch1-ref.pdf" },
+      { "Title": "Cellular Adaptations to Injury - Lecture Notes", "Type": 1, "Url": "/materials/med301/week1/cellular-adaptations-notes.pdf" }
+    ],
+    "AssessmentMethods": "Identification of pathological processes from histological slide images and short written response",
+    "Status": 1,
+    "SubmittedDate": "2025-01-20T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 601,
+    "FeedbackComments": "",
+    "CreatedDate": "2025-01-17T09:00:00Z",
+    "LastUpdated": "2025-01-20T09:00:00Z"
+  },
+  {
+    "Id": 6,
+    "CourseId": 10,
+    "CourseCode": "PHY101",
+    "CourseName": "General Physics",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Mechanics: Motion and Forces",
+    "LearningOutcomes": "Students will apply kinematic equations to solve one-dimensional motion problems, explain Newton's three laws of motion with real-world examples, and calculate net force and acceleration in dynamic systems.",
+    "LectureTopics": [
+      "Kinematics: displacement, velocity, acceleration, and kinematic equations for uniform motion",
+      "Newton's First Law: inertia and frames of reference",
+      "Newton's Second and Third Laws: force, mass, acceleration, and action-reaction pairs",
+      "Applications of Newton's laws: friction, tension, and inclined planes"
+    ],
+    "Materials": [
+      { "Title": "Mechanics - Motion and Forces Lecture Slides", "Type": 0, "Url": "/materials/phy101/week1/slides.pdf" },
+      { "Title": "University Physics - Chapters 2 and 3 Reference", "Type": 4, "Url": "/materials/phy101/week1/young-freedman-ch2-3-ref.pdf" },
+      { "Title": "Newton's Laws Problem Set", "Type": 3, "Url": "/materials/phy101/week1/newtons-laws-problem-set.pdf" }
+    ],
+    "AssessmentMethods": "Problem-solving tutorial on kinematics and Newton's laws with peer review of solutions",
+    "Status": 1,
+    "SubmittedDate": "2025-01-20T10:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 604,
+    "FeedbackComments": "",
+    "CreatedDate": "2025-01-17T09:00:00Z",
+    "LastUpdated": "2025-01-20T10:00:00Z"
+  }
+]

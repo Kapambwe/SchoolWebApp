@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "studentId": 3,
+    "condition": "Migraine headache",
+    "date": "2025-02-05T00:00:00Z",
+    "treatment": "Paracetamol administered, rest in sickbay, parents notified"
+  },
+  {
+    "id": 2,
+    "studentId": 1,
+    "condition": "Allergic reaction (food)",
+    "date": "2025-02-12T00:00:00Z",
+    "treatment": "Antihistamine given, school nurse monitored for 2 hours"
+  },
+  {
+    "id": 3,
+    "studentId": 5,
+    "condition": "Twisted knee",
+    "date": "2025-02-20T00:00:00Z",
+    "treatment": "Ice pack applied, referred to physiotherapist"
+  }
+]

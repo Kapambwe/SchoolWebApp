@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "alumniId": 1,
+    "amount": 5000.00,
+    "date": "2025-01-15T00:00:00Z",
+    "purpose": "Library Book Fund"
+  },
+  {
+    "id": 2,
+    "alumniId": 2,
+    "amount": 2500.00,
+    "date": "2025-02-10T00:00:00Z",
+    "purpose": "Sports Equipment"
+  },
+  {
+    "id": 3,
+    "alumniId": 3,
+    "amount": 10000.00,
+    "date": "2025-02-28T00:00:00Z",
+    "purpose": "Computer Lab Upgrade"
+  },
+  {
+    "id": 4,
+    "alumniId": 4,
+    "amount": 1500.00,
+    "date": "2025-03-05T00:00:00Z",
+    "purpose": "Scholarship Fund"
+  }
+]

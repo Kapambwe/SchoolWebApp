@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "employeeId": 1,
+    "position": "Head of Sciences / Physics Teacher",
+    "basicSalary": 18000.00,
+    "housingAllowance": 2500.00,
+    "transportAllowance": 1500.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "employeeId": 2,
+    "position": "Biology and Chemistry Teacher",
+    "basicSalary": 17000.00,
+    "housingAllowance": 2200.00,
+    "transportAllowance": 1300.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "employeeId": 3,
+    "position": "History Teacher",
+    "basicSalary": 16000.00,
+    "housingAllowance": 2000.00,
+    "transportAllowance": 1200.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "employeeId": 4,
+    "position": "English Literature Teacher",
+    "basicSalary": 16500.00,
+    "housingAllowance": 2000.00,
+    "transportAllowance": 1200.00,
+    "effectiveDate": "2024-01-01T00:00:00Z"
+  }
+]

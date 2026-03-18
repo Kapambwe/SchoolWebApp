@@ -1,0 +1,191 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "LAW101",
+    "CourseName": "Introduction to Legal Studies",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering the foundations of law, legal systems, and the structure of the Zambian judiciary. Students are introduced to legal reasoning, interpretation of statutes, and the role of law in society.",
+    "Department": "Law",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Understand the structure and function of the Zambian legal system",
+      "Identify and apply key sources of law including statutes and case law",
+      "Demonstrate basic legal reasoning and statutory interpretation skills"
+    ],
+    "MaxEnrollment": 120,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "LAW201",
+    "CourseName": "Constitutional Law",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A detailed examination of the Constitution of Zambia, including fundamental rights, the separation of powers, and constitutional interpretation. Students analyse landmark constitutional cases and their implications for governance.",
+    "Department": "Law",
+    "Prerequisites": ["LAW101"],
+    "LearningOutcomes": [
+      "Analyse the structure and provisions of the Constitution of Zambia",
+      "Evaluate the protection of fundamental rights and freedoms under constitutional law",
+      "Apply constitutional principles to practical governance and legal scenarios"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "LAW301",
+    "CourseName": "Commercial and Company Law",
+    "Credits": 4,
+    "Level": 2,
+    "Type": 0,
+    "Description": "This course examines the legal framework governing commercial transactions and corporate entities in Zambia. Topics include contract formation, company incorporation, directors' duties, and commercial dispute resolution.",
+    "Department": "Law",
+    "Prerequisites": ["LAW201"],
+    "LearningOutcomes": [
+      "Explain the legal requirements for forming and managing companies under Zambian law",
+      "Analyse commercial contracts and identify legal obligations and remedies",
+      "Apply principles of company law to resolve corporate governance disputes"
+    ],
+    "MaxEnrollment": 90,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "BUS101",
+    "CourseName": "Principles of Economics",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introduction to micro and macroeconomic principles, including supply and demand, market structures, national income, inflation, and economic policy. Students gain a foundational understanding of how economies function.",
+    "Department": "Business Administration",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Explain core microeconomic and macroeconomic concepts and their interrelationships",
+      "Analyse the impact of economic policies on business and consumer behaviour",
+      "Apply economic reasoning to evaluate real-world market scenarios"
+    ],
+    "MaxEnrollment": 130,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "BUS201",
+    "CourseName": "Financial Accounting",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A comprehensive study of financial accounting principles and practices, including the preparation and analysis of financial statements in accordance with International Financial Reporting Standards (IFRS). Students develop practical bookkeeping and reporting skills.",
+    "Department": "Business Administration",
+    "Prerequisites": ["BUS101"],
+    "LearningOutcomes": [
+      "Prepare accurate financial statements including income statements, balance sheets, and cash flow statements",
+      "Apply IFRS standards to record and report business transactions",
+      "Analyse financial data to assess organisational performance and financial health"
+    ],
+    "MaxEnrollment": 110,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "BUS301",
+    "CourseName": "Organisational Behaviour",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 1,
+    "Description": "An exploration of individual, group, and organisational dynamics that influence workplace behaviour. Topics include motivation, leadership, team dynamics, organisational culture, and change management.",
+    "Department": "Business Administration",
+    "Prerequisites": ["BUS201"],
+    "LearningOutcomes": [
+      "Analyse theories of motivation and their application in organisational settings",
+      "Evaluate leadership styles and their effects on team performance",
+      "Develop strategies to manage organisational change and improve workplace culture"
+    ],
+    "MaxEnrollment": 90,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "HS101",
+    "CourseName": "Introduction to Health Sciences",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory survey of the health sciences field, covering the structure of healthcare systems, public health principles, and the determinants of health. Students explore the Zambian healthcare landscape and global health challenges.",
+    "Department": "Health Sciences",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the structure and function of the Zambian national healthcare system",
+      "Identify key social, economic, and environmental determinants of health",
+      "Explain the roles of various health professionals within multidisciplinary care teams"
+    ],
+    "MaxEnrollment": 100,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "HS201",
+    "CourseName": "Anatomy and Physiology",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "A systematic study of the human body's structural organisation and physiological processes. Topics include the musculoskeletal, cardiovascular, respiratory, and nervous systems, with emphasis on clinical relevance to health sciences practice.",
+    "Department": "Health Sciences",
+    "Prerequisites": ["HS101"],
+    "LearningOutcomes": [
+      "Identify and describe major anatomical structures and organ systems of the human body",
+      "Explain key physiological processes and homeostatic mechanisms",
+      "Relate anatomical and physiological knowledge to health conditions encountered in clinical practice"
+    ],
+    "MaxEnrollment": 80,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 9,
+    "CourseCode": "HS301",
+    "CourseName": "Public Health and Epidemiology",
+    "Credits": 3,
+    "Level": 2,
+    "Type": 0,
+    "Description": "An examination of the principles of epidemiology and public health practice in the context of sub-Saharan Africa. Students study disease surveillance, outbreak investigation, health promotion, and the epidemiology of communicable diseases such as malaria, HIV/AIDS, and tuberculosis in Zambia.",
+    "Department": "Health Sciences",
+    "Prerequisites": ["HS201"],
+    "LearningOutcomes": [
+      "Apply epidemiological methods to investigate disease patterns and outbreaks",
+      "Evaluate public health interventions and their effectiveness in the Zambian context",
+      "Analyse data to identify risk factors and inform evidence-based health policy"
+    ],
+    "MaxEnrollment": 75,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

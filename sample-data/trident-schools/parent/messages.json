@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Grace Tembo",
+    "senderType": "Teacher",
+    "subject": "Excellent Mathematics Performance",
+    "message": "Dear Mr. Mulenga, I'm pleased to inform you that Chanda scored 92% in the recent mathematics test. He demonstrates exceptional problem-solving abilities and is well-prepared for the final examinations.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Chanda Mulenga"
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "senderId": 100,
+    "senderName": "School Administration",
+    "senderType": "Admin",
+    "subject": "ECZ Examination Registration Reminder",
+    "message": "This is a reminder to complete Chanda's ECZ examination registration and pay the required fees by March 15th, 2024.",
+    "date": "2024-02-05",
+    "isRead": false,
+    "priority": "High",
+    "studentId": 1,
+    "studentName": "Chanda Mulenga"
+  },
+  {
+    "id": 3,
+    "parentId": 2,
+    "senderId": 3,
+    "senderName": "Patricia Zulu",
+    "senderType": "Teacher",
+    "subject": "Outstanding Literary Analysis",
+    "message": "Hello Mrs. Banda, Natasha submitted an outstanding analysis of 'Things Fall Apart' in her recent assignment. Her critical thinking skills are impressive.",
+    "date": "2024-01-25",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 2,
+    "studentName": "Natasha Banda"
+  }
+]

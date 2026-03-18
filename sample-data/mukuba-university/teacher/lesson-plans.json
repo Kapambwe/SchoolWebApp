@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Educational Psychology",
+    "grade": "Year 3",
+    "topic": "Learning Theories and Classroom Application",
+    "date": "2024-01-22",
+    "duration": 120,
+    "objectives": [
+      "Students will understand major learning theories",
+      "Students will apply theories to classroom practice",
+      "Students will develop effective teaching strategies"
+    ],
+    "activities": [
+      "Lecture on learning theories",
+      "Case study analysis",
+      "Group discussions",
+      "Practical teaching demonstrations"
+    ],
+    "resources": ["Educational psychology textbook", "Case studies", "Video examples"],
+    "assessment": "Teaching demonstration and reflection paper",
+    "homework": "Prepare lesson plan applying learning theories",
+    "status": "In Progress"
+  }
+]

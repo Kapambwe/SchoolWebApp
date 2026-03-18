@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "CourseCode": "CV101",
+    "CourseName": "Construction Materials and Methods",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "This course introduces students to the properties, uses, and testing of common construction materials including concrete, timber, brick, and steel, alongside the methods used in building construction.",
+    "Department": "Civil & Construction",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Identify and describe the physical and mechanical properties of common construction materials.",
+      "Select appropriate construction materials for specific building applications based on performance criteria.",
+      "Conduct basic material testing procedures and interpret the results."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 2,
+    "CourseCode": "CV102",
+    "CourseName": "Building Drawing and Estimation",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Students learn to produce and interpret architectural and engineering drawings for building projects, as well as to prepare Bills of Quantities and cost estimates for construction works.",
+    "Department": "Civil & Construction",
+    "Prerequisites": ["CV101"],
+    "LearningOutcomes": [
+      "Produce accurate architectural drawings to recognised standards using both manual and digital tools.",
+      "Interpret working drawings and specifications for construction projects.",
+      "Prepare basic Bills of Quantities and material cost estimates for small-scale building works."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 3,
+    "CourseCode": "CV201",
+    "CourseName": "Structural Principles",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "This course covers the fundamental principles of structural analysis and design, focusing on load distribution, beam and column behaviour, and the structural performance of common construction systems.",
+    "Department": "Civil & Construction",
+    "Prerequisites": ["CV102"],
+    "LearningOutcomes": [
+      "Analyse forces acting on structural elements including beams, columns, and slabs.",
+      "Apply structural design principles to verify the adequacy of simple structural members.",
+      "Interpret structural drawings and relate them to construction site activities."
+    ],
+    "MaxEnrollment": 35,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 4,
+    "CourseCode": "MV101",
+    "CourseName": "Motor Vehicle Technology",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "An introductory course covering the theory of operation of motor vehicle systems, including the engine, transmission, braking, and electrical systems, with practical workshop activities.",
+    "Department": "Motor Vehicle",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Describe the operating principles of the main motor vehicle systems and their components.",
+      "Perform routine vehicle inspection and maintenance tasks following manufacturer specifications.",
+      "Apply workshop safety practices and use tools and equipment correctly."
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 5,
+    "CourseCode": "MV201",
+    "CourseName": "Engine Diagnostics and Repair",
+    "Credits": 4,
+    "Level": 1,
+    "Type": 0,
+    "Description": "This course develops students' skills in diagnosing and repairing engine faults using both traditional and electronic diagnostic methods, covering petrol and diesel engines commonly found in Zambia.",
+    "Department": "Motor Vehicle",
+    "Prerequisites": ["MV101"],
+    "LearningOutcomes": [
+      "Use diagnostic tools and scan equipment to identify engine faults accurately.",
+      "Carry out engine overhaul procedures including component measurement and replacement.",
+      "Interpret technical service manuals and apply manufacturer repair procedures."
+    ],
+    "MaxEnrollment": 35,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 6,
+    "CourseCode": "AG101",
+    "CourseName": "Agricultural Engineering Fundamentals",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "This course introduces students to the principles of agricultural engineering, covering soil mechanics, farm power sources, and the role of engineering in supporting food production in Zambia.",
+    "Department": "Agricultural Engineering",
+    "Prerequisites": [],
+    "LearningOutcomes": [
+      "Explain the role of agricultural engineering in improving farm productivity and food security.",
+      "Identify and describe different sources of farm power and their applications.",
+      "Analyse basic soil properties and their implications for agricultural engineering works."
+    ],
+    "MaxEnrollment": 50,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 7,
+    "CourseCode": "AG102",
+    "CourseName": "Farm Machinery and Equipment",
+    "Credits": 3,
+    "Level": 0,
+    "Type": 0,
+    "Description": "Students study the operation, maintenance, and management of farm machinery and equipment, including tractors, tillage implements, planting machines, and harvesting equipment.",
+    "Department": "Agricultural Engineering",
+    "Prerequisites": ["AG101"],
+    "LearningOutcomes": [
+      "Describe the operating principles and components of common farm machinery.",
+      "Perform routine maintenance and servicing tasks on tractors and farm implements.",
+      "Select appropriate machinery for specific agricultural operations based on field and crop conditions."
+    ],
+    "MaxEnrollment": 45,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  },
+  {
+    "Id": 8,
+    "CourseCode": "AG201",
+    "CourseName": "Irrigation and Water Management",
+    "Credits": 3,
+    "Level": 1,
+    "Type": 1,
+    "Description": "This elective course covers the principles of irrigation system design and water management for agricultural production, including drip, sprinkler, and surface irrigation methods relevant to Zambian agriculture.",
+    "Department": "Agricultural Engineering",
+    "Prerequisites": ["AG102"],
+    "LearningOutcomes": [
+      "Design a basic irrigation system for a small-scale farm considering water availability and crop requirements.",
+      "Calculate irrigation scheduling requirements based on evapotranspiration and soil moisture data.",
+      "Evaluate the environmental and economic impacts of different irrigation methods."
+    ],
+    "MaxEnrollment": 40,
+    "Status": 1,
+    "IsActive": true,
+    "CreatedDate": "2025-01-12T08:00:00Z",
+    "CreatedBy": "admin"
+  }
+]

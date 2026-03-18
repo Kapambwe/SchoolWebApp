@@ -1,0 +1,37 @@
+{
+  "tenantId": "ibenga-girls-secondary-school",
+  "schoolName": "Ibenga Girls Secondary School",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "Secondary",
+  "establishedYear": 1978,
+  "studentCapacity": 600,
+  "currentEnrollment": 550,
+  "grades": ["Grade 8", "Grade 9", "Grade 10", "Grade 11", "Grade 12"],
+  "address": {
+    "street": "Ibenga Road",
+    "city": "Mufulira",
+    "province": "Copperbelt Province",
+    "postalCode": "20101",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260212567890",
+    "email": "info@ibenga.edu.zm",
+    "website": "www.ibenga.edu.zm"
+  },
+  "motto": "Empowering Girls, Building Futures",
+  "vision": "To be a center of excellence in girls' education in Zambia.",
+  "mission": "To provide quality education that empowers girls to become confident, capable leaders.",
+  "facilities": [
+    "Science Laboratories",
+    "Computer Lab",
+    "Library",
+    "Sports Fields",
+    "Boarding Facilities",
+    "Home Economics Lab"
+  ]
+}

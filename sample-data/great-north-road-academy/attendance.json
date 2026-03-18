@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "className": "Grade 10A",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Mubanga Chanda"
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "className": "Grade 11B",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Astridah Musenga"
+  },
+  {
+    "id": 3,
+    "studentId": 3,
+    "className": "Grade 12A",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Absent",
+    "reason": "Family funeral",
+    "markedBy": "Kelvin Nkandu"
+  },
+  {
+    "id": 4,
+    "studentId": 4,
+    "className": "Grade 9C",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Present",
+    "reason": "",
+    "markedBy": "Namakau Sitali"
+  },
+  {
+    "id": 5,
+    "studentId": 5,
+    "className": "Grade 10A",
+    "date": "2025-02-24T00:00:00Z",
+    "status": "Late",
+    "reason": "Traffic on Great North Road",
+    "markedBy": "Mubanga Chanda"
+  }
+]

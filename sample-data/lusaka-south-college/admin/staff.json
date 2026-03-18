@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "LSC-LEC-001",
+    "firstName": "Daniel",
+    "lastName": "Phiri",
+    "email": "daniel.phiri@lscollege.edu.zm",
+    "phoneNumber": "+260922345001",
+    "employmentDate": "2015-02-01",
+    "qualification": "MBA, CPA",
+    "subjectSpecialization": "Accounting and Finance",
+    "subjectsAssigned": ["Financial Accounting", "Management Accounting", "Taxation"],
+    "gradesAssigned": ["Year 1", "Year 2", "Year 3"],
+    "workloadHours": 18,
+    "teachingHours": 15,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.6,
+    "createdDate": "2015-02-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "LSC-LEC-002",
+    "firstName": "Patricia",
+    "lastName": "Mbewe",
+    "email": "patricia.mbewe@lscollege.edu.zm",
+    "phoneNumber": "+260922345002",
+    "employmentDate": "2017-08-15",
+    "qualification": "MSc. Business Administration",
+    "subjectSpecialization": "Business Management",
+    "subjectsAssigned": ["Business Management", "Marketing", "Entrepreneurship"],
+    "gradesAssigned": ["Year 1", "Year 2"],
+    "workloadHours": 20,
+    "teachingHours": 16,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.7,
+    "createdDate": "2017-08-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

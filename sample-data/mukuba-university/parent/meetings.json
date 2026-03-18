@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Dr. Mwape Sichilima",
+    "studentId": 1,
+    "studentName": "Bwalya Chishimba",
+    "date": "2024-02-20",
+    "time": "14:00",
+    "duration": 30,
+    "type": "Teaching Practice Review",
+    "status": "Scheduled",
+    "location": "School of Education",
+    "agenda": "Discuss Bwalya's teaching practice performance and final year project",
+    "notes": ""
+  }
+]

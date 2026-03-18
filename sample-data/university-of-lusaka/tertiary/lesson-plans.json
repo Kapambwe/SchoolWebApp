@@ -1,0 +1,147 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "LAW101",
+    "CourseName": "Introduction to Legal Studies",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to the Zambian Legal System",
+    "LearningOutcomes": "Students will understand the structure of the Zambian legal system, identify the key institutions of the judiciary, and appreciate the role of law in regulating society.",
+    "LectureTopics": [
+      "Overview of the Zambian legal system and its historical development",
+      "Key legal institutions: the judiciary, executive, and legislature",
+      "Sources of law: constitutions, statutes, common law, and customary law",
+      "The court hierarchy in Zambia from magistrate courts to the Supreme Court"
+    ],
+    "Materials": [
+      { "Title": "Introduction to the Zambian Legal System - Lecture Slides", "Type": 0, "Url": "/materials/law101/week1/slides.pdf" },
+      { "Title": "Zambia Courts Act Chapter 28 - Reading Notes", "Type": 1, "Url": "/materials/law101/week1/courts-act-notes.pdf" },
+      { "Title": "Overview of the Zambian Judiciary - Reference Text", "Type": 4, "Url": "/materials/law101/week1/judiciary-reference.pdf" }
+    ],
+    "AssessmentMethods": "Class participation and short reflection exercise on the role of law in society",
+    "Status": 5,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 501,
+    "FeedbackComments": "Well-structured introduction. Good use of local examples from the Zambian judiciary.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "LAW101",
+    "CourseName": "Introduction to Legal Studies",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Sources of Law: Customary Law and Statute Law",
+    "LearningOutcomes": "Students will distinguish between customary law and statute law, understand how each source operates within the Zambian legal framework, and analyse conflicts between these sources.",
+    "LectureTopics": [
+      "Statutory law: the legislative process and interpretation of Acts of Parliament",
+      "Customary law in Zambia: recognition, application, and limitations",
+      "Conflicts between customary law and statutory law: case studies",
+      "The role of received English law and its continued influence"
+    ],
+    "Materials": [
+      { "Title": "Sources of Law in Zambia - Lecture Slides", "Type": 0, "Url": "/materials/law101/week2/slides.pdf" },
+      { "Title": "Customary Law and Statutory Law in Zambia - Notes", "Type": 1, "Url": "/materials/law101/week2/customary-vs-statute-notes.pdf" },
+      { "Title": "Case Study: Njobvu v The People - Reference", "Type": 4, "Url": "/materials/law101/week2/case-study-njobvu.pdf" }
+    ],
+    "AssessmentMethods": "Group discussion and case study analysis on customary law conflicts",
+    "Status": 5,
+    "SubmittedDate": "2025-01-17T09:00:00Z",
+    "ApprovedDate": "2025-01-18T10:00:00Z",
+    "LecturerId": 501,
+    "FeedbackComments": "Excellent contextualisation of customary law within Zambian society. Students responded well to the case studies.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-18T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 5,
+    "CourseCode": "BUS201",
+    "CourseName": "Financial Accounting",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Double-Entry Bookkeeping Fundamentals",
+    "LearningOutcomes": "Students will understand the principles of double-entry bookkeeping, correctly record debit and credit transactions, and prepare a basic trial balance.",
+    "LectureTopics": [
+      "The accounting equation: assets, liabilities, and equity",
+      "Principles of double-entry bookkeeping: debits and credits",
+      "Recording transactions in the general journal",
+      "Posting journal entries to the general ledger and preparing a trial balance"
+    ],
+    "Materials": [
+      { "Title": "Double-Entry Bookkeeping - Lecture Slides", "Type": 0, "Url": "/materials/bus201/week1/slides.pdf" },
+      { "Title": "Bookkeeping Practice Exercises", "Type": 3, "Url": "/materials/bus201/week1/practice-exercises.pdf" },
+      { "Title": "Introduction to Financial Accounting - Chapter 2 Reference", "Type": 4, "Url": "/materials/bus201/week1/textbook-chapter2.pdf" }
+    ],
+    "AssessmentMethods": "In-class bookkeeping exercise and short quiz on debit/credit rules",
+    "Status": 2,
+    "SubmittedDate": "2025-01-13T09:00:00Z",
+    "ApprovedDate": "2025-01-14T11:00:00Z",
+    "LecturerId": 502,
+    "FeedbackComments": "Clear and methodical presentation of bookkeeping fundamentals. Practice exercises are well-aligned with learning outcomes.",
+    "CreatedDate": "2025-01-10T08:00:00Z",
+    "LastUpdated": "2025-01-14T11:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 7,
+    "CourseCode": "HS101",
+    "CourseName": "Introduction to Health Sciences",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Overview of Healthcare Systems in Sub-Saharan Africa",
+    "LearningOutcomes": "Students will compare different healthcare system models, understand the unique health challenges facing sub-Saharan Africa, and describe the structure of Zambia's national health system.",
+    "LectureTopics": [
+      "Healthcare system models: Beveridge, Bismarck, and mixed systems",
+      "Overview of health challenges in sub-Saharan Africa: HIV/AIDS, malaria, and maternal health",
+      "The structure of Zambia's Ministry of Health and healthcare delivery levels",
+      "The role of NGOs and international partners in Zambian healthcare"
+    ],
+    "Materials": [
+      { "Title": "Healthcare Systems in Sub-Saharan Africa - Lecture Slides", "Type": 0, "Url": "/materials/hs101/week1/slides.pdf" },
+      { "Title": "Zambia National Health Policy 2021-2026 - Reference", "Type": 4, "Url": "/materials/hs101/week1/zambia-nhp-2021.pdf" },
+      { "Title": "Introduction to Global Health - Video Lecture", "Type": 2, "Url": "/materials/hs101/week1/global-health-intro-video.mp4" }
+    ],
+    "AssessmentMethods": "Reflective journal entry on a health challenge in the student's local community",
+    "Status": 2,
+    "SubmittedDate": "2025-01-13T10:00:00Z",
+    "ApprovedDate": "2025-01-14T12:00:00Z",
+    "LecturerId": 503,
+    "FeedbackComments": "Good integration of local context with global health perspectives. Consider adding a case study from a rural district health centre.",
+    "CreatedDate": "2025-01-10T09:00:00Z",
+    "LastUpdated": "2025-01-14T12:00:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 9,
+    "CourseCode": "HS301",
+    "CourseName": "Public Health and Epidemiology",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Epidemiology of Malaria in Zambia",
+    "LearningOutcomes": "Students will describe the epidemiological burden of malaria in Zambia, apply key epidemiological measures to malaria data, and evaluate national malaria control strategies.",
+    "LectureTopics": [
+      "The malaria parasite lifecycle and transmission dynamics in Zambia",
+      "Epidemiological measures: incidence, prevalence, and mortality rates of malaria",
+      "Zambia National Malaria Control Programme: strategies and outcomes",
+      "Vector control interventions: insecticide-treated nets and indoor residual spraying"
+    ],
+    "Materials": [
+      { "Title": "Malaria Epidemiology in Zambia - Lecture Slides", "Type": 0, "Url": "/materials/hs301/week1/slides.pdf" },
+      { "Title": "Zambia Malaria Indicator Survey 2021 - Reference", "Type": 4, "Url": "/materials/hs301/week1/zmis-2021.pdf" },
+      { "Title": "Epidemiological Data Analysis Assignment", "Type": 3, "Url": "/materials/hs301/week1/data-analysis-assignment.pdf" }
+    ],
+    "AssessmentMethods": "Data interpretation exercise using Zambia malaria surveillance statistics",
+    "Status": 1,
+    "SubmittedDate": "2025-01-20T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 503,
+    "FeedbackComments": "",
+    "CreatedDate": "2025-01-17T09:00:00Z",
+    "LastUpdated": "2025-01-20T09:00:00Z"
+  }
+]

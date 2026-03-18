@@ -1,0 +1,18 @@
+[
+  {
+    "format": "HH:mm",
+    "example": "14:30"
+  },
+  {
+    "format": "hh:mm tt",
+    "example": "02:30 PM"
+  },
+  {
+    "format": "h:mm tt",
+    "example": "2:30 PM"
+  },
+  {
+    "format": "HH:mm:ss",
+    "example": "14:30:00"
+  }
+]

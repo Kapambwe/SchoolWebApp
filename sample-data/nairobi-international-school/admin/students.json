@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "admissionNumber": "KE2024001",
+    "firstName": "Amara",
+    "lastName": "Wanjiku",
+    "dateOfBirth": "2009-03-12",
+    "gender": "Female",
+    "grade": "Grade 9",
+    "stream": "Blue",
+    "admissionDate": "2024-01-08",
+    "status": "Admitted",
+    "parentGuardianName": "Grace Wanjiku",
+    "parentGuardianPhone": "+254722123456",
+    "sponsorshipType": "Self",
+    "nationality": "Kenya",
+    "createdDate": "2024-01-08T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "admissionNumber": "KE2024002",
+    "firstName": "Kofi",
+    "lastName": "Asante",
+    "dateOfBirth": "2008-11-05",
+    "gender": "Male",
+    "grade": "Grade 10",
+    "stream": "Red",
+    "admissionDate": "2024-01-10",
+    "status": "Admitted",
+    "parentGuardianName": "Kwame Asante",
+    "parentGuardianPhone": "+254733987654",
+    "sponsorshipType": "Scholarship",
+    "nationality": "Ghana",
+    "createdDate": "2024-01-10T00:00:00Z",
+    "createdBy": "System"
+  }
+]

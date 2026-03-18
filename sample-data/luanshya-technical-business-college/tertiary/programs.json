@@ -1,0 +1,117 @@
+[
+  {
+    "Id": 1,
+    "Code": "CERT-EI",
+    "ProgramCode": "CERT-EI",
+    "Name": "Certificate in Electrical Installation",
+    "ProgramName": "Certificate in Electrical Installation",
+    "Type": 0,
+    "DurationYears": 1,
+    "TotalCreditHours": 60,
+    "TuitionFee": 5500.00,
+    "Department": "Electrical Installation",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 1,
+        "CourseCode": "EI101",
+        "CourseName": "Electrical Installation Fundamentals",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 2,
+        "CourseCode": "EI102",
+        "CourseName": "Wiring Regulations and Standards",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": true
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "DIP-BS",
+    "ProgramCode": "DIP-BS",
+    "Name": "Diploma in Business Studies",
+    "ProgramName": "Diploma in Business Studies",
+    "Type": 1,
+    "DurationYears": 2,
+    "TotalCreditHours": 120,
+    "TuitionFee": 8000.00,
+    "Department": "Business Studies",
+    "Faculty": "Business Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 5,
+        "CourseCode": "BS101",
+        "CourseName": "Business Communication Skills",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 6,
+        "CourseCode": "BS201",
+        "CourseName": "Entrepreneurship for Technicians",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 7,
+        "CourseCode": "IT101",
+        "CourseName": "Computer Applications",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "DIP-IT",
+    "ProgramCode": "DIP-IT",
+    "Name": "Diploma in Information Technology",
+    "ProgramName": "Diploma in Information Technology",
+    "Type": 1,
+    "DurationYears": 2,
+    "TotalCreditHours": 120,
+    "TuitionFee": 9000.00,
+    "Department": "Information Technology",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 7,
+        "CourseCode": "IT101",
+        "CourseName": "Computer Applications",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 8,
+        "CourseCode": "IT201",
+        "CourseName": "Technical Support and Networking",
+        "Year": 2,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 5,
+        "CourseCode": "BS101",
+        "CourseName": "Business Communication Skills",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  }
+]

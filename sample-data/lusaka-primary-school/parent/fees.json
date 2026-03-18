@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Mwila Chanda",
+    "feeType": "Tuition",
+    "amount": 500.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Outstanding",
+    "term": "Term 1 2024",
+    "description": "Grade 7 tuition fees"
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Mwila Chanda",
+    "feeType": "Books",
+    "amount": 150.00,
+    "currency": "ZMW",
+    "dueDate": "2024-01-15",
+    "status": "Paid",
+    "term": "Term 1 2024",
+    "description": "Textbooks and stationery",
+    "paidDate": "2024-01-10",
+    "paymentMethod": "Mobile Money"
+  },
+  {
+    "id": 3,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Chipo Mulenga",
+    "feeType": "Tuition",
+    "amount": 450.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Partially Paid",
+    "term": "Term 1 2024",
+    "description": "Grade 5 tuition fees",
+    "paidAmount": 200.00,
+    "paidDate": "2024-01-20",
+    "paymentMethod": "Bank Transfer"
+  },
+  {
+    "id": 4,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Chipo Mulenga",
+    "feeType": "Uniform",
+    "amount": 120.00,
+    "currency": "ZMW",
+    "dueDate": "2024-01-30",
+    "status": "Outstanding",
+    "term": "Term 1 2024",
+    "description": "School uniform and sports kit"
+  }
+]

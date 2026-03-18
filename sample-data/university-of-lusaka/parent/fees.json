@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Mwila Kasonde",
+    "feeType": "Tuition",
+    "amount": 15000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Paid",
+    "term": "Semester 1 2024",
+    "description": "Year 3 LLB tuition",
+    "paidDate": "2024-01-25",
+    "paymentMethod": "Bank Transfer"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "studentId": 2,
+    "studentName": "Natasha Phiri",
+    "feeType": "Tuition",
+    "amount": 11000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Partially Paid",
+    "term": "Semester 1 2024",
+    "description": "Year 2 BBA tuition",
+    "paidAmount": 5500.00,
+    "paidDate": "2024-01-20",
+    "paymentMethod": "Mobile Money"
+  },
+  {
+    "id": 3,
+    "parentId": 3,
+    "studentId": 3,
+    "studentName": "Chanda Mwanza",
+    "feeType": "Tuition",
+    "amount": 12000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Paid",
+    "term": "Semester 1 2024",
+    "description": "Year 4 BSc IT tuition",
+    "paidDate": "2024-01-28",
+    "paymentMethod": "Bank Transfer"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "cbu-link-001",
+    "TenantId": "copperbelt-university",
+    "ProgramId": "cbu-prog-001",
+    "UserId": "user-cbu-001",
+    "UserName": "Dr. David Mwape",
+    "UserEmail": "david.mwape@alumni.cbu.ac.zm",
+    "ReferralCode": "CBU-ALUMNI-DM2024",
+    "ReferralUrl": "https://cbu.ac.zm/apply?ref=CBU-ALUMNI-DM2024",
+    "IsActive": true,
+    "ClickCount": 95,
+    "ConversionCount": 12,
+    "TotalRewardsEarned": 3600.00,
+    "CreatedDate": "2024-01-10T00:00:00Z",
+    "LastUsedDate": "2024-02-12T00:00:00Z"
+  }
+]

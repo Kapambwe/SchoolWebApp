@@ -1,0 +1,191 @@
+{
+  "successPredictions": [
+    {
+      "id": 1,
+      "studentId": 1,
+      "studentName": "John Doe",
+      "grade": "Grade 10",
+      "overallSuccessLikelihood": 3,
+      "successScore": 78.5,
+      "confidenceLevel": 85.0,
+      "strengths": ["Strong mathematical aptitude", "Consistent attendance", "Good peer relationships"],
+      "riskFactors": ["Occasional late submissions", "Lower engagement in literature"],
+      "recommendedActions": ["Continue current path", "Consider tutoring for literature"],
+      "predictedDate": "2026-06-30T00:00:00Z",
+      "generatedAt": "2026-02-11T10:00:00Z",
+      "modelVersion": "v2.1"
+    },
+    {
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "grade": "Grade 10",
+      "overallSuccessLikelihood": 4,
+      "successScore": 92.0,
+      "confidenceLevel": 92.0,
+      "strengths": ["Excellent academic performance", "High engagement", "Leadership skills", "Consistent effort"],
+      "riskFactors": [],
+      "recommendedActions": ["Consider advanced placement courses", "Encourage peer tutoring"],
+      "predictedDate": "2026-06-30T00:00:00Z",
+      "generatedAt": "2026-02-11T10:00:00Z",
+      "modelVersion": "v2.1"
+    },
+    {
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "grade": "Grade 10",
+      "overallSuccessLikelihood": 1,
+      "successScore": 45.0,
+      "confidenceLevel": 78.0,
+      "strengths": ["Artistic talents", "Good problem-solving in hands-on tasks"],
+      "riskFactors": ["Low engagement", "Frequent absences", "Declining grades", "Limited support at home"],
+      "recommendedActions": ["Immediate intervention required", "Family counseling", "Learning support services", "Attendance monitoring"],
+      "predictedDate": "2026-06-30T00:00:00Z",
+      "generatedAt": "2026-02-11T10:00:00Z",
+      "modelVersion": "v2.1"
+    }
+  ],
+  "earlyWarnings": [
+    {
+      "id": 1,
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "type": 3,
+      "severity": 2,
+      "message": "Significant engagement drop detected",
+      "details": "Student has shown 40% decrease in learning platform engagement over past 2 weeks",
+      "dataPoints": ["Login frequency decreased", "Assignment submission delayed", "No forum participation"],
+      "identifiedDate": "2026-02-10T00:00:00Z",
+      "isAcknowledged": false,
+      "suggestedInterventions": ["Schedule student-teacher conference", "Contact parent/guardian", "Offer counseling support"]
+    },
+    {
+      "id": 2,
+      "studentId": 5,
+      "studentName": "Sarah Williams",
+      "type": 0,
+      "severity": 1,
+      "message": "Mathematics performance declining",
+      "details": "Grade in mathematics has dropped from B+ to C over the last month",
+      "dataPoints": ["Recent test scores below average", "Homework completion rate down to 65%"],
+      "identifiedDate": "2026-02-09T00:00:00Z",
+      "isAcknowledged": true,
+      "acknowledgedBy": "Mr. Smith",
+      "acknowledgedDate": "2026-02-10T08:00:00Z",
+      "suggestedInterventions": ["Provide additional practice materials", "Offer tutoring sessions", "Review learning approach"]
+    },
+    {
+      "id": 3,
+      "studentId": 7,
+      "studentName": "Alex Brown",
+      "type": 1,
+      "severity": 3,
+      "message": "Critical attendance issue",
+      "details": "Student has been absent 8 out of last 10 school days",
+      "dataPoints": ["Attendance rate: 20%", "No excused absences on file"],
+      "identifiedDate": "2026-02-11T09:00:00Z",
+      "isAcknowledged": false,
+      "suggestedInterventions": ["Immediate family contact", "Social worker referral", "Truancy intervention"]
+    }
+  ],
+  "graduationPredictions": [
+    {
+      "studentId": 1,
+      "studentName": "John Doe",
+      "currentGrade": "Grade 10",
+      "graduationLikelihood": 85.0,
+      "expectedGraduationDate": "2028-06-15T00:00:00Z",
+      "creditsEarned": 45,
+      "creditsRequired": 120,
+      "currentGPA": 3.2,
+      "predictedFinalGPA": 3.4,
+      "riskFactors": [],
+      "protectiveFactors": ["Good attendance", "Strong academic performance", "Parental support"],
+      "onTrack": true,
+      "predictedAt": "2026-02-11T00:00:00Z"
+    },
+    {
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "currentGrade": "Grade 10",
+      "graduationLikelihood": 45.0,
+      "expectedGraduationDate": "2028-06-15T00:00:00Z",
+      "creditsEarned": 32,
+      "creditsRequired": 120,
+      "currentGPA": 2.1,
+      "predictedFinalGPA": 2.0,
+      "riskFactors": ["Low credit accumulation", "Poor attendance", "Declining grades"],
+      "protectiveFactors": ["Artistic skills"],
+      "onTrack": false,
+      "predictedAt": "2026-02-11T00:00:00Z"
+    }
+  ],
+  "careerReadiness": [
+    {
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "overallReadiness": 88.0,
+      "careerInterests": ["STEM", "Engineering", "Research"],
+      "recommendedPaths": ["Engineering degree", "Computer Science", "Applied Mathematics"],
+      "skillGaps": ["Industry experience", "Professional networking"],
+      "developmentOpportunities": ["Internship programs", "Career fairs", "Industry mentorship"],
+      "assessedAt": "2026-02-11T00:00:00Z"
+    }
+  ],
+  "collegeReadiness": [
+    {
+      "studentId": 2,
+      "studentName": "Jane Smith",
+      "readinessScore": 90.0,
+      "academicReadiness": 95.0,
+      "socialEmotionalReadiness": 88.0,
+      "financialReadiness": 75.0,
+      "academicStrengths": ["High GPA", "Strong test scores", "Advanced coursework", "Research experience"],
+      "areasForGrowth": ["Financial planning", "College application essay writing"],
+      "prepActivities": ["SAT/ACT preparation", "College visits", "Financial aid workshops"],
+      "assessedAt": "2026-02-11T00:00:00Z"
+    }
+  ],
+  "trendAnalysis": [
+    {
+      "studentId": 1,
+      "studentName": "John Doe",
+      "overallTrend": 1,
+      "significantEvents": ["Joined math club", "Started peer tutoring"],
+      "analyzedAt": "2026-02-11T00:00:00Z"
+    },
+    {
+      "studentId": 3,
+      "studentName": "Mike Johnson",
+      "overallTrend": -1,
+      "significantEvents": ["Family relocation", "Changed school mid-year"],
+      "analyzedAt": "2026-02-11T00:00:00Z"
+    }
+  ],
+  "interventionEffectiveness": [
+    {
+      "id": 1,
+      "interventionId": 101,
+      "interventionName": "Math Tutoring Program",
+      "studentId": 5,
+      "successScoreBefore": 55.0,
+      "successScoreAfter": 72.0,
+      "impactScore": 17.0,
+      "wasEffective": true,
+      "observedChanges": ["Improved test scores", "Better homework completion", "Increased confidence"],
+      "interventionStartDate": "2026-01-15T00:00:00Z",
+      "measurementDate": "2026-02-10T00:00:00Z"
+    }
+  ],
+  "peerComparisons": [
+    {
+      "studentId": 1,
+      "studentName": "John Doe",
+      "peerGroup": "Grade 10 - College Track",
+      "peerCount": 85,
+      "studentPercentile": 68.0,
+      "outperformingAreas": ["Mathematics", "Science"],
+      "underperformingAreas": ["Literature"],
+      "analyzedAt": "2026-02-11T00:00:00Z"
+    }
+  ]
+}

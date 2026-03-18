@@ -1,0 +1,5 @@
+[
+  { "code": "ZMW", "display": "ZMW - Zambian Kwacha (ZK)", "symbol": "ZK" },
+  { "code": "USD", "display": "USD - US Dollar ($)", "symbol": "$" },
+  { "code": "EUR", "display": "EUR - Euro (€)", "symbol": "€" }
+]

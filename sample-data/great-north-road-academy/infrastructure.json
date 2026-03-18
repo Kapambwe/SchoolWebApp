@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Main Academic Block",
+    "type": "Building",
+    "location": "Central Campus",
+    "capacity": 600,
+    "currentOccupancy": 580,
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-15",
+    "nextMaintenance": "2024-07-15",
+    "facilities": [
+      "20 Classrooms",
+      "Staff Room",
+      "Principal's Office",
+      "Administrative Offices",
+      "Student Lounge"
+    ],
+    "cost": 1500000.00,
+    "yearBuilt": 2010
+  },
+  {
+    "id": 2,
+    "name": "Science Laboratory Complex",
+    "type": "Laboratory",
+    "location": "East Wing",
+    "capacity": 120,
+    "currentOccupancy": 100,
+    "condition": "Good",
+    "lastMaintenance": "2023-11-20",
+    "nextMaintenance": "2024-05-20",
+    "facilities": [
+      "Chemistry Lab",
+      "Biology Lab",
+      "Physics Lab",
+      "Preparation Room",
+      "Equipment Storage"
+    ],
+    "cost": 450000.00,
+    "yearBuilt": 2015
+  },
+  {
+    "id": 3,
+    "name": "Computer Laboratory",
+    "type": "Technology",
+    "location": "North Block",
+    "capacity": 40,
+    "currentOccupancy": 35,
+    "condition": "Good",
+    "lastMaintenance": "2024-02-10",
+    "nextMaintenance": "2024-08-10",
+    "facilities": [
+      "40 Desktop Computers",
+      "Interactive Whiteboard",
+      "Network Infrastructure",
+      "Air Conditioning",
+      "UPS System"
+    ],
+    "cost": 200000.00,
+    "yearBuilt": 2018
+  },
+  {
+    "id": 4,
+    "name": "School Library",
+    "type": "Educational",
+    "location": "Central Campus",
+    "capacity": 150,
+    "currentOccupancy": 120,
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-05",
+    "nextMaintenance": "2024-07-05",
+    "facilities": [
+      "15,000 Books",
+      "Digital Resources",
+      "Study Areas",
+      "Reading Rooms",
+      "Librarian Office"
+    ],
+    "cost": 180000.00,
+    "yearBuilt": 2012
+  },
+  {
+    "id": 5,
+    "name": "Sports Complex",
+    "type": "Recreation",
+    "location": "South Campus",
+    "capacity": 500,
+    "currentOccupancy": 300,
+    "condition": "Good",
+    "lastMaintenance": "2023-12-01",
+    "nextMaintenance": "2024-06-01",
+    "facilities": [
+      "Football Field",
+      "Basketball Court",
+      "Volleyball Court",
+      "Athletics Track",
+      "Changing Rooms"
+    ],
+    "cost": 350000.00,
+    "yearBuilt": 2008
+  },
+  {
+    "id": 6,
+    "name": "School Auditorium",
+    "type": "Assembly",
+    "location": "West Wing",
+    "capacity": 800,
+    "currentOccupancy": 0,
+    "condition": "Excellent",
+    "lastMaintenance": "2024-02-28",
+    "nextMaintenance": "2024-08-28",
+    "facilities": [
+      "Stage with Lighting",
+      "Sound System",
+      "Projection Equipment",
+      "Seating for 800",
+      "Green Rooms"
+    ],
+    "cost": 400000.00,
+    "yearBuilt": 2020
+  },
+  {
+    "id": 7,
+    "name": "Boarding Facilities",
+    "type": "Accommodation",
+    "location": "Residential Area",
+    "capacity": 300,
+    "currentOccupancy": 245,
+    "condition": "Good",
+    "lastMaintenance": "2023-10-15",
+    "nextMaintenance": "2024-04-15",
+    "facilities": [
+      "Boys Dormitory (150 beds)",
+      "Girls Dormitory (150 beds)",
+      "Common Rooms",
+      "Study Areas",
+      "Houseparent Quarters"
+    ],
+    "cost": 600000.00,
+    "yearBuilt": 2005
+  },
+  {
+    "id": 8,
+    "name": "School Cafeteria",
+    "type": "Dining",
+    "location": "Central Campus",
+    "capacity": 400,
+    "currentOccupancy": 350,
+    "condition": "Good",
+    "lastMaintenance": "2024-01-20",
+    "nextMaintenance": "2024-07-20",
+    "facilities": [
+      "Kitchen",
+      "Dining Hall",
+      "Food Storage",
+      "Serving Area",
+      "Staff Area"
+    ],
+    "cost": 150000.00,
+    "yearBuilt": 2010
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "tenantId": "brookhouse-school-kenya",
+  "displayName": "Brookhouse School Kenya",
+  "shortName": "Brookhouse",
+  "country": "Kenya",
+  "countryCode": "KE",
+  "city": "Nairobi",
+  "address": "Langata Road, Karen, Nairobi",
+  "phone": "+254 20 386 5000",
+  "email": "info@brookhouse.ac.ke",
+  "website": "https://www.brookhouse.ac.ke",
+  "institutionType": "International",
+  "currency": "KES",
+  "timezone": "Africa/Nairobi",
+  "academicYearStart": "09-01",
+  "academicYearEnd": "06-30",
+  "logo": "/images/schools/brookhouse-logo.png",
+  "primaryColor": "#00539B",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": true,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

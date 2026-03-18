@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "examName": "Semester 1 Examination - Structural Analysis",
+    "subject": "Structural Analysis",
+    "grade": "Year 2",
+    "date": "2024-05-15",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Main Examination Hall",
+    "invigilator": "Prof. Catherine Banda",
+    "status": "Scheduled",
+    "instructions": "Bring calculator and engineering data book"
+  },
+  {
+    "id": 2,
+    "examName": "Semester 1 Examination - Database Systems",
+    "subject": "Database Systems",
+    "grade": "Year 1",
+    "date": "2024-05-18",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Semester Exam",
+    "venue": "Computer Lab",
+    "invigilator": "Dr. Andrew Mwale",
+    "status": "Scheduled",
+    "instructions": "Practical and theory components"
+  }
+]

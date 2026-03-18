@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Mutale Mwansa",
+    "senderType": "Teacher",
+    "subject": "Mwila's Mathematics Progress",
+    "message": "Dear Mrs. Chanda, I wanted to update you on Mwila's excellent progress in mathematics this term. He has shown great improvement in problem-solving skills.",
+    "date": "2024-01-25",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Mwila Chanda"
+  },
+  {
+    "id": 2,
+    "parentId": 1,
+    "senderId": 100,
+    "senderName": "School Administration",
+    "senderType": "Admin",
+    "subject": "Parent-Teacher Conference Reminder",
+    "message": "This is a reminder that your parent-teacher conference is scheduled for February 15th at 2:00 PM. Please confirm your attendance.",
+    "date": "2024-02-01",
+    "isRead": false,
+    "priority": "High",
+    "studentId": 1,
+    "studentName": "Mwila Chanda"
+  },
+  {
+    "id": 3,
+    "parentId": 2,
+    "senderId": 2,
+    "senderName": "Grace Banda",
+    "senderType": "Teacher",
+    "subject": "Chipo's Creative Writing",
+    "message": "Hello Mr. Mulenga, Chipo wrote a wonderful story in our creative writing class today. She has a great imagination and her English skills are improving.",
+    "date": "2024-01-28",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 2,
+    "studentName": "Chipo Mulenga"
+  },
+  {
+    "id": 4,
+    "parentId": 2,
+    "senderId": 100,
+    "senderName": "School Administration",
+    "senderType": "Admin",
+    "subject": "Fee Payment Reminder",
+    "message": "Dear parent, this is a friendly reminder that Chipo's tuition fees for Term 1 are due on February 1st. Please make payment at your earliest convenience.",
+    "date": "2024-01-30",
+    "isRead": false,
+    "priority": "Medium",
+    "studentId": 2,
+    "studentName": "Chipo Mulenga"
+  }
+]

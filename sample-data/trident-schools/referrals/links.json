@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "tri-link-001",
+    "TenantId": "trident-schools",
+    "ProgramId": "tri-prog-001",
+    "UserId": "user-tri-001",
+    "UserName": "David Mwale",
+    "UserEmail": "david.mwale@alumni.tridentschools.edu.zm",
+    "ReferralCode": "TRI-ALUMNI-DM2024",
+    "ReferralUrl": "https://tridentschools.edu.zm/apply?ref=TRI-ALUMNI-DM2024",
+    "IsActive": true,
+    "ClickCount": 45,
+    "ConversionCount": 5,
+    "TotalRewardsEarned": 750.00,
+    "CreatedDate": "2024-01-10T00:00:00Z",
+    "LastUsedDate": "2024-02-08T00:00:00Z"
+  },
+  {
+    "Id": "tri-link-002",
+    "TenantId": "trident-schools",
+    "ProgramId": "tri-prog-002",
+    "UserId": "user-tri-002",
+    "UserName": "Patrick Mulenga",
+    "UserEmail": "parent@tridentschools.edu.zm",
+    "ReferralCode": "TRI-PARENT-PM2024",
+    "ReferralUrl": "https://tridentschools.edu.zm/apply?ref=TRI-PARENT-PM2024",
+    "IsActive": true,
+    "ClickCount": 28,
+    "ConversionCount": 3,
+    "TotalRewardsEarned": 900.00,
+    "CreatedDate": "2024-02-01T00:00:00Z",
+    "LastUsedDate": "2024-02-12T00:00:00Z"
+  },
+  {
+    "Id": "tri-link-003",
+    "TenantId": "trident-schools",
+    "ProgramId": "tri-prog-003",
+    "UserId": "user-tri-003",
+    "UserName": "Grace Tembo",
+    "UserEmail": "grace.tembo@tridentschools.edu.zm",
+    "ReferralCode": "TRI-TEACHER-GT2024",
+    "ReferralUrl": "https://tridentschools.edu.zm/apply?ref=TRI-TEACHER-GT2024",
+    "IsActive": true,
+    "ClickCount": 32,
+    "ConversionCount": 4,
+    "TotalRewardsEarned": 800,
+    "CreatedDate": "2024-01-20T00:00:00Z",
+    "LastUsedDate": "2024-02-10T00:00:00Z"
+  }
+]

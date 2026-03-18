@@ -1,0 +1,145 @@
+[
+  {
+    "Id": 1,
+    "CourseId": 1,
+    "CourseCode": "CE101",
+    "CourseName": "Introduction to Computer Engineering",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Computer Engineering",
+    "LearningOutcomes": "Students will describe the fundamental components of a computer system, understand the scope and vision of computer engineering, and appreciate the impact of technology on society and national development.",
+    "LectureTopics": [
+      "Overview of computer engineering as a discipline",
+      "Computer system components: hardware, software and firmware",
+      "History and evolution of computing technology",
+      "Professional ethics and Christian values in engineering practice"
+    ],
+    "Materials": [
+      { "Title": "Introduction to Computer Engineering Slides", "Type": 0, "Url": "/materials/ce101/week1-slides.pdf" },
+      { "Title": "Course Notes Week 1", "Type": 1, "Url": "/materials/ce101/week1-notes.pdf" },
+      { "Title": "Computer Engineering Career Pathways Reference", "Type": 4, "Url": "/materials/ce101/career-pathways.pdf" }
+    ],
+    "AssessmentMethods": "Class participation and short reflective quiz on computer engineering ethics",
+    "Status": 5,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:00:00Z",
+    "LecturerId": 201,
+    "FeedbackComments": "Excellent introduction. The ethical dimensions were well integrated. Students responded positively.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "CourseId": 1,
+    "CourseCode": "CE101",
+    "CourseName": "Introduction to Computer Engineering",
+    "Week": 2,
+    "Semester": "Semester 1 2025",
+    "Topic": "Number Systems and Boolean Algebra",
+    "LearningOutcomes": "Students will convert numbers between binary, octal, decimal and hexadecimal systems, apply Boolean algebra laws to simplify logic expressions, and understand how digital systems represent data.",
+    "LectureTopics": [
+      "Binary, octal, decimal and hexadecimal number systems",
+      "Number system conversion techniques",
+      "Boolean algebra laws and theorems",
+      "Logic gates and truth tables"
+    ],
+    "Materials": [
+      { "Title": "Number Systems and Boolean Algebra Slides", "Type": 0, "Url": "/materials/ce101/week2-slides.pdf" },
+      { "Title": "Week 2 Practice Problems", "Type": 3, "Url": "/materials/ce101/week2-assignment.pdf" }
+    ],
+    "AssessmentMethods": "In-class worksheet on number system conversions and Boolean simplification",
+    "Status": 5,
+    "SubmittedDate": "2025-01-17T09:00:00Z",
+    "ApprovedDate": "2025-01-18T10:00:00Z",
+    "LecturerId": 201,
+    "FeedbackComments": "Well paced. Students need additional Boolean algebra practice. Recommend supplementary exercises.",
+    "CreatedDate": "2025-01-15T08:00:00Z",
+    "LastUpdated": "2025-01-18T10:00:00Z"
+  },
+  {
+    "Id": 3,
+    "CourseId": 5,
+    "CourseCode": "CHE201",
+    "CourseName": "Thermodynamics",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Laws of Thermodynamics",
+    "LearningOutcomes": "Students will state and apply the zeroth, first and second laws of thermodynamics, analyse energy transfer in open and closed systems, and relate thermodynamic principles to real chemical engineering processes.",
+    "LectureTopics": [
+      "Thermodynamic systems: open, closed and isolated",
+      "Zeroth law and temperature measurement",
+      "First law: internal energy, heat and work",
+      "Second law and entropy concepts"
+    ],
+    "Materials": [
+      { "Title": "Laws of Thermodynamics Slides", "Type": 0, "Url": "/materials/che201/week1-slides.pdf" },
+      { "Title": "Thermodynamics Lecture Notes", "Type": 1, "Url": "/materials/che201/week1-notes.pdf" },
+      { "Title": "Thermodynamics Problem Sets Reference", "Type": 4, "Url": "/materials/che201/problem-sets.pdf" }
+    ],
+    "AssessmentMethods": "Short quiz on thermodynamic system identification and first law calculations",
+    "Status": 2,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T11:00:00Z",
+    "LecturerId": 202,
+    "FeedbackComments": "Approved. Ensure students are comfortable with energy balance calculations before progressing to phase equilibria.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T11:00:00Z"
+  },
+  {
+    "Id": 4,
+    "CourseId": 7,
+    "CourseCode": "BA101",
+    "CourseName": "Principles of Management",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "Introduction to Management Theories",
+    "LearningOutcomes": "Students will trace the historical development of management thought, compare classical and contemporary management theories, and relate ethical and servant leadership principles to management practice in Nigeria.",
+    "LectureTopics": [
+      "Classical management: scientific management and administrative theory",
+      "Behavioural management theories",
+      "Contemporary approaches: systems and contingency theory",
+      "Servant leadership and Christian values in Nigerian business"
+    ],
+    "Materials": [
+      { "Title": "Management Theories Slides", "Type": 0, "Url": "/materials/ba101/week1-slides.pdf" },
+      { "Title": "Management Theories Lecture Notes", "Type": 1, "Url": "/materials/ba101/week1-notes.pdf" }
+    ],
+    "AssessmentMethods": "Group reflection discussion on ethical leadership qualities in contemporary Nigerian organisations",
+    "Status": 2,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": "2025-01-11T10:30:00Z",
+    "LecturerId": 203,
+    "FeedbackComments": "Approved. The integration of servant leadership and Christian values is commendable and aligns with university vision.",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-11T10:30:00Z"
+  },
+  {
+    "Id": 5,
+    "CourseId": 3,
+    "CourseCode": "CE301",
+    "CourseName": "Computer Architecture",
+    "Week": 1,
+    "Semester": "Semester 1 2025",
+    "Topic": "CPU Architecture and Instruction Sets",
+    "LearningOutcomes": "Students will describe the functional units of a CPU, explain the fetch-decode-execute cycle, and distinguish between RISC and CISC instruction set architectures.",
+    "LectureTopics": [
+      "CPU functional units: ALU, control unit and registers",
+      "Fetch-decode-execute instruction cycle",
+      "RISC vs CISC architecture comparison",
+      "Overview of ARM and x86 instruction sets"
+    ],
+    "Materials": [
+      { "Title": "CPU Architecture Slides", "Type": 0, "Url": "/materials/ce301/week1-slides.pdf" },
+      { "Title": "Patterson and Hennessy Reference Text", "Type": 4, "Url": "/materials/ce301/architecture-reference.pdf" },
+      { "Title": "Instruction Set Architecture Video Lecture", "Type": 2, "Url": "/materials/ce301/week1-video.mp4" }
+    ],
+    "AssessmentMethods": "Short written response comparing RISC and CISC architectures with examples",
+    "Status": 1,
+    "SubmittedDate": "2025-01-10T09:00:00Z",
+    "ApprovedDate": null,
+    "LecturerId": 201,
+    "FeedbackComments": "",
+    "CreatedDate": "2025-01-08T08:00:00Z",
+    "LastUpdated": "2025-01-10T09:00:00Z"
+  }
+]

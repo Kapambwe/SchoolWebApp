@@ -1,0 +1,36 @@
+{
+  "tenantId": "american-international-school-lagos",
+  "displayName": "American International School Lagos",
+  "shortName": "AISL",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Lagos",
+  "address": "Behind Ecobank, Lekki Phase 1, Lagos",
+  "phone": "+234 1 270 3854",
+  "email": "info@aislagos.edu.ng",
+  "website": "https://www.aislagos.edu.ng",
+  "institutionType": "International",
+  "currency": "NGN",
+  "timezone": "Africa/Lagos",
+  "academicYearStart": "08-15",
+  "academicYearEnd": "06-15",
+  "logo": "/images/schools/aisl-logo.png",
+  "primaryColor": "#003366",
+  "secondaryColor": "#DC143C",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

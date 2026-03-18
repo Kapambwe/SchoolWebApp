@@ -1,0 +1,36 @@
+{
+  "tenantId": "dansa-international-school",
+  "displayName": "Dansa International School",
+  "shortName": "DANSA",
+  "country": "South Africa",
+  "countryCode": "ZA",
+  "city": "Johannesburg",
+  "address": "123 Oxford Road, Rosebank, Johannesburg, 2196",
+  "phone": "+27 11 555 1234",
+  "email": "info@dansa.co.za",
+  "website": "https://www.dansa.co.za",
+  "institutionType": "International",
+  "currency": "ZAR",
+  "timezone": "Africa/Johannesburg",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/dansa-logo.png",
+  "primaryColor": "#003366",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

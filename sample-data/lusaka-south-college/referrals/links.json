@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "lsc-link-001",
+    "TenantId": "lusaka-south-college",
+    "ProgramId": "lsc-prog-001",
+    "UserId": "user-lsc-001",
+    "UserName": "Grace Mwape",
+    "UserEmail": "grace.mwape@alumni.lscollege.edu.zm",
+    "ReferralCode": "LSC-ALUMNI-GM2024",
+    "ReferralUrl": "https://lscollege.edu.zm/apply?ref=LSC-ALUMNI-GM2024",
+    "IsActive": true,
+    "ClickCount": 40,
+    "ConversionCount": 5,
+    "TotalRewardsEarned": 900.00,
+    "CreatedDate": "2024-01-10T00:00:00Z",
+    "LastUsedDate": "2024-02-09T00:00:00Z"
+  }
+]

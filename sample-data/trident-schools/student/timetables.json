@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "dayOfWeek": "Monday",
+    "startTime": "08:00:00",
+    "endTime": "09:30:00",
+    "subject": "Additional Mathematics",
+    "teacher": "Mrs. Grace Tembo",
+    "room": "Room 301",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 2,
+    "dayOfWeek": "Monday",
+    "startTime": "09:45:00",
+    "endTime": "11:15:00",
+    "subject": "Physics",
+    "teacher": "Mr. Moses Mwanza",
+    "room": "Science Lab 1",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 3,
+    "dayOfWeek": "Monday",
+    "startTime": "11:30:00",
+    "endTime": "13:00:00",
+    "subject": "Chemistry",
+    "teacher": "Dr. John Phiri",
+    "room": "Science Lab 2",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  },
+  {
+    "id": 4,
+    "dayOfWeek": "Monday",
+    "startTime": "14:00:00",
+    "endTime": "15:30:00",
+    "subject": "English Language",
+    "teacher": "Mrs. Patricia Zulu",
+    "room": "Room 205",
+    "studentId": 1,
+    "grade": "Grade 12",
+    "term": "Term 1",
+    "year": 2024,
+    "createdDate": "2024-01-01T00:00:00Z",
+    "createdBy": "Admin"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "studentId": 1,
+    "studentName": "Isaac Mulenga",
+    "feeType": "Tuition",
+    "amount": 5000.00,
+    "currency": "ZMW",
+    "dueDate": "2024-02-01",
+    "status": "Paid",
+    "term": "Semester 1 2024",
+    "description": "Year 2 Diploma in Electrical Engineering tuition",
+    "paidDate": "2024-01-25",
+    "paymentMethod": "Bank Transfer"
+  }
+]

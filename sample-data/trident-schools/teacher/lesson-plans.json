@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Additional Mathematics",
+    "grade": "Grade 12",
+    "topic": "Differential Calculus - Applications",
+    "date": "2024-01-22",
+    "duration": 90,
+    "objectives": [
+      "Students will apply differentiation to solve real-world problems",
+      "Students will understand rates of change and optimization",
+      "Students will solve maximum and minimum problems"
+    ],
+    "activities": [
+      "Review of differentiation rules",
+      "Worked examples on optimization problems",
+      "Group problem-solving session",
+      "Individual practice exercises"
+    ],
+    "resources": ["Advanced Mathematics Textbook Chapter 15", "Graphing calculators", "Problem sets"],
+    "assessment": "Problem-solving quiz on optimization",
+    "homework": "Complete exercises 15.1-15.8",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "teacherId": 2,
+    "subject": "Physics",
+    "grade": "Grade 12",
+    "topic": "Electricity - Ohm's Law and Circuits",
+    "date": "2024-01-23",
+    "duration": 90,
+    "objectives": [
+      "Students will understand the relationship between voltage, current, and resistance",
+      "Students will analyze series and parallel circuits",
+      "Students will conduct practical experiments on electrical circuits"
+    ],
+    "activities": [
+      "Theory presentation on Ohm's Law",
+      "Demonstration of circuit connections",
+      "Laboratory practical - measuring voltage and current",
+      "Data analysis and report writing"
+    ],
+    "resources": ["Physics textbook", "Multimeters", "Circuit boards", "Resistors and wires"],
+    "assessment": "Practical report and circuit analysis",
+    "homework": "Complete circuit problems from textbook",
+    "status": "In Progress"
+  },
+  {
+    "id": 3,
+    "teacherId": 3,
+    "subject": "English Literature",
+    "grade": "Grade 11",
+    "topic": "African Literature - Post-Colonial Themes",
+    "date": "2024-01-24",
+    "duration": 75,
+    "objectives": [
+      "Students will identify post-colonial themes in African literature",
+      "Students will analyze character development in 'Things Fall Apart'",
+      "Students will discuss the impact of colonialism on African societies"
+    ],
+    "activities": [
+      "Class discussion on colonialism",
+      "Character analysis of Okonkwo",
+      "Group presentations on themes",
+      "Essay writing workshop"
+    ],
+    "resources": ["Things Fall Apart by Chinua Achebe", "Literary analysis guides", "Discussion prompts"],
+    "assessment": "Essay on post-colonial themes",
+    "homework": "Read chapters 15-20 and prepare discussion points",
+    "status": "Planned"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "tenantId": "hellenic-academy-harare",
+  "displayName": "Hellenic Academy Harare",
+  "shortName": "Hellenic",
+  "country": "Zimbabwe",
+  "countryCode": "ZW",
+  "city": "Harare",
+  "address": "Borrowdale Road, Borrowdale, Harare",
+  "phone": "+263 24 885 555",
+  "email": "info@hellenic.co.zw",
+  "website": "https://www.hellenic.co.zw",
+  "institutionType": "International",
+  "currency": "USD",
+  "timezone": "Africa/Harare",
+  "academicYearStart": "01-15",
+  "academicYearEnd": "12-10",
+  "logo": "/images/schools/hellenic-logo.png",
+  "primaryColor": "#0066CC",
+  "secondaryColor": "#FFFFFF",
+  "features": {
+    "hasHostel": false,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": true,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": true,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

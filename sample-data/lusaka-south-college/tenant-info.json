@@ -1,0 +1,44 @@
+{
+  "tenantId": "lusaka-south-college",
+  "schoolName": "Lusaka South College",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "College",
+  "establishedYear": 2008,
+  "studentCapacity": 1800,
+  "currentEnrollment": 1520,
+  "address": {
+    "street": "Kafue Road",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10106",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211890123",
+    "email": "info@lscollege.edu.zm",
+    "website": "www.lscollege.edu.zm"
+  },
+  "motto": "Education for Transformation",
+  "vision": "To be a leading college providing quality education and training.",
+  "mission": "To deliver accessible, quality education that transforms lives and communities.",
+  "programs": [
+    "Diploma in Accountancy",
+    "Diploma in Business Administration",
+    "Certificate in Computer Studies",
+    "Diploma in Social Work",
+    "Certificate in Early Childhood Education",
+    "Diploma in Journalism"
+  ],
+  "facilities": [
+    "Computer Labs",
+    "Library",
+    "Lecture Halls",
+    "Cafeteria",
+    "Sports Facilities"
+  ],
+  "accreditation": ["Zambia Qualifications Authority (ZAQA)"]
+}

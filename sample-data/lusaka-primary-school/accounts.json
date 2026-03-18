@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Cash and Bank",
+    "accountType": "Asset",
+    "currentBalance": 850000.00
+  },
+  {
+    "id": 2,
+    "name": "School Fees Receivable",
+    "accountType": "Asset",
+    "currentBalance": 180000.00
+  },
+  {
+    "id": 3,
+    "name": "School Fees Revenue",
+    "accountType": "Revenue",
+    "currentBalance": 2500000.00
+  },
+  {
+    "id": 4,
+    "name": "Teacher Salaries Expense",
+    "accountType": "Expense",
+    "currentBalance": 420000.00
+  },
+  {
+    "id": 5,
+    "name": "Utilities Expense",
+    "accountType": "Expense",
+    "currentBalance": 35000.00
+  },
+  {
+    "id": 6,
+    "name": "Accounts Payable",
+    "accountType": "Liability",
+    "currentBalance": 75000.00
+  }
+]

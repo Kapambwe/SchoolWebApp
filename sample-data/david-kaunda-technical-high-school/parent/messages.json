@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Moses Kabwe",
+    "senderType": "Instructor",
+    "subject": "Trade Test Preparation",
+    "message": "Dear Mr. Mutale, Brian is well-prepared for the TEVETA Trade Test. His practical skills are excellent and he consistently follows safety procedures.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Brian Mutale"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "senderId": 2,
+    "senderName": "David Phiri",
+    "senderType": "Instructor",
+    "subject": "Excellent Craftsmanship",
+    "message": "Hello Mrs. Banda, Moses completed an outstanding furniture project. His attention to detail and joinery skills are impressive.",
+    "date": "2024-01-28",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 2,
+    "studentName": "Moses Banda"
+  }
+]

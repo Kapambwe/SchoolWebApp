@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-09:30",
+    "subject": "Additional Mathematics",
+    "grade": "Grade 12",
+    "classroom": "Room 301",
+    "studentCount": 28
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "09:45-11:15",
+    "subject": "Mathematics",
+    "grade": "Grade 11",
+    "classroom": "Room 302",
+    "studentCount": 35
+  },
+  {
+    "id": 3,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-09:30",
+    "subject": "Physics",
+    "grade": "Grade 12",
+    "classroom": "Science Lab 1",
+    "studentCount": 26
+  },
+  {
+    "id": 4,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "11:30-13:00",
+    "subject": "Physics",
+    "grade": "Grade 11",
+    "classroom": "Science Lab 1",
+    "studentCount": 30
+  },
+  {
+    "id": 5,
+    "teacherId": 3,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-09:30",
+    "subject": "English Literature",
+    "grade": "Grade 11",
+    "classroom": "Room 205",
+    "studentCount": 32
+  },
+  {
+    "id": 6,
+    "teacherId": 3,
+    "dayOfWeek": "Monday",
+    "timeSlot": "14:00-15:30",
+    "subject": "English Language",
+    "grade": "Grade 12",
+    "classroom": "Room 205",
+    "studentCount": 28
+  }
+]

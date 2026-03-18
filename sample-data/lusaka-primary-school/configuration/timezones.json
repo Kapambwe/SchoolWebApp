@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "code": "Africa/Lusaka",
+    "name": "Central Africa Time",
+    "displayName": "CAT (UTC+2)",
+    "utcOffset": 2
+  },
+  {
+    "id": 2,
+    "code": "Africa/Johannesburg",
+    "name": "South Africa Standard Time",
+    "displayName": "SAST (UTC+2)",
+    "utcOffset": 2
+  },
+  {
+    "id": 3,
+    "code": "Africa/Nairobi",
+    "name": "East Africa Time",
+    "displayName": "EAT (UTC+3)",
+    "utcOffset": 3
+  },
+  {
+    "id": 4,
+    "code": "UTC",
+    "name": "Coordinated Universal Time",
+    "displayName": "UTC (UTC+0)",
+    "utcOffset": 0
+  }
+]

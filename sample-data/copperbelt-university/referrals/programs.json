@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "cbu-prog-001",
+    "TenantId": "copperbelt-university",
+    "Name": "Alumni Referral Program",
+    "Description": "Earn rewards for referring new students to CBU",
+    "Type": "Alumni",
+    "IsActive": true,
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 300.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 15,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 85,
+    "TotalConversions": 32,
+    "TotalRewardsPaid": 9600.00,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-01T00:00:00Z"
+  }
+]

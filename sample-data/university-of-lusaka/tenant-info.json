@@ -1,0 +1,55 @@
+{
+  "tenantId": "university-of-lusaka",
+  "schoolName": "University of Lusaka",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "University",
+  "establishedYear": 2007,
+  "studentCapacity": 5000,
+  "currentEnrollment": 4200,
+  "address": {
+    "street": "Nationalist Road",
+    "city": "Lusaka",
+    "province": "Lusaka Province",
+    "postalCode": "10107",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260211012345",
+    "email": "info@unilus.ac.zm",
+    "website": "www.unilus.ac.zm"
+  },
+  "motto": "Knowledge, Innovation, Service",
+  "vision": "To be a world-class university providing quality education and research.",
+  "mission": "To provide accessible, quality higher education that contributes to national development.",
+  "faculties": [
+    "Faculty of Business",
+    "Faculty of Engineering",
+    "Faculty of Health Sciences",
+    "Faculty of Law",
+    "Faculty of Education",
+    "Faculty of Information and Communication Technology"
+  ],
+  "programs": [
+    "Bachelor of Business Administration",
+    "Bachelor of Science in Computer Science",
+    "Bachelor of Laws (LLB)",
+    "Bachelor of Education",
+    "Master of Business Administration (MBA)",
+    "Bachelor of Science in Nursing"
+  ],
+  "facilities": [
+    "Modern Lecture Halls",
+    "Computer Labs",
+    "Library and Resource Center",
+    "Research Centers",
+    "Student Hostels",
+    "Sports Complex",
+    "Cafeteria",
+    "Health Center"
+  ],
+  "accreditation": ["Higher Education Authority (HEA)", "ZAQA"]
+}

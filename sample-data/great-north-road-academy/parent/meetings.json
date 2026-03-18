@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "title": "Parent-Teacher Conference",
+    "date": "2024-03-15",
+    "time": "14:00",
+    "duration": 30,
+    "location": "Classroom B2",
+    "teacherId": 2,
+    "teacherName": "Mr. James Tembo",
+    "subject": "Mathematics",
+    "studentId": 1,
+    "studentName": "Chanda Mwanza",
+    "purpose": "Discuss academic progress and upcoming examinations",
+    "status": "Scheduled",
+    "agenda": [
+      "Review Term 1 performance",
+      "Discuss areas for improvement",
+      "Plan for Term 2 preparation",
+      "Address any concerns"
+    ],
+    "notes": "Student showing excellent progress in algebra but needs support with geometry"
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "title": "Career Guidance Meeting",
+    "date": "2024-03-20",
+    "time": "10:00",
+    "duration": 45,
+    "location": "Guidance Office",
+    "teacherId": 1,
+    "teacherName": "Dr. Patricia Mulenga",
+    "subject": "Career Guidance",
+    "studentId": 2,
+    "studentName": "Mutale Banda",
+    "purpose": "Discuss university applications and career paths",
+    "status": "Scheduled",
+    "agenda": [
+      "Review Grade 12 performance",
+      "Discuss university options",
+      "Plan application timeline",
+      "Scholarship opportunities"
+    ],
+    "notes": "Student interested in medical field, excellent academic record"
+  },
+  {
+    "id": 3,
+    "parentId": 3,
+    "title": "Academic Support Meeting",
+    "date": "2024-02-28",
+    "time": "15:30",
+    "duration": 20,
+    "location": "Classroom C1",
+    "teacherId": 6,
+    "teacherName": "Mr. Charles Mwale",
+    "subject": "History",
+    "studentId": 3,
+    "studentName": "Temba Phiri",
+    "purpose": "Address attendance concerns and academic support",
+    "status": "Completed",
+    "agenda": [
+      "Discuss attendance issues",
+      "Review academic performance",
+      "Create improvement plan",
+      "Set monitoring schedule"
+    ],
+    "notes": "Parent committed to ensuring regular attendance. Student to receive additional support."
+  },
+  {
+    "id": 4,
+    "parentId": 4,
+    "title": "Subject Selection Meeting",
+    "date": "2024-03-25",
+    "time": "11:00",
+    "duration": 30,
+    "location": "Principal's Office",
+    "teacherId": 1,
+    "teacherName": "Dr. Patricia Mulenga",
+    "subject": "Academic Planning",
+    "studentId": 4,
+    "studentName": "Nalani Sakala",
+    "purpose": "Plan Grade 12 subject combination",
+    "status": "Scheduled",
+    "agenda": [
+      "Review current performance",
+      "Discuss career interests",
+      "Select Grade 12 subjects",
+      "Plan academic pathway"
+    ],
+    "notes": "Student showing strong interest in humanities subjects"
+  },
+  {
+    "id": 5,
+    "parentId": 5,
+    "title": "Behavioral Support Meeting",
+    "date": "2024-03-10",
+    "time": "13:00",
+    "duration": 25,
+    "location": "Counselor's Office",
+    "teacherId": 7,
+    "teacherName": "Mrs. Grace Mwanza",
+    "subject": "Student Counseling",
+    "studentId": 5,
+    "studentName": "Kabwe Zulu",
+    "purpose": "Address behavioral concerns and provide support",
+    "status": "Scheduled",
+    "agenda": [
+      "Discuss recent behavioral incidents",
+      "Identify underlying causes",
+      "Develop behavior support plan",
+      "Set follow-up schedule"
+    ],
+    "notes": "Student experiencing adjustment difficulties. Family support needed."
+  },
+  {
+    "id": 6,
+    "parentId": 1,
+    "title": "Academic Excellence Recognition",
+    "date": "2024-04-05",
+    "time": "16:00",
+    "duration": 15,
+    "location": "Principal's Office",
+    "teacherId": 1,
+    "teacherName": "Dr. Patricia Mulenga",
+    "subject": "Recognition",
+    "studentId": 1,
+    "studentName": "Chanda Mwanza",
+    "purpose": "Recognize outstanding academic achievement",
+    "status": "Scheduled",
+    "agenda": [
+      "Celebrate academic achievements",
+      "Discuss leadership opportunities",
+      "Plan advanced learning pathways",
+      "Scholarship information"
+    ],
+    "notes": "Student consistently performing at top of class. Consider advanced programs."
+  }
+]

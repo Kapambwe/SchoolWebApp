@@ -1,0 +1,893 @@
+[
+  {
+    "tenantId": "lusaka-primary-school",
+    "displayName": "Lusaka Primary School",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "Primary",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@school.com",
+        "password": "Admin@123",
+        "fullName": "Admin User"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@school.com",
+        "password": "Teacher@123",
+        "fullName": "Teacher Demo"
+      },
+      {
+        "role": "student",
+        "email": "student@school.com",
+        "password": "Student@123",
+        "fullName": "Student Demo"
+      },
+      {
+        "role": "parent",
+        "email": "parent@school.com",
+        "password": "Parent@123",
+        "fullName": "Parent Demo"
+      }
+    ]
+  },
+  {
+    "tenantId": "great-north-road-academy",
+    "displayName": "Great North Road Academy",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "Secondary",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@gnracademy.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Peter Lungu"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@gnracademy.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Sarah Mwanza"
+      },
+      {
+        "role": "student",
+        "email": "student@gnracademy.edu.zm",
+        "password": "Student@123",
+        "fullName": "John Banda"
+      },
+      {
+        "role": "parent",
+        "email": "parent@gnracademy.edu.zm",
+        "password": "Parent@123",
+        "fullName": "Michael Banda"
+      }
+    ]
+  },
+  {
+    "tenantId": "trident-schools",
+    "displayName": "Trident Schools",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "Secondary",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@tridentschools.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Joseph Phiri"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@tridentschools.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Grace Tembo"
+      },
+      {
+        "role": "student",
+        "email": "student@tridentschools.edu.zm",
+        "password": "Student@123",
+        "fullName": "Chanda Mulenga"
+      },
+      {
+        "role": "parent",
+        "email": "parent@tridentschools.edu.zm",
+        "password": "Parent@123",
+        "fullName": "Patrick Mulenga"
+      }
+    ]
+  },
+  {
+    "tenantId": "st-marys-secondary-high-school",
+    "displayName": "St. Mary's Secondary High School",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "Secondary",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@stmarys.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Sister Mary Mwape"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@stmarys.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Francis Zulu"
+      },
+      {
+        "role": "student",
+        "email": "student@stmarys.edu.zm",
+        "password": "Student@123",
+        "fullName": "Natasha Sakala"
+      },
+      {
+        "role": "parent",
+        "email": "parent@stmarys.edu.zm",
+        "password": "Parent@123",
+        "fullName": "James Sakala"
+      }
+    ]
+  },
+  {
+    "tenantId": "ibenga-girls-secondary-school",
+    "displayName": "Ibenga Girls Secondary School",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "Secondary",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@ibenga.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Margaret Chilufya"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@ibenga.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Ruth Mwila"
+      },
+      {
+        "role": "student",
+        "email": "student@ibenga.edu.zm",
+        "password": "Student@123",
+        "fullName": "Mercy Chanda"
+      },
+      {
+        "role": "parent",
+        "email": "parent@ibenga.edu.zm",
+        "password": "Parent@123",
+        "fullName": "Alice Chanda"
+      }
+    ]
+  },
+  {
+    "tenantId": "david-kaunda-technical-high-school",
+    "displayName": "David Kaunda Technical High School",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "Trade School",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@dkths.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Emmanuel Mwansa"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@dkths.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Moses Kabwe"
+      },
+      {
+        "role": "student",
+        "email": "student@dkths.edu.zm",
+        "password": "Student@123",
+        "fullName": "Brian Mutale"
+      },
+      {
+        "role": "parent",
+        "email": "parent@dkths.edu.zm",
+        "password": "Parent@123",
+        "fullName": "George Mutale"
+      }
+    ]
+  },
+  {
+    "tenantId": "northern-technical-college",
+    "displayName": "Northern Technical College",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "College",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@ntc.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Dr. Andrew Mwale"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@ntc.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Prof. Catherine Banda"
+      },
+      {
+        "role": "student",
+        "email": "student@ntc.edu.zm",
+        "password": "Student@123",
+        "fullName": "Victor Chisanga"
+      },
+      {
+        "role": "parent",
+        "email": "parent@ntc.edu.zm",
+        "password": "Parent@123",
+        "fullName": "Robert Chisanga"
+      }
+    ]
+  },
+  {
+    "tenantId": "lusaka-south-college",
+    "displayName": "Lusaka South College",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "College",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@lscollege.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Dr. Patricia Mbewe"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@lscollege.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Mr. Daniel Phiri"
+      },
+      {
+        "role": "student",
+        "email": "student@lscollege.edu.zm",
+        "password": "Student@123",
+        "fullName": "Angela Mwanza"
+      },
+      {
+        "role": "parent",
+        "email": "parent@lscollege.edu.zm",
+        "password": "Parent@123",
+        "fullName": "Susan Mwanza"
+      }
+    ]
+  },
+  {
+    "tenantId": "luanshya-technical-business-college",
+    "displayName": "Luanshya Technical and Business College",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "College",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@ltbc.edu.zm",
+        "password": "Admin@123",
+        "fullName": "Dr. Kenneth Mwape"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@ltbc.edu.zm",
+        "password": "Teacher@123",
+        "fullName": "Mrs. Beatrice Chola"
+      },
+      {
+        "role": "student",
+        "email": "student@ltbc.edu.zm",
+        "password": "Student@123",
+        "fullName": "Isaac Mulenga"
+      },
+      {
+        "role": "parent",
+        "email": "parent@ltbc.edu.zm",
+        "password": "Parent@123",
+        "fullName": "Mary Mulenga"
+      }
+    ]
+  },
+  {
+    "tenantId": "university-of-lusaka",
+    "displayName": "University of Lusaka",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "University",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@unilus.ac.zm",
+        "password": "Admin@123",
+        "fullName": "Prof. David Simwanza"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@unilus.ac.zm",
+        "password": "Teacher@123",
+        "fullName": "Dr. Elizabeth Mwamba"
+      },
+      {
+        "role": "student",
+        "email": "student@unilus.ac.zm",
+        "password": "Student@123",
+        "fullName": "Mwila Kasonde"
+      },
+      {
+        "role": "parent",
+        "email": "parent@unilus.ac.zm",
+        "password": "Parent@123",
+        "fullName": "Joyce Kasonde"
+      }
+    ]
+  },
+  {
+    "tenantId": "copperbelt-university",
+    "displayName": "Copperbelt University",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "University",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@cbu.ac.zm",
+        "password": "Admin@123",
+        "fullName": "Prof. Naison Ngoma"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@cbu.ac.zm",
+        "password": "Teacher@123",
+        "fullName": "Dr. Charity Siame"
+      },
+      {
+        "role": "student",
+        "email": "student@cbu.ac.zm",
+        "password": "Student@123",
+        "fullName": "Kelvin Mwansa"
+      },
+      {
+        "role": "parent",
+        "email": "parent@cbu.ac.zm",
+        "password": "Parent@123",
+        "fullName": "Christine Mwansa"
+      }
+    ]
+  },
+  {
+    "tenantId": "mukuba-university",
+    "displayName": "Mukuba University",
+    "country": "Zambia",
+    "countryCode": "ZM",
+    "institutionType": "University",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@mu.ac.zm",
+        "password": "Admin@123",
+        "fullName": "Prof. Heneri Shawa"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@mu.ac.zm",
+        "password": "Teacher@123",
+        "fullName": "Dr. Mwape Sichilima"
+      },
+      {
+        "role": "student",
+        "email": "student@mu.ac.zm",
+        "password": "Student@123",
+        "fullName": "Bwalya Chishimba"
+      },
+      {
+        "role": "parent",
+        "email": "parent@mu.ac.zm",
+        "password": "Parent@123",
+        "fullName": "Agnes Chishimba"
+      }
+    ]
+  },
+  {
+    "tenantId": "nairobi-international-school",
+    "displayName": "Nairobi International School",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@nairobiintl.ac.ke",
+        "password": "Admin@123",
+        "fullName": "James Ochieng"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@nairobiintl.ac.ke",
+        "password": "Teacher@123",
+        "fullName": "Grace Wanjiku"
+      },
+      {
+        "role": "student",
+        "email": "student@nairobiintl.ac.ke",
+        "password": "Student@123",
+        "fullName": "David Kamau"
+      },
+      {
+        "role": "parent",
+        "email": "parent@nairobiintl.ac.ke",
+        "password": "Parent@123",
+        "fullName": "Mary Kamau"
+      }
+    ]
+  },
+  {
+    "tenantId": "dansa-international-school",
+    "displayName": "Dansa International School",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@dansa.co.za",
+        "password": "Admin@123",
+        "fullName": "Thabo Mbeki"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@dansa.co.za",
+        "password": "Teacher@123",
+        "fullName": "Nomsa Dlamini"
+      },
+      {
+        "role": "student",
+        "email": "student@dansa.co.za",
+        "password": "Student@123",
+        "fullName": "Sipho Nkosi"
+      },
+      {
+        "role": "parent",
+        "email": "parent@dansa.co.za",
+        "password": "Parent@123",
+        "fullName": "Zanele Nkosi"
+      }
+    ]
+  },
+  {
+    "tenantId": "yes-technology-school",
+    "displayName": "YES Technology School",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "institutionType": "Technology",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@yestech.co.za",
+        "password": "Admin@123",
+        "fullName": "Mandla Khumalo"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@yestech.co.za",
+        "password": "Teacher@123",
+        "fullName": "Lindiwe Mthembu"
+      },
+      {
+        "role": "student",
+        "email": "student@yestech.co.za",
+        "password": "Student@123",
+        "fullName": "Thandi Zulu"
+      },
+      {
+        "role": "parent",
+        "email": "parent@yestech.co.za",
+        "password": "Parent@123",
+        "fullName": "Bongani Zulu"
+      }
+    ]
+  },
+  {
+    "tenantId": "reddam-house-school",
+    "displayName": "Reddam House School",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "institutionType": "Private",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@reddamhouse.co.za",
+        "password": "Admin@123",
+        "fullName": "Dr. Johan van der Merwe"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@reddamhouse.co.za",
+        "password": "Teacher@123",
+        "fullName": "Sarah Botha"
+      },
+      {
+        "role": "student",
+        "email": "student@reddamhouse.co.za",
+        "password": "Student@123",
+        "fullName": "Liam Pretorius"
+      },
+      {
+        "role": "parent",
+        "email": "parent@reddamhouse.co.za",
+        "password": "Parent@123",
+        "fullName": "Emma Pretorius"
+      }
+    ]
+  },
+  {
+    "tenantId": "crawford-international-school",
+    "displayName": "Crawford International School",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@crawford.co.za",
+        "password": "Admin@123",
+        "fullName": "Michael Ndlovu"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@crawford.co.za",
+        "password": "Teacher@123",
+        "fullName": "Precious Mokoena"
+      },
+      {
+        "role": "student",
+        "email": "student@crawford.co.za",
+        "password": "Student@123",
+        "fullName": "Lerato Molefe"
+      },
+      {
+        "role": "parent",
+        "email": "parent@crawford.co.za",
+        "password": "Parent@123",
+        "fullName": "Tshepo Molefe"
+      }
+    ]
+  },
+  {
+    "tenantId": "curro-holdings-school",
+    "displayName": "Curro Holdings School",
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "institutionType": "Private",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@curro.co.za",
+        "password": "Admin@123",
+        "fullName": "Pieter Steyn"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@curro.co.za",
+        "password": "Teacher@123",
+        "fullName": "Anele Sithole"
+      },
+      {
+        "role": "student",
+        "email": "student@curro.co.za",
+        "password": "Student@123",
+        "fullName": "Kagiso Mahlangu"
+      },
+      {
+        "role": "parent",
+        "email": "parent@curro.co.za",
+        "password": "Parent@123",
+        "fullName": "Nandi Mahlangu"
+      }
+    ]
+  },
+  {
+    "tenantId": "strathmore-university",
+    "displayName": "Strathmore University",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "institutionType": "University",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@strathmore.edu",
+        "password": "Admin@123",
+        "fullName": "Prof. John Odhiambo"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@strathmore.edu",
+        "password": "Teacher@123",
+        "fullName": "Dr. Faith Njeri"
+      },
+      {
+        "role": "student",
+        "email": "student@strathmore.edu",
+        "password": "Student@123",
+        "fullName": "Brian Kipchoge"
+      },
+      {
+        "role": "parent",
+        "email": "parent@strathmore.edu",
+        "password": "Parent@123",
+        "fullName": "Catherine Kipchoge"
+      }
+    ]
+  },
+  {
+    "tenantId": "brookhouse-school-kenya",
+    "displayName": "Brookhouse School Kenya",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@brookhouse.ac.ke",
+        "password": "Admin@123",
+        "fullName": "Peter Mwangi"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@brookhouse.ac.ke",
+        "password": "Teacher@123",
+        "fullName": "Lucy Akinyi"
+      },
+      {
+        "role": "student",
+        "email": "student@brookhouse.ac.ke",
+        "password": "Student@123",
+        "fullName": "Kevin Otieno"
+      },
+      {
+        "role": "parent",
+        "email": "parent@brookhouse.ac.ke",
+        "password": "Parent@123",
+        "fullName": "Jane Otieno"
+      }
+    ]
+  },
+  {
+    "tenantId": "aga-khan-academy-nairobi",
+    "displayName": "Aga Khan Academy Nairobi",
+    "country": "Kenya",
+    "countryCode": "KE",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@agakhanacademy.ac.ke",
+        "password": "Admin@123",
+        "fullName": "Dr. Hassan Mohamed"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@agakhanacademy.ac.ke",
+        "password": "Teacher@123",
+        "fullName": "Amina Juma"
+      },
+      {
+        "role": "student",
+        "email": "student@agakhanacademy.ac.ke",
+        "password": "Student@123",
+        "fullName": "Omar Ali"
+      },
+      {
+        "role": "parent",
+        "email": "parent@agakhanacademy.ac.ke",
+        "password": "Parent@123",
+        "fullName": "Fatima Ali"
+      }
+    ]
+  },
+  {
+    "tenantId": "peterhouse-school-zimbabwe",
+    "displayName": "Peterhouse School Zimbabwe",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "institutionType": "Private",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@peterhouse.co.zw",
+        "password": "Admin@123",
+        "fullName": "Dr. Tendai Moyo"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@peterhouse.co.zw",
+        "password": "Teacher@123",
+        "fullName": "Rudo Ncube"
+      },
+      {
+        "role": "student",
+        "email": "student@peterhouse.co.zw",
+        "password": "Student@123",
+        "fullName": "Tapiwa Chikwanha"
+      },
+      {
+        "role": "parent",
+        "email": "parent@peterhouse.co.zw",
+        "password": "Parent@123",
+        "fullName": "Chipo Chikwanha"
+      }
+    ]
+  },
+  {
+    "tenantId": "hellenic-academy-harare",
+    "displayName": "Hellenic Academy Harare",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@hellenic.co.zw",
+        "password": "Admin@123",
+        "fullName": "George Makoni"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@hellenic.co.zw",
+        "password": "Teacher@123",
+        "fullName": "Tsitsi Mutasa"
+      },
+      {
+        "role": "student",
+        "email": "student@hellenic.co.zw",
+        "password": "Student@123",
+        "fullName": "Simba Dube"
+      },
+      {
+        "role": "parent",
+        "email": "parent@hellenic.co.zw",
+        "password": "Parent@123",
+        "fullName": "Nyasha Dube"
+      }
+    ]
+  },
+  {
+    "tenantId": "university-of-zimbabwe",
+    "displayName": "University of Zimbabwe",
+    "country": "Zimbabwe",
+    "countryCode": "ZW",
+    "institutionType": "University",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@uz.ac.zw",
+        "password": "Admin@123",
+        "fullName": "Prof. Levi Nyagura"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@uz.ac.zw",
+        "password": "Teacher@123",
+        "fullName": "Dr. Patience Mpofu"
+      },
+      {
+        "role": "student",
+        "email": "student@uz.ac.zw",
+        "password": "Student@123",
+        "fullName": "Tinashe Sibanda"
+      },
+      {
+        "role": "parent",
+        "email": "parent@uz.ac.zw",
+        "password": "Parent@123",
+        "fullName": "Grace Sibanda"
+      }
+    ]
+  },
+  {
+    "tenantId": "covenant-university-nigeria",
+    "displayName": "Covenant University",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "institutionType": "University",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@covenantuniversity.edu.ng",
+        "password": "Admin@123",
+        "fullName": "Prof. Abiodun Adebayo"
+      },
+      {
+        "role": "teacher",
+        "email": "lecturer@covenantuniversity.edu.ng",
+        "password": "Teacher@123",
+        "fullName": "Dr. Ngozi Okonkwo"
+      },
+      {
+        "role": "student",
+        "email": "student@covenantuniversity.edu.ng",
+        "password": "Student@123",
+        "fullName": "Chukwuemeka Eze"
+      },
+      {
+        "role": "parent",
+        "email": "parent@covenantuniversity.edu.ng",
+        "password": "Parent@123",
+        "fullName": "Amaka Eze"
+      }
+    ]
+  },
+  {
+    "tenantId": "american-international-school-lagos",
+    "displayName": "American International School Lagos",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "institutionType": "International",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@aislagos.edu.ng",
+        "password": "Admin@123",
+        "fullName": "Dr. Oluwaseun Balogun"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@aislagos.edu.ng",
+        "password": "Teacher@123",
+        "fullName": "Funmilayo Adeyemi"
+      },
+      {
+        "role": "student",
+        "email": "student@aislagos.edu.ng",
+        "password": "Student@123",
+        "fullName": "Tunde Okafor"
+      },
+      {
+        "role": "parent",
+        "email": "parent@aislagos.edu.ng",
+        "password": "Parent@123",
+        "fullName": "Blessing Okafor"
+      }
+    ]
+  },
+  {
+    "tenantId": "greensprings-school-lagos",
+    "displayName": "Greensprings School Lagos",
+    "country": "Nigeria",
+    "countryCode": "NG",
+    "institutionType": "Private",
+    "testUsers": [
+      {
+        "role": "admin",
+        "email": "admin@greensprings.edu.ng",
+        "password": "Admin@123",
+        "fullName": "Mrs. Folake Williams"
+      },
+      {
+        "role": "teacher",
+        "email": "teacher@greensprings.edu.ng",
+        "password": "Teacher@123",
+        "fullName": "Chioma Nwosu"
+      },
+      {
+        "role": "student",
+        "email": "student@greensprings.edu.ng",
+        "password": "Student@123",
+        "fullName": "Adebayo Olaniyan"
+      },
+      {
+        "role": "parent",
+        "email": "parent@greensprings.edu.ng",
+        "password": "Parent@123",
+        "fullName": "Yetunde Olaniyan"
+      }
+    ]
+  }
+]

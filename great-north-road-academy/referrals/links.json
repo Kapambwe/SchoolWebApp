@@ -1,0 +1,50 @@
+[
+  {
+    "id": "gnra-link-001",
+    "tenantId": "great-north-road-academy",
+    "programId": "gnra-prog-001",
+    "userId": "gnra-alumni-001",
+    "userType": "Alumni",
+    "uniqueCode": "ALM001GNRA",
+    "url": "https://gnracademy.edu.zm/register?ref=ALM001GNRA",
+    "isActive": true,
+    "createdDate": "2024-01-08T00:00:00Z",
+    "expiryDate": null,
+    "totalClicks": 38,
+    "totalConversions": 4,
+    "totalRevenueGenerated": 48000.00,
+    "lastClickDate": "2025-01-22T13:00:00Z"
+  },
+  {
+    "id": "gnra-link-002",
+    "tenantId": "great-north-road-academy",
+    "programId": "gnra-prog-001",
+    "userId": "gnra-alumni-002",
+    "userType": "Alumni",
+    "uniqueCode": "ALM002GNRA",
+    "url": "https://gnracademy.edu.zm/register?ref=ALM002GNRA",
+    "isActive": true,
+    "createdDate": "2024-01-15T00:00:00Z",
+    "expiryDate": null,
+    "totalClicks": 22,
+    "totalConversions": 2,
+    "totalRevenueGenerated": 24000.00,
+    "lastClickDate": "2025-01-18T09:30:00Z"
+  },
+  {
+    "id": "gnra-link-003",
+    "tenantId": "great-north-road-academy",
+    "programId": "gnra-prog-002",
+    "userId": "gnra-parent-001",
+    "userType": "Parent",
+    "uniqueCode": "PAR001GNRA",
+    "url": "https://gnracademy.edu.zm/register?ref=PAR001GNRA",
+    "isActive": true,
+    "createdDate": "2024-03-05T00:00:00Z",
+    "expiryDate": null,
+    "totalClicks": 15,
+    "totalConversions": 1,
+    "totalRevenueGenerated": 12000.00,
+    "lastClickDate": "2025-01-10T15:00:00Z"
+  }
+]

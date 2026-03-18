@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to CBU Portal",
+    "message": "Welcome to Copperbelt University. Excellence in higher education and research.",
+    "createdAt": "2024-12-16T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Semester Results Published",
+    "message": "Your semester examination results are now available on the student portal.",
+    "createdAt": "2024-12-15T10:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": 3,
+    "type": "Info",
+    "title": "Research Conference",
+    "message": "Annual research conference scheduled for March 2024. Submit your abstracts by February 15th.",
+    "createdAt": "2024-12-14T14:00:00Z",
+    "isRead": true
+  },
+  {
+    "id": 4,
+    "type": "Warning",
+    "title": "Thesis Submission Deadline",
+    "message": "Final year students: Thesis submission deadline is approaching. Submit by January 31st.",
+    "createdAt": "2024-12-13T09:00:00Z",
+    "isRead": false
+  }
+]

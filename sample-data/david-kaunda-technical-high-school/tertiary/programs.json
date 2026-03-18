@@ -1,0 +1,109 @@
+[
+  {
+    "Id": 1,
+    "Code": "CERT-EL",
+    "ProgramCode": "CERT-EL",
+    "Name": "Certificate in Electronics",
+    "ProgramName": "Certificate in Electronics",
+    "Type": 0,
+    "DurationYears": 1,
+    "TotalCreditHours": 60,
+    "TuitionFee": 5000.00,
+    "Department": "Electronics",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 1,
+        "CourseCode": "EL101",
+        "CourseName": "Electronic Principles",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 2,
+        "CourseCode": "EL102",
+        "CourseName": "Electronic Circuit Assembly",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": true
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Code": "CERT-CP",
+    "ProgramCode": "CERT-CP",
+    "Name": "Certificate in Carpentry and Joinery",
+    "ProgramName": "Certificate in Carpentry and Joinery",
+    "Type": 0,
+    "DurationYears": 1,
+    "TotalCreditHours": 60,
+    "TuitionFee": 4500.00,
+    "Department": "Carpentry",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 3,
+        "CourseCode": "CP101",
+        "CourseName": "Carpentry and Joinery Fundamentals",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 4,
+        "CourseCode": "CP102",
+        "CourseName": "Furniture Making and Finishing",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Code": "CERT-AU",
+    "ProgramCode": "CERT-AU",
+    "Name": "Certificate in Automotive Mechanics",
+    "ProgramName": "Certificate in Automotive Mechanics",
+    "Type": 0,
+    "DurationYears": 1,
+    "TotalCreditHours": 60,
+    "TuitionFee": 5500.00,
+    "Department": "Automotive",
+    "Faculty": "Technical Division",
+    "IsAccredited": true,
+    "AccreditationBody": "Technical Education Vocational Entrepreneurship Training Authority (TEVETA)",
+    "Courses": [
+      {
+        "CourseId": 5,
+        "CourseCode": "AU101",
+        "CourseName": "Automotive Technology Fundamentals",
+        "Year": 1,
+        "Semester": 1,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 6,
+        "CourseCode": "AU102",
+        "CourseName": "Engine Overhaul and Maintenance",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": true
+      },
+      {
+        "CourseId": 7,
+        "CourseCode": "ICT101",
+        "CourseName": "Computer Fundamentals",
+        "Year": 1,
+        "Semester": 2,
+        "IsRequired": false
+      }
+    ]
+  }
+]

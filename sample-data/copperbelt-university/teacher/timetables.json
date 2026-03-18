@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Artificial Intelligence",
+    "grade": "Year 3",
+    "classroom": "Computer Lab 3",
+    "studentCount": 45
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "10:15-12:15",
+    "subject": "Data Science",
+    "grade": "Year 3",
+    "classroom": "Lecture Theatre 1",
+    "studentCount": 50
+  },
+  {
+    "id": 3,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Mine Design",
+    "grade": "Year 2",
+    "classroom": "Engineering Lab 2",
+    "studentCount": 35
+  }
+]

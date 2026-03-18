@@ -1,0 +1,69 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "subject": "Mathematics",
+    "grade": "Grade 7",
+    "topic": "Fractions and Decimals",
+    "date": "2024-01-15",
+    "duration": 60,
+    "objectives": [
+      "Students will understand the relationship between fractions and decimals",
+      "Students will convert fractions to decimals and vice versa"
+    ],
+    "activities": [
+      "Introduction to decimal notation",
+      "Practice converting simple fractions",
+      "Group work on mixed problems"
+    ],
+    "resources": ["Textbook Chapter 8", "Calculator", "Fraction strips"],
+    "assessment": "Quiz on fraction-decimal conversion",
+    "homework": "Complete exercises 8.1-8.5",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "subject": "Science",
+    "grade": "Grade 6",
+    "topic": "Water Cycle",
+    "date": "2024-01-16",
+    "duration": 45,
+    "objectives": [
+      "Students will identify the stages of the water cycle",
+      "Students will explain evaporation and condensation"
+    ],
+    "activities": [
+      "Water cycle diagram drawing",
+      "Evaporation experiment",
+      "Discussion on local weather patterns"
+    ],
+    "resources": ["Science textbook", "Water cycle poster", "Beakers"],
+    "assessment": "Label water cycle diagram",
+    "homework": "Observe and record weather for one week",
+    "status": "Planned"
+  },
+  {
+    "id": 3,
+    "teacherId": 2,
+    "subject": "English",
+    "grade": "Grade 5",
+    "topic": "Creative Writing - Storytelling",
+    "date": "2024-01-17",
+    "duration": 50,
+    "objectives": [
+      "Students will write a short story with beginning, middle, and end",
+      "Students will use descriptive language"
+    ],
+    "activities": [
+      "Story structure discussion",
+      "Brainstorming story ideas",
+      "Individual writing time",
+      "Peer sharing"
+    ],
+    "resources": ["Writing journals", "Story prompts", "Dictionary"],
+    "assessment": "Story writing rubric",
+    "homework": "Complete story draft",
+    "status": "In Progress"
+  }
+]

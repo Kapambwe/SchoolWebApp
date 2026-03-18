@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "employeeName": "Beatrice Mumba",
+    "employeeId": 1,
+    "basicSalary": 12000.00,
+    "allowances": 2500.00,
+    "deductions": 1800.00,
+    "netSalary": 12700.00,
+    "payPeriodStart": "2025-01-01T00:00:00Z",
+    "payPeriodEnd": "2025-01-31T00:00:00Z",
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "employeeName": "Kasongo Chisenga",
+    "employeeId": 2,
+    "basicSalary": 11500.00,
+    "allowances": 2000.00,
+    "deductions": 1650.00,
+    "netSalary": 11850.00,
+    "payPeriodStart": "2025-01-01T00:00:00Z",
+    "payPeriodEnd": "2025-01-31T00:00:00Z",
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "employeeName": "Mulenga Zulu",
+    "employeeId": 3,
+    "basicSalary": 11000.00,
+    "allowances": 2000.00,
+    "deductions": 1560.00,
+    "netSalary": 11440.00,
+    "payPeriodStart": "2025-01-01T00:00:00Z",
+    "payPeriodEnd": "2025-01-31T00:00:00Z",
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "employeeName": "Chipo Tembo",
+    "employeeId": 4,
+    "basicSalary": 10500.00,
+    "allowances": 1800.00,
+    "deductions": 1480.00,
+    "netSalary": 10820.00,
+    "payPeriodStart": "2025-02-01T00:00:00Z",
+    "payPeriodEnd": "2025-02-28T00:00:00Z",
+    "status": "Pending"
+  }
+]

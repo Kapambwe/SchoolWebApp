@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "studentId": 3,
+    "condition": "Malaria",
+    "date": "2025-01-25T00:00:00Z",
+    "treatment": "Artemether-lumefantrine (Coartem) prescribed, 3-day course"
+  },
+  {
+    "id": 2,
+    "studentId": 1,
+    "condition": "Sprained ankle",
+    "date": "2025-02-10T00:00:00Z",
+    "treatment": "Rest and cold compress applied, referred to clinic"
+  },
+  {
+    "id": 3,
+    "studentId": 4,
+    "condition": "Common cold",
+    "date": "2025-02-20T00:00:00Z",
+    "treatment": "Paracetamol given, advised to rest and drink fluids"
+  },
+  {
+    "id": 4,
+    "studentId": 2,
+    "condition": "Stomach ache",
+    "date": "2025-03-01T00:00:00Z",
+    "treatment": "Antacid given, parents notified"
+  }
+]

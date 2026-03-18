@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "examId": 1,
+    "date": "2025-04-01T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "10:00:00",
+    "room": "Room 12",
+    "invigilator": "Beatrice Mumba"
+  },
+  {
+    "id": 2,
+    "examId": 2,
+    "date": "2025-04-02T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "10:30:00",
+    "room": "Room 8",
+    "invigilator": "Kasongo Chisenga"
+  },
+  {
+    "id": 3,
+    "examId": 3,
+    "date": "2025-04-03T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "10:00:00",
+    "room": "Room 5",
+    "invigilator": "Mulenga Zulu"
+  },
+  {
+    "id": 4,
+    "examId": 4,
+    "date": "2025-04-04T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "09:30:00",
+    "room": "Room 11",
+    "invigilator": "Chipo Tembo"
+  }
+]

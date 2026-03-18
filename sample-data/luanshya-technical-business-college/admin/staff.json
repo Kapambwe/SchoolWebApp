@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "LTBC-LEC-001",
+    "firstName": "Beatrice",
+    "lastName": "Chola",
+    "email": "beatrice.chola@ltbc.edu.zm",
+    "phoneNumber": "+260911345001",
+    "employmentDate": "2016-03-01",
+    "qualification": "MSc. Electrical Engineering",
+    "subjectSpecialization": "Electrical Engineering",
+    "subjectsAssigned": ["Power Systems", "Electrical Machines", "Control Systems"],
+    "gradesAssigned": ["Year 1", "Year 2", "Year 3"],
+    "workloadHours": 20,
+    "teachingHours": 16,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.7,
+    "createdDate": "2016-03-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "LTBC-LEC-002",
+    "firstName": "Kenneth",
+    "lastName": "Mwape",
+    "email": "kenneth.mwape@ltbc.edu.zm",
+    "phoneNumber": "+260911345002",
+    "employmentDate": "2014-08-15",
+    "qualification": "PhD Business Administration",
+    "subjectSpecialization": "Business Management",
+    "subjectsAssigned": ["Strategic Management", "Business Finance", "Marketing"],
+    "gradesAssigned": ["Year 1", "Year 2", "Year 3"],
+    "workloadHours": 18,
+    "teachingHours": 15,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.8,
+    "createdDate": "2014-08-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

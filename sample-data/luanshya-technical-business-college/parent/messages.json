@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Mrs. Beatrice Chola",
+    "senderType": "Lecturer",
+    "subject": "Excellent Performance",
+    "message": "Dear Mrs. Mulenga, Isaac scored 87% in Power Systems. His technical skills are impressive.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Isaac Mulenga"
+  }
+]

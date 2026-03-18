@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "examId": 1,
+    "date": "2025-03-24T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "11:00:00",
+    "room": "Physics Lab",
+    "invigilator": "Mubanga Chanda"
+  },
+  {
+    "id": 2,
+    "examId": 2,
+    "date": "2025-04-02T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "10:30:00",
+    "room": "Room 22",
+    "invigilator": "Namakau Sitali"
+  },
+  {
+    "id": 3,
+    "examId": 3,
+    "date": "2025-04-03T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "10:00:00",
+    "room": "Room 15",
+    "invigilator": "Kelvin Nkandu"
+  },
+  {
+    "id": 4,
+    "examId": 4,
+    "date": "2025-04-05T08:00:00Z",
+    "startTime": "08:00:00",
+    "endTime": "11:00:00",
+    "room": "Room 18",
+    "invigilator": "Astridah Musenga"
+  }
+]

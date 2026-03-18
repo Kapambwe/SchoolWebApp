@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "A-Level Physics Video Lectures",
+    "subject": "Physics",
+    "grade": "Grade 12",
+    "type": "Video",
+    "url": "https://resources.gnra.edu.zm/physics/a-level",
+    "description": "Comprehensive video lectures covering mechanics, electricity and waves",
+    "createdDate": "2024-08-15T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "title": "Biology Past Papers Collection",
+    "subject": "Biology",
+    "grade": "Grade 11",
+    "type": "Document",
+    "url": "https://resources.gnra.edu.zm/biology/past-papers",
+    "description": "Compiled past examination papers from 2015 to 2024",
+    "createdDate": "2024-08-20T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "title": "History Interactive Timeline",
+    "subject": "History",
+    "grade": "Grade 10",
+    "type": "Interactive",
+    "url": "https://resources.gnra.edu.zm/history/timeline",
+    "description": "Interactive timeline of African independence movements",
+    "createdDate": "2024-09-10T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "title": "English Literature Study Guide",
+    "subject": "English Literature",
+    "grade": "Grade 12",
+    "type": "Document",
+    "url": "https://resources.gnra.edu.zm/english/lit-guide",
+    "description": "Study guide for prescribed texts including Things Fall Apart",
+    "createdDate": "2024-09-15T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "title": "Chemistry Lab Simulation",
+    "subject": "Chemistry",
+    "grade": "Grade 12",
+    "type": "Interactive",
+    "url": "https://resources.gnra.edu.zm/chemistry/lab-sim",
+    "description": "Virtual chemistry lab for organic reaction experiments",
+    "createdDate": "2024-10-01T00:00:00Z",
+    "isActive": true
+  }
+]

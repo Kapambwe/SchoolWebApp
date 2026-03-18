@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "studentId": 3,
+    "incident": "Mobile phone use during examination",
+    "date": "2025-01-28T00:00:00Z",
+    "action": "Phone confiscated, written warning issued"
+  },
+  {
+    "id": 2,
+    "studentId": 1,
+    "incident": "Skipping afternoon classes",
+    "date": "2025-02-06T00:00:00Z",
+    "action": "Detention assigned, parent notified"
+  },
+  {
+    "id": 3,
+    "studentId": 4,
+    "incident": "Disrespectful language towards prefect",
+    "date": "2025-02-14T00:00:00Z",
+    "action": "Formal warning, counselling session scheduled"
+  }
+]

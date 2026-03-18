@@ -1,0 +1,36 @@
+{
+  "tenantId": "covenant-university-nigeria",
+  "displayName": "Covenant University",
+  "shortName": "CU",
+  "country": "Nigeria",
+  "countryCode": "NG",
+  "city": "Ota",
+  "address": "Km 10 Idiroko Road, Canaan Land, Ota, Ogun State",
+  "phone": "+234 803 303 3490",
+  "email": "info@covenantuniversity.edu.ng",
+  "website": "https://www.covenantuniversity.edu.ng",
+  "institutionType": "University",
+  "currency": "NGN",
+  "timezone": "Africa/Lagos",
+  "academicYearStart": "09-01",
+  "academicYearEnd": "07-31",
+  "logo": "/images/schools/covenant-logo.png",
+  "primaryColor": "#800080",
+  "secondaryColor": "#FFD700",
+  "features": {
+    "hasHostel": true,
+    "hasTransport": true,
+    "hasLibrary": true,
+    "hasLaboratory": true,
+    "hasSportsComplex": true,
+    "hasCanteen": true
+  },
+  "settings": {
+    "allowOnlinePayments": true,
+    "allowParentPortal": false,
+    "allowStudentPortal": true,
+    "requireUniformPolicy": false,
+    "enableSMSNotifications": true,
+    "enableEmailNotifications": true
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Educational Psychology",
+    "grade": "Year 3",
+    "classroom": "Lecture Hall 2",
+    "studentCount": 50
+  }
+]

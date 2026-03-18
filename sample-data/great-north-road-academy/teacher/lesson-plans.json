@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "teacherId": 2,
+    "subject": "Mathematics",
+    "grade": "Grade 11",
+    "topic": "Quadratic Equations",
+    "date": "2024-02-15",
+    "duration": 80,
+    "objectives": [
+      "Understand the standard form of quadratic equations",
+      "Solve quadratic equations using factoring",
+      "Apply quadratic equations to real-world problems"
+    ],
+    "activities": [
+      {
+        "time": "0-10 min",
+        "activity": "Review previous lesson on linear equations",
+        "type": "Review"
+      },
+      {
+        "time": "10-30 min",
+        "activity": "Introduction to quadratic equations with examples",
+        "type": "Instruction"
+      },
+      {
+        "time": "30-60 min",
+        "activity": "Guided practice solving quadratic equations",
+        "type": "Practice"
+      },
+      {
+        "time": "60-75 min",
+        "activity": "Independent practice problems",
+        "type": "Assessment"
+      },
+      {
+        "time": "75-80 min",
+        "activity": "Summary and homework assignment",
+        "type": "Closure"
+      }
+    ],
+    "resources": [
+      "Textbook: Advanced Mathematics Grade 11",
+      "Graphing calculators",
+      "Whiteboard and markers",
+      "Practice worksheets"
+    ],
+    "assessment": "Exit ticket with 3 quadratic equation problems",
+    "homework": "Complete exercises 5.1-5.3 from textbook",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "teacherId": 3,
+    "subject": "Chemistry",
+    "grade": "Grade 12",
+    "topic": "Organic Chemistry - Alkanes",
+    "date": "2024-02-16",
+    "duration": 80,
+    "objectives": [
+      "Identify the structure of alkanes",
+      "Name alkanes using IUPAC nomenclature",
+      "Understand properties of alkanes"
+    ],
+    "activities": [
+      {
+        "time": "0-15 min",
+        "activity": "Review hydrocarbon classification",
+        "type": "Review"
+      },
+      {
+        "time": "15-35 min",
+        "activity": "Demonstrate alkane structures using molecular models",
+        "type": "Demonstration"
+      },
+      {
+        "time": "35-55 min",
+        "activity": "Practice naming alkanes in groups",
+        "type": "Group Work"
+      },
+      {
+        "time": "55-75 min",
+        "activity": "Laboratory activity: Testing alkane properties",
+        "type": "Laboratory"
+      },
+      {
+        "time": "75-80 min",
+        "activity": "Clean up and reflection",
+        "type": "Closure"
+      }
+    ],
+    "resources": [
+      "Molecular model kits",
+      "Chemistry textbook",
+      "Laboratory equipment",
+      "Safety equipment"
+    ],
+    "assessment": "Lab report on alkane properties",
+    "homework": "Read chapter 12 and complete naming exercises",
+    "status": "Completed"
+  },
+  {
+    "id": 3,
+    "teacherId": 4,
+    "subject": "English Literature",
+    "grade": "Grade 10",
+    "topic": "Poetry Analysis - 'The Road Not Taken'",
+    "date": "2024-02-17",
+    "duration": 80,
+    "objectives": [
+      "Analyze poetic devices in Robert Frost's poem",
+      "Interpret the theme and meaning",
+      "Express personal responses to literature"
+    ],
+    "activities": [
+      {
+        "time": "0-10 min",
+        "activity": "Warm-up: Share a difficult choice you've made",
+        "type": "Discussion"
+      },
+      {
+        "time": "10-25 min",
+        "activity": "First reading of the poem aloud",
+        "type": "Reading"
+      },
+      {
+        "time": "25-45 min",
+        "activity": "Identify and discuss poetic devices",
+        "type": "Analysis"
+      },
+      {
+        "time": "45-65 min",
+        "activity": "Small group discussion on theme interpretation",
+        "type": "Group Work"
+      },
+      {
+        "time": "65-80 min",
+        "activity": "Share group insights and personal reflections",
+        "type": "Presentation"
+      }
+    ],
+    "resources": [
+      "Poetry anthology",
+      "Audio recording of the poem",
+      "Analysis worksheets",
+      "Flipchart paper"
+    ],
+    "assessment": "Written reflection on personal interpretation",
+    "homework": "Choose another Robert Frost poem to analyze",
+    "status": "Planned"
+  }
+]

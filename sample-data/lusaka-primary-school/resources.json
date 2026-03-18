@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "Grade 7 Mathematics Video Tutorials",
+    "subject": "Mathematics",
+    "grade": "Grade 7",
+    "type": "Video",
+    "url": "https://resources.lps.edu.zm/maths/g7",
+    "description": "Video lessons covering algebra, geometry and number systems for Grade 7",
+    "createdDate": "2024-09-01T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "title": "English Grammar Workbook PDF",
+    "subject": "English Language",
+    "grade": "Grade 6",
+    "type": "Document",
+    "url": "https://resources.lps.edu.zm/english/g6/grammar",
+    "description": "Comprehensive grammar exercises for Grade 6 students",
+    "createdDate": "2024-09-05T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 3,
+    "title": "Science Interactive Lab Simulations",
+    "subject": "Integrated Science",
+    "grade": "Grade 7",
+    "type": "Interactive",
+    "url": "https://resources.lps.edu.zm/science/g7/labs",
+    "description": "Virtual science experiments for home learning",
+    "createdDate": "2024-10-01T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "title": "Zambia History Study Notes",
+    "subject": "Social Studies",
+    "grade": "Grade 8",
+    "type": "Document",
+    "url": "https://resources.lps.edu.zm/social/g8/history",
+    "description": "Notes on Zambia's independence movement and national heroes",
+    "createdDate": "2024-10-15T00:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "title": "Times Tables Practice App",
+    "subject": "Mathematics",
+    "grade": "Grade 5",
+    "type": "Interactive",
+    "url": "https://resources.lps.edu.zm/maths/g5/tables",
+    "description": "Interactive times tables drill for Grade 5 students",
+    "createdDate": "2024-11-01T00:00:00Z",
+    "isActive": true
+  }
+]

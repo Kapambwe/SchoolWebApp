@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to Mukuba University Portal",
+    "message": "Welcome to Mukuba University. Excellence in education and innovation.",
+    "createdAt": "2024-12-16T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Semester Results Available",
+    "message": "Your semester examination results are now available online.",
+    "createdAt": "2024-12-15T10:00:00Z",
+    "isRead": true
+  }
+]

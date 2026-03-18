@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "studentName": "Chanda Mwanza",
+    "grade": "Grade 11",
+    "academicYear": "2024",
+    "term": "Term 1",
+    "schedule": [
+      {
+        "day": "Monday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "subject": "Mathematics",
+            "teacher": "Mr. James Tembo",
+            "room": "Math Lab 1"
+          },
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "subject": "Chemistry",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Chemistry Lab"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "subject": "English Language",
+            "teacher": "Mr. David Lungu",
+            "room": "Classroom B2"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "subject": "Physics",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Physics Lab"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "subject": "Geography",
+            "teacher": "Mr. Charles Mwale",
+            "room": "Classroom C1"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "subject": "Study Period",
+            "teacher": "Self-Study",
+            "room": "Library"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "subject": "Physical Education",
+            "teacher": "Mr. Peter Zulu",
+            "room": "Sports Complex"
+          }
+        ]
+      },
+      {
+        "day": "Tuesday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "subject": "Physics",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Physics Lab"
+          },
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "subject": "Mathematics",
+            "teacher": "Mr. James Tembo",
+            "room": "Math Lab 1"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "subject": "Chemistry",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Chemistry Lab"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "subject": "English Language",
+            "teacher": "Mr. David Lungu",
+            "room": "Classroom B2"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "subject": "Geography",
+            "teacher": "Mr. Charles Mwale",
+            "room": "Classroom C1"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "subject": "Computer Studies",
+            "teacher": "Ms. Ruth Banda",
+            "room": "Computer Lab"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "subject": "Assembly",
+            "teacher": "All Staff",
+            "room": "Main Hall"
+          }
+        ]
+      },
+      {
+        "day": "Wednesday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "subject": "Mathematics",
+            "teacher": "Mr. James Tembo",
+            "room": "Math Lab 1"
+          },
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "subject": "English Language",
+            "teacher": "Mr. David Lungu",
+            "room": "Classroom B2"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "subject": "Chemistry Lab",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Chemistry Lab"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "subject": "Geography",
+            "teacher": "Mr. Charles Mwale",
+            "room": "Classroom C1"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "subject": "Physics",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Physics Lab"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "subject": "Study Period",
+            "teacher": "Self-Study",
+            "room": "Library"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "subject": "Clubs & Societies",
+            "teacher": "Various",
+            "room": "Various"
+          }
+        ]
+      },
+      {
+        "day": "Thursday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "subject": "Chemistry",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Chemistry Lab"
+          },
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "subject": "Mathematics",
+            "teacher": "Mr. James Tembo",
+            "room": "Math Lab 1"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "subject": "Physics",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Physics Lab"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "subject": "English Language",
+            "teacher": "Mr. David Lungu",
+            "room": "Classroom B2"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "subject": "Geography",
+            "teacher": "Mr. Charles Mwale",
+            "room": "Classroom C1"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "subject": "Computer Studies",
+            "teacher": "Ms. Ruth Banda",
+            "room": "Computer Lab"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "subject": "Career Guidance",
+            "teacher": "Mrs. Patricia Mulenga",
+            "room": "Guidance Office"
+          }
+        ]
+      },
+      {
+        "day": "Friday",
+        "periods": [
+          {
+            "period": 1,
+            "time": "08:00-08:40",
+            "subject": "English Language",
+            "teacher": "Mr. David Lungu",
+            "room": "Classroom B2"
+          },
+          {
+            "period": 2,
+            "time": "08:40-09:20",
+            "subject": "Physics Lab",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Physics Lab"
+          },
+          {
+            "period": 3,
+            "time": "09:20-10:00",
+            "subject": "Mathematics",
+            "teacher": "Mr. James Tembo",
+            "room": "Math Lab 1"
+          },
+          {
+            "period": 4,
+            "time": "10:20-11:00",
+            "subject": "Geography",
+            "teacher": "Mr. Charles Mwale",
+            "room": "Classroom C1"
+          },
+          {
+            "period": 5,
+            "time": "11:00-11:40",
+            "subject": "Chemistry",
+            "teacher": "Mrs. Susan Chipeta",
+            "room": "Chemistry Lab"
+          },
+          {
+            "period": 6,
+            "time": "12:00-12:40",
+            "subject": "Study Period",
+            "teacher": "Self-Study",
+            "room": "Library"
+          },
+          {
+            "period": 7,
+            "time": "12:40-13:20",
+            "subject": "Sports",
+            "teacher": "Mr. Peter Zulu",
+            "room": "Sports Complex"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "gnra-txn-001",
+    "tenantId": "great-north-road-academy",
+    "userId": "gnra-alumni-001",
+    "programId": "gnra-rwd-001",
+    "type": "Earned",
+    "amount": 1000.00,
+    "description": "Reward for successful student enrollment referral",
+    "referenceId": "gnra-conv-001",
+    "transactionDate": "2025-01-18T10:30:00Z",
+    "status": "Completed"
+  },
+  {
+    "id": "gnra-txn-002",
+    "tenantId": "great-north-road-academy",
+    "userId": "gnra-alumni-001",
+    "programId": "gnra-rwd-001",
+    "type": "Redeemed",
+    "amount": 1000.00,
+    "description": "Cash redemption via bank transfer",
+    "referenceId": "gnra-rdm-001",
+    "transactionDate": "2025-01-25T11:00:00Z",
+    "status": "Completed"
+  },
+  {
+    "id": "gnra-txn-003",
+    "tenantId": "great-north-road-academy",
+    "userId": "gnra-parent-001",
+    "programId": "gnra-rwd-002",
+    "type": "Earned",
+    "amount": 1000.00,
+    "description": "Reward for referring a new student family",
+    "referenceId": "gnra-conv-001",
+    "transactionDate": "2025-01-22T14:00:00Z",
+    "status": "Completed"
+  }
+]

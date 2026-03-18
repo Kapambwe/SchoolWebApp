@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Verbal Warning",
+    "description": "Informal warning by class teacher or form tutor"
+  },
+  {
+    "id": 2,
+    "name": "Written Warning",
+    "description": "Formal letter placed on student's academic record"
+  },
+  {
+    "id": 3,
+    "name": "Detention",
+    "description": "Supervised detention after school hours"
+  },
+  {
+    "id": 4,
+    "name": "Parent/Guardian Conference",
+    "description": "Formal meeting with parent or guardian and Head of School"
+  },
+  {
+    "id": 5,
+    "name": "Internal Suspension",
+    "description": "Student isolated within school premises for 1-3 days"
+  },
+  {
+    "id": 6,
+    "name": "Suspension",
+    "description": "Temporary exclusion from school premises"
+  }
+]

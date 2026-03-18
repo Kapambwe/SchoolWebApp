@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "admissionNumber": "ZM2024001",
+    "firstName": "Lusalo",
+    "lastName": "Phiri",
+    "dateOfBirth": "2010-05-15",
+    "gender": "Male",
+    "grade": "Grade 7",
+    "stream": "North",
+    "admissionDate": "2024-01-10",
+    "status": "Admitted",
+    "parentGuardianName": "Martha Phiri",
+    "parentGuardianPhone": "+260971000001",
+    "sponsorshipType": "Government",
+    "nationality": "Zambia",
+    "createdDate": "2024-01-10T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "admissionNumber": "ZM2024002",
+    "firstName": "Mwamba",
+    "lastName": "Kunda",
+    "dateOfBirth": "2011-08-22",
+    "gender": "Female",
+    "grade": "Grade 6",
+    "stream": "East",
+    "admissionDate": "2024-01-12",
+    "status": "Admitted",
+    "parentGuardianName": "Joseph Kunda",
+    "parentGuardianPhone": "+260971000003",
+    "sponsorshipType": "Self",
+    "nationality": "Zambia",
+    "createdDate": "2024-01-12T00:00:00Z",
+    "createdBy": "System"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Hall",
+    "facilityType": "Assembly Hall",
+    "capacity": 500,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-15",
+    "nextMaintenance": "2024-06-15",
+    "features": ["Sound System", "Projector", "Stage"],
+    "usageSchedule": "Morning Assembly, Exams, Events"
+  },
+  {
+    "id": 2,
+    "facilityName": "Science Laboratory",
+    "facilityType": "Laboratory",
+    "capacity": 40,
+    "location": "Academic Block A",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Lab Benches", "Chemical Storage", "Safety Equipment", "Microscopes"],
+    "usageSchedule": "Science Classes, Practical Sessions"
+  },
+  {
+    "id": 3,
+    "facilityName": "Computer Lab",
+    "facilityType": "Computer Laboratory",
+    "capacity": 30,
+    "location": "Academic Block B",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-11-20",
+    "nextMaintenance": "2024-05-20",
+    "features": ["30 Computers", "Internet Connection", "Projector", "Air Conditioning"],
+    "usageSchedule": "ICT Classes, Digital Learning"
+  },
+  {
+    "id": 4,
+    "facilityName": "Library",
+    "facilityType": "Library",
+    "capacity": 80,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-10-05",
+    "nextMaintenance": "2024-04-05",
+    "features": ["5000 Books", "Reading Tables", "Study Carrels", "Reference Section"],
+    "usageSchedule": "Reading Sessions, Research, Study Time"
+  },
+  {
+    "id": 5,
+    "facilityName": "Sports Field",
+    "facilityType": "Sports Facility",
+    "capacity": 200,
+    "location": "Outdoor Area",
+    "status": "Active",
+    "condition": "Fair",
+    "lastMaintenance": "2023-08-30",
+    "nextMaintenance": "2024-03-30",
+    "features": ["Football Pitch", "Basketball Court", "Running Track"],
+    "usageSchedule": "Physical Education, Sports Events, Recreation"
+  }
+]

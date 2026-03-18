@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Structural Analysis Project",
+    "subject": "Structural Analysis",
+    "description": "Design and analyze a three-story building structure",
+    "dueDate": "2024-12-28T23:59:59Z",
+    "maxScore": 100,
+    "status": "InProgress",
+    "studentId": 1,
+    "teacherId": 1,
+    "grade": "Year 2",
+    "assignedDate": "2024-12-10T00:00:00Z",
+    "weightPercentage": 30,
+    "createdDate": "2024-12-10T00:00:00Z",
+    "createdBy": "Prof. Catherine Banda"
+  },
+  {
+    "id": 2,
+    "title": "Database Design Project",
+    "subject": "Database Systems",
+    "description": "Design and implement a complete database system for a business application",
+    "dueDate": "2024-12-25T23:59:59Z",
+    "maxScore": 100,
+    "status": "NotStarted",
+    "studentId": 2,
+    "teacherId": 2,
+    "grade": "Year 1",
+    "assignedDate": "2024-12-12T00:00:00Z",
+    "weightPercentage": 25,
+    "createdDate": "2024-12-12T00:00:00Z",
+    "createdBy": "Dr. Andrew Mwale"
+  }
+]

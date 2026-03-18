@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "registrationNumber": "GNR 1001",
+    "type": "Bus",
+    "capacity": 52,
+    "status": "Active",
+    "driver": "Solomon Mwape"
+  },
+  {
+    "id": 2,
+    "registrationNumber": "GNR 1002",
+    "type": "Bus",
+    "capacity": 52,
+    "status": "Active",
+    "driver": "Abraham Chisanga"
+  },
+  {
+    "id": 3,
+    "registrationNumber": "GNR 2001",
+    "type": "Minibus",
+    "capacity": 18,
+    "status": "Active",
+    "driver": "Gilbert Phiri"
+  },
+  {
+    "id": 4,
+    "registrationNumber": "GNR 2002",
+    "type": "Minibus",
+    "capacity": 18,
+    "status": "Active",
+    "driver": "Moses Nkonde"
+  }
+]

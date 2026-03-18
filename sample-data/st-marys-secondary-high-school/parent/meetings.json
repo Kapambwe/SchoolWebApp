@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "teacherId": 1,
+    "teacherName": "Francis Zulu",
+    "studentId": 1,
+    "studentName": "Natasha Sakala",
+    "date": "2024-02-18",
+    "time": "14:30",
+    "duration": 30,
+    "type": "Spiritual and Academic Guidance",
+    "status": "Scheduled",
+    "location": "Guidance Office",
+    "agenda": "Discuss Natasha's spiritual growth and academic preparation for final exams",
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "parentId": 2,
+    "teacherId": 3,
+    "teacherName": "Sister Mary Mwape",
+    "studentId": 2,
+    "studentName": "Mercy Phiri",
+    "date": "2024-01-30",
+    "time": "15:00",
+    "duration": 25,
+    "type": "Scholarship Review",
+    "status": "Completed",
+    "location": "Administration Office",
+    "agenda": "Review scholarship continuation and academic performance",
+    "notes": "Mercy maintains excellent grades. Scholarship renewed for next term."
+  }
+]

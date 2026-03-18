@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mwanawasa Educational Trust",
+    "organization": "Mwanawasa Foundation",
+    "contactEmail": "info@mwanawasafoundation.org.zm"
+  },
+  {
+    "id": 2,
+    "name": "Konkola Copper Mines CSR",
+    "organization": "Konkola Copper Mines Plc",
+    "contactEmail": "csr@kcm.co.zm"
+  },
+  {
+    "id": 3,
+    "name": "Zambia National Commercial Bank",
+    "organization": "ZANACO",
+    "contactEmail": "csr@zanaco.co.zm"
+  },
+  {
+    "id": 4,
+    "name": "Standard Chartered Lusaka",
+    "organization": "Standard Chartered Bank Zambia",
+    "contactEmail": "csr@sc.zm"
+  }
+]

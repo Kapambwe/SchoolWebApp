@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Constitutional Law",
+    "grade": "Year 3",
+    "classroom": "Moot Court",
+    "studentCount": 40
+  },
+  {
+    "id": 2,
+    "teacherId": 1,
+    "dayOfWeek": "Monday",
+    "timeSlot": "10:15-12:15",
+    "subject": "Human Rights Law",
+    "grade": "Year 3",
+    "classroom": "Lecture Hall 1",
+    "studentCount": 45
+  },
+  {
+    "id": 3,
+    "teacherId": 2,
+    "dayOfWeek": "Monday",
+    "timeSlot": "08:00-10:00",
+    "subject": "Strategic Management",
+    "grade": "Year 2",
+    "classroom": "Business Lab",
+    "studentCount": 50
+  }
+]

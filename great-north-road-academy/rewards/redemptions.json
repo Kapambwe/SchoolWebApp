@@ -1,0 +1,28 @@
+[
+  {
+    "id": "gnra-rdm-001",
+    "tenantId": "great-north-road-academy",
+    "userId": "gnra-alumni-001",
+    "programId": "gnra-rwd-001",
+    "amount": 1000.00,
+    "redemptionType": "Cash",
+    "status": "Completed",
+    "requestDate": "2025-01-24T09:00:00Z",
+    "processedDate": "2025-01-25T11:00:00Z",
+    "processedBy": "accounts@gnracademy.edu.zm",
+    "notes": "Bank transfer processed to alumni account"
+  },
+  {
+    "id": "gnra-rdm-002",
+    "tenantId": "great-north-road-academy",
+    "userId": "gnra-parent-001",
+    "programId": "gnra-rwd-002",
+    "amount": 500.00,
+    "redemptionType": "Discount",
+    "status": "Completed",
+    "requestDate": "2025-01-30T10:00:00Z",
+    "processedDate": "2025-02-01T09:00:00Z",
+    "processedBy": "accounts@gnracademy.edu.zm",
+    "notes": "Applied as discount on Term 1 fees"
+  }
+]

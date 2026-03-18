@@ -1,0 +1,45 @@
+{
+  "tenantId": "luanshya-technical-business-college",
+  "schoolName": "Luanshya Technical and Business College",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "currencySymbol": "ZK",
+  "language": "en",
+  "timeZone": "Africa/Lusaka",
+  "schoolType": "College",
+  "establishedYear": 2001,
+  "studentCapacity": 1500,
+  "currentEnrollment": 1280,
+  "address": {
+    "street": "Buteko Avenue",
+    "city": "Luanshya",
+    "province": "Copperbelt Province",
+    "postalCode": "20103",
+    "country": "Zambia"
+  },
+  "contact": {
+    "phone": "+260212901234",
+    "email": "info@ltbc.edu.zm",
+    "website": "www.ltbc.edu.zm"
+  },
+  "motto": "Technical Skills, Business Acumen",
+  "vision": "To be a center of excellence in technical and business education.",
+  "mission": "To provide quality technical and business education that produces competent professionals.",
+  "programs": [
+    "Diploma in Electrical Engineering",
+    "Certificate in Plumbing",
+    "Diploma in Business Management",
+    "Certificate in Accounting",
+    "Diploma in Information Technology",
+    "Certificate in Welding and Fabrication"
+  ],
+  "facilities": [
+    "Technical Workshops",
+    "Computer Labs",
+    "Library",
+    "Business Simulation Lab",
+    "Cafeteria",
+    "Sports Fields"
+  ],
+  "accreditation": ["TEVETA", "ZAQA"]
+}

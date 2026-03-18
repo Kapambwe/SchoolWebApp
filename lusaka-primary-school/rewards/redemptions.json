@@ -1,0 +1,28 @@
+[
+  {
+    "id": "rdm-001",
+    "tenantId": "lusaka-primary-school",
+    "userId": "alumni-001",
+    "programId": "rwd-prog-001",
+    "amount": 500.00,
+    "redemptionType": "Cash",
+    "status": "Completed",
+    "requestDate": "2025-01-19T09:00:00Z",
+    "processedDate": "2025-01-20T11:00:00Z",
+    "processedBy": "accounts@school.com",
+    "notes": "Bank transfer to alumni registered account"
+  },
+  {
+    "id": "rdm-002",
+    "tenantId": "lusaka-primary-school",
+    "userId": "parent-001",
+    "programId": "rwd-prog-002",
+    "amount": 200.00,
+    "redemptionType": "Discount",
+    "status": "Completed",
+    "requestDate": "2025-01-24T10:00:00Z",
+    "processedDate": "2025-01-25T09:00:00Z",
+    "processedBy": "accounts@school.com",
+    "notes": "Applied as discount on Term 2 fees"
+  }
+]

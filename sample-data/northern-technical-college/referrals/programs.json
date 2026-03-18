@@ -1,0 +1,22 @@
+[
+  {
+    "Id": "ntc-prog-001",
+    "TenantId": "northern-technical-college",
+    "Name": "Alumni Referral Program",
+    "Description": "Earn rewards for referring new students to NTC",
+    "Type": "Alumni",
+    "IsActive": true,
+    "StartDate": "2024-01-01T00:00:00Z",
+    "EndDate": null,
+    "RewardType": "Cash",
+    "RewardAmount": 200.00,
+    "RewardCurrency": "ZMW",
+    "MaxRewardsPerUser": 10,
+    "MinimumOrderValue": 0,
+    "TotalReferrals": 40,
+    "TotalConversions": 15,
+    "TotalRewardsPaid": 3000.00,
+    "CreatedDate": "2024-01-01T00:00:00Z",
+    "LastModifiedDate": "2024-02-01T00:00:00Z"
+  }
+]

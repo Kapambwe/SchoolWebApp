@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "parentId": 1,
+    "senderId": 1,
+    "senderName": "Dr. Mwape Sichilima",
+    "senderType": "Lecturer",
+    "subject": "Excellent Teaching Practice",
+    "message": "Dear Mrs. Chishimba, Bwalya received outstanding feedback from his teaching practice supervisor. He demonstrates excellent pedagogical skills.",
+    "date": "2024-01-30",
+    "isRead": true,
+    "priority": "Normal",
+    "studentId": 1,
+    "studentName": "Bwalya Chishimba"
+  }
+]

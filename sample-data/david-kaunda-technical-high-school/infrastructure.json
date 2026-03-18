@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Electrical Workshop",
+    "facilityType": "Workshop",
+    "capacity": 25,
+    "location": "Technical Block A",
+    "status": "Active",
+    "condition": "Excellent",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Wiring boards", "Testing equipment", "Tools", "Safety equipment", "Circuit training kits"],
+    "usageSchedule": "Electrical installation training and practicals"
+  },
+  {
+    "id": 2,
+    "facilityName": "Carpentry Workshop",
+    "facilityType": "Workshop",
+    "capacity": 30,
+    "location": "Technical Block B",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-12-15",
+    "nextMaintenance": "2024-06-15",
+    "features": ["Workbenches", "Power tools", "Hand tools", "Wood storage", "Finishing area"],
+    "usageSchedule": "Carpentry and joinery training"
+  },
+  {
+    "id": 3,
+    "facilityName": "Welding Workshop",
+    "facilityType": "Workshop",
+    "capacity": 20,
+    "location": "Technical Block C",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-05",
+    "nextMaintenance": "2024-07-05",
+    "features": ["Welding booths", "Welding machines", "Safety equipment", "Ventilation system"],
+    "usageSchedule": "Welding and fabrication training"
+  },
+  {
+    "id": 4,
+    "facilityName": "Plumbing Workshop",
+    "facilityType": "Workshop",
+    "capacity": 20,
+    "location": "Technical Block D",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-11-20",
+    "nextMaintenance": "2024-05-20",
+    "features": ["Plumbing fixtures", "Pipe bending equipment", "Testing equipment", "Tools"],
+    "usageSchedule": "Plumbing training and practicals"
+  },
+  {
+    "id": 5,
+    "facilityName": "Theory Classrooms",
+    "facilityType": "Classroom Block",
+    "capacity": 120,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-10-10",
+    "nextMaintenance": "2024-04-10",
+    "features": ["4 classrooms", "Projectors", "Whiteboards", "Ventilation"],
+    "usageSchedule": "Theory classes, Entrepreneurship, Business skills"
+  },
+  {
+    "id": 6,
+    "facilityName": "Tool Store and Equipment Room",
+    "facilityType": "Storage",
+    "capacity": 50,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-15",
+    "nextMaintenance": "2024-07-15",
+    "features": ["Secure storage", "Tool inventory system", "Equipment maintenance area"],
+    "usageSchedule": "Tool distribution and equipment storage"
+  }
+]

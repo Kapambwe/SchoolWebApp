@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Matero Route",
+    "startLocation": "Matero Township",
+    "endLocation": "Lusaka Primary School",
+    "departureTime": "06:30:00"
+  },
+  {
+    "id": 2,
+    "name": "Chilenje Route",
+    "startLocation": "Chilenje Market",
+    "endLocation": "Lusaka Primary School",
+    "departureTime": "06:45:00"
+  },
+  {
+    "id": 3,
+    "name": "Kabwata Route",
+    "startLocation": "Kabwata Cultural Village",
+    "endLocation": "Lusaka Primary School",
+    "departureTime": "06:50:00"
+  },
+  {
+    "id": 4,
+    "name": "Emmasdale Route",
+    "startLocation": "Emmasdale Shopping Mall",
+    "endLocation": "Lusaka Primary School",
+    "departureTime": "07:00:00"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "registrationNumber": "ALZ 1234",
+    "type": "Bus",
+    "capacity": 45,
+    "status": "Active",
+    "driver": "Emmanuel Mulenga"
+  },
+  {
+    "id": 2,
+    "registrationNumber": "BLZ 5678",
+    "type": "Bus",
+    "capacity": 45,
+    "status": "Active",
+    "driver": "Richard Tembo"
+  },
+  {
+    "id": 3,
+    "registrationNumber": "CLZ 9012",
+    "type": "Minibus",
+    "capacity": 22,
+    "status": "Active",
+    "driver": "Patrick Mutale"
+  },
+  {
+    "id": 4,
+    "registrationNumber": "DLZ 3456",
+    "type": "Minibus",
+    "capacity": 22,
+    "status": "Maintenance",
+    "driver": "Joseph Banda"
+  }
+]

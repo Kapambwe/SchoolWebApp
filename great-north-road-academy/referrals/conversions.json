@@ -1,0 +1,20 @@
+[
+  {
+    "id": "gnra-conv-001",
+    "tenantId": "great-north-road-academy",
+    "linkId": "gnra-link-001",
+    "sessionId": "gnra-sess-a1b2",
+    "conversionValue": 12000.00,
+    "conversionType": "Enrollment",
+    "conversionDate": "2025-01-18T10:00:00Z"
+  },
+  {
+    "id": "gnra-conv-002",
+    "tenantId": "great-north-road-academy",
+    "linkId": "gnra-link-002",
+    "sessionId": "gnra-sess-c3d4",
+    "conversionValue": 12000.00,
+    "conversionType": "Enrollment",
+    "conversionDate": "2025-01-22T11:00:00Z"
+  }
+]

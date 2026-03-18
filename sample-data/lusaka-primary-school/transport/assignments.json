@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "routeId": 1,
+    "vehicleId": 1,
+    "pickupLocation": "Plot 14, Matero",
+    "dropoffLocation": "Lusaka Primary School",
+    "pickupTime": "06:35:00"
+  },
+  {
+    "id": 2,
+    "studentId": 2,
+    "routeId": 2,
+    "vehicleId": 2,
+    "pickupLocation": "Plot 7, Chilenje",
+    "dropoffLocation": "Lusaka Primary School",
+    "pickupTime": "06:48:00"
+  },
+  {
+    "id": 3,
+    "studentId": 3,
+    "routeId": 3,
+    "vehicleId": 3,
+    "pickupLocation": "Plot 22, Kabwata",
+    "dropoffLocation": "Lusaka Primary School",
+    "pickupTime": "06:55:00"
+  },
+  {
+    "id": 4,
+    "studentId": 4,
+    "routeId": 4,
+    "vehicleId": 1,
+    "pickupLocation": "Plot 5, Emmasdale",
+    "dropoffLocation": "Lusaka Primary School",
+    "pickupTime": "07:05:00"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "examName": "Grade 12 Mock Examination - Chemistry",
+    "subject": "Chemistry",
+    "grade": "Grade 12",
+    "date": "2024-03-21",
+    "startTime": "08:00",
+    "duration": 180,
+    "totalMarks": 150,
+    "passingMarks": 75,
+    "examType": "Mock Exam",
+    "venue": "Main Hall",
+    "invigilator": "Ruth Mwila",
+    "status": "Scheduled",
+    "instructions": "Bring calculator and periodic table"
+  },
+  {
+    "id": 2,
+    "examName": "Term 1 Test - English Literature",
+    "subject": "English Literature",
+    "grade": "Grade 11",
+    "date": "2024-03-14",
+    "startTime": "09:00",
+    "duration": 120,
+    "totalMarks": 100,
+    "passingMarks": 50,
+    "examType": "Term Test",
+    "venue": "Room 201",
+    "invigilator": "Esther Zulu",
+    "status": "Scheduled",
+    "instructions": "Answer all questions on the set texts"
+  },
+  {
+    "id": 3,
+    "examName": "Mid-Term Assessment - Life Skills",
+    "subject": "Life Skills",
+    "grade": "Grade 10",
+    "date": "2024-02-25",
+    "startTime": "10:00",
+    "duration": 60,
+    "totalMarks": 50,
+    "passingMarks": 25,
+    "examType": "Assessment",
+    "venue": "Room 105",
+    "invigilator": "Margaret Chilufya",
+    "status": "Completed",
+    "instructions": "Open book assessment"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "type": "Info",
+    "title": "Welcome to LSC Portal",
+    "message": "Welcome to Lusaka South College. Excellence in business education.",
+    "createdAt": "2024-12-16T08:00:00Z",
+    "isRead": false
+  },
+  {
+    "id": 2,
+    "type": "Success",
+    "title": "Exam Results Available",
+    "message": "Your semester examination results are now available online.",
+    "createdAt": "2024-12-15T10:00:00Z",
+    "isRead": true
+  }
+]

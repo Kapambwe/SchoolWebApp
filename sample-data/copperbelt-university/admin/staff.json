@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "staffNumber": "CBU-PROF-001",
+    "firstName": "Charity",
+    "lastName": "Siame",
+    "email": "charity.siame@cbu.ac.zm",
+    "phoneNumber": "+260977345001",
+    "employmentDate": "2010-03-01",
+    "qualification": "PhD Computer Science",
+    "subjectSpecialization": "Computer Science",
+    "subjectsAssigned": ["Artificial Intelligence", "Machine Learning", "Data Science"],
+    "gradesAssigned": ["Year 2", "Year 3", "Year 4", "Masters"],
+    "workloadHours": 16,
+    "teachingHours": 12,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.9,
+    "createdDate": "2010-03-01T00:00:00Z",
+    "createdBy": "System"
+  },
+  {
+    "id": 2,
+    "staffNumber": "CBU-PROF-002",
+    "firstName": "Naison",
+    "lastName": "Ngoma",
+    "email": "naison.ngoma@cbu.ac.zm",
+    "phoneNumber": "+260977345002",
+    "employmentDate": "2008-08-15",
+    "qualification": "PhD Mining Engineering",
+    "subjectSpecialization": "Mining Engineering",
+    "subjectsAssigned": ["Mine Design", "Mineral Processing", "Mining Safety"],
+    "gradesAssigned": ["Year 2", "Year 3", "Year 4"],
+    "workloadHours": 18,
+    "teachingHours": 14,
+    "employmentType": "Permanent",
+    "status": "Active",
+    "performanceRating": 4.8,
+    "createdDate": "2008-08-15T00:00:00Z",
+    "createdBy": "System"
+  }
+]

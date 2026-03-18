@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "facilityName": "Main Examination Hall",
+    "facilityType": "Examination Hall",
+    "capacity": 350,
+    "location": "Central Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-10",
+    "nextMaintenance": "2024-07-10",
+    "features": ["Individual desks", "Ventilation", "CCTV"],
+    "usageSchedule": "Examinations, Graduations"
+  },
+  {
+    "id": 2,
+    "facilityName": "Engineering Laboratory",
+    "facilityType": "Laboratory",
+    "capacity": 40,
+    "location": "Engineering Block",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2024-01-05",
+    "nextMaintenance": "2024-07-05",
+    "features": ["Testing equipment", "Workbenches", "Safety equipment"],
+    "usageSchedule": "Engineering practicals"
+  },
+  {
+    "id": 3,
+    "facilityName": "Library",
+    "facilityType": "Library",
+    "capacity": 120,
+    "location": "Main Building",
+    "status": "Active",
+    "condition": "Good",
+    "lastMaintenance": "2023-11-10",
+    "nextMaintenance": "2024-05-10",
+    "features": ["12,000 books", "Study areas", "E-library"],
+    "usageSchedule": "Reading, Research"
+  }
+]

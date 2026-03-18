@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Inter-School Debate Competition",
+    "date": "2025-04-12T09:00:00Z",
+    "location": "GNRA Assembly Hall",
+    "description": "Annual debate competition with schools from Lusaka Province"
+  },
+  {
+    "id": 2,
+    "name": "Grade 12 Valedictory Service",
+    "date": "2025-11-28T10:00:00Z",
+    "location": "GNRA Main Hall",
+    "description": "Farewell ceremony for graduating Grade 12 class"
+  },
+  {
+    "id": 3,
+    "name": "University Careers Fair",
+    "date": "2025-05-22T08:30:00Z",
+    "location": "GNRA Sports Hall",
+    "description": "University and careers fair for Grade 11 and 12 students"
+  },
+  {
+    "id": 4,
+    "name": "Science Olympiad",
+    "date": "2025-06-27T08:00:00Z",
+    "location": "GNRA Science Block",
+    "description": "Annual science competition for secondary schools"
+  },
+  {
+    "id": 5,
+    "name": "Annual Prize Giving Day",
+    "date": "2025-12-05T10:00:00Z",
+    "location": "GNRA Main Hall",
+    "description": "End of year awards ceremony for academic and co-curricular excellence"
+  }
+]
