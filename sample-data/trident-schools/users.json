@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-TRIDENT-SCHOOLS-001",
+    "username": "admin.trident-schools",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@trident-schools.edu",
+    "userRole": "School Administrator",
+    "tenantId": "trident-schools",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-TRIDENT-SCHOOLS-002",
+    "username": "staff.trident-schools",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@trident-schools.edu",
+    "userRole": "Teacher",
+    "tenantId": "trident-schools",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

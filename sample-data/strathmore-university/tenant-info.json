@@ -1,11 +1,12 @@
 {
   "tenantId": "strathmore-university",
   "displayName": "Strathmore University",
+  "schoolName": "Strathmore University",
   "shortName": "Strathmore",
   "country": "Kenya",
   "countryCode": "KE",
   "city": "Nairobi",
-  "address": "Ole Sangale Road, Madaraka, Nairobi",
+  "address": { "street": "Ole Sangale Road, Madaraka", "city": "Nairobi", "country": "Kenya" },
   "phone": "+254 20 606 155",
   "email": "info@strathmore.edu",
   "website": "https://www.strathmore.edu",

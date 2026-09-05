@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "itemCode": "EDUTECH-DEFAULT",
+    "productCode": "EDUTECH-DEFAULT",
+    "name": "Education Service",
+    "description": "Default Edutech sample service",
+    "type": "Service",
+    "category": "Education",
+    "salesPrice": 1000.00,
+    "cost": 0.00,
+    "isTaxable": false,
+    "isBillable": true,
+    "isActive": true,
+    "unitOfMeasure": "Unit"
+  }
+]

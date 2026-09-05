@@ -1,11 +1,12 @@
 {
   "tenantId": "yes-technology-school",
   "displayName": "YES Technology School",
+  "schoolName": "YES Technology School",
   "shortName": "YES Tech",
   "country": "South Africa",
   "countryCode": "ZA",
   "city": "Cape Town",
-  "address": "45 Innovation Drive, Century City, Cape Town, 7441",
+  "address": { "street": "45 Innovation Drive, Century City", "city": "Cape Town", "postalCode": "7441", "country": "South Africa" },
   "phone": "+27 21 555 7890",
   "email": "info@yestech.co.za",
   "website": "https://www.yestech.co.za",

@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-ST-MARYS-SECONDARY-HIGH-SCHOOL-001",
+    "username": "admin.st-marys-secondary-high-school",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@st-marys-secondary-high-school.edu",
+    "userRole": "School Administrator",
+    "tenantId": "st-marys-secondary-high-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-ST-MARYS-SECONDARY-HIGH-SCHOOL-002",
+    "username": "staff.st-marys-secondary-high-school",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@st-marys-secondary-high-school.edu",
+    "userRole": "Teacher",
+    "tenantId": "st-marys-secondary-high-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

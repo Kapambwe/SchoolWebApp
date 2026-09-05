@@ -1,11 +1,12 @@
 {
   "tenantId": "peterhouse-school-zimbabwe",
   "displayName": "Peterhouse School Zimbabwe",
+  "schoolName": "Peterhouse School Zimbabwe",
   "shortName": "Peterhouse",
   "country": "Zimbabwe",
   "countryCode": "ZW",
   "city": "Marondera",
-  "address": "Peterhouse Road, Marondera, Zimbabwe",
+  "address": { "street": "Peterhouse Road", "city": "Marondera", "country": "Zimbabwe" },
   "phone": "+263 79 555 1234",
   "email": "info@peterhouse.co.zw",
   "website": "https://www.peterhouse.co.zw",

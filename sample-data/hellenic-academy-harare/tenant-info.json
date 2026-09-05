@@ -1,11 +1,12 @@
 {
   "tenantId": "hellenic-academy-harare",
   "displayName": "Hellenic Academy Harare",
+  "schoolName": "Hellenic Academy Harare",
   "shortName": "Hellenic",
   "country": "Zimbabwe",
   "countryCode": "ZW",
   "city": "Harare",
-  "address": "Borrowdale Road, Borrowdale, Harare",
+  "address": { "street": "Borrowdale Road, Borrowdale", "city": "Harare", "country": "Zimbabwe" },
   "phone": "+263 24 885 555",
   "email": "info@hellenic.co.zw",
   "website": "https://www.hellenic.co.zw",

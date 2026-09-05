@@ -1,0 +1,137 @@
+[
+  {
+    "userId": "USR-SCH-ZM-001",
+    "username": "school.admin",
+    "fullName": "School Administrator",
+    "position": "Head of School / Principal",
+    "department": "Administration",
+    "email": "admin@school.com",
+    "phoneNumber": "+260-211-100001",
+    "userRole": "School Administrator",
+    "accessLevel": "Executive",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Students.Create",
+      "SchoolApp.Students.Edit",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Teachers.Manage",
+      "SchoolApp.Operations.Attendance",
+      "SchoolApp.Operations.Accounting",
+      "SchoolApp.Admin.Users",
+      "SchoolApp.Admin.Roles"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2025-01-01",
+    "lastLoginDate": "2026-07-26T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "Administration",
+      "Academics",
+      "Accounting",
+      "Reports"
+    ],
+    "reportingTo": null,
+    "schoolCampus": "Main Campus - Lusaka",
+    "biometricRegistered": true
+  },
+  {
+    "userId": "USR-SCH-ZM-002",
+    "username": "head.teacher",
+    "fullName": "Senior Teacher",
+    "position": "Head Teacher - Mathematics",
+    "department": "Academics",
+    "email": "teacher@school.com",
+    "phoneNumber": "+260-211-100002",
+    "userRole": "Teacher / Faculty",
+    "accessLevel": "Academic Operations",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Teachers.Timetable",
+      "SchoolApp.Teachers.LessonPlans",
+      "SchoolApp.Teachers.Exams",
+      "SchoolApp.Operations.Attendance",
+      "SchoolApp.Edutech.LearningAnalytics"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2025-01-01",
+    "lastLoginDate": "2026-07-26T08:15:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Classroom Management",
+      "Lesson Planning",
+      "Grading & Exams",
+      "Attendance"
+    ],
+    "reportingTo": "USR-SCH-ZM-001",
+    "schoolCampus": "Main Campus - Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-SCH-ZM-003",
+    "username": "student.demo",
+    "fullName": "John Banda",
+    "position": "Grade 11 Student",
+    "department": "Secondary Education",
+    "email": "student@school.com",
+    "phoneNumber": "+260-977-100003",
+    "userRole": "Student",
+    "accessLevel": "Student Portal",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Students.Timetable",
+      "SchoolApp.Students.Results",
+      "SchoolApp.Edutech.LearningAnalytics",
+      "SchoolApp.Edutech.AdaptiveLearning",
+      "SchoolApp.Edutech.ContentLibrary"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2025-01-10",
+    "lastLoginDate": "2026-07-26T07:45:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Student Timetable",
+      "Exam Results",
+      "Adaptive Learning"
+    ],
+    "reportingTo": "USR-SCH-ZM-002",
+    "schoolCampus": "Main Campus - Lusaka",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-SCH-ZM-004",
+    "username": "parent.demo",
+    "fullName": "Michael Banda",
+    "position": "Parent / Guardian",
+    "department": "Parent Portal",
+    "email": "parent@school.com",
+    "phoneNumber": "+260-966-100004",
+    "userRole": "Parent / Guardian",
+    "accessLevel": "Parent Portal",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Parents.View",
+      "SchoolApp.Parents.Children",
+      "SchoolApp.Parents.Fees",
+      "SchoolApp.Parents.Meetings",
+      "SchoolApp.Referrals.View",
+      "SchoolApp.Referrals.Rewards"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2025-01-10",
+    "lastLoginDate": "2026-07-25T18:30:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Children Progress",
+      "Fee Payments",
+      "Parent-Teacher Meetings"
+    ],
+    "reportingTo": null,
+    "schoolCampus": "Main Campus - Lusaka",
+    "biometricRegistered": false
+  }
+]

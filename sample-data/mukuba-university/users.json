@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-MUKUBA-UNIVERSITY-001",
+    "username": "admin.mukuba-university",
+    "fullName": "Administrator",
+    "position": "University Administrator",
+    "department": "Administration",
+    "email": "admin@mukuba-university.edu",
+    "userRole": "University Administrator",
+    "tenantId": "mukuba-university",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-MUKUBA-UNIVERSITY-002",
+    "username": "staff.mukuba-university",
+    "fullName": "Lead Academic",
+    "position": "Lecturer",
+    "department": "Academics",
+    "email": "staff@mukuba-university.edu",
+    "userRole": "Lecturer",
+    "tenantId": "mukuba-university",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

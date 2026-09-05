@@ -1,0 +1,35 @@
+{
+  "certificationTracks": [
+    {
+      "id": 1,
+      "name": "CompTIA A+ IT Technician",
+      "code": "CERT-COMP-A",
+      "description": "Industry standard credential for computer support technicians",
+      "issuingBody": "CompTIA",
+      "validityYears": 3,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "name": "Certified Solar PV Installer",
+      "code": "CERT-SOLAR-01",
+      "description": "Professional solar photovoltaic installation and maintenance certification",
+      "issuingBody": "Renewable Energy Council",
+      "validityYears": 5,
+      "isActive": true
+    }
+  ],
+  "studentCertifications": [
+    {
+      "id": 1,
+      "studentId": 2001,
+      "studentName": "Chileshe Mwamba",
+      "certificationTrackId": 2,
+      "certificationName": "Certified Solar PV Installer",
+      "issueDate": "2025-11-15T00:00:00Z",
+      "expiryDate": "2030-11-15T00:00:00Z",
+      "certificateNumber": "SOLAR-2025-089",
+      "status": "Active"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "employeeProfile": {
+    "fullName": "John Doe",
+    "email": "john.doe@school.com",
+    "phoneNumber": "+260 97 123 4567",
+    "department": "Mathematics",
+    "position": "Senior Teacher",
+    "employeeNumber": "EMP-2024-001"
+  },
+  "paySlips": [
+    { "period": "December 2024", "grossPay": 12500.0, "deductions": 2100.0, "netPay": 10400.0, "payDate": "2024-12-31T00:00:00Z" },
+    { "period": "November 2024", "grossPay": 12500.0, "deductions": 2100.0, "netPay": 10400.0, "payDate": "2024-11-30T00:00:00Z" },
+    { "period": "October 2024", "grossPay": 12500.0, "deductions": 2100.0, "netPay": 10400.0, "payDate": "2024-10-31T00:00:00Z" }
+  ],
+  "leaveRequests": [
+    { "leaveType": "Annual", "startDate": "2024-12-20T00:00:00Z", "endDate": "2024-12-27T00:00:00Z", "days": 5, "status": "Approved", "approvedBy": "Principal" },
+    { "leaveType": "Sick", "startDate": "2024-11-15T00:00:00Z", "endDate": "2024-11-16T00:00:00Z", "days": 2, "status": "Approved", "approvedBy": "Principal" },
+    { "leaveType": "Annual", "startDate": "2024-08-05T00:00:00Z", "endDate": "2024-08-12T00:00:00Z", "days": 5, "status": "Approved", "approvedBy": "Principal" }
+  ],
+  "documents": [
+    { "name": "Employment Contract", "type": "Contract", "uploadedDate": "2024-01-15T00:00:00Z" },
+    { "name": "Teaching Certificate", "type": "Certificate", "uploadedDate": "2024-01-15T00:00:00Z" },
+    { "name": "NRC Copy", "type": "ID Document", "uploadedDate": "2024-01-15T00:00:00Z" }
+  ]
+}

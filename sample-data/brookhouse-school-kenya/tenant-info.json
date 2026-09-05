@@ -1,11 +1,12 @@
 {
   "tenantId": "brookhouse-school-kenya",
   "displayName": "Brookhouse School Kenya",
+  "schoolName": "Brookhouse School Kenya",
   "shortName": "Brookhouse",
   "country": "Kenya",
   "countryCode": "KE",
   "city": "Nairobi",
-  "address": "Langata Road, Karen, Nairobi",
+  "address": { "street": "Langata Road, Karen", "city": "Nairobi", "country": "Kenya" },
   "phone": "+254 20 386 5000",
   "email": "info@brookhouse.ac.ke",
   "website": "https://www.brookhouse.ac.ke",

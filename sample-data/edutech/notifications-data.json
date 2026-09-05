@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to School Management System",
+    "message": "Welcome to the system. Explore your portal dashboard.",
+    "createdAt": "2026-08-28T08:00:00Z",
+    "isRead": false,
+    "userId": 1
+  },
+  {
+    "id": 2,
+    "title": "System Update Completed",
+    "message": "System upgraded to version 2.5 with enhanced analytics.",
+    "createdAt": "2026-08-28T07:00:00Z",
+    "isRead": false,
+    "userId": 1
+  },
+  {
+    "id": 3,
+    "title": "Schedule Reminder",
+    "message": "Don't forget to check your updated class schedule.",
+    "createdAt": "2026-08-28T06:00:00Z",
+    "isRead": true,
+    "userId": 1
+  }
+]

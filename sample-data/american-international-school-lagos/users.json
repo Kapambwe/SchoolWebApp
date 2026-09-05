@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-AMERICAN-INTERNATIONAL-SCHOOL-LAGOS-001",
+    "username": "admin.american-international-school-lagos",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@american-international-school-lagos.edu",
+    "userRole": "School Administrator",
+    "tenantId": "american-international-school-lagos",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-AMERICAN-INTERNATIONAL-SCHOOL-LAGOS-002",
+    "username": "staff.american-international-school-lagos",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@american-international-school-lagos.edu",
+    "userRole": "Teacher",
+    "tenantId": "american-international-school-lagos",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

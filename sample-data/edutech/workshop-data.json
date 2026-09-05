@@ -1,0 +1,24 @@
+{
+  "workshops": [
+    {
+      "id": 1,
+      "name": "Electrical Safety & High Voltage Handling Workshop",
+      "instructor": "Eng. Patrick Chanda",
+      "capacity": 25,
+      "enrolledCount": 20,
+      "scheduleDate": "2026-03-10T09:00:00Z",
+      "location": "Workshop Building A - Room 102",
+      "status": "Scheduled"
+    },
+    {
+      "id": 2,
+      "name": "Advanced TIG & MIG Welding Masterclass",
+      "instructor": "Master Welder D. Zulu",
+      "capacity": 15,
+      "enrolledCount": 15,
+      "scheduleDate": "2026-03-18T09:00:00Z",
+      "location": "Metal Fabrication Lab",
+      "status": "Full"
+    }
+  ]
+}

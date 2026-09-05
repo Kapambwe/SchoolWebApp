@@ -1,11 +1,12 @@
 {
   "tenantId": "curro-holdings-school",
   "displayName": "Curro Holdings School",
+  "schoolName": "Curro Holdings School",
   "shortName": "Curro",
   "country": "South Africa",
   "countryCode": "ZA",
   "city": "Pretoria",
-  "address": "88 Waterkloof Road, Waterkloof, Pretoria, 0181",
+  "address": { "street": "88 Waterkloof Road, Waterkloof", "city": "Pretoria", "postalCode": "0181", "country": "South Africa" },
   "phone": "+27 12 555 4321",
   "email": "info@curro.co.za",
   "website": "https://www.curro.co.za",

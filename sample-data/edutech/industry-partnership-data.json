@@ -1,0 +1,26 @@
+{
+  "partnerships": [
+    {
+      "id": 1,
+      "companyName": "Zambia Sugar PLC",
+      "industrySector": "Agro-Processing",
+      "partnershipType": "MoU & Research Sponsorship",
+      "contactPerson": "Bwalya Musonda",
+      "email": "bmusonda@zamsugar.zm",
+      "startDate": "2024-01-01T00:00:00Z",
+      "expiryDate": "2029-01-01T00:00:00Z",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "companyName": "MTN Zambia Tech Hub",
+      "industrySector": "Telecommunications & IT",
+      "partnershipType": "Innovation Lab & Internships",
+      "contactPerson": "Karen Lungu",
+      "email": "klungu@mtn.zm",
+      "startDate": "2024-05-01T00:00:00Z",
+      "expiryDate": "2027-05-01T00:00:00Z",
+      "status": "Active"
+    }
+  ]
+}

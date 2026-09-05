@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-PETERHOUSE-SCHOOL-ZIMBABWE-001",
+    "username": "admin.peterhouse-school-zimbabwe",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@peterhouse-school-zimbabwe.edu",
+    "userRole": "School Administrator",
+    "tenantId": "peterhouse-school-zimbabwe",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-PETERHOUSE-SCHOOL-ZIMBABWE-002",
+    "username": "staff.peterhouse-school-zimbabwe",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@peterhouse-school-zimbabwe.edu",
+    "userRole": "Teacher",
+    "tenantId": "peterhouse-school-zimbabwe",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

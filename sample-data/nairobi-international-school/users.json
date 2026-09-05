@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-NAIROBI-INTERNATIONAL-SCHOOL-001",
+    "username": "admin.nairobi-international-school",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@nairobi-international-school.edu",
+    "userRole": "School Administrator",
+    "tenantId": "nairobi-international-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-NAIROBI-INTERNATIONAL-SCHOOL-002",
+    "username": "staff.nairobi-international-school",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@nairobi-international-school.edu",
+    "userRole": "Teacher",
+    "tenantId": "nairobi-international-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

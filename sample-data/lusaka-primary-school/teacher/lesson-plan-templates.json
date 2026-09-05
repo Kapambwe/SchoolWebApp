@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Math Lesson Template",
+    "description": "Standard template for mathematics lessons",
+    "subject": "Mathematics",
+    "grade": "Grade 5",
+    "objectives": "Understand the concept\nApply problem-solving skills\nMaster calculations",
+    "materials": "Textbook\nCalculator\nWorksheets",
+    "activities": "Introduction (10 min)\nGuided practice (20 min)\nIndependent work (15 min)\nReview (5 min)",
+    "assessment": "Exit ticket\nHomework assignment\nObservation during practice",
+    "durationMinutes": 50,
+    "standards": ["CCSS.MATH.5.NF.A.1", "CCSS.MATH.5.NF.B.3"],
+    "isPublic": true,
+    "createdBy": "admin@school.com",
+    "createdDate": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Science Lab Template",
+    "description": "Template for hands-on science experiments",
+    "subject": "Science",
+    "grade": "Grade 7",
+    "objectives": "Conduct scientific investigation\nRecord observations\nDraw conclusions",
+    "materials": "Lab equipment\nSafety goggles\nLab worksheet",
+    "activities": "Safety briefing\nHypothesis formation\nExperiment\nData analysis\nConclusion",
+    "assessment": "Lab report\nObservation checklist\nGroup presentation",
+    "durationMinutes": 60,
+    "standards": ["NGSS.MS-PS1-1", "NGSS.MS-PS1-2"],
+    "isPublic": true,
+    "createdBy": "admin@school.com",
+    "createdDate": "2024-01-06T00:00:00Z"
+  }
+]

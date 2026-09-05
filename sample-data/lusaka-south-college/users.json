@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-LUSAKA-SOUTH-COLLEGE-001",
+    "username": "admin.lusaka-south-college",
+    "fullName": "Administrator",
+    "position": "College Administrator",
+    "department": "Administration",
+    "email": "admin@lusaka-south-college.edu",
+    "userRole": "College Administrator",
+    "tenantId": "lusaka-south-college",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-LUSAKA-SOUTH-COLLEGE-002",
+    "username": "staff.lusaka-south-college",
+    "fullName": "Lead Academic",
+    "position": "Lecturer",
+    "department": "Academics",
+    "email": "staff@lusaka-south-college.edu",
+    "userRole": "Lecturer",
+    "tenantId": "lusaka-south-college",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

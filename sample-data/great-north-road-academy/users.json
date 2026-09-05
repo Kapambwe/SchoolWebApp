@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-GREAT-NORTH-ROAD-ACADEMY-001",
+    "username": "admin.great-north-road-academy",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@great-north-road-academy.edu",
+    "userRole": "School Administrator",
+    "tenantId": "great-north-road-academy",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-GREAT-NORTH-ROAD-ACADEMY-002",
+    "username": "staff.great-north-road-academy",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@great-north-road-academy.edu",
+    "userRole": "Teacher",
+    "tenantId": "great-north-road-academy",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

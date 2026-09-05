@@ -1,0 +1,50 @@
+{
+  "TenantId": "university-of-lusaka",
+  "InstitutionType": "University",
+  "OrganizationType": "SchoolWebApp",
+  "RolePermissions": [
+    {
+      "RoleId": "ROL-UNIVERSITY-ADMIN",
+      "RoleName": "University Administrator",
+      "TemplateRole": "UniversityAdmin",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Dashboard.Analytics",
+        "SchoolApp.Students.View",
+        "SchoolApp.Students.Create",
+        "SchoolApp.Students.Edit",
+        "SchoolApp.Teachers.View",
+        "SchoolApp.Teachers.Manage",
+        "SchoolApp.Operations.Attendance",
+        "SchoolApp.Operations.Accounting",
+        "SchoolApp.Admin.Users",
+        "SchoolApp.Admin.Roles"
+      ]
+    },
+    {
+      "RoleId": "ROL-TEACHER",
+      "RoleName": "Lecturer",
+      "TemplateRole": "Lecturer",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Students.View",
+        "SchoolApp.Teachers.View",
+        "SchoolApp.Teachers.Timetable",
+        "SchoolApp.Teachers.LessonPlans",
+        "SchoolApp.Teachers.Exams",
+        "SchoolApp.Operations.Attendance"
+      ]
+    },
+    {
+      "RoleId": "ROL-STUDENT",
+      "RoleName": "Student",
+      "TemplateRole": "Student",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Students.View",
+        "SchoolApp.Students.Timetable",
+        "SchoolApp.Students.Results"
+      ]
+    }
+  ]
+}

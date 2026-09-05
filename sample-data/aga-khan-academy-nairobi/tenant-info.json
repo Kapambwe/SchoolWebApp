@@ -1,11 +1,12 @@
 {
   "tenantId": "aga-khan-academy-nairobi",
   "displayName": "Aga Khan Academy Nairobi",
+  "schoolName": "Aga Khan Academy Nairobi",
   "shortName": "AKA Nairobi",
   "country": "Kenya",
   "countryCode": "KE",
   "city": "Nairobi",
-  "address": "Mbagathi Ridge, Nairobi",
+  "address": { "street": "Mbagathi Ridge", "city": "Nairobi", "country": "Kenya" },
   "phone": "+254 20 366 5000",
   "email": "info@agakhanacademy.ac.ke",
   "website": "https://www.agakhanacademy.ac.ke",

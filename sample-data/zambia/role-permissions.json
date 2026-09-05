@@ -1,0 +1,168 @@
+{
+  "CountryName": "Zambia",
+  "CountrySlug": "zambia",
+  "OrganizationType": "SchoolWebApp",
+  "TenantType": "ZAMBIA_EDUCATIONAL",
+  "InstitutionTypePermissions": [
+    "SchoolApp.Dashboard.View",
+    "SchoolApp.Students.View",
+    "SchoolApp.Teachers.View",
+    "SchoolApp.Parents.View",
+    "SchoolApp.Edutech.LearningAnalytics",
+    "SchoolApp.Operations.Attendance",
+    "SchoolApp.Operations.Accounting"
+  ],
+  "EffectiveInstitutionPermissions": [
+    "SchoolApp.Dashboard.View",
+    "SchoolApp.Dashboard.Analytics",
+    "SchoolApp.Students.View",
+    "SchoolApp.Students.Create",
+    "SchoolApp.Students.Edit",
+    "SchoolApp.Students.Timetable",
+    "SchoolApp.Students.Results",
+    "SchoolApp.Teachers.View",
+    "SchoolApp.Teachers.Manage",
+    "SchoolApp.Teachers.Timetable",
+    "SchoolApp.Teachers.LessonPlans",
+    "SchoolApp.Teachers.Exams",
+    "SchoolApp.Parents.View",
+    "SchoolApp.Parents.Children",
+    "SchoolApp.Parents.Fees",
+    "SchoolApp.Parents.Meetings",
+    "SchoolApp.Tertiary.Courses",
+    "SchoolApp.Tertiary.Timetable",
+    "SchoolApp.Tertiary.Results",
+    "SchoolApp.Tertiary.LessonPlans",
+    "SchoolApp.Vocational.Apprenticeships",
+    "SchoolApp.Vocational.WorkshopSafety",
+    "SchoolApp.Vocational.CompetencyMatrix",
+    "SchoolApp.Vocational.Certifications",
+    "SchoolApp.Research.View",
+    "SchoolApp.Research.Grants",
+    "SchoolApp.Research.Publications",
+    "SchoolApp.Edutech.LearningAnalytics",
+    "SchoolApp.Edutech.AdaptiveLearning",
+    "SchoolApp.Edutech.ContentLibrary",
+    "SchoolApp.Edutech.StudentSuccess",
+    "SchoolApp.Referrals.View",
+    "SchoolApp.Referrals.ManageLinks",
+    "SchoolApp.Referrals.Rewards",
+    "SchoolApp.Referrals.Leaderboard",
+    "SchoolApp.Operations.Attendance",
+    "SchoolApp.Operations.Library",
+    "SchoolApp.Operations.Hostels",
+    "SchoolApp.Operations.Transport",
+    "SchoolApp.Operations.Accounting",
+    "SchoolApp.Operations.Payroll",
+    "SchoolApp.Admin.Users",
+    "SchoolApp.Admin.Roles",
+    "SchoolApp.Admin.Registrations",
+    "SchoolApp.Admin.InviteUsers",
+    "SchoolApp.Admin.ServiceConfig"
+  ],
+  "RolePermissions": [
+    {
+      "RoleId": "ROL-SCHOOL-ADMIN",
+      "RoleName": "School Administrator",
+      "TemplateRole": "SchoolAdmin",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Dashboard.Analytics",
+        "SchoolApp.Students.View",
+        "SchoolApp.Students.Create",
+        "SchoolApp.Students.Edit",
+        "SchoolApp.Students.Delete",
+        "SchoolApp.Students.Timetable",
+        "SchoolApp.Students.Results",
+        "SchoolApp.Teachers.View",
+        "SchoolApp.Teachers.Manage",
+        "SchoolApp.Teachers.Timetable",
+        "SchoolApp.Teachers.LessonPlans",
+        "SchoolApp.Teachers.Exams",
+        "SchoolApp.Operations.Attendance",
+        "SchoolApp.Operations.Library",
+        "SchoolApp.Operations.Hostels",
+        "SchoolApp.Operations.Transport",
+        "SchoolApp.Operations.Accounting",
+        "SchoolApp.Operations.Payroll",
+        "SchoolApp.Admin.Users",
+        "SchoolApp.Admin.Roles",
+        "SchoolApp.Admin.Registrations",
+        "SchoolApp.Admin.InviteUsers",
+        "SchoolApp.Admin.ServiceConfig"
+      ]
+    },
+    {
+      "RoleId": "ROL-TEACHER",
+      "RoleName": "Teacher / Faculty",
+      "TemplateRole": "Teacher",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Students.View",
+        "SchoolApp.Teachers.View",
+        "SchoolApp.Teachers.Timetable",
+        "SchoolApp.Teachers.LessonPlans",
+        "SchoolApp.Teachers.Exams",
+        "SchoolApp.Operations.Attendance",
+        "SchoolApp.Edutech.LearningAnalytics",
+        "SchoolApp.Edutech.ContentLibrary"
+      ]
+    },
+    {
+      "RoleId": "ROL-STUDENT",
+      "RoleName": "Student",
+      "TemplateRole": "Student",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Students.View",
+        "SchoolApp.Students.Timetable",
+        "SchoolApp.Students.Results",
+        "SchoolApp.Edutech.LearningAnalytics",
+        "SchoolApp.Edutech.AdaptiveLearning",
+        "SchoolApp.Edutech.ContentLibrary",
+        "SchoolApp.Edutech.StudentSuccess"
+      ]
+    },
+    {
+      "RoleId": "ROL-PARENT",
+      "RoleName": "Parent / Guardian",
+      "TemplateRole": "Parent",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Parents.View",
+        "SchoolApp.Parents.Children",
+        "SchoolApp.Parents.Fees",
+        "SchoolApp.Parents.Meetings",
+        "SchoolApp.Referrals.View",
+        "SchoolApp.Referrals.ManageLinks",
+        "SchoolApp.Referrals.Rewards"
+      ]
+    },
+    {
+      "RoleId": "ROL-LECTURER",
+      "RoleName": "Tertiary Lecturer",
+      "TemplateRole": "Lecturer",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Tertiary.Courses",
+        "SchoolApp.Tertiary.Timetable",
+        "SchoolApp.Tertiary.Results",
+        "SchoolApp.Tertiary.LessonPlans",
+        "SchoolApp.Research.View",
+        "SchoolApp.Research.Publications"
+      ]
+    },
+    {
+      "RoleId": "ROL-VOCATIONAL-INSTRUCTOR",
+      "RoleName": "Vocational Instructor",
+      "TemplateRole": "Instructor",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Vocational.Apprenticeships",
+        "SchoolApp.Vocational.WorkshopSafety",
+        "SchoolApp.Vocational.CompetencyMatrix",
+        "SchoolApp.Vocational.Certifications"
+      ]
+    }
+  ]
+}

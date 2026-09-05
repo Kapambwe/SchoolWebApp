@@ -1,0 +1,8 @@
+{
+  "schoolName": "Edutech Sample School",
+  "schoolType": "Primary",
+  "country": "Zambia",
+  "currency": "ZMW",
+  "academicYear": "2026",
+  "grades": ["Grade 1", "Grade 2", "Grade 3"]
+}

@@ -1,0 +1,28 @@
+{
+  "schools": [
+    {
+      "id": 1,
+      "schoolName": "Demo High School",
+      "schoolType": "High School",
+      "registrationNumber": "HS-2024-001",
+      "phoneNumber": "+254712345678",
+      "email": "info@demohigh.ac.ke",
+      "address": "123 Education Lane",
+      "city": "Nairobi",
+      "province": "Nairobi County",
+      "country": "Kenya",
+      "status": "Active",
+      "registrationDate": "2025-01-01T00:00:00Z",
+      "approvedDate": "2025-01-06T00:00:00Z",
+      "approvedBy": "Ministry of Education"
+    }
+  ],
+  "registeredEmails": [
+    "info@demohigh.ac.ke"
+  ],
+  "registeredNumbers": [
+    "HS-2024-001"
+  ],
+  "nextSchoolId": 2,
+  "nextUserId": 1000
+}

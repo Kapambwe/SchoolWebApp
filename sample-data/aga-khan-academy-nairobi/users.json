@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-AGA-KHAN-ACADEMY-NAIROBI-001",
+    "username": "admin.aga-khan-academy-nairobi",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@aga-khan-academy-nairobi.edu",
+    "userRole": "School Administrator",
+    "tenantId": "aga-khan-academy-nairobi",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-AGA-KHAN-ACADEMY-NAIROBI-002",
+    "username": "staff.aga-khan-academy-nairobi",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@aga-khan-academy-nairobi.edu",
+    "userRole": "Teacher",
+    "tenantId": "aga-khan-academy-nairobi",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

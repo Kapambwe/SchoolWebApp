@@ -1,11 +1,12 @@
 {
   "tenantId": "dansa-international-school",
   "displayName": "Dansa International School",
+  "schoolName": "Dansa International School",
   "shortName": "DANSA",
   "country": "South Africa",
   "countryCode": "ZA",
   "city": "Johannesburg",
-  "address": "123 Oxford Road, Rosebank, Johannesburg, 2196",
+  "address": { "street": "123 Oxford Road, Rosebank", "city": "Johannesburg", "province": "Gauteng", "postalCode": "2196", "country": "South Africa" },
   "phone": "+27 11 555 1234",
   "email": "info@dansa.co.za",
   "website": "https://www.dansa.co.za",

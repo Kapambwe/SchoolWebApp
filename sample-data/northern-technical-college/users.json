@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-NORTHERN-TECHNICAL-COLLEGE-001",
+    "username": "admin.northern-technical-college",
+    "fullName": "Administrator",
+    "position": "College Administrator",
+    "department": "Administration",
+    "email": "admin@northern-technical-college.edu",
+    "userRole": "College Administrator",
+    "tenantId": "northern-technical-college",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-NORTHERN-TECHNICAL-COLLEGE-002",
+    "username": "staff.northern-technical-college",
+    "fullName": "Lead Academic",
+    "position": "Lecturer",
+    "department": "Academics",
+    "email": "staff@northern-technical-college.edu",
+    "userRole": "Lecturer",
+    "tenantId": "northern-technical-college",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

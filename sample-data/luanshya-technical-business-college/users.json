@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-LUANSHYA-TECHNICAL-BUSINESS-COLLEGE-001",
+    "username": "admin.luanshya-technical-business-college",
+    "fullName": "Administrator",
+    "position": "College Administrator",
+    "department": "Administration",
+    "email": "admin@luanshya-technical-business-college.edu",
+    "userRole": "College Administrator",
+    "tenantId": "luanshya-technical-business-college",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-LUANSHYA-TECHNICAL-BUSINESS-COLLEGE-002",
+    "username": "staff.luanshya-technical-business-college",
+    "fullName": "Lead Academic",
+    "position": "Lecturer",
+    "department": "Academics",
+    "email": "staff@luanshya-technical-business-college.edu",
+    "userRole": "Lecturer",
+    "tenantId": "luanshya-technical-business-college",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

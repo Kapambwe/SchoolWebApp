@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "itemCode": "TUITION-DEFAULT",
+    "productCode": "TUITION-DEFAULT",
+    "name": "Default Tuition Fee",
+    "description": "Default sample tuition fee",
+    "type": "Service",
+    "category": "Tuition",
+    "salesPrice": 1000.00,
+    "cost": 0.00,
+    "isTaxable": false,
+    "isBillable": true,
+    "isActive": true,
+    "unitOfMeasure": "Term"
+  }
+]

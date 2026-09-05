@@ -1,0 +1,41 @@
+{
+  "jobPostings": [
+    {
+      "id": 1,
+      "title": "Junior Electrical Technician",
+      "companyName": "Volt Dynamics",
+      "location": "Lusaka, Zambia",
+      "jobType": "FullTime",
+      "description": "Entry level electrical technician position for recent trade school graduates.",
+      "requirements": "Diploma in Electrical Engineering or Trade Certificate",
+      "salaryRange": "ZMW 8,000 - 12,000 / month",
+      "postedDate": "2026-02-01T00:00:00Z",
+      "closingDate": "2026-03-31T00:00:00Z",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "Mechanical Engineering Intern",
+      "companyName": "Copperbelt Fabrication Ltd",
+      "location": "Kitwe, Zambia",
+      "jobType": "Internship",
+      "description": "Hands-on internship in industrial fabrication and machining.",
+      "requirements": "Enrolled in Mechanical Engineering program",
+      "salaryRange": "ZMW 4,500 / month stipend",
+      "postedDate": "2026-02-15T00:00:00Z",
+      "closingDate": "2026-04-15T00:00:00Z",
+      "isActive": true
+    }
+  ],
+  "counselingSessions": [
+    {
+      "id": 1,
+      "studentId": 2001,
+      "studentName": "Chileshe Mwamba",
+      "counselorName": "Mrs. Grace Tembo",
+      "sessionDate": "2026-02-20T10:00:00Z",
+      "notes": "Discussed career path in renewable energy sector. Recommended solar technician certification.",
+      "status": "Completed"
+    }
+  ]
+}

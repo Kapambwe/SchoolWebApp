@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-DAVID-KAUNDA-TECHNICAL-HIGH-SCHOOL-001",
+    "username": "admin.david-kaunda-technical-high-school",
+    "fullName": "Administrator",
+    "position": "Trade Administrator",
+    "department": "Administration",
+    "email": "admin@david-kaunda-technical-high-school.edu",
+    "userRole": "Trade Administrator",
+    "tenantId": "david-kaunda-technical-high-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-DAVID-KAUNDA-TECHNICAL-HIGH-SCHOOL-002",
+    "username": "staff.david-kaunda-technical-high-school",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@david-kaunda-technical-high-school.edu",
+    "userRole": "Teacher",
+    "tenantId": "david-kaunda-technical-high-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

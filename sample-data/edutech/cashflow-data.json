@@ -1,0 +1,31 @@
+{
+  "currentCash": 2500000.0,
+  "minimumCashBalance": 1000000.0,
+  "bankAccounts": [
+    { "id": 1, "name": "Zanaco - Main Account" },
+    { "id": 2, "name": "FNB - Payroll Account" },
+    { "id": 3, "name": "Stanbic - Fees Collection" }
+  ],
+  "cashInflows": [
+    { "description": "Tuition Fees - Term 1", "date": "2026-03-05T00:00:00Z", "amount": 850000.0 },
+    { "description": "Boarding Fees", "date": "2026-03-07T00:00:00Z", "amount": 450000.0 },
+    { "description": "Activity Fees", "date": "2026-03-10T00:00:00Z", "amount": 125000.0 },
+    { "description": "Tuition Fees - Term 1 (Late)", "date": "2026-03-15T00:00:00Z", "amount": 680000.0 },
+    { "description": "Government Grant", "date": "2026-03-20T00:00:00Z", "amount": 1200000.0 },
+    { "description": "Donations", "date": "2026-03-25T00:00:00Z", "amount": 250000.0 }
+  ],
+  "cashOutflows": [
+    { "description": "Staff Salaries", "date": "2026-03-03T00:00:00Z", "amount": 1850000.0 },
+    { "description": "Utilities & Rent", "date": "2026-03-05T00:00:00Z", "amount": 320000.0 },
+    { "description": "Food Supplies", "date": "2026-03-10T00:00:00Z", "amount": 450000.0 },
+    { "description": "Equipment Purchase", "date": "2026-03-15T00:00:00Z", "amount": 285000.0 },
+    { "description": "Maintenance", "date": "2026-03-20T00:00:00Z", "amount": 175000.0 },
+    { "description": "Tax Payment", "date": "2026-03-25T00:00:00Z", "amount": 425000.0 }
+  ],
+  "cashFlowTrends": [
+    { "period": "Week 1", "cashBalance": 2500000.0, "minimumBalance": 1000000.0 },
+    { "period": "Week 2", "cashBalance": 2750000.0, "minimumBalance": 1000000.0 },
+    { "period": "Week 3", "cashBalance": 3100000.0, "minimumBalance": 1000000.0 },
+    { "period": "Week 4", "cashBalance": 3480000.0, "minimumBalance": 1000000.0 }
+  ]
+}

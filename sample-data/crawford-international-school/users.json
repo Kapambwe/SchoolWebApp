@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-CRAWFORD-INTERNATIONAL-SCHOOL-001",
+    "username": "admin.crawford-international-school",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@crawford-international-school.edu",
+    "userRole": "School Administrator",
+    "tenantId": "crawford-international-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-CRAWFORD-INTERNATIONAL-SCHOOL-002",
+    "username": "staff.crawford-international-school",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@crawford-international-school.edu",
+    "userRole": "Teacher",
+    "tenantId": "crawford-international-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

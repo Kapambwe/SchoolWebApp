@@ -1,11 +1,12 @@
 {
   "tenantId": "crawford-international-school",
   "displayName": "Crawford International School",
+  "schoolName": "Crawford International School",
   "shortName": "Crawford",
   "country": "South Africa",
   "countryCode": "ZA",
   "city": "Sandton",
-  "address": "57 Rivonia Road, Sandton, Johannesburg, 2196",
+  "address": { "street": "57 Rivonia Road", "city": "Sandton", "province": "Gauteng", "postalCode": "2196", "country": "South Africa" },
   "phone": "+27 11 555 6789",
   "email": "info@crawford.co.za",
   "website": "https://www.crawford.co.za",

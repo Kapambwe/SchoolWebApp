@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Sustainable Agriculture Water Management in Sub-Saharan Africa",
+      "department": "Agricultural Sciences",
+      "principalInvestigator": "Dr. Joseph Banda",
+      "grantAmount": 150000.00,
+      "startDate": "2025-01-01T00:00:00Z",
+      "endDate": "2027-12-31T00:00:00Z",
+      "status": "Active",
+      "abstract": "Researching drip irrigation efficacy and soil moisture conservation techniques for smallholder farmers."
+    },
+    {
+      "id": 2,
+      "title": "AI Driven Diagnostic Tools for Rural Health Clinics",
+      "department": "Computer Science & Medicine",
+      "principalInvestigator": "Prof. Mary Phiri",
+      "grantAmount": 220000.00,
+      "startDate": "2025-06-01T00:00:00Z",
+      "endDate": "2028-05-31T00:00:00Z",
+      "status": "Active",
+      "abstract": "Development of low-bandwidth mobile ML models for early disease detection."
+    }
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "projectId": 1,
+      "title": "Optimization of Drip Irrigation Systems in Arid Soils",
+      "authors": "J. Banda, C. Mulenga",
+      "journalName": "African Journal of Agricultural Research",
+      "publicationDate": "2025-10-14T00:00:00Z",
+      "doi": "10.1016/j.ajar.2025.08.012"
+    }
+  ]
+}

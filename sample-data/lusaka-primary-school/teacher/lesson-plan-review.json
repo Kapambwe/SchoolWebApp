@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Fractions and Decimals",
+    "subject": "Mathematics",
+    "grade": "Grade 7",
+    "topic": "Fractions and Decimals",
+    "objectives": "Students will convert fractions to decimals and vice versa.",
+    "materials": "Textbook, calculator, worksheets",
+    "activities": "Introduction, guided practice, independent work",
+    "assessment": "Exit ticket and homework assignment",
+    "date": "2024-01-15T00:00:00Z",
+    "durationMinutes": 60,
+    "isCompleted": false,
+    "teacherId": 1,
+    "term": "Term 1",
+    "year": 2024,
+    "isApproved": false,
+    "status": "Submitted",
+    "standards": ["CCSS.MATH.5.NF.A.1"],
+    "comments": []
+  }
+]

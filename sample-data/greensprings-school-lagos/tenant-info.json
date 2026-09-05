@@ -1,11 +1,12 @@
 {
   "tenantId": "greensprings-school-lagos",
   "displayName": "Greensprings School Lagos",
+  "schoolName": "Greensprings School Lagos",
   "shortName": "Greensprings",
   "country": "Nigeria",
   "countryCode": "NG",
   "city": "Lagos",
-  "address": "3 Ogunsiji Close, off Allen Avenue, Ikeja, Lagos",
+  "address": { "street": "3 Ogunsiji Close, off Allen Avenue, Ikeja", "city": "Lagos", "country": "Nigeria" },
   "phone": "+234 1 497 5757",
   "email": "info@greensprings.edu.ng",
   "website": "https://www.greensprings.edu.ng",

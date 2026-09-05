@@ -1,11 +1,12 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>SchoolWebApp</title>
-    <base href="/SchoolWebApp/" id="dynamic-base">
+    <base href="/" id="dynamic-base">
+    <link href="_framework/dotnet.felwagdmzd.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-Vw52Zy9R/9xcwxjw2vRLP7T5cJ5FngImEl/wyqN5nGY=" />
     <script>
         // Set base path dynamically so the same build works both locally (/)
         // and on GitHub Pages (/SchoolWebApp/). Must run before any <link> or
@@ -23,6 +24,25 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="SchoolWebApp.styles.css" rel="stylesheet" />
     <link href="_content/Radzen.Blazor/css/material-base.css" rel="stylesheet">
+    <script type="importmap">{
+  "imports": {
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.w3qd1tpl0e.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.felwagdmzd.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.vzj2a6aakt.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.zbexyp8zrs.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_framework/blazor.webassembly.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/blazor.webassembly.w3qd1tpl0e.js": "sha256-lDXsDYFgm62F+YUvxES7IOTCXYpiHpU3uR45YdC6mq4=",
+    "./_framework/dotnet.felwagdmzd.js": "sha256-Vw52Zy9R/9xcwxjw2vRLP7T5cJ5FngImEl/wyqN5nGY=",
+    "./_framework/dotnet.js": "sha256-Vw52Zy9R/9xcwxjw2vRLP7T5cJ5FngImEl/wyqN5nGY=",
+    "./_framework/dotnet.native.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.native.vzj2a6aakt.js": "sha256-RezASHv+dbqV50cFnld76YiLhk4B+BjMAKs/euUdNyE=",
+    "./_framework/dotnet.runtime.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40=",
+    "./_framework/dotnet.runtime.zbexyp8zrs.js": "sha256-MZMguyke9CroSQl+L/SHIGFkPTD+LtYGXkXjAvwWx40="
+  }
+}</script>
 </head>
 
 <body>
@@ -37,9 +57,9 @@
     <div id="blazor-error-ui">
         An unhandled error has occurred.
         <a href="." class="reload">Reload</a>
-        <span class="dismiss">ðŸ—™</span>
+        <span class="dismiss">🗙</span>
     </div>
-    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_framework/blazor.webassembly.w3qd1tpl0e.js" autostart="false"></script>
     <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
     <script>
         // Restore the original route when redirected here via 404.html (static-host SPA fallback).
@@ -51,6 +71,16 @@
                 window.history.replaceState(null, '', prefix + decodeURIComponent(path));
             }
         })();
+
+        // L3 AppHost serves SchoolWebApp on fixed port 5200 with Testing config
+        // (mocks + gateway :5000). Force Blazor environment so appsettings.Testing.json loads
+        // even if the DevServer would otherwise report Development.
+        const params = new URLSearchParams(window.location.search);
+        const envFromQuery = params.get('blazor-environment') || params.get('env');
+        const env = envFromQuery
+            || (window.location.port === '5200' ? 'Testing' : undefined);
+        const startOptions = env ? { environment: env } : undefined;
+        Blazor.start(startOptions);
     </script>
 </body>
 

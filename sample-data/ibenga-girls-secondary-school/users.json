@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-IBENGA-GIRLS-SECONDARY-SCHOOL-001",
+    "username": "admin.ibenga-girls-secondary-school",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@ibenga-girls-secondary-school.edu",
+    "userRole": "School Administrator",
+    "tenantId": "ibenga-girls-secondary-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-IBENGA-GIRLS-SECONDARY-SCHOOL-002",
+    "username": "staff.ibenga-girls-secondary-school",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@ibenga-girls-secondary-school.edu",
+    "userRole": "Teacher",
+    "tenantId": "ibenga-girls-secondary-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

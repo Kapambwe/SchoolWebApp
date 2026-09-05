@@ -1,0 +1,41 @@
+[
+  {
+    "programId": 1,
+    "programName": "Journeyman Electrician",
+    "issuingBody": "State Licensing Board",
+    "category": "Electrical",
+    "level": "Journeyman",
+    "estimatedDuration": 12,
+    "cost": 2500.0,
+    "prerequisites": ["Apprenticeship completion", "4000 hours work experience"],
+    "validityPeriod": 36,
+    "requiresCEU": true,
+    "ceuRequirement": 24
+  },
+  {
+    "programId": 2,
+    "programName": "HVAC Certification",
+    "issuingBody": "HVAC Excellence",
+    "category": "HVAC",
+    "level": "Professional",
+    "estimatedDuration": 6,
+    "cost": 1500.0,
+    "prerequisites": ["High school diploma"],
+    "validityPeriod": 24,
+    "requiresCEU": true,
+    "ceuRequirement": 12
+  },
+  {
+    "programId": 3,
+    "programName": "Welding Certification AWS D1.1",
+    "issuingBody": "American Welding Society",
+    "category": "Welding",
+    "level": "Certified",
+    "estimatedDuration": 3,
+    "cost": 800.0,
+    "prerequisites": ["Welding fundamentals course"],
+    "validityPeriod": 6,
+    "requiresCEU": false,
+    "ceuRequirement": 0
+  }
+]

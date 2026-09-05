@@ -1,0 +1,50 @@
+{
+  "TenantId": "dansa-international-school",
+  "InstitutionType": "Primary",
+  "OrganizationType": "SchoolWebApp",
+  "RolePermissions": [
+    {
+      "RoleId": "ROL-SCHOOL-ADMIN",
+      "RoleName": "School Administrator",
+      "TemplateRole": "SchoolAdmin",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Dashboard.Analytics",
+        "SchoolApp.Students.View",
+        "SchoolApp.Students.Create",
+        "SchoolApp.Students.Edit",
+        "SchoolApp.Teachers.View",
+        "SchoolApp.Teachers.Manage",
+        "SchoolApp.Operations.Attendance",
+        "SchoolApp.Operations.Accounting",
+        "SchoolApp.Admin.Users",
+        "SchoolApp.Admin.Roles"
+      ]
+    },
+    {
+      "RoleId": "ROL-TEACHER",
+      "RoleName": "Teacher",
+      "TemplateRole": "Teacher",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Students.View",
+        "SchoolApp.Teachers.View",
+        "SchoolApp.Teachers.Timetable",
+        "SchoolApp.Teachers.LessonPlans",
+        "SchoolApp.Teachers.Exams",
+        "SchoolApp.Operations.Attendance"
+      ]
+    },
+    {
+      "RoleId": "ROL-STUDENT",
+      "RoleName": "Student",
+      "TemplateRole": "Student",
+      "Permissions": [
+        "SchoolApp.Dashboard.View",
+        "SchoolApp.Students.View",
+        "SchoolApp.Students.Timetable",
+        "SchoolApp.Students.Results"
+      ]
+    }
+  ]
+}

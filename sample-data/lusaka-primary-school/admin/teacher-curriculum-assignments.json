@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "teacherId": 1,
+    "teacherName": "Mutale Mwansa",
+    "subject": "Mathematics",
+    "grade": "Grade 7",
+    "curriculumId": 1,
+    "term": "Term 1",
+    "year": 2024,
+    "assignedDate": "2024-01-15T00:00:00Z",
+    "status": "InProgress",
+    "completionPercentage": 70,
+    "topicsCompleted": 14,
+    "totalTopics": 20,
+    "lastUpdated": "2024-02-15T00:00:00Z",
+    "notes": "Good progress maintained"
+  }
+]

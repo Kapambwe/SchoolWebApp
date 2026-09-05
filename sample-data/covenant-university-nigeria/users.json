@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-COVENANT-UNIVERSITY-NIGERIA-001",
+    "username": "admin.covenant-university-nigeria",
+    "fullName": "Administrator",
+    "position": "University Administrator",
+    "department": "Administration",
+    "email": "admin@covenant-university-nigeria.edu",
+    "userRole": "University Administrator",
+    "tenantId": "covenant-university-nigeria",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-COVENANT-UNIVERSITY-NIGERIA-002",
+    "username": "staff.covenant-university-nigeria",
+    "fullName": "Lead Academic",
+    "position": "Lecturer",
+    "department": "Academics",
+    "email": "staff@covenant-university-nigeria.edu",
+    "userRole": "Lecturer",
+    "tenantId": "covenant-university-nigeria",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

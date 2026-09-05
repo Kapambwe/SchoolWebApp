@@ -1,11 +1,12 @@
 {
   "tenantId": "reddam-house-school",
   "displayName": "Reddam House School",
+  "schoolName": "Reddam House School",
   "shortName": "Reddam",
   "country": "South Africa",
   "countryCode": "ZA",
   "city": "Johannesburg",
-  "address": "1 Reddam Avenue, Bryanston, Johannesburg, 2021",
+  "address": { "street": "1 Reddam Avenue, Bryanston", "city": "Johannesburg", "postalCode": "2021", "country": "South Africa" },
   "phone": "+27 11 555 3456",
   "email": "info@reddamhouse.co.za",
   "website": "https://www.reddamhouse.co.za",

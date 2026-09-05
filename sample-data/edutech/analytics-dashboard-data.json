@@ -1,0 +1,46 @@
+{
+  "enrollmentTrends": [
+    { "year": "2021", "primary": 450, "secondary": 380, "tertiary": 210 },
+    { "year": "2022", "primary": 480, "secondary": 410, "tertiary": 250 },
+    { "year": "2023", "primary": 520, "secondary": 460, "tertiary": 290 },
+    { "year": "2024", "primary": 560, "secondary": 510, "tertiary": 340 },
+    { "year": "2025", "primary": 610, "secondary": 570, "tertiary": 400 }
+  ],
+  "gradeDistribution": [
+    { "grade": "Distinction (A*)", "count": 145 },
+    { "grade": "Merit (A)", "count": 320 },
+    { "grade": "Credit (B)", "count": 480 },
+    { "grade": "Pass (C)", "count": 210 },
+    { "grade": "Unsatisfactory (F)", "count": 45 }
+  ],
+  "subjectPerformance": [
+    { "subject": "Mathematics", "averageScore": 76.5, "passRate": 88.2 },
+    { "subject": "Science", "averageScore": 81.0, "passRate": 92.4 },
+    { "subject": "English Language", "averageScore": 84.5, "passRate": 95.1 },
+    { "subject": "Electrical Technology", "averageScore": 79.2, "passRate": 90.0 }
+  ],
+  "atRiskStudents": [
+    { "studentId": 101, "name": "Moses Phiri", "grade": "Form 3", "riskLevel": "High", "reason": "Attendance below 75%, failing Math" },
+    { "studentId": 102, "name": "Chipo Moyo", "grade": "Grade 9", "riskLevel": "Medium", "reason": "Missing 4 assignments in Science" }
+  ],
+  "provincialData": [
+    { "province": "Lusaka", "schoolsCount": 12, "totalStudents": 4200 },
+    { "province": "Copperbelt", "schoolsCount": 18, "totalStudents": 5800 },
+    { "province": "Southern", "schoolsCount": 8, "totalStudents": 2400 }
+  ],
+  "feeCollectionTrends": [
+    { "month": "Jan", "collected": 450000.0, "target": 500000.0 },
+    { "month": "Feb", "collected": 820000.0, "target": 850000.0 },
+    { "month": "Mar", "collected": 960000.0, "target": 950000.0 }
+  ],
+  "teacherMetrics": [
+    { "department": "Science", "teachersCount": 14, "avgExperienceYears": 6.5 },
+    { "department": "Mathematics", "teachersCount": 12, "avgExperienceYears": 7.2 },
+    { "department": "Vocational Trades", "teachersCount": 10, "avgExperienceYears": 8.0 }
+  ],
+  "sdg4Indicators": [
+    { "indicator": "Primary Completion Rate", "value": "94.2%", "status": "On Track" },
+    { "indicator": "Gender Parity Index", "value": "0.99", "status": "Achieved" },
+    { "indicator": "Trained Teachers Ratio", "value": "98.5%", "status": "Achieved" }
+  ]
+}

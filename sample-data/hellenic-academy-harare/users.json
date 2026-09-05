@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-HELLENIC-ACADEMY-HARARE-001",
+    "username": "admin.hellenic-academy-harare",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@hellenic-academy-harare.edu",
+    "userRole": "School Administrator",
+    "tenantId": "hellenic-academy-harare",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-HELLENIC-ACADEMY-HARARE-002",
+    "username": "staff.hellenic-academy-harare",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@hellenic-academy-harare.edu",
+    "userRole": "Teacher",
+    "tenantId": "hellenic-academy-harare",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

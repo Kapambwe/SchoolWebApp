@@ -28,7 +28,7 @@
     "registrationNumber": "DLZ 3456",
     "type": "Minibus",
     "capacity": 22,
-    "status": "Maintenance",
+    "status": "InMaintenance",
     "driver": "Joseph Banda"
   }
 ]

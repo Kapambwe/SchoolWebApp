@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-REDDAM-HOUSE-SCHOOL-001",
+    "username": "admin.reddam-house-school",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@reddam-house-school.edu",
+    "userRole": "School Administrator",
+    "tenantId": "reddam-house-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-REDDAM-HOUSE-SCHOOL-002",
+    "username": "staff.reddam-house-school",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@reddam-house-school.edu",
+    "userRole": "Teacher",
+    "tenantId": "reddam-house-school",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

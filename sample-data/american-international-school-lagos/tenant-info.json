@@ -1,11 +1,12 @@
 {
   "tenantId": "american-international-school-lagos",
   "displayName": "American International School Lagos",
+  "schoolName": "American International School Lagos",
   "shortName": "AISL",
   "country": "Nigeria",
   "countryCode": "NG",
   "city": "Lagos",
-  "address": "Behind Ecobank, Lekki Phase 1, Lagos",
+  "address": { "street": "Behind Ecobank, Lekki Phase 1", "city": "Lagos", "country": "Nigeria" },
   "phone": "+234 1 270 3854",
   "email": "info@aislagos.edu.ng",
   "website": "https://www.aislagos.edu.ng",

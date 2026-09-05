@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-UNIVERSITY-OF-ZIMBABWE-001",
+    "username": "admin.university-of-zimbabwe",
+    "fullName": "Administrator",
+    "position": "University Administrator",
+    "department": "Administration",
+    "email": "admin@university-of-zimbabwe.edu",
+    "userRole": "University Administrator",
+    "tenantId": "university-of-zimbabwe",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-UNIVERSITY-OF-ZIMBABWE-002",
+    "username": "staff.university-of-zimbabwe",
+    "fullName": "Lead Academic",
+    "position": "Lecturer",
+    "department": "Academics",
+    "email": "staff@university-of-zimbabwe.edu",
+    "userRole": "Lecturer",
+    "tenantId": "university-of-zimbabwe",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

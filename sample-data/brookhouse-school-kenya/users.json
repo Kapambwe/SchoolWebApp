@@ -1,0 +1,36 @@
+[
+  {
+    "userId": "USR-BROOKHOUSE-SCHOOL-KENYA-001",
+    "username": "admin.brookhouse-school-kenya",
+    "fullName": "Administrator",
+    "position": "School Administrator",
+    "department": "Administration",
+    "email": "admin@brookhouse-school-kenya.edu",
+    "userRole": "School Administrator",
+    "tenantId": "brookhouse-school-kenya",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Dashboard.Analytics",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.View",
+      "SchoolApp.Admin.Users"
+    ]
+  },
+  {
+    "userId": "USR-BROOKHOUSE-SCHOOL-KENYA-002",
+    "username": "staff.brookhouse-school-kenya",
+    "fullName": "Lead Academic",
+    "position": "Teacher",
+    "department": "Academics",
+    "email": "staff@brookhouse-school-kenya.edu",
+    "userRole": "Teacher",
+    "tenantId": "brookhouse-school-kenya",
+    "accountStatus": "Active",
+    "permissions": [
+      "SchoolApp.Dashboard.View",
+      "SchoolApp.Students.View",
+      "SchoolApp.Teachers.Timetable"
+    ]
+  }
+]

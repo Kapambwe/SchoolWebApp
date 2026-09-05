@@ -1,0 +1,23 @@
+[
+  {
+    "activityId": 1,
+    "activityName": "Advanced Safety Protocols Workshop",
+    "provider": "National Safety Council",
+    "completionDate": "2026-02-23T00:00:00Z",
+    "creditsEarned": 2.0
+  },
+  {
+    "activityId": 2,
+    "activityName": "National Electrical Code (NEC) Updates",
+    "provider": "NFPA",
+    "completionDate": "2026-01-15T00:00:00Z",
+    "creditsEarned": 4.0
+  },
+  {
+    "activityId": 3,
+    "activityName": "Solar PV Maintenance Seminar",
+    "provider": "Renewable Energy Institute",
+    "completionDate": "2025-11-20T00:00:00Z",
+    "creditsEarned": 3.5
+  }
+]

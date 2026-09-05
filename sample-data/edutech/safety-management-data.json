@@ -1,0 +1,19 @@
+{
+  "safetyChecklist": [
+    { "id": 1, "task": "Verify emergency stop buttons are operational", "category": "Electrical", "status": "Passed", "lastChecked": "2026-02-28T08:00:00Z", "inspector": "Patrick Chanda" },
+    { "id": 2, "task": "Check fire extinguisher pressure gauges", "category": "Fire Safety", "status": "Passed", "lastChecked": "2026-02-28T08:15:00Z", "inspector": "Patrick Chanda" },
+    { "id": 3, "task": "Inspect eye wash station fluid level & expiration", "category": "First Aid", "status": "Passed", "lastChecked": "2026-02-28T08:30:00Z", "inspector": "Patrick Chanda" },
+    { "id": 4, "task": "Clear unobstructed access to main circuit breakers", "category": "Electrical", "status": "Passed", "lastChecked": "2026-02-28T08:45:00Z", "inspector": "Patrick Chanda" }
+  ],
+  "safetyEquipment": [
+    { "id": 1, "name": "Auto-Darkening Welding Helmets", "quantity": 15, "condition": "Good", "lastInspected": "2026-02-15T00:00:00Z" },
+    { "id": 2, "name": "Heavy-Duty Leather Welding Gloves", "quantity": 25, "condition": "Good", "lastInspected": "2026-02-15T00:00:00Z" },
+    { "id": 3, "name": "High-Voltage Insulated Rubber Gloves (Class 2)", "quantity": 10, "condition": "Good", "lastInspected": "2026-02-10T00:00:00Z" },
+    { "id": 4, "name": "Face Shields & Chemical Splash Goggles", "quantity": 30, "condition": "Good", "lastInspected": "2026-02-01T00:00:00Z" }
+  ],
+  "safetyTraining": [
+    { "id": 1, "courseTitle": "General Workshop Safety & PPE Standards", "conductedDate": "2026-01-10T00:00:00Z", "attendeesCount": 45, "instructor": "Patrick Chanda" },
+    { "id": 2, "courseTitle": "Electrical Hazard Awareness & LOTO Protocols", "conductedDate": "2026-01-24T00:00:00Z", "attendeesCount": 32, "instructor": "Master Electrician Brown" },
+    { "id": 3, "courseTitle": "First Aid & CPR Certification for Workshop Instructors", "conductedDate": "2026-02-05T00:00:00Z", "attendeesCount": 12, "instructor": "Red Cross Instructor" }
+  ]
+}
