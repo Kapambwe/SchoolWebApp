@@ -1,0 +1,99 @@
+{
+  "jurisdictions": [
+    {
+      "id": 1,
+      "jurisdiction": "zambia",
+      "jurisdictionName": "Republic of Zambia",
+      "countryCode": "ZM",
+      "taxAuthority": "Zambia Revenue Authority (ZRA)",
+      "taxAuthorityUrl": "https://www.zra.org.zm",
+      "eFilingUrl": "https://efiling.zra.org.zm",
+      "corporateTaxRate": 0.30,
+      "vatRate": 0.16,
+      "withholdingTaxRate": 0.15,
+      "currency": "ZMW",
+      "isActive": true,
+      "apiEndpoint": "https://api.zra.org.zm/v1",
+      "taxRateTiers": [
+        { "minIncome": 0, "maxIncome": 54000, "taxRate": 0, "fixedAmount": 0, "description": "First ZMW 54,000 - Tax Free" },
+        { "minIncome": 54001, "maxIncome": 57600, "taxRate": 0.25, "fixedAmount": 0, "description": "Next ZMW 3,600 - 25%" },
+        { "minIncome": 57601, "maxIncome": 93600, "taxRate": 0.30, "fixedAmount": 900, "description": "Next ZMW 36,000 - 30%" },
+        { "minIncome": 93601, "maxIncome": 999999999, "taxRate": 0.375, "fixedAmount": 11700, "description": "Above ZMW 93,600 - 37.5%" }
+      ]
+    }
+  ],
+  "deadlines": [
+    {
+      "id": 1,
+      "taxType": "vat",
+      "deadlineName": "Monthly VAT Return",
+      "description": "VAT return for registered taxpayers",
+      "periodType": "monthly",
+      "dueDate": "2024-12-18",
+      "dayOfMonth": 18,
+      "isRecurring": true,
+      "frequency": "monthly",
+      "reminderDaysBefore": 7,
+      "isActive": true,
+      "jurisdiction": "zambia",
+      "notes": "Due on or before the 18th day of the following month"
+    },
+    {
+      "id": 2,
+      "taxType": "paye",
+      "deadlineName": "Monthly PAYE Return",
+      "description": "Pay As You Earn tax return for employers",
+      "periodType": "monthly",
+      "dueDate": "2024-12-10",
+      "dayOfMonth": 10,
+      "isRecurring": true,
+      "frequency": "monthly",
+      "reminderDaysBefore": 5,
+      "isActive": true,
+      "jurisdiction": "zambia",
+      "notes": "Due on or before the 10th day of the following month"
+    },
+    {
+      "id": 3,
+      "taxType": "provisionalTax",
+      "deadlineName": "Quarterly Provisional Tax",
+      "description": "Provisional corporate tax payment",
+      "periodType": "quarterly",
+      "dueDate": "2024-12-31",
+      "isRecurring": true,
+      "frequency": "quarterly",
+      "reminderDaysBefore": 14,
+      "isActive": true,
+      "jurisdiction": "zambia",
+      "notes": "Due at the end of each quarter"
+    },
+    {
+      "id": 4,
+      "taxType": "corporateTax",
+      "deadlineName": "Annual Company Income Tax",
+      "description": "Annual company income tax return",
+      "periodType": "annual",
+      "dueDate": "2024-06-21",
+      "isRecurring": true,
+      "frequency": "annual",
+      "reminderDaysBefore": 30,
+      "isActive": true,
+      "jurisdiction": "zambia",
+      "notes": "Due within 6 months after the end of the accounting period"
+    }
+  ],
+  "formTemplates": [
+    { "id": 1, "formCode": "VAT01", "formName": "Value Added Tax Return", "taxType": "vat", "formVersion": "2024", "jurisdiction": "zambia", "formUrl": "https://www.zra.org.zm/forms/vat01.pdf", "instructions": "Complete all sections. Attach supporting schedules for purchases and sales.", "isActive": true, "effectiveDate": "2024-01-01" },
+    { "id": 2, "formCode": "IT01", "formName": "Company Income Tax Return", "taxType": "corporateTax", "formVersion": "2024", "jurisdiction": "zambia", "formUrl": "https://www.zra.org.zm/forms/it01.pdf", "instructions": "Annual income tax return for companies. Include audited financial statements.", "isActive": true, "effectiveDate": "2024-01-01" },
+    { "id": 3, "formCode": "PAYE01", "formName": "PAYE Monthly Return", "taxType": "paye", "formVersion": "2024", "jurisdiction": "zambia", "formUrl": "https://www.zra.org.zm/forms/paye01.pdf", "instructions": "Submit monthly PAYE deductions with employee details.", "isActive": true, "effectiveDate": "2024-01-01" }
+  ],
+  "taxReturns": [
+    { "id": 1, "returnNumber": "VAT-2024-11", "type": "vat", "periodType": "monthly", "periodStart": "2024-11-01", "periodEnd": "2024-11-30", "dueDate": "2024-12-18", "status": "filed", "taxPayerTpin": "1001234567", "taxPayerName": "Sample Trading Company Ltd", "grossIncome": 1250000, "taxableIncome": 1250000, "taxDue": 200000, "taxPaid": 200000, "filedDate": "2024-12-15", "filedBy": "Finance Manager", "filingMethod": "Electronic", "confirmationNumber": "ZRA2024110054321", "preparedBy": "Accountant", "preparedDate": "2024-12-10", "createdDate": "2024-12-01", "createdBy": "System" },
+    { "id": 2, "returnNumber": "PAYE-2024-11", "type": "paye", "periodType": "monthly", "periodStart": "2024-11-01", "periodEnd": "2024-11-30", "dueDate": "2024-12-10", "status": "filed", "taxPayerTpin": "1001234567", "taxPayerName": "Sample Trading Company Ltd", "grossIncome": 450000, "taxableIncome": 450000, "taxDue": 87500, "taxPaid": 87500, "filedDate": "2024-12-08", "filedBy": "HR Manager", "filingMethod": "Electronic", "confirmationNumber": "ZRA2024110054322", "preparedBy": "Payroll Officer", "preparedDate": "2024-12-05", "createdDate": "2024-12-01", "createdBy": "System" },
+    { "id": 3, "returnNumber": "VAT-2024-12", "type": "vat", "periodType": "monthly", "periodStart": "2024-12-01", "periodEnd": "2024-12-31", "dueDate": "2025-01-18", "status": "inProgress", "taxPayerTpin": "1001234567", "taxPayerName": "Sample Trading Company Ltd", "grossIncome": 1380000, "taxableIncome": 1380000, "taxDue": 220800, "taxPaid": 0, "preparedBy": "Accountant", "preparedDate": "2024-12-20", "createdDate": "2024-12-15", "createdBy": "System" }
+  ],
+  "worksheets": [
+    { "id": 1, "worksheetNumber": "TCW-2024-001", "taxType": "corporateTax", "periodStart": "2024-01-01", "periodEnd": "2024-12-31", "taxPayerName": "Sample Trading Company Ltd", "taxPayerTpin": "1001234567", "grossRevenue": 15000000, "costOfSales": 9000000, "operatingExpenses": 3500000, "otherIncome": 250000, "allowableDeductions": 450000, "capitalAllowances": 350000, "taxLossesBroughtForward": 0, "taxRate": 0.30, "taxCredits": 50000, "withholdingTaxPaid": 75000, "provisionalTaxPaid": 200000, "status": "Draft", "createdDate": "2024-12-01", "createdBy": "Accountant" }
+  ],
+  "filings": []
+}

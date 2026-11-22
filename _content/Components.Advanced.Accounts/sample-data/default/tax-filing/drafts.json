@@ -1,0 +1,30 @@
+[
+  {
+    "draftId": "8f0c3a18-5b25-4c80-aaf1-2bf2d8f83a01",
+    "tenantId": "default",
+    "authorityId": "zra",
+    "taxTypeId": "vat",
+    "yearOfAssessment": 2024,
+    "periodStart": "2024-11-01",
+    "periodEnd": "2024-11-30",
+    "wizardAnswers": {
+      "businessRegistered": "true",
+      "hasZeroRatedSupplies": "false"
+    },
+    "sectionData": {
+      "business": {
+        "tpin": "1001234567",
+        "businessName": "Sample Trading Company Ltd"
+      },
+      "vatSummary": {
+        "outputVat": "200000",
+        "inputVat": "85000"
+      }
+    },
+    "status": "readyForReview",
+    "createdDate": "2024-12-01T08:30:00Z",
+    "createdBy": "Accountant",
+    "lastModifiedDate": "2024-12-10T14:15:00Z",
+    "lastModifiedBy": "Finance Manager"
+  }
+]

@@ -1,0 +1,170 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Profit & Loss - Standard",
+      "description": "Standard Profit & Loss report with revenue, COGS, and expenses",
+      "reportType": "ProfitAndLoss",
+      "category": "Financial",
+      "isSystemTemplate": true,
+      "usageCount": 145,
+      "dateRangePreset": "ThisMonth",
+      "columns": [
+        { "fieldName": "Account", "displayName": "Account", "dataType": "Text", "displayOrder": 1, "isVisible": true },
+        { "fieldName": "Amount", "displayName": "Amount (ZMW)", "dataType": "Currency", "displayOrder": 2, "isVisible": true, "aggregation": "Sum" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Balance Sheet - Comparative",
+      "description": "Balance sheet with period-over-period comparison",
+      "reportType": "BalanceSheet",
+      "category": "Financial",
+      "isSystemTemplate": true,
+      "usageCount": 98,
+      "enableComparison": true,
+      "comparisonType": "PreviousYear",
+      "dateRangePreset": "ThisYear"
+    },
+    {
+      "id": 3,
+      "name": "Cash Flow - Monthly Trend",
+      "description": "Monthly cash flow with trend analysis",
+      "reportType": "CashFlow",
+      "category": "Financial",
+      "isSystemTemplate": true,
+      "usageCount": 76,
+      "dateRangePreset": "Last365Days",
+      "groupByFields": ["Month"],
+      "showSubtotals": true,
+      "showGrandTotal": true
+    },
+    {
+      "id": 4,
+      "name": "Aged Receivables - 30/60/90",
+      "description": "Customer receivables aged by 30/60/90+ days",
+      "reportType": "AgedReceivables",
+      "category": "Operational",
+      "isSystemTemplate": true,
+      "usageCount": 234,
+      "columns": [
+        { "fieldName": "Customer", "displayName": "Customer", "dataType": "Text", "displayOrder": 1, "isVisible": true },
+        { "fieldName": "Current", "displayName": "Current", "dataType": "Currency", "displayOrder": 2, "isVisible": true },
+        { "fieldName": "Days30", "displayName": "1-30 Days", "dataType": "Currency", "displayOrder": 3, "isVisible": true },
+        { "fieldName": "Days60", "displayName": "31-60 Days", "dataType": "Currency", "displayOrder": 4, "isVisible": true },
+        { "fieldName": "Days90", "displayName": "61-90 Days", "dataType": "Currency", "displayOrder": 5, "isVisible": true },
+        { "fieldName": "Days90Plus", "displayName": "90+ Days", "dataType": "Currency", "displayOrder": 6, "isVisible": true },
+        { "fieldName": "Total", "displayName": "Total", "dataType": "Currency", "displayOrder": 7, "isVisible": true, "aggregation": "Sum" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Sales Analysis by Customer",
+      "description": "Detailed sales breakdown by customer",
+      "reportType": "SalesAnalysis",
+      "category": "Analytical",
+      "isSystemTemplate": true,
+      "usageCount": 187,
+      "dateRangePreset": "ThisYear",
+      "groupByFields": ["Customer"],
+      "showSubtotals": true,
+      "sortField": "TotalSales",
+      "sortDirection": "Descending"
+    },
+    {
+      "id": 6,
+      "name": "Budget vs Actual",
+      "description": "Budget variance analysis with percentage",
+      "reportType": "BudgetVariance",
+      "category": "Management",
+      "isSystemTemplate": true,
+      "usageCount": 156,
+      "dateRangePreset": "ThisMonth",
+      "columns": [
+        { "fieldName": "Account", "displayName": "Account", "dataType": "Text", "displayOrder": 1, "isVisible": true },
+        { "fieldName": "Budget", "displayName": "Budget", "dataType": "Currency", "displayOrder": 2, "isVisible": true },
+        { "fieldName": "Actual", "displayName": "Actual", "dataType": "Currency", "displayOrder": 3, "isVisible": true },
+        { "fieldName": "Variance", "displayName": "Variance", "dataType": "Currency", "displayOrder": 4, "isVisible": true },
+        { "fieldName": "VariancePercent", "displayName": "Variance %", "dataType": "Percentage", "displayOrder": 5, "isVisible": true }
+      ]
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "name": "Monthly Revenue Breakdown",
+      "description": "Detailed revenue analysis by month for Zambian operations",
+      "reportType": "SalesAnalysis",
+      "createdBy": "admin@zambiaaccounting.com",
+      "createdMonthsAgo": 3,
+      "isMemorized": true,
+      "isShared": true,
+      "sharedWithRoles": ["Manager", "Accountant"],
+      "dateRangePreset": "Last365Days",
+      "groupByFields": ["Month", "Category"],
+      "showSubtotals": true,
+      "showGrandTotal": true
+    },
+    {
+      "id": 2,
+      "name": "Copperbelt Operations - P&L",
+      "description": "Profit & Loss for Copperbelt region mining operations",
+      "reportType": "ProfitAndLoss",
+      "createdBy": "manager@zambiaaccounting.com",
+      "createdMonthsAgo": 2,
+      "isMemorized": true,
+      "dateRangePreset": "ThisQuarter",
+      "enableComparison": true,
+      "comparisonType": "PreviousYear",
+      "filters": [
+        { "fieldName": "Location", "operator": "Equals", "value": "Copperbelt" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Top 20 Customers YTD",
+      "description": "Year-to-date sales for top 20 customers",
+      "reportType": "CustomerSummary",
+      "createdBy": "sales@zambiaaccounting.com",
+      "createdMonthsAgo": 1,
+      "isMemorized": false,
+      "dateRangePreset": "ThisYear",
+      "sortField": "TotalSales",
+      "sortDirection": "Descending",
+      "filters": [
+        { "fieldName": "RowNumber", "operator": "LessThanOrEqual", "value": "20" }
+      ]
+    }
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "customReportId": 1,
+      "isActive": true,
+      "frequency": "Monthly",
+      "dayOfMonth": 5,
+      "executionTimeHour": 7,
+      "executionTimeMinute": 0,
+      "emailRecipients": ["accounting@zambiaaccounting.com"],
+      "exportFormats": ["PDF"],
+      "emailSubject": "Monthly Revenue Report - Zambia Operations",
+      "emailBody": "Please find attached the monthly revenue breakdown report.",
+      "lastRunDaysAgo": 5,
+      "nextRunDaysFromNow": 25
+    },
+    {
+      "id": 2,
+      "customReportId": 3,
+      "isActive": true,
+      "frequency": "Weekly",
+      "dayOfWeek": 1,
+      "executionTimeHour": 9,
+      "executionTimeMinute": 0,
+      "emailRecipients": ["sales@zambiaaccounting.com", "manager@zambiaaccounting.com"],
+      "exportFormats": ["Excel"],
+      "emailSubject": "Weekly Top Customers Report",
+      "emailBody": "Weekly update on top performing customers.",
+      "lastRunDaysAgo": 7
+    }
+  ]
+}

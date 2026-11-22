@@ -1,0 +1,35 @@
+{
+  "contributionTypes": [
+    {
+      "id": 1, "code": "PAYE", "name": "Pay As You Earn", "authority": "Zambia Revenue Authority",
+      "employeeRate": 0, "hasEmployerContribution": false, "employerRate": 0,
+      "isActive": true, "effectiveDate": "2024-01-01", "calculationMethod": "ProgressiveBands", "sortOrder": 1,
+      "bands": [
+        { "from": 0, "to": 4500, "rate": 0 },
+        { "from": 4500, "to": 6900, "rate": 25 },
+        { "from": 6900, "to": 8100, "rate": 30 },
+        { "from": 8100, "rate": 37.5 }
+      ]
+    },
+    {
+      "id": 2, "code": "RETIREMENT", "name": "Retirement Plan", "authority": "Configured Retirement Administrator",
+      "employeeRate": 5, "hasEmployerContribution": true, "employerRate": 5,
+      "maximumAmountPerPerson": 1278.90, "isActive": true, "effectiveDate": "2024-01-01", "calculationMethod": "Percentage", "sortOrder": 2
+    },
+    {
+      "id": 3, "code": "HEALTH_PLAN", "name": "Employee Health Plan", "authority": "Configured Health Plan Administrator",
+      "employeeRate": 1, "hasEmployerContribution": false, "employerRate": 0,
+      "minimumAmount": 28, "maximumAmountPerPerson": 2555.80, "isActive": true, "effectiveDate": "2024-01-01", "calculationMethod": "Percentage", "sortOrder": 3
+    },
+    {
+      "id": 4, "code": "SKILLS_LEVY", "name": "Skills Development Levy", "authority": "Configured Skills Authority",
+      "employeeRate": 0, "hasEmployerContribution": true, "employerRate": 1,
+      "isActive": true, "effectiveDate": "2024-01-01", "calculationMethod": "Percentage", "sortOrder": 4
+    },
+    {
+      "id": 5, "code": "WORKPLACE_COVER", "name": "Workplace Cover", "authority": "Configured Workplace Insurer",
+      "employeeRate": 0, "hasEmployerContribution": true, "employerRate": 0.5,
+      "isActive": true, "effectiveDate": "2024-01-01", "calculationMethod": "Percentage", "sortOrder": 5
+    }
+  ]
+}

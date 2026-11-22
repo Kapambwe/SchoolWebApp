@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2024-001",
+    "customerId": 1,
+    "customerName": "ABC Mining Corp",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 20,
+    "status": "Open",
+    "sentDateDaysAgo": 10,
+    "subTotal": 125000,
+    "taxRate": 16,
+    "taxAmount": 20000,
+    "total": 145000,
+    "terms": "Net 30",
+    "customerMessage": "Thank you for your business!",
+    "createdBy": "Sales Team",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      { "lineNumber": 1, "description": "Professional Services - Month 1", "quantity": 100, "unitPrice": 500, "amount": 50000, "itemType": "Service" },
+      { "lineNumber": 2, "description": "Professional Services - Month 2", "quantity": 100, "unitPrice": 500, "amount": 50000, "itemType": "Service" },
+      { "lineNumber": 3, "description": "Software License - Annual", "quantity": 1, "unitPrice": 25000, "amount": 25000, "itemType": "Product" }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2024-002",
+    "customerId": 2,
+    "customerName": "XYZ Corporation",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 25,
+    "status": "Accepted",
+    "sentDateDaysAgo": 5,
+    "acceptedDateDaysAgo": 2,
+    "subTotal": 45000,
+    "taxRate": 16,
+    "taxAmount": 7200,
+    "total": 52200,
+    "terms": "Net 15",
+    "createdBy": "John Doe",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      { "lineNumber": 1, "description": "Training Services", "quantity": 40, "unitPrice": 750, "amount": 30000, "itemType": "Service" },
+      { "lineNumber": 2, "description": "Training Materials", "quantity": 50, "unitPrice": 300, "amount": 15000, "itemType": "Product" }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2024-003",
+    "customerId": 3,
+    "customerName": "Tech Solutions Ltd",
+    "estimateDateDaysAgo": 2,
+    "expirationDateDaysFromNow": 5,
+    "status": "Open",
+    "sentDateDaysAgo": 2,
+    "subTotal": 78000,
+    "taxRate": 16,
+    "taxAmount": 12480,
+    "total": 90480,
+    "terms": "50% upfront, 50% on completion",
+    "discountPercentage": 10,
+    "discountAmount": 7800,
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 2,
+    "lines": [
+      { "lineNumber": 1, "description": "System Implementation", "quantity": 1, "unitPrice": 60000, "amount": 60000, "itemType": "Service" },
+      { "lineNumber": 2, "description": "3 Months Support", "quantity": 3, "unitPrice": 6000, "amount": 18000, "itemType": "Service" }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2024-004",
+    "customerId": 1,
+    "customerName": "ABC Mining Corp",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysAgo": 15,
+    "status": "Expired",
+    "sentDateDaysAgo": 45,
+    "subTotal": 35000,
+    "taxRate": 16,
+    "taxAmount": 5600,
+    "total": 40600,
+    "createdBy": "Sales Team",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      { "lineNumber": 1, "description": "Consulting Services", "quantity": 50, "unitPrice": 700, "amount": 35000, "itemType": "Service" }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2024-005",
+    "customerId": 4,
+    "customerName": "Retail Group Zambia",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 10,
+    "status": "Invoiced",
+    "sentDateDaysAgo": 20,
+    "acceptedDateDaysAgo": 15,
+    "convertedInvoiceId": 150,
+    "convertedInvoiceNumber": "INV-2024-150",
+    "subTotal": 95000,
+    "taxRate": 16,
+    "taxAmount": 15200,
+    "total": 110200,
+    "terms": "Net 30",
+    "createdBy": "Account Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      { "lineNumber": 1, "description": "Point of Sale System", "quantity": 1, "unitPrice": 75000, "amount": 75000, "itemType": "Product" },
+      { "lineNumber": 2, "description": "Installation and Setup", "quantity": 1, "unitPrice": 20000, "amount": 20000, "itemType": "Service" }
+    ]
+  }
+]

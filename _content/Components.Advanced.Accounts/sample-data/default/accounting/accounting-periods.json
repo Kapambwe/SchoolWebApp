@@ -1,0 +1,94 @@
+{
+  "periods": [
+    {
+      "id": 1,
+      "periodName": "January 2024",
+      "startDate": "2024-01-01",
+      "endDate": "2024-01-31",
+      "fiscalYear": 2024,
+      "periodNumber": 1,
+      "isClosed": true,
+      "closedBy": "Grace Mulenga",
+      "closedDate": "2024-02-05",
+      "closeNotes": "All reconciliations completed. Period closed successfully."
+    },
+    {
+      "id": 2,
+      "periodName": "February 2024",
+      "startDate": "2024-02-01",
+      "endDate": "2024-02-29",
+      "fiscalYear": 2024,
+      "periodNumber": 2,
+      "isClosed": false,
+      "closedBy": null,
+      "closedDate": null,
+      "closeNotes": null
+    },
+    {
+      "id": 3,
+      "periodName": "March 2024",
+      "startDate": "2024-03-01",
+      "endDate": "2024-03-31",
+      "fiscalYear": 2024,
+      "periodNumber": 3,
+      "isClosed": false,
+      "closedBy": null,
+      "closedDate": null,
+      "closeNotes": null
+    },
+    {
+      "id": 4,
+      "periodName": "December 2023",
+      "startDate": "2023-12-01",
+      "endDate": "2023-12-31",
+      "fiscalYear": 2023,
+      "periodNumber": 12,
+      "isClosed": true,
+      "closedBy": "John Mwamba",
+      "closedDate": "2024-01-10",
+      "closeNotes": "Year-end close. All adjustments posted."
+    }
+  ],
+  "checklist": [
+    {
+      "id": 1,
+      "periodId": 2,
+      "taskName": "Complete bank reconciliations",
+      "description": "Reconcile all bank accounts for February 2024",
+      "isCompleted": false,
+      "completedBy": null,
+      "completedDate": null,
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "periodId": 2,
+      "taskName": "Post depreciation entries",
+      "description": "Record monthly depreciation for all fixed assets",
+      "isCompleted": true,
+      "completedBy": "Grace Mulenga",
+      "completedDate": "2024-02-28",
+      "sortOrder": 2
+    },
+    {
+      "id": 3,
+      "periodId": 2,
+      "taskName": "Review accounts receivable aging",
+      "description": "Analyze AR aging and follow up on overdue invoices",
+      "isCompleted": false,
+      "completedBy": null,
+      "completedDate": null,
+      "sortOrder": 3
+    },
+    {
+      "id": 4,
+      "periodId": 2,
+      "taskName": "Accrue payroll liabilities",
+      "description": "Record accrued salaries and statutory deductions",
+      "isCompleted": true,
+      "completedBy": "Grace Mulenga",
+      "completedDate": "2024-02-29",
+      "sortOrder": 4
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "d3f4d4a0-9f31-4cf6-a5c1-c83ac4e7d101",
+    "reportType": "BankReconciliation",
+    "reconciliationId": 101,
+    "reconciliationNumber": "REC-2024-001",
+    "bankAccountName": "Zanaco Operating Account",
+    "statementDate": "2024-11-30",
+    "format": "PDF",
+    "fileName": "REC-2024-001.pdf",
+    "contentType": "application/pdf",
+    "fileBytes": "U2FtcGxlIGJhbmsgcmVjb25jaWxpYXRpb24gcmVwb3J0",
+    "exportedAt": "2024-12-02T10:00:00Z",
+    "exportedBy": "Finance Manager"
+  },
+  {
+    "id": "d3f4d4a0-9f31-4cf6-a5c1-c83ac4e7d102",
+    "reportType": "BankReconciliation",
+    "reconciliationId": 102,
+    "reconciliationNumber": "REC-2024-002",
+    "bankAccountName": "Stanbic Payroll Account",
+    "statementDate": "2024-11-30",
+    "format": "CSV",
+    "fileName": "REC-2024-002.csv",
+    "contentType": "text/csv",
+    "fileBytes": "UmVjb25jaWxpYXRpb24sU3RhdHVzDQoxMDIsQ29tcGxldGU=",
+    "exportedAt": "2024-12-03T11:30:00Z",
+    "exportedBy": "Accountant"
+  }
+]

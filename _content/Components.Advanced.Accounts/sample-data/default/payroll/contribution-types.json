@@ -1,0 +1,109 @@
+{
+  "contributionTypes": [
+    {
+      "id": 1,
+      "code": "NHIMA",
+      "name": "NHIMA Contributions",
+      "authority": "National Health Insurance Management Authority",
+      "icon": "local_hospital",
+      "employeeRate": 1.0,
+      "hasEmployerContribution": false,
+      "employerRate": 0,
+      "minimumAmount": 28.00,
+      "maximumAmountPerPerson": 2555.80,
+      "isActive": true,
+      "effectiveDate": "2019-01-01",
+      "filingDeadlineDays": 14,
+      "employerNumberLabel": "NHIMA Employer Number",
+      "employeeNumberLabel": "NHIMA Number",
+      "employeeLiabilityAccount": "2120",
+      "colorPrimary": "#ef4444",
+      "colorSecondary": "#dc2626",
+      "informationalNotes": [
+        "Employee Contribution: 1% of gross salary",
+        "Minimum monthly contribution: ZMW 28.00",
+        "Maximum monthly contribution: ZMW 2,555.80",
+        "Contribution is paid by employee (deducted from salary)"
+      ],
+      "sortOrder": 1
+    },
+    {
+      "id": 2,
+      "code": "NAPSA",
+      "name": "NAPSA Contributions",
+      "authority": "National Pension Scheme Authority",
+      "icon": "savings",
+      "employeeRate": 5.0,
+      "hasEmployerContribution": true,
+      "employerRate": 5.0,
+      "maximumAmountPerPerson": 1278.90,
+      "isActive": true,
+      "effectiveDate": "2000-02-01",
+      "filingDeadlineDays": 14,
+      "employerNumberLabel": "NAPSA Employer Number",
+      "employeeNumberLabel": "NAPSA Number",
+      "employeeLiabilityAccount": "2110",
+      "employerExpenseAccount": "5200",
+      "employerLiabilityAccount": "2111",
+      "colorPrimary": "#3b82f6",
+      "colorSecondary": "#2563eb",
+      "informationalNotes": [
+        "Employee Contribution: 5% of gross salary (Maximum: ZMW 1,278.90)",
+        "Employer Contribution: 5% of gross salary (Maximum: ZMW 1,278.90)",
+        "Total monthly contribution: 10% (Employee 5% + Employer 5%)"
+      ],
+      "sortOrder": 2
+    },
+    {
+      "id": 3,
+      "code": "WCF",
+      "name": "Workers' Compensation Fund",
+      "authority": "Workers' Compensation Fund Control Board",
+      "icon": "health_and_safety",
+      "employeeRate": 0,
+      "hasEmployerContribution": true,
+      "employerRate": 1.5,
+      "isActive": false,
+      "effectiveDate": "2026-01-01",
+      "filingDeadlineDays": 21,
+      "employerNumberLabel": "WCF Employer Number",
+      "employeeNumberLabel": "N/A",
+      "employeeLiabilityAccount": "",
+      "employerExpenseAccount": "5210",
+      "employerLiabilityAccount": "2130",
+      "colorPrimary": "#f59e0b",
+      "colorSecondary": "#d97706",
+      "informationalNotes": [
+        "Employer Contribution: 1.5% of gross salary",
+        "Employee contribution: None",
+        "Provides workplace injury insurance coverage"
+      ],
+      "sortOrder": 3
+    },
+    {
+      "id": 4,
+      "code": "SDL",
+      "name": "Skills Development Levy",
+      "authority": "Technical Education, Vocational and Entrepreneurship Training Authority",
+      "icon": "school",
+      "employeeRate": 0,
+      "hasEmployerContribution": true,
+      "employerRate": 0.5,
+      "isActive": false,
+      "effectiveDate": "2027-01-01",
+      "filingDeadlineDays": 14,
+      "employerNumberLabel": "SDL Employer Number",
+      "employeeNumberLabel": "N/A",
+      "employeeLiabilityAccount": "",
+      "employerExpenseAccount": "5220",
+      "employerLiabilityAccount": "2140",
+      "colorPrimary": "#8b5cf6",
+      "colorSecondary": "#7c3aed",
+      "informationalNotes": [
+        "Employer Contribution: 0.5% of gross salary",
+        "Funds vocational and technical training programs"
+      ],
+      "sortOrder": 4
+    }
+  ]
+}

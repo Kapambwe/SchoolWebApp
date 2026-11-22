@@ -1,0 +1,16 @@
+[
+  {
+    "id": "18181818-1818-1818-1818-181818181818",
+    "title": "Approve Q1 Marketing Campaign Budget",
+    "description": "Sales team requests funding for a digital marketing campaign targeting new customer segments.",
+    "type": "Financial",
+    "priority": "High",
+    "status": "Pending",
+    "createdDate": "2026-08-01T06:00:00Z",
+    "dueDate": "2026-08-03T06:00:00Z",
+    "createdBy": "Demo User",
+    "assignedTo": "Current User",
+    "tags": [ "Marketing", "Growth", "Demo" ],
+    "metadata": { "requestedBudget": 15000, "expectedRoi": 3.2 }
+  }
+]

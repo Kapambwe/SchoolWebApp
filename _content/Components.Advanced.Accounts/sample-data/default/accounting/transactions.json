@@ -1,0 +1,276 @@
+[
+  {
+    "id": 1,
+    "transactionNumber": "TXN-2024-0001",
+    "transactionDate": "2024-01-15",
+    "description": "Payment received from Konkola Copper Mines PLC",
+    "type": "Receipt",
+    "status": "Posted",
+    "totalAmount": 850000.00,
+    "createdBy": "John Mwamba",
+    "lines": [
+      {
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 850000.00,
+        "creditAmount": 0,
+        "memo": "Receipt REF-001"
+      },
+      {
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 0,
+        "creditAmount": 850000.00,
+        "memo": "Invoice INV-2024-001"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "transactionNumber": "TXN-2024-0002",
+    "transactionDate": "2024-01-18",
+    "description": "Invoice sent to National Milling Corporation",
+    "type": "Invoice",
+    "status": "Posted",
+    "totalAmount": 425000.00,
+    "createdBy": "Sarah Banda",
+    "lines": [
+      {
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 425000.00,
+        "creditAmount": 0,
+        "memo": "Invoice INV-2024-002"
+      },
+      {
+        "accountId": 19,
+        "accountName": "Sales Revenue - Mining Products",
+        "debitAmount": 0,
+        "creditAmount": 425000.00,
+        "memo": "Copper concentrate sale"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "transactionNumber": "TXN-2024-0003",
+    "transactionDate": "2024-01-20",
+    "description": "Bill payment to ZESCO Limited",
+    "type": "Payment",
+    "status": "Posted",
+    "totalAmount": 185000.00,
+    "createdBy": "Michael Phiri",
+    "lines": [
+      {
+        "accountId": 11,
+        "accountName": "Accounts Payable",
+        "debitAmount": 185000.00,
+        "creditAmount": 0,
+        "memo": "Pay BILL-2024-001"
+      },
+      {
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 0,
+        "creditAmount": 185000.00,
+        "memo": "Payment PMT-001"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "transactionNumber": "TXN-2024-0004",
+    "transactionDate": "2024-01-22",
+    "description": "Monthly payroll processing",
+    "type": "JournalEntry",
+    "status": "Posted",
+    "totalAmount": 1250000.00,
+    "createdBy": "Grace Mulenga",
+    "lines": [
+      {
+        "accountId": 23,
+        "accountName": "Salaries and Wages",
+        "debitAmount": 1250000.00,
+        "creditAmount": 0,
+        "memo": "January payroll"
+      },
+      {
+        "accountId": 14,
+        "accountName": "PAYE Payable",
+        "debitAmount": 0,
+        "creditAmount": 187500.00,
+        "memo": "PAYE withholding"
+      },
+      {
+        "accountId": 15,
+        "accountName": "NAPSA Payable",
+        "debitAmount": 0,
+        "creditAmount": 62500.00,
+        "memo": "NAPSA contribution"
+      },
+      {
+        "accountId": 2,
+        "accountName": "Cash - Payroll Account",
+        "debitAmount": 0,
+        "creditAmount": 1000000.00,
+        "memo": "Net payroll"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "transactionNumber": "TXN-2024-0005",
+    "transactionDate": "2024-01-25",
+    "description": "Office supplies purchase - Printflow Zambia",
+    "type": "Bill",
+    "status": "Posted",
+    "totalAmount": 35000.00,
+    "createdBy": "Peter Lungu",
+    "lines": [
+      {
+        "accountId": 28,
+        "accountName": "Office Supplies",
+        "debitAmount": 35000.00,
+        "creditAmount": 0,
+        "memo": "Office supplies"
+      },
+      {
+        "accountId": 11,
+        "accountName": "Accounts Payable",
+        "debitAmount": 0,
+        "creditAmount": 35000.00,
+        "memo": "BILL-2024-002"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "transactionNumber": "TXN-2024-0006",
+    "transactionDate": "2024-01-28",
+    "description": "Payment received from Mopani Copper Mines PLC",
+    "type": "Receipt",
+    "status": "Posted",
+    "totalAmount": 625000.00,
+    "createdBy": "John Mwamba",
+    "lines": [
+      {
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 625000.00,
+        "creditAmount": 0,
+        "memo": "Receipt REF-002"
+      },
+      {
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 0,
+        "creditAmount": 625000.00,
+        "memo": "Invoice INV-2024-003"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "transactionNumber": "TXN-2024-0007",
+    "transactionDate": "2024-01-30",
+    "description": "Invoice to Zambian Breweries",
+    "type": "Invoice",
+    "status": "Posted",
+    "totalAmount": 380000.00,
+    "createdBy": "Sarah Banda",
+    "lines": [
+      {
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 380000.00,
+        "creditAmount": 0,
+        "memo": "Invoice INV-2024-004"
+      },
+      {
+        "accountId": 20,
+        "accountName": "Sales Revenue - Agricultural Products",
+        "debitAmount": 0,
+        "creditAmount": 380000.00,
+        "memo": "Grain supply"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "transactionNumber": "TXN-2024-0008",
+    "transactionDate": "2024-02-01",
+    "description": "Monthly depreciation entry",
+    "type": "JournalEntry",
+    "status": "Posted",
+    "totalAmount": 237500.00,
+    "createdBy": "Grace Mulenga",
+    "lines": [
+      {
+        "accountId": 26,
+        "accountName": "Depreciation Expense",
+        "debitAmount": 237500.00,
+        "creditAmount": 0,
+        "memo": "Monthly depreciation"
+      },
+      {
+        "accountId": 10,
+        "accountName": "Accumulated Depreciation",
+        "debitAmount": 0,
+        "creditAmount": 237500.00,
+        "memo": "Accumulated depreciation"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "transactionNumber": "TXN-2024-0009",
+    "transactionDate": "2024-02-05",
+    "description": "Rent payment - Lusaka office",
+    "type": "Payment",
+    "status": "Posted",
+    "totalAmount": 150000.00,
+    "createdBy": "Michael Phiri",
+    "lines": [
+      {
+        "accountId": 24,
+        "accountName": "Rent Expense",
+        "debitAmount": 150000.00,
+        "creditAmount": 0,
+        "memo": "February rent"
+      },
+      {
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 0,
+        "creditAmount": 150000.00,
+        "memo": "Rent payment"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "transactionNumber": "TXN-2024-0010",
+    "transactionDate": "2024-02-08",
+    "description": "Pending approval - Large equipment purchase",
+    "type": "JournalEntry",
+    "status": "Pending",
+    "totalAmount": 2500000.00,
+    "createdBy": "Peter Lungu",
+    "lines": [
+      {
+        "accountId": 7,
+        "accountName": "Fixed Assets - Equipment",
+        "debitAmount": 2500000.00,
+        "creditAmount": 0,
+        "memo": "New processing equipment"
+      },
+      {
+        "accountId": 11,
+        "accountName": "Accounts Payable",
+        "debitAmount": 0,
+        "creditAmount": 2500000.00,
+        "memo": "Equipment purchase"
+      }
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "accountNumber": "1000",
+    "accountName": "Cash - Main Operating Account",
+    "type": "Asset",
+    "balance": 2850000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Primary operating bank account"
+  },
+  {
+    "id": 2,
+    "accountNumber": "1010",
+    "accountName": "Cash - Payroll Account",
+    "type": "Asset",
+    "balance": 450000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Payroll disbursement account"
+  },
+  {
+    "id": 3,
+    "accountNumber": "1020",
+    "accountName": "Petty Cash",
+    "type": "Asset",
+    "balance": 15000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Petty cash fund"
+  },
+  {
+    "id": 4,
+    "accountNumber": "1100",
+    "accountName": "Accounts Receivable",
+    "type": "Asset",
+    "balance": 3850000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Trade receivables from customers"
+  },
+  {
+    "id": 5,
+    "accountNumber": "1200",
+    "accountName": "Inventory",
+    "type": "Asset",
+    "balance": 1250000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Raw materials and finished goods"
+  },
+  {
+    "id": 6,
+    "accountNumber": "1300",
+    "accountName": "Prepaid Expenses",
+    "type": "Asset",
+    "balance": 180000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Prepaid insurance and rent"
+  },
+  {
+    "id": 7,
+    "accountNumber": "1500",
+    "accountName": "Fixed Assets - Equipment",
+    "type": "Asset",
+    "balance": 8500000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Mining and processing equipment"
+  },
+  {
+    "id": 8,
+    "accountNumber": "1510",
+    "accountName": "Fixed Assets - Vehicles",
+    "type": "Asset",
+    "balance": 3200000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Fleet vehicles and trucks"
+  },
+  {
+    "id": 9,
+    "accountNumber": "1520",
+    "accountName": "Fixed Assets - Buildings",
+    "type": "Asset",
+    "balance": 12000000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Office and warehouse buildings"
+  },
+  {
+    "id": 10,
+    "accountNumber": "1600",
+    "accountName": "Accumulated Depreciation",
+    "type": "Asset",
+    "balance": -2850000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Accumulated depreciation on fixed assets"
+  },
+  {
+    "id": 11,
+    "accountNumber": "2000",
+    "accountName": "Accounts Payable",
+    "type": "Liability",
+    "balance": 2850000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Trade payables to suppliers"
+  },
+  {
+    "id": 12,
+    "accountNumber": "2100",
+    "accountName": "Accrued Expenses",
+    "type": "Liability",
+    "balance": 450000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Accrued wages and utilities"
+  },
+  {
+    "id": 13,
+    "accountNumber": "2200",
+    "accountName": "VAT Payable",
+    "type": "Liability",
+    "balance": 680000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "VAT collected on sales"
+  },
+  {
+    "id": 14,
+    "accountNumber": "2300",
+    "accountName": "PAYE Payable",
+    "type": "Liability",
+    "balance": 320000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Employee income tax withheld"
+  },
+  {
+    "id": 15,
+    "accountNumber": "2400",
+    "accountName": "NAPSA Payable",
+    "type": "Liability",
+    "balance": 185000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "National pension contributions"
+  },
+  {
+    "id": 16,
+    "accountNumber": "2500",
+    "accountName": "Long-term Loan",
+    "type": "Liability",
+    "balance": 5000000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Bank loan for equipment"
+  },
+  {
+    "id": 17,
+    "accountNumber": "3000",
+    "accountName": "Share Capital",
+    "type": "Equity",
+    "balance": 10000000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Issued share capital"
+  },
+  {
+    "id": 18,
+    "accountNumber": "3100",
+    "accountName": "Retained Earnings",
+    "type": "Equity",
+    "balance": 8500000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Accumulated profits"
+  },
+  {
+    "id": 19,
+    "accountNumber": "4000",
+    "accountName": "Sales Revenue - Mining Products",
+    "type": "Revenue",
+    "balance": 45000000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Revenue from copper and mineral sales"
+  },
+  {
+    "id": 20,
+    "accountNumber": "4100",
+    "accountName": "Sales Revenue - Agricultural Products",
+    "type": "Revenue",
+    "balance": 18000000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Revenue from crop and livestock sales"
+  },
+  {
+    "id": 21,
+    "accountNumber": "4200",
+    "accountName": "Service Revenue",
+    "type": "Revenue",
+    "balance": 8500000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Revenue from professional services"
+  },
+  {
+    "id": 22,
+    "accountNumber": "5000",
+    "accountName": "Cost of Goods Sold",
+    "type": "CostOfGoodsSold",
+    "balance": 32000000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Direct costs of products sold"
+  },
+  {
+    "id": 23,
+    "accountNumber": "6000",
+    "accountName": "Salaries and Wages",
+    "type": "Expense",
+    "balance": 12500000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Employee compensation"
+  },
+  {
+    "id": 24,
+    "accountNumber": "6100",
+    "accountName": "Rent Expense",
+    "type": "Expense",
+    "balance": 1800000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Office and warehouse rent"
+  },
+  {
+    "id": 25,
+    "accountNumber": "6200",
+    "accountName": "Utilities Expense",
+    "type": "Expense",
+    "balance": 850000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Electricity, water, and telecommunications"
+  },
+  {
+    "id": 26,
+    "accountNumber": "6300",
+    "accountName": "Depreciation Expense",
+    "type": "Expense",
+    "balance": 950000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Depreciation on fixed assets"
+  },
+  {
+    "id": 27,
+    "accountNumber": "6400",
+    "accountName": "Insurance Expense",
+    "type": "Expense",
+    "balance": 420000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Business insurance premiums"
+  },
+  {
+    "id": 28,
+    "accountNumber": "6500",
+    "accountName": "Office Supplies",
+    "type": "Expense",
+    "balance": 185000.00,
+    "currencyCode": "ZMW",
+    "isActive": true,
+    "description": "Office supplies and consumables"
+  }
+]

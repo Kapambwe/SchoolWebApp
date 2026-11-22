@@ -1,0 +1,43 @@
+[
+  {
+    "id": "16161616-1616-1616-1616-161616161616",
+    "referrerId": "user-001",
+    "referrerName": "Demo Mining Ltd",
+    "referralCode": "MINING-DEMO-X7K9",
+    "referredCustomerId": "cust-101",
+    "referredCompanyName": "Copper Ridge Mining",
+    "referredContactName": "Sarah Williams",
+    "referredEmail": "sarah@example.com",
+    "referredPhone": "+260-97-1234567",
+    "industryType": "Mining",
+    "source": "QRCode",
+    "status": "Converted",
+    "referralDate": "2026-06-17T00:00:00Z",
+    "conversionDate": "2026-07-18T00:00:00Z",
+    "commissionEnabled": true,
+    "commissionAmount": 4500,
+    "monthlyValue": 750,
+    "totalValue": 9000,
+    "subscriptionTier": "Enterprise",
+    "relationshipType": "Professional"
+  },
+  {
+    "id": "17171717-1717-1717-1717-171717171717",
+    "referrerId": "user-002",
+    "referrerName": "Demo Bistro",
+    "referralCode": "REST-DEMO-B3T9",
+    "referredCustomerId": "cust-102",
+    "referredCompanyName": "Tasty Treats Cafe",
+    "referredContactName": "David Chen",
+    "referredEmail": "david@example.com",
+    "industryType": "Restaurant",
+    "source": "PromoCode",
+    "status": "InProgress",
+    "referralDate": "2026-07-25T00:00:00Z",
+    "contactedDate": "2026-07-27T00:00:00Z",
+    "commissionEnabled": false,
+    "monthlyValue": 99,
+    "subscriptionTier": "Professional",
+    "relationshipType": "Business"
+  }
+]

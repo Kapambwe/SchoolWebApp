@@ -1,0 +1,4 @@
+[
+  { "id": 1, "authorityId": "zm-zra", "displayName": "Zambia Revenue Authority", "countryCode": "ZM", "jurisdictionLevel": "National", "supportedTaxTypeIds": [ "vat", "paye" ], "filingChannels": [ "Download", "Api" ], "defaultCurrency": "ZMW", "locale": "en-ZM", "calendarRules": { "defaultPeriodicity": "Monthly", "dueDateDayOfMonth": 18, "dueDateMonthsAfterPeriodEnd": 1, "rollWeekendsForward": true }, "isActive": true, "tenantId": "demo", "createdBy": "sample-data" },
+  { "id": 2, "authorityId": "za-sars", "displayName": "South African Revenue Service", "countryCode": "ZA", "jurisdictionLevel": "National", "supportedTaxTypeIds": [ "vat", "paye" ], "filingChannels": [ "Download" ], "defaultCurrency": "ZAR", "locale": "en-ZA", "calendarRules": { "defaultPeriodicity": "Monthly", "dueDateDayOfMonth": 25, "dueDateMonthsAfterPeriodEnd": 1, "rollWeekendsForward": true }, "isActive": true, "tenantId": "demo", "createdBy": "sample-data" }
+]

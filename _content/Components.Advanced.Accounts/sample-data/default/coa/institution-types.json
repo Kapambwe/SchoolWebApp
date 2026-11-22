@@ -1,0 +1,5 @@
+[
+  { "id": 1, "code": "LAW_FIRM", "name": "Law Firm", "description": "Legal services, attorneys, advocates", "icon": "gavel", "category": "Professional", "isActive": true, "sortOrder": 1 },
+  { "id": 2, "code": "RETAIL", "name": "Retail Business", "description": "Retail and trading businesses", "icon": "store", "category": "Retail", "isActive": true, "sortOrder": 2 },
+  { "id": 3, "code": "MANUFACTURING", "name": "Manufacturing", "description": "Manufacturing and production businesses", "icon": "factory", "category": "Manufacturing", "isActive": true, "sortOrder": 3 }
+]

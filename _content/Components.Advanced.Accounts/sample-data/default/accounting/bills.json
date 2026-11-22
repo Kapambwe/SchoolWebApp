@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2024-001",
+    "vendorName": "ZESCO Limited",
+    "billDate": "2024-01-15",
+    "dueDate": "2024-02-14",
+    "amount": 185000.00,
+    "paidAmount": 185000.00,
+    "status": "Paid",
+    "description": "Monthly electricity - industrial rate",
+    "createdBy": "Michael Phiri"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2024-002",
+    "vendorName": "Printflow Zambia",
+    "billDate": "2024-01-25",
+    "dueDate": "2024-02-24",
+    "amount": 35000.00,
+    "paidAmount": 0.00,
+    "status": "Open",
+    "description": "Office supplies and stationery",
+    "createdBy": "Peter Lungu"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2024-003",
+    "vendorName": "Zamtel Zambia",
+    "billDate": "2024-01-28",
+    "dueDate": "2024-02-27",
+    "amount": 45000.00,
+    "paidAmount": 0.00,
+    "status": "Open",
+    "description": "Telecommunications and internet services",
+    "createdBy": "Michael Phiri"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2024-004",
+    "vendorName": "Lusaka Water & Sewerage",
+    "billDate": "2024-02-01",
+    "dueDate": "2024-02-28",
+    "amount": 28000.00,
+    "paidAmount": 0.00,
+    "status": "Open",
+    "description": "Water and sewerage charges",
+    "createdBy": "Michael Phiri"
+  }
+]

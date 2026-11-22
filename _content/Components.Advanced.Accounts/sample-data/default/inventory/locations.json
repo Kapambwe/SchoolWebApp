@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "locationCode": "WH-KIT-01",
+    "locationName": "Main Warehouse - Kitwe",
+    "address": "Industrial Area, Kitwe, Copperbelt Province",
+    "manager": "Peter Lungu",
+    "phone": "+260-212-456789",
+    "isActive": true,
+    "capacity": 5000,
+    "currentUtilization": 3200
+  },
+  {
+    "id": 2,
+    "locationCode": "WH-LSK-01",
+    "locationName": "Grain Storage - Lusaka",
+    "address": "Agricultural Hub, Lusaka South",
+    "manager": "Grace Mulenga",
+    "phone": "+260-211-567890",
+    "isActive": true,
+    "capacity": 10000,
+    "currentUtilization": 7500
+  },
+  {
+    "id": 3,
+    "locationCode": "WH-NDL-01",
+    "locationName": "Chemical Storage - Ndola",
+    "address": "Industrial Zone, Ndola, Copperbelt Province",
+    "manager": "Michael Phiri",
+    "phone": "+260-212-678901",
+    "isActive": true,
+    "capacity": 2000,
+    "currentUtilization": 1500
+  }
+]

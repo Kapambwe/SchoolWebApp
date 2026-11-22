@@ -1,0 +1,43 @@
+[
+  {
+    "id": "14141414-1414-1414-1414-141414141414",
+    "referrerId": "user-001",
+    "referrerName": "Demo User",
+    "referralCode": "WEB-DEMO-LI2026",
+    "referralLink": "https://accountingapp.com/signup?ref=WEB-DEMO-LI2026",
+    "shortLink": "https://acctapp.co/demo01",
+    "campaignName": "Demo LinkedIn Campaign",
+    "source": "linkedin",
+    "medium": "social",
+    "content": "professional_network",
+    "targetIndustry": "Mining",
+    "clickCount": 45,
+    "signupCount": 8,
+    "conversionCount": 3,
+    "totalRevenue": 27000,
+    "status": "Converted",
+    "createdDate": "2026-06-01T00:00:00Z",
+    "lastClickDate": "2026-07-31T00:00:00Z",
+    "sharesByPlatform": { "linkedin": 15, "email": 8, "direct": 22 },
+    "revenueByPlatform": { "linkedin": 18000, "email": 9000 }
+  },
+  {
+    "id": "15151515-1515-1515-1515-151515151515",
+    "referrerId": "user-002",
+    "referrerName": "Demo Partner",
+    "referralCode": "WEB-DEMO-GEN01",
+    "referralLink": "https://accountingapp.com/signup?ref=WEB-DEMO-GEN01",
+    "shortLink": "https://acctapp.co/demo02",
+    "campaignName": "General Platform Referral",
+    "source": "social",
+    "medium": "organic",
+    "clickCount": 28,
+    "signupCount": 5,
+    "conversionCount": 2,
+    "totalRevenue": 3600,
+    "status": "InProgress",
+    "createdDate": "2026-07-01T00:00:00Z",
+    "lastClickDate": "2026-07-31T00:00:00Z",
+    "sharesByPlatform": { "facebook": 10, "whatsapp": 12, "email": 6 }
+  }
+]

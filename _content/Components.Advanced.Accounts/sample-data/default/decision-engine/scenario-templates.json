@@ -1,0 +1,26 @@
+[
+  {
+    "id": "eeeeeeee-eeee-eeee-eeee-eeeeeeeeeeee",
+    "name": "Marketing Campaign Analysis",
+    "description": "Standard template for marketing campaign decisions.",
+    "applicableTo": "Financial",
+    "requiredParameters": [ "Budget", "ExpectedROI", "Duration" ],
+    "defaultValues": { "Budget": 10000, "ExpectedROI": 2.5, "Duration": 3 }
+  },
+  {
+    "id": "ffffffff-ffff-ffff-ffff-ffffffffffff",
+    "name": "Capital Investment Analysis",
+    "description": "Template for capital equipment or infrastructure investments.",
+    "applicableTo": "Investment",
+    "requiredParameters": [ "InitialCost", "ExpectedReturn", "PaybackPeriod" ],
+    "defaultValues": { "InitialCost": 50000, "ExpectedReturn": 75000, "PaybackPeriod": 12 }
+  },
+  {
+    "id": "10101010-1010-1010-1010-101010101010",
+    "name": "Employee Hiring Analysis",
+    "description": "Template for evaluating new hire decisions.",
+    "applicableTo": "HumanResources",
+    "requiredParameters": [ "Salary", "Benefits", "ExpectedProductivity" ],
+    "defaultValues": { "Salary": 60000, "Benefits": 15000, "ExpectedProductivity": 100000 }
+  }
+]

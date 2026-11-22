@@ -1,0 +1,5 @@
+[
+  { "id": 1, "code": "ZM", "name": "Zambia", "currencyCode": "ZMW", "currencySymbol": "K", "taxSystemType": "VAT", "standardTaxRate": 16, "dateFormat": "dd/MM/yyyy", "numberFormat": "en-ZM", "isActive": true },
+  { "id": 2, "code": "ZA", "name": "South Africa", "currencyCode": "ZAR", "currencySymbol": "R", "taxSystemType": "VAT", "standardTaxRate": 15, "dateFormat": "dd/MM/yyyy", "numberFormat": "en-ZA", "isActive": true },
+  { "id": 3, "code": "US", "name": "United States", "currencyCode": "USD", "currencySymbol": "$", "taxSystemType": "Sales Tax", "standardTaxRate": 0, "dateFormat": "MM/dd/yyyy", "numberFormat": "en-US", "isActive": true }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1001,
+    "transactionNumber": "GL-2024-001",
+    "transactionDate": "2024-01-15",
+    "description": "Customer invoice - copper concentrate shipment",
+    "type": "Invoice",
+    "status": "Posted",
+    "totalAmount": 2400000.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-01-15",
+    "lines": [
+      {
+        "id": 1,
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 2400000.00,
+        "creditAmount": 0.00,
+        "memo": "Invoice raised for January shipment"
+      },
+      {
+        "id": 2,
+        "accountId": 19,
+        "accountName": "Sales Revenue - Mining Products",
+        "debitAmount": 0.00,
+        "creditAmount": 2400000.00,
+        "memo": "Recognize mining revenue"
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "transactionNumber": "GL-2024-002",
+    "transactionDate": "2024-01-20",
+    "description": "Receipt from customer on account",
+    "type": "Receipt",
+    "status": "Posted",
+    "totalAmount": 1200000.00,
+    "createdBy": "Peter Lungu",
+    "createdDate": "2024-01-20",
+    "lines": [
+      {
+        "id": 3,
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 1200000.00,
+        "creditAmount": 0.00,
+        "memo": "Customer payment received"
+      },
+      {
+        "id": 4,
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 0.00,
+        "creditAmount": 1200000.00,
+        "memo": "Apply cash receipt to receivable"
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "transactionNumber": "GL-2024-003",
+    "transactionDate": "2024-01-25",
+    "description": "Vendor invoice - inventory replenishment",
+    "type": "Bill",
+    "status": "Posted",
+    "totalAmount": 850000.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-01-25",
+    "lines": [
+      {
+        "id": 5,
+        "accountId": 22,
+        "accountName": "Cost of Goods Sold",
+        "debitAmount": 850000.00,
+        "creditAmount": 0.00,
+        "memo": "Recognize cost of inventory sold"
+      },
+      {
+        "id": 6,
+        "accountId": 11,
+        "accountName": "Accounts Payable",
+        "debitAmount": 0.00,
+        "creditAmount": 850000.00,
+        "memo": "Record supplier liability"
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "transactionNumber": "GL-2024-004",
+    "transactionDate": "2024-01-28",
+    "description": "Supplier payment for inventory replenishment",
+    "type": "Payment",
+    "status": "Posted",
+    "totalAmount": 350000.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-01-28",
+    "lines": [
+      {
+        "id": 7,
+        "accountId": 11,
+        "accountName": "Accounts Payable",
+        "debitAmount": 350000.00,
+        "creditAmount": 0.00,
+        "memo": "Partial settlement of supplier invoice"
+      },
+      {
+        "id": 8,
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 0.00,
+        "creditAmount": 350000.00,
+        "memo": "Cash paid to supplier"
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "transactionNumber": "GL-2024-005",
+    "transactionDate": "2024-01-31",
+    "description": "Accrued salaries for January payroll",
+    "type": "JournalEntry",
+    "status": "Pending",
+    "totalAmount": 1100000.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-01-31",
+    "lines": [
+      {
+        "id": 9,
+        "accountId": 23,
+        "accountName": "Salaries and Wages",
+        "debitAmount": 1100000.00,
+        "creditAmount": 0.00,
+        "memo": "January payroll accrual"
+      },
+      {
+        "id": 10,
+        "accountId": 12,
+        "accountName": "Accrued Expenses",
+        "debitAmount": 0.00,
+        "creditAmount": 1100000.00,
+        "memo": "Accrued wages payable"
+      }
+    ]
+  },
+  {
+    "id": 1006,
+    "transactionNumber": "GL-2024-006",
+    "transactionDate": "2024-02-05",
+    "description": "Service invoice - consulting engagement",
+    "type": "Invoice",
+    "status": "Approved",
+    "totalAmount": 1850000.00,
+    "createdBy": "Peter Lungu",
+    "createdDate": "2024-02-05",
+    "lines": [
+      {
+        "id": 11,
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 1850000.00,
+        "creditAmount": 0.00,
+        "memo": "Invoice to consulting client"
+      },
+      {
+        "id": 12,
+        "accountId": 21,
+        "accountName": "Service Revenue",
+        "debitAmount": 0.00,
+        "creditAmount": 1850000.00,
+        "memo": "Recognize consulting revenue"
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "transactionNumber": "GL-2024-007",
+    "transactionDate": "2024-02-10",
+    "description": "Transfer to petty cash for site operations",
+    "type": "Transfer",
+    "status": "Posted",
+    "totalAmount": 75000.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-02-10",
+    "lines": [
+      {
+        "id": 13,
+        "accountId": 3,
+        "accountName": "Petty Cash",
+        "debitAmount": 75000.00,
+        "creditAmount": 0.00,
+        "memo": "Top up petty cash"
+      },
+      {
+        "id": 14,
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 0.00,
+        "creditAmount": 75000.00,
+        "memo": "Funds transferred out of main account"
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "transactionNumber": "GL-2024-008",
+    "transactionDate": "2024-02-15",
+    "description": "Monthly depreciation posting",
+    "type": "JournalEntry",
+    "status": "Posted",
+    "totalAmount": 237500.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-02-15",
+    "lines": [
+      {
+        "id": 15,
+        "accountId": 26,
+        "accountName": "Depreciation Expense",
+        "debitAmount": 237500.00,
+        "creditAmount": 0.00,
+        "memo": "Monthly depreciation expense"
+      },
+      {
+        "id": 16,
+        "accountId": 10,
+        "accountName": "Accumulated Depreciation",
+        "debitAmount": 0.00,
+        "creditAmount": 237500.00,
+        "memo": "Accumulated depreciation credit"
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "transactionNumber": "GL-2024-009",
+    "transactionDate": "2024-02-18",
+    "description": "Customer receipt for service engagement",
+    "type": "Receipt",
+    "status": "Approved",
+    "totalAmount": 925000.00,
+    "createdBy": "Peter Lungu",
+    "createdDate": "2024-02-18",
+    "lines": [
+      {
+        "id": 17,
+        "accountId": 1,
+        "accountName": "Cash - Main Operating Account",
+        "debitAmount": 925000.00,
+        "creditAmount": 0.00,
+        "memo": "Cash received from customer"
+      },
+      {
+        "id": 18,
+        "accountId": 4,
+        "accountName": "Accounts Receivable",
+        "debitAmount": 0.00,
+        "creditAmount": 925000.00,
+        "memo": "Reduce customer receivable"
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "transactionNumber": "GL-2024-010",
+    "transactionDate": "2024-02-22",
+    "description": "Office rent accrual",
+    "type": "JournalEntry",
+    "status": "Draft",
+    "totalAmount": 180000.00,
+    "createdBy": "Grace Mulenga",
+    "createdDate": "2024-02-22",
+    "lines": [
+      {
+        "id": 19,
+        "accountId": 24,
+        "accountName": "Rent Expense",
+        "debitAmount": 180000.00,
+        "creditAmount": 0.00,
+        "memo": "Monthly office rent"
+      },
+      {
+        "id": 20,
+        "accountId": 11,
+        "accountName": "Accounts Payable",
+        "debitAmount": 0.00,
+        "creditAmount": 180000.00,
+        "memo": "Rent payable"
+      }
+    ]
+  }
+]

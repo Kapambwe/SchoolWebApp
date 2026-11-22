@@ -1,0 +1,36 @@
+[
+  {
+    "id": "5f6f6e5b-cf87-4b7c-8c5c-7d2b1f18a001",
+    "tenantId": "00000000-0000-0000-0000-000000000000",
+    "name": "New Customer Welcome",
+    "description": "Welcome and guide newly registered customers through their first accounting setup.",
+    "status": "Active",
+    "triggerType": "CustomerCreated",
+    "createdAt": "2024-10-01T08:00:00Z",
+    "updatedAt": "2024-10-15T09:30:00Z",
+    "steps": [
+      {
+        "id": "5f6f6e5b-cf87-4b7c-8c5c-7d2b1f18a011",
+        "stepOrder": 1,
+        "name": "Send welcome email",
+        "channel": "Email",
+        "recipientField": "email",
+        "subjectTemplate": "Welcome to Accounting-as-a-Service",
+        "contentTemplate": "Welcome {{customerName}}. Let us help you get started.",
+        "delayMinutes": 0,
+        "isEnabled": true
+      },
+      {
+        "id": "5f6f6e5b-cf87-4b7c-8c5c-7d2b1f18a012",
+        "stepOrder": 2,
+        "name": "Setup reminder",
+        "channel": "Email",
+        "recipientField": "email",
+        "subjectTemplate": "Complete your company setup",
+        "contentTemplate": "Your chart of accounts and tax settings are ready to configure.",
+        "delayMinutes": 1440,
+        "isEnabled": true
+      }
+    ]
+  }
+]

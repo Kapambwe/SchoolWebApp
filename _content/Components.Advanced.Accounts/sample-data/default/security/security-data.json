@@ -1,0 +1,178 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@example.zm",
+      "firstName": "System",
+      "lastName": "Administrator",
+      "isActive": true,
+      "twoFactorEnabled": true,
+      "createdMonthsAgo": 12,
+      "lastLoginHoursAgo": 2
+    },
+    {
+      "id": 2,
+      "username": "jdoe",
+      "email": "john.doe@example.zm",
+      "firstName": "John",
+      "lastName": "Doe",
+      "isActive": true,
+      "twoFactorEnabled": false,
+      "createdMonthsAgo": 6,
+      "lastLoginDaysAgo": 1
+    },
+    {
+      "id": 3,
+      "username": "jsmith",
+      "email": "jane.smith@example.zm",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "isActive": true,
+      "twoFactorEnabled": true,
+      "createdMonthsAgo": 3,
+      "lastLoginHoursAgo": 5
+    },
+    {
+      "id": 4,
+      "username": "mmwale",
+      "email": "mary.mwale@example.zm",
+      "firstName": "Mary",
+      "lastName": "Mwale",
+      "isActive": true,
+      "twoFactorEnabled": false,
+      "createdMonthsAgo": 2,
+      "lastLoginDaysAgo": 3
+    },
+    {
+      "id": 5,
+      "username": "pbanda",
+      "email": "peter.banda@example.zm",
+      "firstName": "Peter",
+      "lastName": "Banda",
+      "isActive": false,
+      "twoFactorEnabled": false,
+      "createdMonthsAgo": 8,
+      "lastLoginMonthsAgo": 2,
+      "deactivatedMonthsAgo": 2
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "roleName": "Administrator",
+      "description": "Full system access",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    },
+    {
+      "id": 2,
+      "roleName": "Accounting Manager",
+      "description": "Manage accounting operations",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    },
+    {
+      "id": 3,
+      "roleName": "Accountant",
+      "description": "Day-to-day accounting tasks",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    },
+    {
+      "id": 4,
+      "roleName": "AP Clerk",
+      "description": "Accounts Payable operations",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    },
+    {
+      "id": 5,
+      "roleName": "AR Clerk",
+      "description": "Accounts Receivable operations",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    },
+    {
+      "id": 6,
+      "roleName": "Viewer",
+      "description": "Read-only access",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    },
+    {
+      "id": 7,
+      "roleName": "Auditor",
+      "description": "Audit and review access",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 12
+    }
+  ],
+  "userRoles": [
+    { "id": 1, "userId": 1, "roleId": 1, "assignedMonthsAgo": 12, "assignedBy": "System" },
+    { "id": 2, "userId": 2, "roleId": 2, "assignedMonthsAgo": 6, "assignedBy": "admin" },
+    { "id": 3, "userId": 3, "roleId": 3, "assignedMonthsAgo": 3, "assignedBy": "admin" },
+    { "id": 4, "userId": 4, "roleId": 4, "assignedMonthsAgo": 2, "assignedBy": "admin" },
+    { "id": 5, "userId": 4, "roleId": 5, "assignedMonthsAgo": 2, "assignedBy": "admin" },
+    { "id": 6, "userId": 5, "roleId": 6, "assignedMonthsAgo": 8, "assignedBy": "admin" }
+  ],
+  "auditLogs": [
+    {
+      "id": 1,
+      "userId": 1,
+      "action": "UserLogin",
+      "entityType": "User",
+      "entityId": "1",
+      "hoursAgo": 2,
+      "ipAddress": "192.168.1.100",
+      "description": "Successful login"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "action": "InvoiceCreated",
+      "entityType": "Invoice",
+      "entityId": "101",
+      "hoursAgo": 3,
+      "ipAddress": "192.168.1.101",
+      "description": "Created invoice for Customer ABC"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "action": "TransactionPosted",
+      "entityType": "Transaction",
+      "entityId": "T1001",
+      "hoursAgo": 4,
+      "ipAddress": "192.168.1.102",
+      "description": "Posted journal entry"
+    },
+    {
+      "id": 4,
+      "userId": 1,
+      "action": "RoleAssigned",
+      "entityType": "UserRole",
+      "entityId": "6",
+      "monthsAgo": 2,
+      "ipAddress": "192.168.1.100",
+      "description": "Assigned viewer role to user"
+    },
+    {
+      "id": 5,
+      "userId": 1,
+      "action": "PermissionGranted",
+      "entityType": "RolePermission",
+      "entityId": "50",
+      "monthsAgo": 1,
+      "ipAddress": "192.168.1.100",
+      "description": "Granted invoice creation permission"
+    }
+  ]
+}

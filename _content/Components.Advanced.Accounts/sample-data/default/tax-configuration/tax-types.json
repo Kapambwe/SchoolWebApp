@@ -1,0 +1,4 @@
+[
+  { "id": 1, "taxTypeId": "vat", "displayName": "Value Added Tax", "category": "IndirectTax", "periodicity": "Monthly", "dataSources": [ "Sales", "Purchases", "GeneralLedger" ], "calculationRuleSetId": "vat-standard-v1", "validationRuleSetId": "vat-filing-validation-v1", "formSchemaId": "vat-return-schema-v1", "outputTemplateIds": [ "vat-return-pdf", "vat-return-xml" ], "submissionRules": { "requireApproval": true, "maxRetries": 3 }, "isActive": true, "tenantId": "demo", "createdBy": "sample-data" },
+  { "id": 2, "taxTypeId": "paye", "displayName": "Pay As You Earn", "category": "Payroll", "periodicity": "Monthly", "dataSources": [ "Payroll" ], "calculationRuleSetId": "paye-progressive-v1", "validationRuleSetId": "paye-filing-validation-v1", "formSchemaId": "paye-return-schema-v1", "outputTemplateIds": [ "paye-return-pdf" ], "submissionRules": { "requireApproval": false, "maxRetries": 3 }, "isActive": true, "tenantId": "demo", "createdBy": "sample-data" }
+]

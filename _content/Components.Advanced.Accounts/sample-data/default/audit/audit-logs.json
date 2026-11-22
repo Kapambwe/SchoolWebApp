@@ -1,0 +1,114 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "module": "Accounts Receivable",
+      "action": "Invoice Posted",
+      "entityType": "Invoice",
+      "entityId": "INV-2024-006",
+      "performedBy": "Finance Manager",
+      "performedDaysAgo": 2,
+      "details": "Invoice posted to revenue and AR.",
+      "severity": "Info"
+    },
+    {
+      "id": 2,
+      "module": "Accounts Payable",
+      "action": "Bill Paid",
+      "entityType": "Bill",
+      "entityId": "BILL-2024-003",
+      "performedBy": "AP Lead",
+      "performedDaysAgo": 1,
+      "details": "Payment recorded and posted to cash/AP.",
+      "severity": "Info"
+    },
+    {
+      "id": 3,
+      "module": "General Ledger",
+      "action": "Journal Entry Approved",
+      "entityType": "JournalEntry",
+      "entityId": "JE-2024-002",
+      "performedBy": "Controller",
+      "performedHoursAgo": 10,
+      "details": "Accrued utilities approved and posted.",
+      "severity": "Info"
+    },
+    {
+      "id": 4,
+      "module": "Payroll",
+      "action": "Payroll Run Processed",
+      "entityType": "PayrollRun",
+      "entityId": "PAY-2024-12",
+      "performedBy": "Payroll Admin",
+      "performedDaysAgo": 3,
+      "details": "December 2024 payroll processed for 45 employees. Total: ZMW 485,000.",
+      "severity": "Info"
+    },
+    {
+      "id": 5,
+      "module": "Security",
+      "action": "User Login",
+      "entityType": "User",
+      "entityId": "admin@company.zm",
+      "performedBy": "System",
+      "performedHoursAgo": 2,
+      "details": "Successful login from IP 196.46.128.45",
+      "severity": "Info"
+    },
+    {
+      "id": 6,
+      "module": "Security",
+      "action": "Failed Login Attempt",
+      "entityType": "User",
+      "entityId": "finance@company.zm",
+      "performedBy": "System",
+      "performedHoursAgo": 5,
+      "details": "Failed login attempt from IP 102.68.23.11 - Invalid password",
+      "severity": "Warning"
+    },
+    {
+      "id": 7,
+      "module": "Inventory",
+      "action": "Stock Adjustment",
+      "entityType": "InventoryItem",
+      "entityId": "INV-ITEM-042",
+      "performedBy": "Warehouse Manager",
+      "performedDaysAgo": 1,
+      "details": "Physical count adjustment: -15 units. Reason: Damaged goods.",
+      "severity": "Warning"
+    },
+    {
+      "id": 8,
+      "module": "Accounts Receivable",
+      "action": "Credit Limit Exceeded",
+      "entityType": "Customer",
+      "entityId": "CUST-1005",
+      "performedBy": "System",
+      "performedHoursAgo": 8,
+      "details": "Customer Ndola Trading exceeded credit limit of ZMW 50,000. Current balance: ZMW 62,500.",
+      "severity": "Warning"
+    },
+    {
+      "id": 9,
+      "module": "System",
+      "action": "Backup Completed",
+      "entityType": "Database",
+      "entityId": "PROD-DB-01",
+      "performedBy": "System",
+      "performedHoursAgo": 6,
+      "details": "Daily database backup completed successfully. Size: 2.4GB.",
+      "severity": "Info"
+    },
+    {
+      "id": 10,
+      "module": "Banking",
+      "action": "Bank Reconciliation",
+      "entityType": "BankAccount",
+      "entityId": "BANK-ZANACO-001",
+      "performedBy": "Accountant",
+      "performedDaysAgo": 1,
+      "details": "January 2025 reconciliation completed. 3 outstanding items totaling ZMW 12,450.",
+      "severity": "Info"
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "profitByCustomer": [
+    {
+      "customerId": 1,
+      "customerName": "ABC Mining Corp",
+      "revenue": 850000,
+      "cogs": 550000,
+      "grossProfit": 300000,
+      "grossMargin": 35.29,
+      "invoiceCount": 12
+    },
+    {
+      "customerId": 2,
+      "customerName": "XYZ Industries Ltd",
+      "revenue": 620000,
+      "cogs": 380000,
+      "grossProfit": 240000,
+      "grossMargin": 38.71,
+      "invoiceCount": 8
+    },
+    {
+      "customerId": 3,
+      "customerName": "Tech Solutions Zambia",
+      "revenue": 450000,
+      "cogs": 280000,
+      "grossProfit": 170000,
+      "grossMargin": 37.78,
+      "invoiceCount": 15
+    },
+    {
+      "customerId": 4,
+      "customerName": "Retail Group Zambia",
+      "revenue": 385000,
+      "cogs": 250000,
+      "grossProfit": 135000,
+      "grossMargin": 35.06,
+      "invoiceCount": 22
+    },
+    {
+      "customerId": 5,
+      "customerName": "Construction Partners",
+      "revenue": 725000,
+      "cogs": 480000,
+      "grossProfit": 245000,
+      "grossMargin": 33.79,
+      "invoiceCount": 6
+    },
+    {
+      "customerId": 6,
+      "customerName": "Healthcare Systems Ltd",
+      "revenue": 290000,
+      "cogs": 175000,
+      "grossProfit": 115000,
+      "grossMargin": 39.66,
+      "invoiceCount": 9
+    }
+  ],
+  "profitByLocation": [
+    {
+      "location": "Lusaka - Head Office",
+      "revenue": 1200000,
+      "expenses": 750000,
+      "netIncome": 450000,
+      "profitMargin": 37.5
+    },
+    {
+      "location": "Ndola - Branch",
+      "revenue": 850000,
+      "expenses": 600000,
+      "netIncome": 250000,
+      "profitMargin": 29.41
+    },
+    {
+      "location": "Kitwe - Branch",
+      "revenue": 650000,
+      "expenses": 480000,
+      "netIncome": 170000,
+      "profitMargin": 26.15
+    },
+    {
+      "location": "Livingstone - Branch",
+      "revenue": 420000,
+      "expenses": 310000,
+      "netIncome": 110000,
+      "profitMargin": 26.19
+    },
+    {
+      "location": "Solwezi - Operations",
+      "revenue": 980000,
+      "expenses": 720000,
+      "netIncome": 260000,
+      "profitMargin": 26.53
+    }
+  ],
+  "salesByProduct": [
+    {
+      "productName": "Professional Services - Consulting",
+      "quantity": 45,
+      "revenue": 675000,
+      "percentage": 35.53
+    },
+    {
+      "productName": "Software Licenses - Annual",
+      "quantity": 120,
+      "revenue": 480000,
+      "percentage": 25.26
+    },
+    {
+      "productName": "Training Services",
+      "quantity": 28,
+      "revenue": 280000,
+      "percentage": 14.74
+    },
+    {
+      "productName": "Consulting - Strategic",
+      "quantity": 18,
+      "revenue": 450000,
+      "percentage": 23.68
+    },
+    {
+      "productName": "Support Contracts",
+      "quantity": 65,
+      "revenue": 195000,
+      "percentage": 10.26
+    },
+    {
+      "productName": "Hardware Sales",
+      "quantity": 150,
+      "revenue": 225000,
+      "percentage": 11.84
+    },
+    {
+      "productName": "Implementation Services",
+      "quantity": 12,
+      "revenue": 360000,
+      "percentage": 18.95
+    }
+  ],
+  "vendorBalanceDetail": [
+    {
+      "vendorId": 1,
+      "vendorName": "ABC Suppliers Ltd",
+      "current": 45000,
+      "days30": 25000,
+      "days60": 15000,
+      "days90": 5000,
+      "over90": 0,
+      "totalBalance": 90000
+    },
+    {
+      "vendorId": 2,
+      "vendorName": "Tech Equipment Providers",
+      "current": 0,
+      "days30": 35000,
+      "days60": 0,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 35000
+    },
+    {
+      "vendorId": 3,
+      "vendorName": "Office Supplies Company",
+      "current": 12000,
+      "days30": 8000,
+      "days60": 5000,
+      "days90": 0,
+      "over90": 3000,
+      "totalBalance": 28000
+    },
+    {
+      "vendorId": 4,
+      "vendorName": "Professional Services Inc",
+      "current": 85000,
+      "days30": 0,
+      "days60": 0,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 85000
+    },
+    {
+      "vendorId": 5,
+      "vendorName": "Utilities Provider",
+      "current": 22000,
+      "days30": 22000,
+      "days60": 22000,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 66000
+    },
+    {
+      "vendorId": 6,
+      "vendorName": "Zambia Equipment Rentals",
+      "current": 15000,
+      "days30": 15000,
+      "days60": 0,
+      "days90": 10000,
+      "over90": 5000,
+      "totalBalance": 45000
+    }
+  ],
+  "customerBalanceDetail": [
+    {
+      "customerId": 1,
+      "customerName": "ABC Mining Corp",
+      "current": 125000,
+      "days30": 0,
+      "days60": 0,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 125000
+    },
+    {
+      "customerId": 2,
+      "customerName": "Retail Group Zambia",
+      "current": 45000,
+      "days30": 0,
+      "days60": 15000,
+      "days90": 0,
+      "over90": 5000,
+      "totalBalance": 65000
+    },
+    {
+      "customerId": 3,
+      "customerName": "Manufacturing Ltd",
+      "current": 0,
+      "days30": 85000,
+      "days60": 0,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 85000
+    },
+    {
+      "customerId": 4,
+      "customerName": "Tech Solutions Zambia",
+      "current": 65000,
+      "days30": 25000,
+      "days60": 10000,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 100000
+    },
+    {
+      "customerId": 5,
+      "customerName": "Healthcare Systems",
+      "current": 0,
+      "days30": 0,
+      "days60": 35000,
+      "days90": 25000,
+      "over90": 15000,
+      "totalBalance": 75000
+    },
+    {
+      "customerId": 6,
+      "customerName": "Construction Partners",
+      "current": 180000,
+      "days30": 0,
+      "days60": 0,
+      "days90": 0,
+      "over90": 0,
+      "totalBalance": 180000
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "bankAccountId": 1,
+    "bankAccountName": "Main Operating Account",
+    "statementDate": "2024-01-31",
+    "statementBalance": 2850000.00,
+    "bookBalance": 2845000.00,
+    "difference": 5000.00,
+    "status": "Completed",
+    "completedBy": "Grace Mulenga",
+    "completedDate": "2024-02-05",
+    "items": [
+      { "id": 1, "description": "Outstanding check #1234", "amount": -15000.00, "isReconciled": true },
+      { "id": 2, "description": "Deposit in transit", "amount": 10000.00, "isReconciled": true }
+    ]
+  },
+  {
+    "id": 2,
+    "bankAccountId": 2,
+    "bankAccountName": "Payroll Account",
+    "statementDate": "2024-01-31",
+    "statementBalance": 450000.00,
+    "bookBalance": 450000.00,
+    "difference": 0.00,
+    "status": "Completed",
+    "completedBy": "Grace Mulenga",
+    "completedDate": "2024-02-03"
+  },
+  {
+    "id": 3,
+    "bankAccountId": 1,
+    "bankAccountName": "Main Operating Account",
+    "statementDate": "2024-02-28",
+    "statementBalance": 3150000.00,
+    "bookBalance": 3125000.00,
+    "difference": 25000.00,
+    "status": "InProgress",
+    "completedBy": null,
+    "completedDate": null,
+    "items": [
+      { "id": 3, "description": "Outstanding check #1245", "amount": -35000.00, "isReconciled": false },
+      { "id": 4, "description": "Outstanding check #1248", "amount": -12000.00, "isReconciled": false },
+      { "id": 5, "description": "Deposit in transit", "amount": 22000.00, "isReconciled": false }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+    "name": "Low Cash Balance Alert",
+    "description": "Alert when cash balance falls below the configured threshold.",
+    "type": "CashFlow",
+    "isEnabled": true,
+    "metricName": "CashBalance",
+    "condition": "LessThan",
+    "thresholdValue": 30000,
+    "notificationChannels": [ "In-App", "Email" ],
+    "recipients": [ "finance@example.com" ],
+    "cooldownMinutes": 60,
+    "severity": "Critical",
+    "createdBy": "Demo User",
+    "createdDate": "2026-08-01T08:00:00Z"
+  }
+]

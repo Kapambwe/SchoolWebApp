@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "budgetName": "FY 2024 Operating Budget",
+    "fiscalYear": 2024,
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "status": "Approved",
+    "totalBudget": 85000000.00,
+    "totalActual": 28500000.00,
+    "variance": 56500000.00,
+    "createdBy": "John Mwamba",
+    "approvedBy": "Board of Directors",
+    "approvedDate": "2023-12-15",
+    "items": [
+      { "accountId": 23, "accountName": "Salaries and Wages", "budgetAmount": 15000000.00, "actualAmount": 3750000.00 },
+      { "accountId": 24, "accountName": "Rent Expense", "budgetAmount": 2160000.00, "actualAmount": 540000.00 },
+      { "accountId": 25, "accountName": "Utilities Expense", "budgetAmount": 1200000.00, "actualAmount": 320000.00 },
+      { "accountId": 28, "accountName": "Office Supplies", "budgetAmount": 300000.00, "actualAmount": 95000.00 }
+    ]
+  },
+  {
+    "id": 2,
+    "budgetName": "Q1 2024 Marketing Budget",
+    "fiscalYear": 2024,
+    "startDate": "2024-01-01",
+    "endDate": "2024-03-31",
+    "status": "Active",
+    "totalBudget": 2500000.00,
+    "totalActual": 850000.00,
+    "variance": 1650000.00,
+    "createdBy": "Sarah Banda",
+    "approvedBy": "John Mwamba",
+    "approvedDate": "2023-12-20"
+  },
+  {
+    "id": 3,
+    "budgetName": "Capital Expenditure 2024",
+    "fiscalYear": 2024,
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "status": "Approved",
+    "totalBudget": 15000000.00,
+    "totalActual": 2500000.00,
+    "variance": 12500000.00,
+    "createdBy": "Michael Phiri",
+    "approvedBy": "Board of Directors",
+    "approvedDate": "2023-12-15"
+  },
+  {
+    "id": 4,
+    "budgetName": "IT Infrastructure Budget",
+    "fiscalYear": 2024,
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "status": "Draft",
+    "totalBudget": 3500000.00,
+    "totalActual": 0.00,
+    "variance": 3500000.00,
+    "createdBy": "Peter Lungu",
+    "approvedBy": null,
+    "approvedDate": null
+  },
+  {
+    "id": 5,
+    "budgetName": "Training & Development",
+    "fiscalYear": 2024,
+    "startDate": "2024-01-01",
+    "endDate": "2024-12-31",
+    "status": "Active",
+    "totalBudget": 1200000.00,
+    "totalActual": 280000.00,
+    "variance": 920000.00,
+    "createdBy": "Grace Mulenga",
+    "approvedBy": "John Mwamba",
+    "approvedDate": "2024-01-05"
+  }
+]

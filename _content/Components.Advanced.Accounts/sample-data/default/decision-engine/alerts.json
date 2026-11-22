@@ -1,0 +1,15 @@
+[
+  {
+    "id": "dddddddd-dddd-dddd-dddd-dddddddddddd",
+    "configurationId": "cccccccc-cccc-cccc-cccc-cccccccccccc",
+    "title": "Cash Deficit Predicted",
+    "message": "Cash flow analysis predicts the balance will drop below the configured threshold.",
+    "severity": "Critical",
+    "status": "Active",
+    "triggeredDate": "2026-08-01T07:30:00Z",
+    "currentValue": 45200,
+    "thresholdValue": 30000,
+    "metadata": { "forecastDays": 21 },
+    "suggestedActions": [ "Accelerate collection of overdue invoices", "Review non-essential payments" ]
+  }
+]

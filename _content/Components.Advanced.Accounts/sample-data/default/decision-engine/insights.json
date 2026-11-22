@@ -1,0 +1,38 @@
+[
+  {
+    "id": "aaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa",
+    "title": "Revenue Growth Acceleration",
+    "description": "Monthly revenue increased 18% compared with the previous month.",
+    "type": "Trend",
+    "severity": "Success",
+    "category": "Financial",
+    "discoveredDate": "2026-08-01T08:00:00Z",
+    "isActionable": true,
+    "suggestedAction": "Review the highest-growth products and consider increasing their marketing allocation.",
+    "data": { "currentRevenue": 128000, "previousRevenue": 108475, "growthPercentage": 18.0 },
+    "viewCount": 0,
+    "isRead": false,
+    "isBookmarked": false,
+    "isDismissed": false,
+    "confidenceLevel": 95,
+    "generatedBy": "Insight Engine"
+  },
+  {
+    "id": "bbbbbbbb-bbbb-bbbb-bbbb-bbbbbbbbbbbb",
+    "title": "Customers Approaching Credit Limit",
+    "description": "Three customers have balances above 85% of their credit limits.",
+    "type": "Warning",
+    "severity": "Warning",
+    "category": "Customer",
+    "discoveredDate": "2026-08-01T07:00:00Z",
+    "isActionable": true,
+    "suggestedAction": "Review credit terms before extending additional credit.",
+    "data": { "customersAtRisk": 3, "totalExposure": 18750, "averageCreditUtilization": 87.5 },
+    "viewCount": 0,
+    "isRead": false,
+    "isBookmarked": false,
+    "isDismissed": false,
+    "confidenceLevel": 100,
+    "generatedBy": "Insight Engine"
+  }
+]

@@ -1,0 +1,144 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "ZESCO Limited",
+      "contactPerson": "David Mwale",
+      "email": "accounts@zesco.co.zm",
+      "phone": "+260211229301",
+      "address": "Stand 6949 Great East Road, Lusaka",
+      "defaultPaymentTerms": "Net 15",
+      "creditLimit": 500000.00,
+      "totalAmountOwed": 185000.00,
+      "taxNumber": "TPIN9001234567",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "vendorName": "Zamtel Zambia",
+      "contactPerson": "Grace Chanda",
+      "email": "corporate@zamtel.co.zm",
+      "phone": "+260211237000",
+      "address": "Zamtel House, Corner of Church Road and Sadzu Road, Lusaka",
+      "defaultPaymentTerms": "Net 30",
+      "creditLimit": 200000.00,
+      "totalAmountOwed": 45000.00,
+      "taxNumber": "TPIN9002345678",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "vendorName": "Total Energies Zambia",
+      "contactPerson": "Peter Lungu",
+      "email": "sales@totalenergies.zm",
+      "phone": "+260211252000",
+      "address": "Cairo Road, Lusaka",
+      "defaultPaymentTerms": "Net 7",
+      "creditLimit": 1000000.00,
+      "totalAmountOwed": 285000.00,
+      "taxNumber": "TPIN9003456789",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "vendorName": "Barloworld Equipment Zambia",
+      "contactPerson": "John Tembo",
+      "email": "parts@barloworld.zm",
+      "phone": "+260212617000",
+      "address": "Industrial Area, Kitwe",
+      "defaultPaymentTerms": "Net 45",
+      "creditLimit": 2000000.00,
+      "totalAmountOwed": 850000.00,
+      "taxNumber": "TPIN9004567890",
+      "is1099Vendor": true,
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "vendorName": "Printflow Zambia",
+      "contactPerson": "Mary Banda",
+      "email": "orders@printflow.zm",
+      "phone": "+260977654321",
+      "address": "Industrial Road, Lusaka",
+      "defaultPaymentTerms": "Net 30",
+      "creditLimit": 100000.00,
+      "totalAmountOwed": 35000.00,
+      "taxNumber": "TPIN9005678901",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "vendorName": "Lusaka Water & Sewerage",
+      "contactPerson": "Sarah Mwanza",
+      "email": "billing@lwsc.co.zm",
+      "phone": "+260211250560",
+      "address": "Mpile House, Plot 1671/1672, Lubu Road, Lusaka",
+      "defaultPaymentTerms": "Net 15",
+      "creditLimit": 150000.00,
+      "totalAmountOwed": 28000.00,
+      "taxNumber": "TPIN9006789012",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "vendorName": "Madison General Insurance",
+      "contactPerson": "Joseph Phiri",
+      "email": "corporate@madison.co.zm",
+      "phone": "+260211256261",
+      "address": "Madison House, Cairo Road, Lusaka",
+      "defaultPaymentTerms": "Net 30",
+      "creditLimit": 500000.00,
+      "totalAmountOwed": 105000.00,
+      "taxNumber": "TPIN9007890123",
+      "isActive": true
+    },
+    {
+      "id": 8,
+      "vendorName": "Nitrogen Chemicals of Zambia",
+      "contactPerson": "Michael Zulu",
+      "email": "sales@ncz.co.zm",
+      "phone": "+260212611500",
+      "address": "Kafue Road, Lusaka",
+      "defaultPaymentTerms": "Net 30",
+      "creditLimit": 800000.00,
+      "totalAmountOwed": 0.00,
+      "taxNumber": "TPIN9008901234",
+      "isActive": false
+    }
+  ],
+  "vendorCredits": [
+    {
+      "id": 1,
+      "creditNumber": "VC-2024-001",
+      "vendorName": "Barloworld Equipment Zambia",
+      "creditDate": "2024-01-18",
+      "amount": 45000.00,
+      "appliedAmount": 15000.00,
+      "reason": "Returned defective parts",
+      "status": "PartiallyApplied",
+      "createdBy": "Michael Phiri"
+    },
+    {
+      "id": 2,
+      "creditNumber": "VC-2024-002",
+      "vendorName": "Total Energies Zambia",
+      "creditDate": "2024-01-25",
+      "amount": 12500.00,
+      "appliedAmount": 0.00,
+      "reason": "Overpayment on fuel delivery",
+      "status": "Open",
+      "createdBy": "Grace Mulenga"
+    },
+    {
+      "id": 3,
+      "creditNumber": "VC-2024-003",
+      "vendorName": "Printflow Zambia",
+      "creditDate": "2024-02-01",
+      "amount": 8000.00,
+      "appliedAmount": 8000.00,
+      "reason": "Duplicate invoice paid",
+      "status": "Applied",
+      "createdBy": "Peter Lungu"
+    }
+  ]
+}

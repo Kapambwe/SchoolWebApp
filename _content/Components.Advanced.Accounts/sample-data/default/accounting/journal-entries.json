@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "entryNumber": "JE-2024-001",
+    "entryDate": "2024-01-31",
+    "description": "Monthly depreciation - January",
+    "reference": "DEP-JAN-2024",
+    "status": "Posted",
+    "postedBy": "Grace Mulenga",
+    "postedDate": "2024-01-31",
+    "lines": [
+      {
+        "accountId": 26,
+        "accountName": "Depreciation Expense",
+        "debitAmount": 237500.00,
+        "creditAmount": 0.00,
+        "memo": "Monthly depreciation allocation"
+      },
+      {
+        "accountId": 10,
+        "accountName": "Accumulated Depreciation",
+        "debitAmount": 0.00,
+        "creditAmount": 237500.00,
+        "memo": "Accumulated depreciation"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "entryNumber": "JE-2024-002",
+    "entryDate": "2024-01-31",
+    "description": "Accrued interest on loan - January",
+    "reference": "INT-JAN-2024",
+    "status": "Posted",
+    "postedBy": "Grace Mulenga",
+    "postedDate": "2024-01-31",
+    "lines": [
+      {
+        "accountId": 27,
+        "accountName": "Interest Expense",
+        "debitAmount": 45000.00,
+        "creditAmount": 0.00,
+        "memo": "Loan interest accrual"
+      },
+      {
+        "accountId": 12,
+        "accountName": "Accrued Expenses",
+        "debitAmount": 0.00,
+        "creditAmount": 45000.00,
+        "memo": "Accrued interest payable"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "entryNumber": "JE-2024-003",
+    "entryDate": "2024-01-31",
+    "description": "Prepaid insurance amortization",
+    "reference": "PRE-JAN-2024",
+    "status": "Posted",
+    "postedBy": "Grace Mulenga",
+    "postedDate": "2024-01-31",
+    "lines": [
+      {
+        "accountId": 27,
+        "accountName": "Insurance Expense",
+        "debitAmount": 35000.00,
+        "creditAmount": 0.00,
+        "memo": "Monthly insurance expense"
+      },
+      {
+        "accountId": 6,
+        "accountName": "Prepaid Expenses",
+        "debitAmount": 0.00,
+        "creditAmount": 35000.00,
+        "memo": "Prepaid insurance amortization"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "entryNumber": "JE-2024-004",
+    "entryDate": "2024-02-05",
+    "description": "Inventory adjustment - cycle count",
+    "reference": "INV-ADJ-001",
+    "status": "Posted",
+    "postedBy": "Peter Lungu",
+    "postedDate": "2024-02-05",
+    "lines": [
+      {
+        "accountId": 22,
+        "accountName": "Cost of Goods Sold",
+        "debitAmount": 12500.00,
+        "creditAmount": 0.00,
+        "memo": "Inventory shrinkage"
+      },
+      {
+        "accountId": 5,
+        "accountName": "Inventory",
+        "debitAmount": 0.00,
+        "creditAmount": 12500.00,
+        "memo": "Cycle count adjustment"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "entryNumber": "JE-2024-005",
+    "entryDate": "2024-02-10",
+    "description": "Correction entry - misclassified expense",
+    "reference": "CORR-001",
+    "status": "Pending",
+    "postedBy": null,
+    "postedDate": null,
+    "lines": [
+      {
+        "accountId": 25,
+        "accountName": "Utilities Expense",
+        "debitAmount": 15000.00,
+        "creditAmount": 0.00,
+        "memo": "Reclassify from office supplies"
+      },
+      {
+        "accountId": 28,
+        "accountName": "Office Supplies",
+        "debitAmount": 0.00,
+        "creditAmount": 15000.00,
+        "memo": "Reclassify to utilities"
+      }
+    ]
+  }
+]
